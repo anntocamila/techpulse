@@ -4,7 +4,7 @@ import { fetchAllFeeds } from "./lib/rss";
 import { liveSearch, rankResults } from "./lib/search";
 import { loadCachedPosts, saveCachedPosts } from "./lib/cache";
 import { loadDisabledSources, saveDisabledSources } from "./lib/prefs";
-import type { Category, Post } from "./types";
+import type { Category, FailedSource, Post } from "./types";
 import Sidebar from "./components/Sidebar";
 import MobileTabs from "./components/MobileTabs";
 import Header, { headerLabel } from "./components/Header";
@@ -39,7 +39,7 @@ export default function App() {
   const cached = useRef(loadCachedPosts()).current;
 
   const [posts, setPosts] = useState<Post[]>(cached?.posts ?? []);
-  const [failedSources, setFailedSources] = useState<string[]>([]);
+  const [failedSources, setFailedSources] = useState<FailedSource[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [progress, setProgress] = useState<{ loaded: number; total: number } | null>(null);
   const [error, setError] = useState<string | null>(null);

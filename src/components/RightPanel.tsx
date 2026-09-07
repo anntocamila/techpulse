@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { FEED_SOURCES } from "../data/feeds";
 import { CATEGORIES } from "../data/categories";
+import type { FailedSource } from "../types";
 
 interface Props {
-  failedSources: string[];
+  failedSources: FailedSource[];
   disabledSources: Set<string>;
   onToggleSource: (id: string) => void;
 }
@@ -75,7 +76,23 @@ export default function RightPanel({ failedSources, disabledSources, onToggleSou
       {failedSources.length > 0 && (
         <div className="rounded-2xl border border-amber-900/50 bg-amber-950/20 p-4 text-sm text-amber-400">
           <p className="font-semibold">Sin datos por ahora ({failedSources.length}):</p>
-          <p className="mt-1 text-amber-500/80">{failedSources.join(", ")}</p>
+          <ul className="mt-2 flex flex-col gap-1.5">
+            {failedSources.map((f) => (
+              <li key={f.name} title={f.reason}>
+                <span className="text-amber-300">{f.name}</span>
+                <span className="block break-words text-xs text-amber-500/70">{f.reason}</span>
+              </li>
+            ))}
+          </ul>
+          <button
+            onClick={() => {
+              const text = failedSources.map((f) => `${f.name}: ${f.reason}`).join("\n");
+              navigator.clipboard?.writeText(text).catch(() => {});
+            }}
+            className="mt-3 rounded-full border border-amber-800 px-3 py-1 text-xs text-amber-300 hover:bg-amber-900/30"
+          >
+            Copiar diagnóstico
+          </button>
         </div>
       )}
 

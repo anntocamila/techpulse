@@ -35,6 +35,12 @@ export interface FeedSource {
   kind?: SourceKind;
 }
 
+/** A source that returned nothing this cycle, with every attempt's reason. */
+export interface FailedSource {
+  name: string;
+  reason: string;
+}
+
 export interface Post {
   id: string;
   title: string;

@@ -1,7 +1,10 @@
-import type { FeedSource, Post } from "../types";
+import type { FailedSource, FeedSource, Post } from "../types";
 import { API_FETCHERS } from "./apis";
-import { CORS_PROXY, fetchWithTimeout } from "./http";
+import { describeError, fetchTextViaProxies, fetchWithTimeout, runWithConcurrency } from "./http";
 import { toPost } from "./post";
+
+/** How many sources are fetched at once. Free proxies throttle bursts. */
+const CONCURRENCY = 6;
 
 const RSS2JSON_ENDPOINT = "https://api.rss2json.com/v1/api.json?rss_url=";
 
@@ -97,37 +100,45 @@ async function fetchViaRss2Json(source: FeedSource): Promise<Post[]> {
     .filter((p): p is Post => p !== null);
 }
 
-async function fetchViaCorsProxy(source: FeedSource): Promise<Post[]> {
-  const url = `${CORS_PROXY}${encodeURIComponent(source.url)}`;
-  const res = await fetchWithTimeout(url);
-  if (!res.ok) throw new Error(`proxy HTTP ${res.status}`);
-  return parseXmlFeed(source, await res.text());
+async function fetchViaCorsProxies(source: FeedSource): Promise<Post[]> {
+  return parseXmlFeed(source, await fetchTextViaProxies(source.url));
 }
 
-const RSS_STRATEGIES = [fetchDirect, fetchViaRss2Json, fetchViaCorsProxy];
+const RSS_STRATEGIES: [string, (s: FeedSource) => Promise<Post[]>][] = [
+  ["direct", fetchDirect],
+  ["rss2json", fetchViaRss2Json],
+  ["proxies", fetchViaCorsProxies],
+];
 
-export async function fetchFeed(source: FeedSource): Promise<Post[]> {
+export interface FeedResult {
+  posts: Post[];
+  /** Set when the source yielded nothing: every attempt's reason, joined. */
+  error?: string;
+}
+
+export async function fetchFeed(source: FeedSource): Promise<FeedResult> {
   const kind = source.kind ?? "rss";
 
   if (kind !== "rss") {
     try {
-      return await API_FETCHERS[kind](source);
+      const posts = await API_FETCHERS[kind](source);
+      return posts.length > 0 ? { posts } : { posts, error: "respuesta vacía" };
     } catch (err) {
-      console.warn(`Failed to load "${source.name}":`, err);
-      return [];
+      return { posts: [], error: describeError(err) };
     }
   }
 
-  let lastError: unknown;
-  for (const strategy of RSS_STRATEGIES) {
+  const reasons: string[] = [];
+  for (const [name, strategy] of RSS_STRATEGIES) {
     try {
-      return await strategy(source);
+      const posts = await strategy(source);
+      if (posts.length > 0) return { posts };
+      reasons.push(`${name}: feed vacío`);
     } catch (err) {
-      lastError = err;
+      reasons.push(`${name}: ${describeError(err)}`);
     }
   }
-  console.warn(`Failed to load feed "${source.name}":`, lastError);
-  return [];
+  return { posts: [], error: reasons.join(" · ") };
 }
 
 export function mergePosts(lists: Post[][]): Post[] {
@@ -145,7 +156,7 @@ export function mergePosts(lists: Post[][]): Post[] {
 
 export interface FetchAllResult {
   posts: Post[];
-  failedSources: string[];
+  failedSources: FailedSource[];
 }
 
 export interface FetchAllOptions {
@@ -158,18 +169,30 @@ export async function fetchAllFeeds(
   sources: FeedSource[],
   options: FetchAllOptions = {},
 ): Promise<FetchAllResult> {
-  const failedSources: string[] = [];
+  const failedSources: FailedSource[] = [];
   const perSource: Post[][] = [];
   let loaded = 0;
 
-  await Promise.all(
-    sources.map(async (source) => {
-      const posts = await fetchFeed(source);
-      if (posts.length === 0) failedSources.push(source.name);
+  // Direct-API sources first: they answer in well under a second and don't
+  // touch the proxies, so the feed paints almost immediately.
+  const ordered = [...sources].sort((a, b) => {
+    const aApi = a.kind && a.kind !== "rss" ? 0 : 1;
+    const bApi = b.kind && b.kind !== "rss" ? 0 : 1;
+    return aApi - bApi;
+  });
+
+  await runWithConcurrency(
+    ordered.map((source) => async () => {
+      const { posts, error } = await fetchFeed(source);
+      if (error) {
+        failedSources.push({ name: source.name, reason: error });
+        console.warn(`"${source.name}": ${error}`);
+      }
       perSource.push(posts);
       loaded += 1;
       options.onPartial?.(mergePosts(perSource), loaded, sources.length);
     }),
+    CONCURRENCY,
   );
 
   return { posts: mergePosts(perSource), failedSources };

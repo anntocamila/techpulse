@@ -150,7 +150,8 @@ export const FEED_SOURCES: FeedSource[] = [
   {
     id: "gdelt-ai",
     name: "GDELT · IA global",
-    url: gdeltUrl('"artificial intelligence" OR "AI model" OR "large language model"'),
+    // GDELT requires OR-lists to be wrapped in parentheses.
+    url: gdeltUrl('("artificial intelligence" OR "AI model" OR "large language model")'),
     category: "ai",
     kind: "gdelt",
   },
@@ -198,9 +199,8 @@ export const FEED_SOURCES: FeedSource[] = [
   {
     id: "bluesky-ai",
     name: "Bluesky · IA",
-    url: "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=" +
-      encodeURIComponent("OpenAI OR Anthropic OR DeepMind OR LLM") +
-      "&sort=latest&limit=25",
+    // Bluesky search has no OR operator; a single strong term works best.
+    url: "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=LLM&sort=latest&limit=25",
     category: "community",
     kind: "bluesky",
   },

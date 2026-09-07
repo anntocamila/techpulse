@@ -1,10 +1,10 @@
 {
   "id": "2026-09-07-15",
-  "generatedAt": "2026-09-07T15:54:18.663Z",
-  "periodStart": "2026-09-05T15:54:18.663Z",
-  "periodEnd": "2026-09-07T15:54:18.663Z",
+  "generatedAt": "2026-09-07T15:59:49.198Z",
+  "periodStart": "2026-09-05T15:59:49.198Z",
+  "periodEnd": "2026-09-07T15:59:49.198Z",
   "title": "Titulares del 7 de septiembre",
-  "subtitle": "170 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "subtitle": "191 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -13,7 +13,7 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "google/timesfm-3.0-pytorch",
+          "text": "XHToken/Spark-X2.5-4B",
           "sources": [
             1
           ]
@@ -21,31 +21,31 @@
         {
           "text": "Victim loses £250k after scammers use AI video of 'well-known' celebrity",
           "sources": [
-            4
+            7
           ]
         },
         {
           "text": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
           "sources": [
-            19
+            22
           ]
         },
         {
           "text": "EXAONE Forecast for Finance",
           "sources": [
-            22
+            26
           ]
         },
         {
           "text": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
           "sources": [
-            23
+            27
           ]
         },
         {
           "text": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
           "sources": [
-            28
+            32
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
+          "text": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Releases the B2B Consulting AI Search Playbook Documenting How Management Consulting Firms Get Recommended by Microsoft Copilot Before Enterprise Clients Run a G",
+          "sources": [
+            10
+          ]
+        },
+        {
           "text": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
           "sources": [
-            9
+            12
           ]
         },
         {
           "text": "Tesla Optimus, Grok, and TSLA Stock: Inside the Physical-AI Bet That Now Defines Tesla",
           "sources": [
-            13
+            16
           ]
         },
         {
           "text": "French Ambassador Meets ST Engineering Leaders on Defence, Aerospace and AI Cooperation",
           "sources": [
-            14
+            17
           ]
         },
         {
           "text": "Cohere's Joëlle Pineau on Sovereign AI & Enterprise Security",
           "sources": [
-            18
+            21
           ]
         },
         {
           "text": "Supporting independent journalism in Ukraine",
           "sources": [
-            26
-          ]
-        },
-        {
-          "text": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI",
-          "sources": [
-            31
+            30
           ]
         }
       ]
@@ -103,19 +103,25 @@
         {
           "text": "Matt Clifford quits ARIA after Anthropic conflict of interest concerns",
           "sources": [
-            10
+            13
+          ]
+        },
+        {
+          "text": "Andreessen Horowitz ramps up Israel activity - Globes",
+          "sources": [
+            24
           ]
         },
         {
           "text": "Clipnote",
           "sources": [
-            25
+            29
           ]
         },
         {
           "text": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
           "sources": [
-            30
+            33
           ]
         }
       ]
@@ -127,39 +133,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Huawei copia descaradamente a Samsung con su nuevo plegable triple: así es el Mate XT 2",
+          "text": "What we expect from the upcoming Apple launch",
           "sources": [
             2
           ]
         },
         {
+          "text": "Huawei copia descaradamente a Samsung con su nuevo plegable triple: así es el Mate XT 2",
+          "sources": [
+            4
+          ]
+        },
+        {
           "text": "Creíamos que el problema de las Smart TV era que sabían qué estábamos viendo. En LG eso es solo el principio",
           "sources": [
-            3
+            6
           ]
         },
         {
           "text": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
           "sources": [
-            20
+            23
           ]
         },
         {
           "text": "Digital critical infrastructure should be built and managed better. Here’s how",
           "sources": [
-            21
+            25
           ]
         },
         {
           "text": "El decreto de Meloni de reconocimiento facial con IA genera preocupación entre los expertos",
           "sources": [
-            24
-          ]
-        },
-        {
-          "text": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-          "sources": [
-            29
+            28
           ]
         }
       ]
@@ -173,7 +179,7 @@
         {
           "text": "ASSIST Software and Codesphere Bring Edge AI and Sovereign Cloud Technology to IKT Security Conference 2026",
           "sources": [
-            7
+            9
           ]
         }
       ]
@@ -185,39 +191,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "PS2 or GameCube: Which retro console emulates better?",
+          "text": "The Huawei Mate XT2 is the world's first tri-panel foldable with a built-in privacy display",
           "sources": [
-            5
+            3
           ]
         },
         {
           "text": "Matt Clifford steps down as the chair of the UK government's science and tech research unit after joining Anthropic, following conflict of interest concerns (The Guardian)",
           "sources": [
-            6
+            8
           ]
         },
         {
           "text": "EcoFlow makes the miniature power station even smaller",
           "sources": [
-            8
+            11
           ]
         },
         {
           "text": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
           "sources": [
-            11
+            14
           ]
         },
         {
           "text": "The 57 Best Deals From the REI Labor Day Sale",
           "sources": [
-            12
+            15
           ]
         },
         {
           "text": "De-Brainrot Vacations",
           "sources": [
-            17
+            20
           ]
         }
       ]
@@ -229,21 +235,27 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
+          "text": "A price hike from supply-chain powerhouse Apple would be the clearest sign yet that soaring memory costs have become unavoidable — with n…",
+          "sources": [
+            5
+          ]
+        },
+        {
           "text": "Comparing Open-Source LLM Gateways in 2026 to Run Enterprise AI at Scale",
           "sources": [
-            15
+            18
           ]
         },
         {
           "text": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
           "sources": [
-            16
+            19
           ]
         },
         {
           "text": "Research acceleration: The view inside OpenAI",
           "sources": [
-            27
+            31
           ]
         }
       ]
@@ -252,226 +264,240 @@
   "sources": [
     {
       "id": 1,
-      "title": "google/timesfm-3.0-pytorch",
-      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "title": "XHToken/Spark-X2.5-4B",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
       "source": "Hugging Face · Modelos",
-      "date": "2026-09-07T15:54:19.424Z"
+      "date": "2026-09-07T15:59:49.943Z"
     },
     {
       "id": 2,
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "source": "TechCrunch",
+      "date": "2026-09-07T15:58:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "The Huawei Mate XT2 is the world's first tri-panel foldable with a built-in privacy display",
+      "url": "https://www.engadget.com/2252175/huawei-mate-xt2-worlds-first-foldable-with-built-in-privacy-display/",
+      "source": "Engadget",
+      "date": "2026-09-07T15:55:44.000Z"
+    },
+    {
+      "id": 4,
       "title": "Huawei copia descaradamente a Samsung con su nuevo plegable triple: así es el Mate XT 2",
       "url": "https://hipertextual.com/mobile/nuevo-huawei-mate-xt-2-plegable-triple/",
       "source": "Hipertextual",
       "date": "2026-09-07T15:53:00.000Z"
     },
     {
-      "id": 3,
+      "id": 5,
+      "title": "A price hike from supply-chain powerhouse Apple would be the clearest sign yet that soaring memory costs have become unavoidable — with n…",
+      "url": "https://bsky.app/profile/rani.bsky.social/post/3muwuf3vm222z",
+      "source": "The Verge en Bluesky · via Rani Molla",
+      "date": "2026-09-07T15:51:07.774Z"
+    },
+    {
+      "id": 6,
       "title": "Creíamos que el problema de las Smart TV era que sabían qué estábamos viendo. En LG eso es solo el principio",
       "url": "https://www.xataka.com/televisores/creiamos-que-problema-smart-tv-era-que-sabian-que-estabamos-viendo-lg-eso-solo-principio",
       "source": "Xataka",
       "date": "2026-09-07T15:46:28.000Z"
     },
     {
-      "id": 4,
+      "id": 7,
       "title": "Victim loses £250k after scammers use AI video of 'well-known' celebrity",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83clhseU5POXhzUVZLTjFiSjEtdWZTVms4cVhhTzFvNjBUaElLV3l6ZzNfWnQ0QU9EblM1T05Bcmt2bGZHT3plNFJNNElLYVFtZnZ6dzNXLVpndw?oc=5",
       "source": "Google News · IA · via BBC",
       "date": "2026-09-07T15:30:41.000Z"
     },
     {
-      "id": 5,
-      "title": "PS2 or GameCube: Which retro console emulates better?",
-      "url": "https://www.engadget.com/2249073/ps2-gamecube-which-retro-console-emulates-better/",
-      "source": "Engadget",
-      "date": "2026-09-07T15:30:00.000Z"
-    },
-    {
-      "id": 6,
+      "id": 8,
       "title": "Matt Clifford steps down as the chair of the UK government's science and tech research unit after joining Anthropic, following conflict of interest concerns (The Guardian)",
       "url": "https://www.techmeme.com/260907/p14#a260907p14",
       "source": "Techmeme",
       "date": "2026-09-07T15:25:49.000Z"
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "ASSIST Software and Codesphere Bring Edge AI and Sovereign Cloud Technology to IKT Security Conference 2026",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOem5lbUhJUW1DSHp5eTZyTnc1T3NndkhLT3JTbDRUM1hZSHRhWlhzSk1NM3lzUzZTSTVOX2w0ZVczNG5KT1lPY0plYmRZS2hSTk54VFRhb1piVEt2Qll2djVaVnQ3YS1TdXhMN3hEaGhrNVY0b3puVThKaFR1OVJLczlfbkVLN3R4ZzVpZWJxY051R0tsSVMzMktNZlBKaVAxUHNIa0Eyc1dTazA1RDRyMF9TdnBIWW1pdndUTVVNcnlIX0JEeTdLeHgzZVVPeGJMbi15cHdaZ2NfdFZ0UVJJenNKN2o?oc=5",
       "source": "Google News · Eventos tech · via AiThority",
       "date": "2026-09-07T15:12:52.000Z"
     },
     {
-      "id": 8,
+      "id": 10,
+      "title": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Releases the B2B Consulting AI Search Playbook Documenting How Management Consulting Firms Get Recommended by Microsoft Copilot Before Enterprise Clients Run a G",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQdU1ieVFZRHdRLU9CbThMQlhIbTNlODVwcnhlMXlNdVJJTHh2dEhKRFpub21Ha3RTUUd3MGtKY3hIY3lBNEFOY0xzXzhMMHJtOFdfMmZ2bUxnOWV5bjFPeXFnaTJlVjhka2xlc21YNGhnLU96Ulg5Y0t2NkxnTlI4Nm9EUDUtSERpdVZLZUQxR09xX3hiY3NZUVhWMVpNUmNFQW5SR1kwb2hiMlFzaHpPcWozZ2MtRkZua2Vhdk5hQzFGZHlWZW1YaHlYS19Ta1BfU2Q2dVFnaDIyWjd6ajV3T051Rnp4eEtYZ3R1Z1cxNXo3VDdyc05EQTQ5Tmk0VTRaU3JxZng3WHdBZ2NBMmlDSDBReDhZOWZXS1hkV05CNFhia2ZpWmVHU2FCT1BwenNVbDhiTEFXR09ycEdQUE5zdVpIOG1ST0c0enZsaDJ4YmQ3Q2JhcDZQUnNNek1GYmFtOFZSRDZ4cHkzd2J3MV9hdWRhOG5rVGtnZHZtUG1kMWFnV0d5T0tZaWpYSW5sT25GbDdNNFJtZ0NSM1hsVndQVlYtalJEYzZPYzB4VEpXTEdiZTQ?oc=5",
+      "source": "Microsoft AI · via FinancialContent",
+      "date": "2026-09-07T15:00:00.000Z"
+    },
+    {
+      "id": 11,
       "title": "EcoFlow makes the miniature power station even smaller",
       "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
       "source": "The Verge",
       "date": "2026-09-07T14:59:41.000Z"
     },
     {
-      "id": 9,
+      "id": 12,
       "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
-      "source": "Anthropic · via theguardian.com",
+      "source": "Anthropic · via The Guardian",
       "date": "2026-09-07T14:49:00.000Z"
     },
     {
-      "id": 10,
+      "id": 13,
       "title": "Matt Clifford quits ARIA after Anthropic conflict of interest concerns",
       "url": "https://sifted.eu/articles/matt-clifford-quits-aria/",
       "source": "Sifted",
       "date": "2026-09-07T14:48:52.000Z"
     },
     {
-      "id": 11,
+      "id": 14,
       "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
       "url": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
       "source": "The Register",
       "date": "2026-09-07T14:43:00.000Z"
     },
     {
-      "id": 12,
+      "id": 15,
       "title": "The 57 Best Deals From the REI Labor Day Sale",
       "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
       "source": "Wired",
       "date": "2026-09-07T13:33:30.000Z"
     },
     {
-      "id": 13,
+      "id": 16,
       "title": "Tesla Optimus, Grok, and TSLA Stock: Inside the Physical-AI Bet That Now Defines Tesla",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQUR3V2VDUENFQmlrQlFBaXlYU203R2VZN1JpTDZyU3ptUWQ5UDNWbWtqWTU5Sk1oYkRpZDYzTmVUOWVmS3YweUVQdXpMSExZYVE4eVdPZmtMTFRKYlV0Y2dKUHVsck5pZUZzLWwzNkVTWHlhZ211TGkydEdPdUhLRnBObXUyY1pwbjcybEJmaXNGaHFmS1JwRzU2NkpWWjhSM3RVSUtWNEk0ZkdBeG9hUzZXakxlTi02eWlXSjNGYXFtVGpPQjYxdUhuNXJIcVYzUkZ3VHJGY2ViRl9fbG9uQQ?oc=5",
       "source": "xAI · via TradingView",
       "date": "2026-09-07T13:30:00.000Z"
     },
     {
-      "id": 14,
+      "id": 17,
       "title": "French Ambassador Meets ST Engineering Leaders on Defence, Aerospace and AI Cooperation",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRjl4dUlzMzZ6T19uUk93Uy02OTlaTjJUVUtpMWFiTHI5U3dmbHRicUM1Y3VZakdwaU1xQkR1VEFpdkxoUVhWMFNUR0RibVc2ajlrZDltRk5ScVZpSUo4M2lhVEoyd0lILXZHN2h5MkI1Y2hicXU3clVtQVZPS3ptcDFuQTJJeVNvd0ZvUnk1MS02a0RId0dFcFRKYXBDSTBhZlNjNDlzYXRNXzRBanJ3c2VQeU53UTc5RktmR043TQ?oc=5",
       "source": "Mistral AI · via INDiplomacy",
       "date": "2026-09-07T13:15:33.000Z"
     },
     {
-      "id": 15,
+      "id": 18,
       "title": "Comparing Open-Source LLM Gateways in 2026 to Run Enterprise AI at Scale",
       "url": "https://dev.to/elsie-rainee/comparing-open-source-llm-gateways-in-2026-to-run-enterprise-ai-at-scale-4h4p",
       "source": "dev.to · IA · via Elsie Rainee",
       "date": "2026-09-07T13:02:59.000Z"
     },
     {
-      "id": 16,
+      "id": 19,
       "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
       "url": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
       "source": "Last Week in AI",
       "date": "2026-09-07T13:02:49.000Z"
     },
     {
-      "id": 17,
+      "id": 20,
       "title": "De-Brainrot Vacations",
       "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
       "source": "Hacker News",
       "date": "2026-09-07T13:00:48.000Z"
     },
     {
-      "id": 18,
+      "id": 21,
       "title": "Cohere's Joëlle Pineau on Sovereign AI & Enterprise Security",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2c3aGRnOWwtaEZ2clhJMk1SenVidGFVc0RSdGw3U3BIaDVvdnlaUkZMS2JYQkMxeUQyaVRwaE0xOXc3VUZubGpFTjFGdzFFbXgyVWxDMUVpaDFGZFo2a0NEVVlyNXZjQlgzN1dIU3hnTUtFUlJBM2ZsLXRtdTVjbkZEc1dlYXJfZml6eTJn?oc=5",
       "source": "Cohere · via AI Magazine",
       "date": "2026-09-07T12:11:15.000Z"
     },
     {
-      "id": 19,
+      "id": 22,
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
       "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
       "source": "MIT Technology Review",
       "date": "2026-09-07T12:10:00.000Z"
     },
     {
-      "id": 20,
+      "id": 23,
       "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
       "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
       "source": "CNBC Tech",
       "date": "2026-09-07T12:09:41.000Z"
     },
     {
-      "id": 21,
+      "id": 24,
+      "title": "Andreessen Horowitz ramps up Israel activity - Globes",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWxiVGpNdFp4Q0FXMEpUNkFwQUtwRWNscVlBdWJOTjFCSVgyV0lxUU1OM0NSamJyMHA0TVExbkd6b0lxME9MMVVUWjlGVENWbnJaZUJLUHF2SkI1VGFQTjRBMUJLSG0wQmQtVjI0SmpXcWJseDlELXYxX0JNM19hazEzeTVRZ1BfanRxMTY2OVhiNGdP?oc=5",
+      "source": "a16z · via Globes - Israel Business News",
+      "date": "2026-09-07T10:12:02.000Z"
+    },
+    {
+      "id": 25,
       "title": "Digital critical infrastructure should be built and managed better. Here’s how",
       "url": "https://www.fastcompany.com/91602796/digital-critical-infrastructure-built-managed-better?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Tech",
       "date": "2026-09-07T09:00:00.000Z"
     },
     {
-      "id": 22,
+      "id": 26,
       "title": "EXAONE Forecast for Finance",
       "url": "https://arxiv.org/abs/2609.04239",
       "source": "arXiv cs.AI",
       "date": "2026-09-07T04:00:00.000Z"
     },
     {
-      "id": 23,
+      "id": 27,
       "title": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
       "url": "https://arxiv.org/abs/2609.04223",
       "source": "arXiv cs.CL",
       "date": "2026-09-07T04:00:00.000Z"
     },
     {
-      "id": 24,
+      "id": 28,
       "title": "El decreto de Meloni de reconocimiento facial con IA genera preocupación entre los expertos",
       "url": "https://elpais.com/tecnologia/2026-09-07/el-decreto-de-meloni-de-reconocimiento-facial-con-ia-genera-preocupacion-entre-los-expertos.html",
       "source": "El País Tecnología",
       "date": "2026-09-07T03:30:01.000Z"
     },
     {
-      "id": 25,
+      "id": 29,
       "title": "Clipnote",
       "url": "https://www.producthunt.com/products/clipnote-2",
       "source": "Product Hunt",
       "date": "2026-09-07T01:55:40.000Z"
     },
     {
-      "id": 26,
+      "id": 30,
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI",
       "date": "2026-09-07T00:00:00.000Z"
     },
     {
-      "id": 27,
+      "id": 31,
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "source": "Simon Willison",
       "date": "2026-09-06T23:57:40.000Z"
     },
     {
-      "id": 28,
+      "id": 32,
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "source": "The Verge AI",
       "date": "2026-09-06T23:36:04.000Z"
     },
     {
-      "id": 29,
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "source": "TechCrunch",
-      "date": "2026-09-06T21:41:06.000Z"
-    },
-    {
-      "id": 30,
+      "id": 33,
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "source": "TechCrunch Startups",
       "date": "2026-09-06T16:45:00.000Z"
-    },
-    {
-      "id": 31,
-      "title": "Small Business Tech News: Intuit Adds Perplexity And Younger Workers Are More Scared Of AI",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbV9wc2NpNVd6Y0k3cmFUVWJrdkpZRFZ6NldXZ3lRbXgxSnhNMEVUYUV3VnlHY2VVTlJwV0huTUpHOXY2RXFxVm9nblpZT0gzSFhZd3lWYVNydm1Wal9SSTk0VzE3M1pnbTZLckFPSmU5Mm14VlhMU2J5NXUxdV8wVy1QMEQ0eklXbDktb1BmNFl6c2N3N1MxRElKX2lvQVIzNjlGeENUMjN5YU93bnZwTVFMVDl5RzJKdWxCakdCdUZjZjlUYXZJMWNUaXdtZGZURWNRTzQ3aFlVSlprWWFyOWswTQ?oc=5",
-      "source": "Perplexity · via Forbes",
-      "date": "2026-09-06T11:00:00.000Z"
     }
   ],
   "stats": {
-    "posts": 170,
-    "sourcesOk": 55,
-    "sourcesFailed": 18
+    "posts": 191,
+    "sourcesOk": 62,
+    "sourcesFailed": 5
   },
   "generator": "headlines"
 }

@@ -3,6 +3,7 @@ import { FEED_SOURCES } from "./data/feeds";
 import { fetchAllFeeds } from "./lib/rss";
 import { liveSearch, rankResults } from "./lib/search";
 import { loadCachedPosts, saveCachedPosts } from "./lib/cache";
+import { loadDisabledSources, saveDisabledSources } from "./lib/prefs";
 import type { Category, Post } from "./types";
 import Sidebar from "./components/Sidebar";
 import MobileTabs from "./components/MobileTabs";
@@ -11,7 +12,9 @@ import AskBar from "./components/AskBar";
 import Feed from "./components/Feed";
 import RightPanel from "./components/RightPanel";
 
-const AUTO_REFRESH_MS = 5 * 60 * 1000;
+// ~75 sources per refresh; most go through free proxies with daily quotas,
+// so 10 minutes keeps a whole day of use comfortably inside them.
+const AUTO_REFRESH_MS = 10 * 60 * 1000;
 const PAGE_SIZE = 20;
 
 interface LiveState {
@@ -20,6 +23,16 @@ interface LiveState {
   posts: Post[];
   isSearching: boolean;
   error: string | null;
+}
+
+/** Events tab: upcoming events first (soonest on top), then everything else newest-first. */
+function sortForEvents(posts: Post[]): Post[] {
+  const now = Date.now();
+  const upcoming = posts
+    .filter((p) => p.eventDate && new Date(p.eventDate).getTime() >= now - 86_400_000)
+    .sort((a, b) => new Date(a.eventDate!).getTime() - new Date(b.eventDate!).getTime());
+  const rest = posts.filter((p) => !upcoming.includes(p));
+  return [...upcoming, ...rest];
 }
 
 export default function App() {
@@ -31,18 +44,25 @@ export default function App() {
   const [progress, setProgress] = useState<{ loaded: number; total: number } | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<Date | null>(cached?.savedAt ?? null);
+  const [disabledSources, setDisabledSources] = useState<Set<string>>(() => loadDisabledSources());
 
   const [activeCategory, setActiveCategory] = useState<Category | "all">("all");
   const [query, setQuery] = useState("");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [live, setLive] = useState<LiveState | null>(null);
 
+  // Read through a ref so toggling a source doesn't recreate `load` and
+  // re-fetch everything; the new set is simply used on the next refresh.
+  const disabledRef = useRef(disabledSources);
+  disabledRef.current = disabledSources;
+
   const load = useCallback(async () => {
+    const activeSources = FEED_SOURCES.filter((s) => !disabledRef.current.has(s.id));
     setIsLoading(true);
     setError(null);
-    setProgress({ loaded: 0, total: FEED_SOURCES.length });
+    setProgress({ loaded: 0, total: activeSources.length });
     try {
-      const { posts: fetched, failedSources: failed } = await fetchAllFeeds(FEED_SOURCES, {
+      const { posts: fetched, failedSources: failed } = await fetchAllFeeds(activeSources, {
         onPartial: (partial, loaded, total) => {
           setProgress({ loaded, total });
           if (partial.length > 0) setPosts(partial);
@@ -73,6 +93,16 @@ export default function App() {
   useEffect(() => {
     setVisibleCount(PAGE_SIZE);
   }, [activeCategory, query, live?.question]);
+
+  const toggleSource = (id: string) => {
+    setDisabledSources((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      saveDisabledSources(next);
+      return next;
+    });
+  };
 
   const ask = useCallback(async (question: string) => {
     setLive({ question, query: null, posts: [], isSearching: true, error: null });
@@ -109,7 +139,8 @@ export default function App() {
   const filteredPosts = useMemo(() => {
     const q = query.trim().toLowerCase();
     const base = live ? live.posts : posts;
-    return base.filter((post) => {
+    const filtered = base.filter((post) => {
+      if (!live && disabledSources.has(post.sourceId)) return false;
       const matchesCategory =
         live !== null || activeCategory === "all" || post.tags.includes(activeCategory);
       if (!matchesCategory) return false;
@@ -120,7 +151,8 @@ export default function App() {
         post.source.toLowerCase().includes(q)
       );
     });
-  }, [posts, live, activeCategory, query]);
+    return !live && activeCategory === "events" ? sortForEvents(filtered) : filtered;
+  }, [posts, live, activeCategory, query, disabledSources]);
 
   const categoryCounts = useMemo(() => {
     const counts: Record<string, number> = { all: posts.length };
@@ -172,7 +204,11 @@ export default function App() {
         />
       </main>
 
-      <RightPanel failedSources={failedSources} />
+      <RightPanel
+        failedSources={failedSources}
+        disabledSources={disabledSources}
+        onToggleSource={toggleSource}
+      />
     </div>
   );
 }

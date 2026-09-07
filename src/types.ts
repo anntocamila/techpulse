@@ -1,4 +1,11 @@
-export type Category = "ai" | "labs" | "startups" | "business" | "events" | "tech";
+export type Category =
+  | "ai"
+  | "labs"
+  | "startups"
+  | "business"
+  | "events"
+  | "tech"
+  | "community";
 
 export interface CategoryMeta {
   id: Category;
@@ -7,9 +14,18 @@ export interface CategoryMeta {
 }
 
 /** How a source is fetched.
- *  - "rss": an RSS/Atom feed (default).
- *  - "hn-algolia": Hacker News' public JSON search API (CORS enabled, no proxy). */
-export type SourceKind = "rss" | "hn-algolia";
+ *  - "rss": an RSS/Atom feed (default). Tried direct, then via rss2json, then via a CORS proxy.
+ *  - Everything else is a public JSON API that sends CORS headers, so the
+ *    browser calls it directly with no proxy and no API key. */
+export type SourceKind =
+  | "rss"
+  | "hn-algolia"
+  | "hf-models"
+  | "hf-papers"
+  | "gdelt"
+  | "bluesky"
+  | "devto"
+  | "confs-tech";
 
 export interface FeedSource {
   id: string;
@@ -26,7 +42,12 @@ export interface Post {
   description: string;
   pubDate: string;
   source: string;
+  sourceId: string;
   sourceCategory: Category;
   tags: Category[];
   imageUrl?: string;
+  /** For events: when it happens (ISO date). pubDate stays "when we learned about it". */
+  eventDate?: string;
+  /** For events: "Buenos Aires, Argentina" or "Online". */
+  location?: string;
 }

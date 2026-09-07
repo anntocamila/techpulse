@@ -85,6 +85,7 @@ const KEYWORDS: Record<Category, string[]> = {
     "device",
     "tecnología",
   ],
+  community: ["newsletter", "show hn", "ask hn", "thread", "podcast", "opinion"],
 };
 
 /** Derives extra category tags from the post title/description so a single

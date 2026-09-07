@@ -7,6 +7,7 @@ export const CATEGORIES: CategoryMeta[] = [
   { id: "business", label: "Negocios", emoji: "💼" },
   { id: "events", label: "Eventos", emoji: "📅" },
   { id: "tech", label: "Tech", emoji: "💻" },
+  { id: "community", label: "Comunidad", emoji: "💬" },
 ];
 
 export const CATEGORY_LABEL: Record<string, string> = Object.fromEntries(

@@ -1,119 +1,9 @@
 import type { FeedSource, Post } from "../types";
-import { computeTags } from "./categorize";
+import { API_FETCHERS } from "./apis";
+import { CORS_PROXY, fetchWithTimeout } from "./http";
+import { toPost } from "./post";
 
 const RSS2JSON_ENDPOINT = "https://api.rss2json.com/v1/api.json?rss_url=";
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
-const FETCH_TIMEOUT_MS = 12_000;
-
-/** fetch() with a hard timeout so one hung source never blocks the feed. */
-async function fetchWithTimeout(url: string, timeoutMs = FETCH_TIMEOUT_MS): Promise<Response> {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), timeoutMs);
-  try {
-    return await fetch(url, { signal: controller.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]*>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function firstImageFromHtml(html: string): string | undefined {
-  const match = html.match(/<img[^>]+src=["']([^"'>]+)["']/i);
-  return match?.[1];
-}
-
-/** Google News titles look like "Headline - Outlet Name". Split them so the
- *  outlet can be shown as "via Outlet" and the headline stays clean. */
-function splitGoogleNewsTitle(title: string): { title: string; via?: string } {
-  const idx = title.lastIndexOf(" - ");
-  if (idx <= 0 || idx > title.length - 4) return { title };
-  return { title: title.slice(0, idx).trim(), via: title.slice(idx + 3).trim() };
-}
-
-interface RawItem {
-  title?: string;
-  link?: string;
-  guid?: string;
-  description?: string;
-  content?: string;
-  pubDate?: string;
-  thumbnail?: string;
-  enclosureUrl?: string;
-  via?: string;
-}
-
-function toPost(source: FeedSource, raw: RawItem): Post | null {
-  let title = raw.title?.trim();
-  const link = raw.link?.trim();
-  if (!title || !link) return null;
-
-  let via = raw.via;
-  if (source.url.startsWith("https://news.google.com/")) {
-    const split = splitGoogleNewsTitle(title);
-    title = split.title;
-    via = via ?? split.via;
-  }
-
-  const rawDescription = raw.description || raw.content || "";
-  let description = stripHtml(rawDescription).slice(0, 320);
-  // Google News descriptions are just the headline again; drop the noise.
-  if (description === title || description.startsWith(title)) description = "";
-
-  const parsedDate = raw.pubDate ? new Date(raw.pubDate) : null;
-  const pubDate =
-    parsedDate && !Number.isNaN(parsedDate.getTime())
-      ? parsedDate.toISOString()
-      : new Date().toISOString();
-  const imageUrl =
-    raw.thumbnail || raw.enclosureUrl || firstImageFromHtml(rawDescription) || undefined;
-
-  return {
-    id: raw.guid || link,
-    title,
-    link,
-    description,
-    pubDate,
-    source: via ? `${source.name} · via ${via}` : source.name,
-    sourceCategory: source.category,
-    tags: computeTags(title, description, source.category),
-    imageUrl,
-  };
-}
-
-async function fetchViaRss2Json(source: FeedSource): Promise<Post[]> {
-  const url = `${RSS2JSON_ENDPOINT}${encodeURIComponent(source.url)}`;
-  const res = await fetchWithTimeout(url);
-  if (!res.ok) throw new Error(`rss2json HTTP ${res.status}`);
-  const data = await res.json();
-  if (data.status !== "ok" || !Array.isArray(data.items)) {
-    throw new Error(`rss2json bad response for ${source.id}`);
-  }
-
-  return (data.items as Array<Record<string, unknown>>)
-    .map((item) =>
-      toPost(source, {
-        title: item.title as string,
-        link: item.link as string,
-        guid: item.guid as string,
-        description: item.description as string,
-        content: item.content as string,
-        pubDate: item.pubDate as string,
-        thumbnail: item.thumbnail as string,
-        enclosureUrl: (item.enclosure as { link?: string } | undefined)?.link,
-      }),
-    )
-    .filter((p): p is Post => p !== null);
-}
 
 function textOf(el: Element | null | undefined): string | undefined {
   return el?.textContent?.trim() || undefined;
@@ -172,6 +62,41 @@ export function parseXmlFeed(source: FeedSource, xmlText: string): Post[] {
     .filter((p): p is Post => p !== null);
 }
 
+/** Some feeds (arXiv, GitHub, a few blogs) send CORS headers; try them
+ *  directly first so they don't consume the proxies' quota. */
+async function fetchDirect(source: FeedSource): Promise<Post[]> {
+  const res = await fetchWithTimeout(source.url, 8_000);
+  if (!res.ok) throw new Error(`direct HTTP ${res.status}`);
+  const posts = parseXmlFeed(source, await res.text());
+  if (posts.length === 0) throw new Error("direct: empty feed");
+  return posts;
+}
+
+async function fetchViaRss2Json(source: FeedSource): Promise<Post[]> {
+  const url = `${RSS2JSON_ENDPOINT}${encodeURIComponent(source.url)}`;
+  const res = await fetchWithTimeout(url);
+  if (!res.ok) throw new Error(`rss2json HTTP ${res.status}`);
+  const data = await res.json();
+  if (data.status !== "ok" || !Array.isArray(data.items)) {
+    throw new Error(`rss2json bad response for ${source.id}`);
+  }
+
+  return (data.items as Array<Record<string, unknown>>)
+    .map((item) =>
+      toPost(source, {
+        title: item.title as string,
+        link: item.link as string,
+        guid: item.guid as string,
+        description: item.description as string,
+        content: item.content as string,
+        pubDate: item.pubDate as string,
+        thumbnail: item.thumbnail as string,
+        enclosureUrl: (item.enclosure as { link?: string } | undefined)?.link,
+      }),
+    )
+    .filter((p): p is Post => p !== null);
+}
+
 async function fetchViaCorsProxy(source: FeedSource): Promise<Post[]> {
   const url = `${CORS_PROXY}${encodeURIComponent(source.url)}`;
   const res = await fetchWithTimeout(url);
@@ -179,57 +104,30 @@ async function fetchViaCorsProxy(source: FeedSource): Promise<Post[]> {
   return parseXmlFeed(source, await res.text());
 }
 
-interface HnHit {
-  objectID: string;
-  title?: string;
-  url?: string;
-  story_text?: string;
-  created_at: string;
-  points?: number;
-  num_comments?: number;
-}
-
-/** Hacker News' Algolia API sends CORS headers, so no proxy is needed. */
-export async function fetchHackerNews(source: FeedSource): Promise<Post[]> {
-  const res = await fetchWithTimeout(source.url);
-  if (!res.ok) throw new Error(`HN HTTP ${res.status}`);
-  const data = (await res.json()) as { hits: HnHit[] };
-
-  return data.hits
-    .map((hit) =>
-      toPost(source, {
-        title: hit.title,
-        link: hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`,
-        guid: `hn-${hit.objectID}`,
-        description: `${hit.points ?? 0} puntos · ${hit.num_comments ?? 0} comentarios${
-          hit.story_text ? ` · ${stripHtml(hit.story_text)}` : ""
-        }`,
-        pubDate: hit.created_at,
-      }),
-    )
-    .filter((p): p is Post => p !== null);
-}
+const RSS_STRATEGIES = [fetchDirect, fetchViaRss2Json, fetchViaCorsProxy];
 
 export async function fetchFeed(source: FeedSource): Promise<Post[]> {
-  if (source.kind === "hn-algolia") {
+  const kind = source.kind ?? "rss";
+
+  if (kind !== "rss") {
     try {
-      return await fetchHackerNews(source);
+      return await API_FETCHERS[kind](source);
     } catch (err) {
-      console.warn(`Failed to load feed "${source.name}":`, err);
+      console.warn(`Failed to load "${source.name}":`, err);
       return [];
     }
   }
 
-  try {
-    return await fetchViaRss2Json(source);
-  } catch {
+  let lastError: unknown;
+  for (const strategy of RSS_STRATEGIES) {
     try {
-      return await fetchViaCorsProxy(source);
+      return await strategy(source);
     } catch (err) {
-      console.warn(`Failed to load feed "${source.name}":`, err);
-      return [];
+      lastError = err;
     }
   }
+  console.warn(`Failed to load feed "${source.name}":`, lastError);
+  return [];
 }
 
 export function mergePosts(lists: Post[][]): Post[] {

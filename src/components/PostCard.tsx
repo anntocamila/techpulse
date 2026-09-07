@@ -1,6 +1,6 @@
 import type { Post } from "../types";
 import { CATEGORY_LABEL } from "../data/categories";
-import { timeAgo } from "../lib/time";
+import { formatEventDate, timeAgo } from "../lib/time";
 import SourceAvatar from "./SourceAvatar";
 
 export default function PostCard({ post }: { post: Post }) {
@@ -19,7 +19,9 @@ export default function PostCard({ post }: { post: Post }) {
           <span className="font-bold text-zinc-100">{sourceName}</span>
           {via && <span className="text-zinc-500">via {via}</span>}
           <span className="text-zinc-500">·</span>
-          <span className="text-zinc-500">{timeAgo(post.pubDate)}</span>
+          <span className="text-zinc-500">
+            {post.eventDate ? timeAgo(post.eventDate) : timeAgo(post.pubDate)}
+          </span>
           <span className="ml-1 rounded-full bg-zinc-800 px-2 py-0.5 text-xs font-medium text-zinc-400">
             {CATEGORY_LABEL[post.sourceCategory]}
           </span>
@@ -28,6 +30,13 @@ export default function PostCard({ post }: { post: Post }) {
         <p className="mt-0.5 whitespace-pre-line break-words text-[15px] font-semibold text-zinc-50">
           {post.title}
         </p>
+
+        {post.eventDate && (
+          <p className="mt-1 text-sm text-sky-400">
+            📅 {formatEventDate(post.eventDate)}
+            {post.location && <span className="text-zinc-400"> · {post.location}</span>}
+          </p>
+        )}
 
         {post.description && (
           <p className="line-clamp-3 mt-1 break-words text-[15px] text-zinc-400">

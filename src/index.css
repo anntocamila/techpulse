@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 html,
@@ -9,7 +9,8 @@ body,
 #root {
   height: 100%;
   margin: 0;
-  background: #000000;
+  background: #ffffff;
+  color: #18181b;
 }
 
 body {
@@ -23,9 +24,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.serif {
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
 * {
   scrollbar-width: thin;
-  scrollbar-color: #333639 transparent;
+  scrollbar-color: #d4d4d8 transparent;
 }
 
 .line-clamp-3 {

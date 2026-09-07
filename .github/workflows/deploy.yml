@@ -1,18 +1,21 @@
-name: Deploy to GitHub Pages
+name: Build digest and deploy
 
 on:
   push:
     branches: [main]
+  schedule:
+    # 08:00 and 20:00 UTC = 05:00 and 17:00 in Buenos Aires
+    - cron: "0 8,20 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -26,6 +29,27 @@ jobs:
           cache: npm
 
       - run: npm ci
+
+      # On a schedule or a manual run, fetch every source server-side and
+      # write a fresh edition. Code pushes reuse the committed one.
+      - name: Generate digest
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run digest
+
+      - name: Commit digest
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "techpulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/digest.json public/digests
+          if git diff --cached --quiet; then
+            echo "No digest changes to commit"
+          else
+            git commit -m "digest: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git push
+          fi
 
       - run: npm run build
         env:

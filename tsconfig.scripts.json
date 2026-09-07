@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "composite": false,
+    "types": ["vite/client", "node"],
+    "lib": ["ES2023", "DOM"]
+  },
+  "include": ["scripts", "src"]
+}

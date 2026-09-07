@@ -2,16 +2,49 @@
 
 **En vivo: https://anntocamila.github.io/techpulse/**
 
-Un portal de noticias tech estilo timeline (Twitter/X) que agrega en un solo lugar
-lo último de **inteligencia artificial, startups, negocios, eventos y tecnología**
-desde fuentes RSS públicas de todo internet.
+Un briefing de **inteligencia artificial, startups, negocios, eventos y
+tecnología** al estilo de la newsletter *Last Week in AI*: cada edición agrupa
+las últimas noticias por tema, las resume y cita las fuentes. Debajo, un feed
+en vivo con las ~75 fuentes crudas.
 
-No es un scraper propio: consume ~75 fuentes públicas (RSS oficiales y APIs
-JSON con CORS), las normaliza, las etiqueta por categoría y las muestra como
-un feed único ordenado por fecha — con búsqueda, filtros, fuentes activables y
-auto-actualización cada 10 minutos.
+## Cómo funciona
 
-## Funcionalidades
+```
+GitHub Actions (2 veces por día, o a mano)
+  └─ scripts/build-digest.ts
+       1. lee las ~75 fuentes de src/data/feeds.ts server-side (sin CORS ni proxies)
+       2. se queda con las últimas 48 h, deduplica, recorta a ~220 titulares
+       3. Claude (claude-opus-5) agrupa por tema y escribe la edición en español,
+          con salida estructurada (JSON validado con zod) y citas numeradas
+       4. escribe public/digest.json + public/digests/<id>.json + index.json
+  └─ commit del JSON → build de Vite → deploy a GitHub Pages
+```
+
+La web (`src/components/DigestView.tsx`) solo lee ese JSON: no llama a ningún
+modelo desde el navegador, así que la API key nunca sale de GitHub.
+
+**Sin `ANTHROPIC_API_KEY`** el script igual corre y produce una edición de
+titulares agrupados por categoría (marcada como tal en la página), para que
+nunca quede vacía.
+
+### Configuración inicial
+
+1. En el repo: **Settings → Secrets and variables → Actions → New repository
+   secret**, nombre `ANTHROPIC_API_KEY`, valor tu key de
+   [console.anthropic.com](https://console.anthropic.com/).
+2. **Actions → "Build digest and deploy" → Run workflow** para generar la
+   primera edición sin esperar al cron.
+
+Cada corrida con Claude procesa ~200 titulares (unos 30-40k tokens de entrada
+y 4-8k de salida). Con dos ediciones por día el costo mensual queda en el
+orden de una suscripción a un newsletter; el cron está en
+`.github/workflows/deploy.yml`.
+
+Variables opcionales del script: `DIGEST_MODEL` (default `claude-opus-5`),
+`DIGEST_WINDOW_HOURS` (48), `DIGEST_MAX_POSTS` (220). Para probarlo sin red:
+`DIGEST_POSTS_FILE=posts.json npm run digest` con un array de `Post`.
+
+## Funcionalidades del feed en vivo
 
 - **Feed estilo timeline**: tarjetas con avatar de la fuente, título, resumen,
   imagen (cuando el feed la trae), categoría y tiempo relativo ("hace 3h").
@@ -42,10 +75,9 @@ auto-actualización cada 10 minutos.
 - **Auto-refresh** cada 10 minutos + botón de actualizar manual, con render
   progresivo (las fuentes aparecen a medida que responden) y cache local
   para que el feed cargue al instante al volver a abrir.
-- **100% client-side**: no hay backend ni base de datos, todo corre en el
-  navegador. Se puede desplegar como sitio estático (GitHub Pages, Vercel,
-  Netlify, etc.).
-- Diseño responsive, tema oscuro inspirado en X/Twitter.
+- **Sin backend propio**: el feed corre en el navegador y la edición la genera
+  GitHub Actions. Todo se sirve como sitio estático desde GitHub Pages.
+- Diseño responsive, tema claro tipo newsletter.
 
 ## Cómo funciona el agregador (`src/lib/rss.ts` y `src/lib/apis.ts`)
 
@@ -110,9 +142,11 @@ sintetizar con citas).
 
 ## Deploy
 
-Cada push a `main` dispara `.github/workflows/deploy.yml`, que buildea el
-proyecto y lo publica en GitHub Pages. El build usa `GITHUB_PAGES=true`
-para servir los assets bajo `/techpulse/`.
+`.github/workflows/deploy.yml` corre en tres casos: push a `main` (solo
+rebuild y deploy, reusa la edición ya commiteada), cron dos veces por día y
+`workflow_dispatch` (regenera la edición, la commitea con `[skip ci]`, buildea
+y despliega). El build usa `GITHUB_PAGES=true` para servir los assets bajo
+`/techpulse/`.
 
 La primera vez hay que activar Pages a mano: **Settings → Pages → Build and
 deployment → Source: GitHub Actions**. Es un solo clic y después el deploy

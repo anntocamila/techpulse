@@ -26,13 +26,13 @@ export default function AskBar({ onAsk, isSearching, activeQuestion, resolvedQue
   };
 
   return (
-    <div className="border-b border-zinc-800 px-4 py-3">
+    <div className="border-b border-zinc-200 px-4 py-3">
       <form
         onSubmit={(e) => {
           e.preventDefault();
           submit(value);
         }}
-        className="flex items-center gap-2 rounded-2xl border border-zinc-800 bg-zinc-900 px-3 py-2 focus-within:border-sky-500"
+        className="flex items-center gap-2 rounded-2xl border border-zinc-200 bg-zinc-100 px-3 py-2 focus-within:border-sky-500"
       >
         <span className="text-lg" aria-hidden>
           ✨
@@ -41,7 +41,7 @@ export default function AskBar({ onAsk, isSearching, activeQuestion, resolvedQue
           value={value}
           onChange={(e) => setValue(e.target.value)}
           placeholder="Preguntá algo y traigo las noticias en tiempo real..."
-          className="min-w-0 flex-1 bg-transparent text-[15px] text-zinc-100 placeholder-zinc-500 outline-none"
+          className="min-w-0 flex-1 bg-transparent text-[15px] text-zinc-900 placeholder-zinc-500 outline-none"
         />
         <button
           type="submit"
@@ -53,13 +53,13 @@ export default function AskBar({ onAsk, isSearching, activeQuestion, resolvedQue
       </form>
 
       {activeQuestion ? (
-        <div className="mt-2 flex flex-wrap items-center gap-2 text-xs text-zinc-400">
+        <div className="mt-2 flex flex-wrap items-center gap-2 text-xs text-zinc-600">
           <span>
-            Resultados en vivo para <span className="font-semibold text-zinc-200">“{activeQuestion}”</span>
+            Resultados en vivo para <span className="font-semibold text-zinc-800">“{activeQuestion}”</span>
             {resolvedQuery && resolvedQuery !== activeQuestion && (
               <>
                 {" "}
-                · query: <code className="text-sky-400">{resolvedQuery}</code>
+                · query: <code className="text-sky-600">{resolvedQuery}</code>
               </>
             )}
           </span>
@@ -68,7 +68,7 @@ export default function AskBar({ onAsk, isSearching, activeQuestion, resolvedQue
               setValue("");
               onClear();
             }}
-            className="rounded-full border border-zinc-700 px-2 py-0.5 text-zinc-300 hover:bg-zinc-800"
+            className="rounded-full border border-zinc-300 px-2 py-0.5 text-zinc-700 hover:bg-zinc-200"
           >
             ✕ Volver al feed
           </button>
@@ -79,7 +79,7 @@ export default function AskBar({ onAsk, isSearching, activeQuestion, resolvedQue
             <button
               key={s}
               onClick={() => submit(s)}
-              className="shrink-0 rounded-full bg-zinc-900 px-3 py-1 text-xs text-zinc-400 transition-colors hover:bg-zinc-800 hover:text-zinc-200"
+              className="shrink-0 rounded-full bg-zinc-100 px-3 py-1 text-xs text-zinc-600 transition-colors hover:bg-zinc-200 hover:text-zinc-800"
             >
               {s}
             </button>

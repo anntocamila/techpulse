@@ -25,12 +25,12 @@ export default function Header({
   progress,
 }: Props) {
   return (
-    <div className="sticky top-0 z-10 border-b border-zinc-800 bg-black/85 backdrop-blur">
+    <div className="sticky top-0 z-10 border-b border-zinc-200 bg-white/85 backdrop-blur">
       <div className="flex items-center justify-between px-4 py-3">
         <div>
-          <h1 className="text-xl font-bold text-zinc-50">{activeLabel}</h1>
+          <h1 className="text-xl font-bold text-zinc-900">{activeLabel}</h1>
           {isLoading && progress ? (
-            <p className="text-xs text-sky-400">
+            <p className="text-xs text-sky-600">
               Cargando fuentes {progress.loaded}/{progress.total}…
             </p>
           ) : (
@@ -46,7 +46,7 @@ export default function Header({
           onClick={onRefresh}
           disabled={isLoading}
           aria-label="Actualizar"
-          className="rounded-full p-2 text-zinc-300 transition-colors hover:bg-zinc-900 disabled:opacity-50"
+          className="rounded-full p-2 text-zinc-700 transition-colors hover:bg-zinc-100 disabled:opacity-50"
         >
           <span className={isLoading ? "inline-block animate-spin" : "inline-block"}>🔄</span>
         </button>
@@ -58,7 +58,7 @@ export default function Header({
           onChange={(e) => onQueryChange(e.target.value)}
           type="search"
           placeholder="Filtrar el feed por palabra clave..."
-          className="w-full rounded-full border border-zinc-800 bg-zinc-900 px-4 py-2 text-[15px] text-zinc-100 placeholder-zinc-500 outline-none focus:border-sky-500"
+          className="w-full rounded-full border border-zinc-200 bg-zinc-100 px-4 py-2 text-[15px] text-zinc-900 placeholder-zinc-500 outline-none focus:border-sky-500"
         />
       </div>
     </div>

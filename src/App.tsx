@@ -4,18 +4,22 @@ import { fetchAllFeeds } from "./lib/rss";
 import { liveSearch, rankResults } from "./lib/search";
 import { loadCachedPosts, saveCachedPosts } from "./lib/cache";
 import { loadDisabledSources, saveDisabledSources } from "./lib/prefs";
-import type { Category, FailedSource, Post } from "./types";
+import { loadDigestById, loadDigestIndex, loadLatestDigest } from "./lib/digest";
+import type { Category, Digest, DigestIndexEntry, FailedSource, Post } from "./types";
 import Sidebar from "./components/Sidebar";
 import MobileTabs from "./components/MobileTabs";
 import Header, { headerLabel } from "./components/Header";
 import AskBar from "./components/AskBar";
 import Feed from "./components/Feed";
 import RightPanel from "./components/RightPanel";
+import DigestView from "./components/DigestView";
 
 // ~75 sources per refresh; most go through free proxies with daily quotas,
 // so 10 minutes keeps a whole day of use comfortably inside them.
 const AUTO_REFRESH_MS = 10 * 60 * 1000;
 const PAGE_SIZE = 20;
+
+type View = "digest" | "feed";
 
 interface LiveState {
   question: string;
@@ -35,9 +39,66 @@ function sortForEvents(posts: Post[]): Post[] {
   return [...upcoming, ...rest];
 }
 
-export default function App() {
-  const cached = useRef(loadCachedPosts()).current;
+function TopNav({ view, onChange }: { view: View; onChange: (v: View) => void }) {
+  const tab = (id: View, label: string) => (
+    <button
+      onClick={() => onChange(id)}
+      className={`rounded-full px-4 py-1.5 text-sm font-semibold transition-colors ${
+        view === id ? "bg-zinc-900 text-white" : "text-zinc-600 hover:bg-zinc-100"
+      }`}
+    >
+      {label}
+    </button>
+  );
+  return (
+    <div className="sticky top-0 z-20 border-b border-zinc-200 bg-white/90 backdrop-blur">
+      <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-2">
+        <button onClick={() => onChange("digest")} className="flex items-center gap-2">
+          <span className="text-xl" aria-hidden>
+            📡
+          </span>
+          <span className="serif text-lg font-bold text-zinc-900">TechPulse</span>
+        </button>
+        <nav className="flex gap-1">
+          {tab("digest", "Edición")}
+          {tab("feed", "Feed en vivo")}
+        </nav>
+      </div>
+    </div>
+  );
+}
 
+export default function App() {
+  const [view, setView] = useState<View>("digest");
+
+  // --- Digest ---
+  const [digest, setDigest] = useState<Digest | null>(null);
+  const [digestLoading, setDigestLoading] = useState(true);
+  const [archive, setArchive] = useState<DigestIndexEntry[]>([]);
+
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      const [latest, index] = await Promise.all([loadLatestDigest(), loadDigestIndex()]);
+      if (cancelled) return;
+      setDigest(latest);
+      setArchive(index);
+      setDigestLoading(false);
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const selectEdition = async (id: string) => {
+    setDigestLoading(true);
+    const d = await loadDigestById(id);
+    if (d) setDigest(d);
+    setDigestLoading(false);
+  };
+
+  // --- Feed ---
+  const cached = useRef(loadCachedPosts()).current;
   const [posts, setPosts] = useState<Post[]>(cached?.posts ?? []);
   const [failedSources, setFailedSources] = useState<FailedSource[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -84,11 +145,20 @@ export default function App() {
     }
   }, []);
 
+  // The live feed only starts fetching once the user opens it: the digest is
+  // the default view and shouldn't pay for 70+ requests it doesn't need.
+  const feedStarted = useRef(false);
   useEffect(() => {
+    if (view !== "feed" || feedStarted.current) return;
+    feedStarted.current = true;
     load();
+  }, [view, load]);
+
+  useEffect(() => {
+    if (!feedStarted.current) return;
     const interval = setInterval(load, AUTO_REFRESH_MS);
     return () => clearInterval(interval);
-  }, [load]);
+  }, [load, view]);
 
   useEffect(() => {
     setVisibleCount(PAGE_SIZE);
@@ -170,45 +240,59 @@ export default function App() {
   };
 
   return (
-    <div className="mx-auto flex min-h-screen max-w-6xl text-zinc-100">
-      <div className="hidden w-64 shrink-0 border-r border-zinc-800 lg:block">
-        <div className="sticky top-0">
-          <Sidebar active={live ? null : activeCategory} onSelect={selectCategory} counts={categoryCounts} />
+    <div className="min-h-screen bg-white text-zinc-900">
+      <TopNav view={view} onChange={setView} />
+
+      {view === "digest" ? (
+        <DigestView
+          digest={digest}
+          isLoading={digestLoading}
+          archive={archive}
+          onSelectEdition={selectEdition}
+          onOpenFeed={() => setView("feed")}
+        />
+      ) : (
+        <div className="mx-auto flex max-w-6xl">
+          <div className="hidden w-64 shrink-0 border-r border-zinc-200 lg:block">
+            <div className="sticky top-12">
+              <Sidebar active={live ? null : activeCategory} onSelect={selectCategory} counts={categoryCounts} />
+            </div>
+          </div>
+
+          <main className="min-h-screen w-full max-w-2xl flex-1 border-r border-zinc-200">
+            <MobileTabs active={live ? null : activeCategory} onSelect={selectCategory} />
+            <Header
+              activeLabel={live ? "Búsqueda en vivo" : headerLabel(activeCategory)}
+              query={query}
+              onQueryChange={setQuery}
+              onRefresh={live ? () => ask(live.question) : load}
+              isLoading={live ? live.isSearching : isLoading}
+              lastUpdated={live ? null : lastUpdated}
+              progress={progress}
+            />
+            <AskBar
+              onAsk={ask}
+              isSearching={live?.isSearching ?? false}
+              activeQuestion={live?.question ?? null}
+              resolvedQuery={live?.query ?? null}
+              onClear={() => setLive(null)}
+            />
+            <Feed
+              posts={filteredPosts}
+              isLoading={live ? live.isSearching : isLoading}
+              error={live ? live.error : error}
+              visibleCount={visibleCount}
+              onLoadMore={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            />
+          </main>
+
+          <RightPanel
+            failedSources={failedSources}
+            disabledSources={disabledSources}
+            onToggleSource={toggleSource}
+          />
         </div>
-      </div>
-
-      <main className="min-h-screen w-full max-w-2xl flex-1 border-r border-zinc-800">
-        <MobileTabs active={live ? null : activeCategory} onSelect={selectCategory} />
-        <Header
-          activeLabel={live ? "Búsqueda en vivo" : headerLabel(activeCategory)}
-          query={query}
-          onQueryChange={setQuery}
-          onRefresh={live ? () => ask(live.question) : load}
-          isLoading={live ? live.isSearching : isLoading}
-          lastUpdated={live ? null : lastUpdated}
-          progress={progress}
-        />
-        <AskBar
-          onAsk={ask}
-          isSearching={live?.isSearching ?? false}
-          activeQuestion={live?.question ?? null}
-          resolvedQuery={live?.query ?? null}
-          onClear={() => setLive(null)}
-        />
-        <Feed
-          posts={filteredPosts}
-          isLoading={live ? live.isSearching : isLoading}
-          error={live ? live.error : error}
-          visibleCount={visibleCount}
-          onLoadMore={() => setVisibleCount((c) => c + PAGE_SIZE)}
-        />
-      </main>
-
-      <RightPanel
-        failedSources={failedSources}
-        disabledSources={disabledSources}
-        onToggleSource={toggleSource}
-      />
+      )}
     </div>
   );
 }

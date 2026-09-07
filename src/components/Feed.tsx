@@ -11,12 +11,12 @@ interface Props {
 
 function SkeletonRow() {
   return (
-    <div className="flex animate-pulse gap-3 border-b border-zinc-800 px-4 py-3">
-      <div className="h-10 w-10 shrink-0 rounded-full bg-zinc-800" />
+    <div className="flex animate-pulse gap-3 border-b border-zinc-200 px-4 py-3">
+      <div className="h-10 w-10 shrink-0 rounded-full bg-zinc-200" />
       <div className="flex-1 space-y-2">
-        <div className="h-3 w-1/3 rounded bg-zinc-800" />
-        <div className="h-4 w-4/5 rounded bg-zinc-800" />
-        <div className="h-3 w-2/3 rounded bg-zinc-800" />
+        <div className="h-3 w-1/3 rounded bg-zinc-200" />
+        <div className="h-4 w-4/5 rounded bg-zinc-200" />
+        <div className="h-3 w-2/3 rounded bg-zinc-200" />
       </div>
     </div>
   );
@@ -35,8 +35,8 @@ export default function Feed({ posts, isLoading, error, visibleCount, onLoadMore
 
   if (error && posts.length === 0) {
     return (
-      <div className="px-4 py-10 text-center text-zinc-400">
-        <p className="text-lg font-semibold text-zinc-200">No pudimos cargar las noticias</p>
+      <div className="px-4 py-10 text-center text-zinc-600">
+        <p className="text-lg font-semibold text-zinc-800">No pudimos cargar las noticias</p>
         <p className="mt-1 text-sm">{error}</p>
       </div>
     );
@@ -44,8 +44,8 @@ export default function Feed({ posts, isLoading, error, visibleCount, onLoadMore
 
   if (posts.length === 0) {
     return (
-      <div className="px-4 py-10 text-center text-zinc-400">
-        <p className="text-lg font-semibold text-zinc-200">Sin resultados</p>
+      <div className="px-4 py-10 text-center text-zinc-600">
+        <p className="text-lg font-semibold text-zinc-800">Sin resultados</p>
         <p className="mt-1 text-sm">Probá con otra categoría o término de búsqueda.</p>
       </div>
     );
@@ -62,12 +62,12 @@ export default function Feed({ posts, isLoading, error, visibleCount, onLoadMore
       {visibleCount < posts.length ? (
         <button
           onClick={onLoadMore}
-          className="w-full py-4 text-center text-sm font-semibold text-sky-500 transition-colors hover:bg-zinc-950"
+          className="w-full py-4 text-center text-sm font-semibold text-sky-600 transition-colors hover:bg-zinc-50"
         >
           Cargar más
         </button>
       ) : (
-        <p className="py-6 text-center text-sm text-zinc-600">Estás al día ✨</p>
+        <p className="py-6 text-center text-sm text-zinc-500">Estás al día ✨</p>
       )}
     </div>
   );

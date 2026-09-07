@@ -13,7 +13,7 @@ export default function MobileTabs({ active, onSelect }: Props) {
   ];
 
   return (
-    <div className="flex gap-2 overflow-x-auto border-b border-zinc-800 bg-black px-3 py-2 lg:hidden">
+    <div className="flex gap-2 overflow-x-auto border-b border-zinc-200 bg-white px-3 py-2 lg:hidden">
       {items.map((item) => {
         const isActive = active === item.id;
         return (
@@ -22,8 +22,8 @@ export default function MobileTabs({ active, onSelect }: Props) {
             onClick={() => onSelect(item.id)}
             className={`shrink-0 rounded-full px-3 py-1.5 text-sm font-medium transition-colors ${
               isActive
-                ? "bg-zinc-50 text-black"
-                : "bg-zinc-900 text-zinc-300 hover:bg-zinc-800"
+                ? "bg-zinc-900 text-white"
+                : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200"
             }`}
           >
             {item.emoji} {item.label}

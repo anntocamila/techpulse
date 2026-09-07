@@ -110,8 +110,18 @@ function gdeltDate(seendate: string): string {
   return m ? `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}Z` : seendate;
 }
 
+/** GDELT answers 429 to concurrent calls from one IP: space them out. */
+const GDELT_GAP_MS = 6_000;
+let gdeltQueue: Promise<unknown> = Promise.resolve();
+
+function gdeltSlot<T>(job: () => Promise<T>): Promise<T> {
+  const run = gdeltQueue.then(job);
+  gdeltQueue = run.catch(() => {}).then(() => new Promise((r) => setTimeout(r, GDELT_GAP_MS)));
+  return run;
+}
+
 export async function fetchGdelt(source: FeedSource): Promise<Post[]> {
-  const data = await fetchJson<{ articles?: GdeltArticle[] }>(source.url);
+  const data = await gdeltSlot(() => fetchJson<{ articles?: GdeltArticle[] }>(source.url));
   return keep(
     (data.articles ?? []).map((a) =>
       toPost(source, {

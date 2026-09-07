@@ -51,7 +51,13 @@ export const FEED_SOURCES: FeedSource[] = [
     url: "https://research.google/blog/rss/",
     category: "labs",
   },
-  { id: "meta-ai", name: "Meta AI", url: "https://ai.meta.com/blog/rss/", category: "labs" },
+  // ai.meta.com/blog/rss/ returns 404: follow Meta AI through Google News instead.
+  {
+    id: "meta-ai",
+    name: "Meta AI",
+    url: googleNewsSearchUrl('"Meta AI" OR "Meta" AND Llama'),
+    category: "labs",
+  },
   { id: "mistral", name: "Mistral AI", url: googleNewsSearchUrl('"Mistral AI"'), category: "labs" },
   { id: "xai", name: "xAI", url: googleNewsSearchUrl('"xAI" AND Grok'), category: "labs" },
   {
@@ -74,10 +80,11 @@ export const FEED_SOURCES: FeedSource[] = [
     url: "https://developer.nvidia.com/blog/feed",
     category: "labs",
   },
+  // blogs.microsoft.com/ai/feed/ is gone (410).
   {
     id: "microsoft-ai",
     name: "Microsoft AI",
-    url: "https://blogs.microsoft.com/ai/feed/",
+    url: googleNewsSearchUrl('"Microsoft" AND (Copilot OR "AI model" OR OpenAI)'),
     category: "labs",
   },
   {
@@ -116,19 +123,8 @@ export const FEED_SOURCES: FeedSource[] = [
   },
   { id: "arxiv-ai", name: "arXiv cs.AI", url: "https://rss.arxiv.org/rss/cs.AI", category: "ai" },
   { id: "arxiv-cl", name: "arXiv cs.CL", url: "https://rss.arxiv.org/rss/cs.CL", category: "ai" },
-  {
-    id: "artificialintelligence-news",
-    name: "AI News",
-    url: "https://www.artificialintelligence-news.com/feed/",
-    category: "ai",
-  },
-  {
-    id: "venturebeat-ai",
-    name: "VentureBeat AI",
-    url: "https://venturebeat.com/category/ai/feed/",
-    category: "ai",
-  },
-  { id: "marktechpost", name: "MarkTechPost", url: "https://www.marktechpost.com/feed/", category: "ai" },
+  // AI News, MarkTechPost and VentureBeat AI serve bot-challenge pages or 429 to
+  // server-side fetches; the remaining AI media plus Google News cover them.
   {
     id: "technologyreview",
     name: "MIT Technology Review",
@@ -191,16 +187,16 @@ export const FEED_SOURCES: FeedSource[] = [
   {
     id: "bens-bites",
     name: "Ben's Bites",
-    url: "https://bensbites.beehiiv.com/feed",
+    url: "https://www.bensbites.com/feed",
     category: "community",
   },
   { id: "last-week-in-ai", name: "Last Week in AI", url: "https://lastweekin.ai/feed", category: "community" },
   { id: "platformer", name: "Platformer", url: "https://www.platformer.news/feed", category: "community" },
   {
-    id: "bluesky-ai",
-    name: "Bluesky · IA",
-    // Bluesky search has no OR operator; a single strong term works best.
-    url: "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=LLM&sort=latest&limit=25",
+    id: "bluesky-theverge",
+    name: "The Verge en Bluesky",
+    // searchPosts needs auth (403 unauthenticated); author feeds are public.
+    url: "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=theverge.com&limit=25&filter=posts_no_replies",
     category: "community",
     kind: "bluesky",
   },
@@ -255,17 +251,22 @@ export const FEED_SOURCES: FeedSource[] = [
     kind: "hn-algolia",
   },
   { id: "sifted", name: "Sifted", url: "https://sifted.eu/feed", category: "startups" },
-  { id: "a16z", name: "a16z", url: "https://a16z.com/feed/", category: "startups" },
-  { id: "contxto", name: "Contxto (LatAm)", url: "https://contxto.com/feed/", category: "startups" },
+  // a16z.com/feed/ and contxto.com/feed/ return 404.
+  {
+    id: "a16z",
+    name: "a16z",
+    url: googleNewsSearchUrl('"Andreessen Horowitz" OR a16z'),
+    category: "startups",
+  },
+  {
+    id: "startups-latam",
+    name: "Startups LatAm",
+    url: googleNewsSearchUrl("startups latinoamérica ronda inversión", "es"),
+    category: "startups",
+  },
 
   // --- Negocios / empresas ---
   { id: "techcrunch", name: "TechCrunch", url: "https://techcrunch.com/feed/", category: "business" },
-  {
-    id: "axios-tech",
-    name: "Axios Tech",
-    url: "https://api.axios.com/feed/technology",
-    category: "business",
-  },
   {
     id: "the-information",
     name: "The Information",
@@ -284,11 +285,11 @@ export const FEED_SOURCES: FeedSource[] = [
     url: "https://www.fastcompany.com/technology/rss",
     category: "business",
   },
-  { id: "venturebeat", name: "VentureBeat", url: "https://venturebeat.com/feed/", category: "business" },
+  // venturebeat.com rate-limits direct fetches (429); its FeedBurner mirror doesn't.
   {
-    id: "businessinsider-tech",
-    name: "Business Insider Tech",
-    url: "https://www.businessinsider.com/tech/rss",
+    id: "venturebeat",
+    name: "VentureBeat",
+    url: "https://feeds.feedburner.com/venturebeat/SZYF",
     category: "business",
   },
   {
@@ -305,7 +306,6 @@ export const FEED_SOURCES: FeedSource[] = [
     url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
     category: "business",
   },
-  { id: "iproup", name: "iProUP", url: "https://www.iproup.com/rss", category: "business" },
   {
     id: "gdelt-es",
     name: "GDELT · Tech en español",

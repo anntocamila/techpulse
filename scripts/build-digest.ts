@@ -22,7 +22,7 @@ import { z } from "zod";
 import { CATEGORIES } from "../src/data/categories";
 import { FEED_SOURCES } from "../src/data/feeds";
 import { API_FETCHERS } from "../src/lib/apis";
-import { describeError, fetchWithTimeout, runWithConcurrency } from "../src/lib/http";
+import { describeError, runWithConcurrency } from "../src/lib/http";
 import { toPost, type RawItem } from "../src/lib/post";
 import { mergePosts } from "../src/lib/rss";
 import type { Category, Digest, DigestIndexEntry, DigestSection, FeedSource, Post } from "../src/types";
@@ -108,8 +108,21 @@ function parseFeedXml(source: FeedSource, body: string): Post[] {
   return items.map((raw) => toPost(source, raw)).filter((p): p is Post => p !== null);
 }
 
+// Substack, The Information and friends answer 403 to Node's default UA.
+const FEED_HEADERS = {
+  "User-Agent": "Mozilla/5.0 (compatible; TechPulse/1.0; +https://anntocamila.github.io/techpulse/)",
+  Accept: "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+};
+
 async function fetchRss(source: FeedSource): Promise<Post[]> {
-  const res = await fetchWithTimeout(source.url, 20_000);
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 20_000);
+  let res: Response;
+  try {
+    res = await fetch(source.url, { headers: FEED_HEADERS, signal: controller.signal, redirect: "follow" });
+  } finally {
+    clearTimeout(timer);
+  }
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const posts = parseFeedXml(source, await res.text());
   if (posts.length === 0) throw new Error("feed vacío");

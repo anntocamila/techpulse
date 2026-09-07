@@ -8,18 +8,9 @@ export function googleNewsSearchUrl(query: string, lang: "en" | "es" = "en"): st
   return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${locale}`;
 }
 
-/** GDELT DOC API: global news across 100+ languages, refreshed every 15 min. */
-function gdeltUrl(query: string): string {
-  const params = new URLSearchParams({
-    query,
-    mode: "artlist",
-    maxrecords: "30",
-    format: "json",
-    sort: "datedesc",
-    timespan: "24h",
-  });
-  return `https://api.gdeltproject.org/api/v2/doc/doc?${params.toString()}`;
-}
+// GDELT's DOC API was tried and dropped: it answers 429 both to browsers and
+// to GitHub's runners. The parser stays in src/lib/apis.ts (kind "gdelt") in
+// case a self-hosted runner wants it back.
 
 /** confs.tech keeps open JSON data of tech conferences per year and topic. */
 function confsTechUrl(topic: string, year = new Date().getFullYear()): string {
@@ -143,26 +134,14 @@ export const FEED_SOURCES: FeedSource[] = [
     url: googleNewsSearchUrl("artificial intelligence"),
     category: "ai",
   },
-  {
-    id: "gdelt-ai",
-    name: "GDELT · IA global",
-    // GDELT requires OR-lists to be wrapped in parentheses.
-    url: gdeltUrl('("artificial intelligence" OR "AI model" OR "large language model")'),
-    category: "ai",
-    kind: "gdelt",
-  },
 
   // --- Comunidad: newsletters, blogs y redes ---
+  // Substack and deeplearning.ai answer 403 to datacenter IPs even with a
+  // browser User-Agent. Import AI is mirrored on Jack Clark's own site.
   {
     id: "import-ai",
     name: "Import AI",
-    url: "https://importai.substack.com/feed",
-    category: "community",
-  },
-  {
-    id: "the-batch",
-    name: "The Batch",
-    url: "https://www.deeplearning.ai/the-batch/feed/",
+    url: "https://jack-clark.net/feed/",
     category: "community",
   },
   {
@@ -268,12 +247,6 @@ export const FEED_SOURCES: FeedSource[] = [
   // --- Negocios / empresas ---
   { id: "techcrunch", name: "TechCrunch", url: "https://techcrunch.com/feed/", category: "business" },
   {
-    id: "the-information",
-    name: "The Information",
-    url: "https://www.theinformation.com/feed",
-    category: "business",
-  },
-  {
     id: "cnbc-tech",
     name: "CNBC Tech",
     url: "https://www.cnbc.com/id/19854910/device/rss/rss.html",
@@ -305,13 +278,6 @@ export const FEED_SOURCES: FeedSource[] = [
     name: "El País Tecnología",
     url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada",
     category: "business",
-  },
-  {
-    id: "gdelt-es",
-    name: "GDELT · Tech en español",
-    url: gdeltUrl('("inteligencia artificial" OR startup OR tecnología) sourcelang:spanish'),
-    category: "business",
-    kind: "gdelt",
   },
 
   // --- Eventos ---

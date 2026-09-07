@@ -56,12 +56,12 @@ Variables opcionales del script: `DIGEST_MODEL` (default `claude-opus-5`),
   Hugging Face, NVIDIA, Microsoft AI/Research, Apple ML, Amazon Science). Las
   que no publican RSS se siguen vía Google News.
 - **APIs en vivo, sin proxy ni key**: Hugging Face (modelos trending y papers
-  del día), GDELT (noticias globales cada 15 min, en inglés y español), Bluesky,
-  dev.to, Hacker News (Algolia) y confs.tech (conferencias, datos abiertos).
-  El navegador las llama directo, así que son las más "en tiempo real".
+  del día), Bluesky, dev.to, Hacker News (Algolia) y confs.tech (conferencias,
+  datos abiertos). El navegador las llama directo, así que son las más "en
+  tiempo real".
 - **Comunidad**: newsletters y blogs que hoy marcan la agenda de IA (Import AI,
-  The Batch, Interconnects, Simon Willison, Latent Space, One Useful Thing,
-  Ben's Bites, Last Week in AI, Platformer) más Bluesky, dev.to y HN.
+  Interconnects, Simon Willison, Latent Space, One Useful Thing, Ben's Bites,
+  Last Week in AI, Platformer) más Bluesky, dev.to y HN.
 - **Eventos**: próximas conferencias desde confs.tech (con fecha, ciudad y CFP),
   ordenadas por cercanía, más TechCrunch Events y Google News.
 - **Fuentes activables**: en el panel derecho podés apagar/prender cualquier

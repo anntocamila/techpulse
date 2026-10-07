@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-10-07-23",
+    "generatedAt": "2026-10-07T23:56:59.525Z",
+    "title": "Titulares del 7 de octubre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-10-07-14",
     "generatedAt": "2026-10-07T14:57:07.574Z",
     "title": "Titulares del 7 de octubre",
@@ -351,12 +357,6 @@
     "id": "2026-09-08-12",
     "generatedAt": "2026-09-08T12:27:37.820Z",
     "title": "Titulares del 8 de septiembre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-09-07-22",
-    "generatedAt": "2026-09-07T22:25:10.608Z",
-    "title": "Titulares del 7 de septiembre",
     "generator": "headlines"
   }
 ]

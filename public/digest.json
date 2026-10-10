@@ -1,8 +1,8 @@
 {
-  "id": "2026-10-10-14",
-  "generatedAt": "2026-10-10T14:07:37.140Z",
-  "periodStart": "2026-10-08T14:07:37.140Z",
-  "periodEnd": "2026-10-10T14:07:37.140Z",
+  "id": "2026-10-10-23",
+  "generatedAt": "2026-10-10T23:07:08.810Z",
+  "periodStart": "2026-10-08T23:07:08.810Z",
+  "periodEnd": "2026-10-10T23:07:08.810Z",
   "title": "Titulares del 10 de octubre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -13,33 +13,33 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Lightricks/LTX-2.5",
+          "text": "google/embeddinggemma-2",
           "sources": [
             1
           ]
         },
         {
-          "text": "AI Agents Successfully Recreate the Gender Pay Gap",
+          "text": "Anthropic Is Banishing Its Model Evals From the Internet",
           "sources": [
-            9
+            3
           ]
         },
         {
-          "text": "AI agent makers are promising privacy — will they deliver?",
+          "text": "Satya Nadella says we should assume all AI models are ‘compromised’",
           "sources": [
-            10
+            6
           ]
         },
         {
           "text": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
           "sources": [
-            23
+            27
           ]
         },
         {
           "text": "The Download: AI’s refusal problem and weight-loss drug side effects",
           "sources": [
-            33
+            34
           ]
         }
       ]
@@ -51,39 +51,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+          "text": "Philadelphia police receive false homicide tip from Anthropic AI model",
           "sources": [
-            19
+            12
           ]
         },
         {
-          "text": "This Week's Top Five Stories in AI",
+          "text": "Microsoft Opens Copilot Benefits to Microsoft 365 Family Members, Cuts Shared Storage",
           "sources": [
-            22
+            16
           ]
         },
         {
-          "text": "Microsoft gets paid no matter which AI model wins",
+          "text": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
           "sources": [
-            28
+            20
           ]
         },
         {
-          "text": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion",
+          "text": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
           "sources": [
-            29
+            26
           ]
         },
         {
           "text": "Impactful scheduling for GPU clusters",
           "sources": [
-            32
+            33
           ]
         },
         {
           "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
           "sources": [
-            34
+            35
           ]
         }
       ]
@@ -95,33 +95,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Few people pay for AI, but those who do spend big",
+          "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "a16z-Backed AI Academy Recruits 50 Students for Tuition-Free Fellowship - News and Statistics",
           "sources": [
             18
           ]
         },
         {
-          "text": "Lune",
+          "text": "PixRater",
           "sources": [
-            24
-          ]
-        },
-        {
-          "text": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-          "sources": [
-            26
+            29
           ]
         },
         {
           "text": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
           "sources": [
-            30
+            31
           ]
         },
         {
           "text": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
           "sources": [
-            31
+            32
           ]
         }
       ]
@@ -133,39 +139,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Si la pregunta es si África tuvo un \"rascacielos\" hace 2.800 años, la respuesta de las matemáticas es que, técnicamente, sí",
+          "text": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "sources": [
-            4
+            8
           ]
         },
         {
-          "text": "Here are the top AI agents that can live in your text messages",
+          "text": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
           "sources": [
-            5
+            10
           ]
         },
         {
-          "text": "De qué va el escalofriante true crime ‘Los crímenes del cementerio de animales: Una historia de terror’ en HBO Max",
+          "text": "En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero",
           "sources": [
-            11
+            14
           ]
         },
         {
-          "text": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+          "text": "La historia real de ‘El precio de la red’: quién es Frances Haugen y qué fue el caso The Facebook Files",
           "sources": [
-            12
+            15
           ]
         },
         {
           "text": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
           "sources": [
-            16
+            24
           ]
         },
         {
           "text": "Googlebooks mark the end of the old Google",
           "sources": [
-            21
+            25
           ]
         }
       ]
@@ -177,9 +183,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The AI Summit introduces fleets to AI's potential and pitfalls",
+          "text": "Keynote Address Tackles AI’s Role in Health Care, Eye Care",
           "sources": [
-            17
+            4
           ]
         }
       ]
@@ -191,39 +197,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+          "text": "Simple tweaks to improve your 4K TV's picture quality",
           "sources": [
-            6
+            2
           ]
         },
         {
-          "text": "How to change your home address on Google Maps",
+          "text": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
           "sources": [
-            7
+            9
           ]
         },
         {
-          "text": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
+          "text": "Ledger wallet tampering suspected after reports of crypto thefts",
           "sources": [
-            8
+            19
+          ]
+        },
+        {
+          "text": "Bitwarden Dual License Model",
+          "sources": [
+            21
           ]
         },
         {
           "text": "AI Is Getting Really Good at Messing With Cybercriminals",
           "sources": [
-            13
+            22
           ]
         },
         {
           "text": "One with the world? A new look at brains transformed by psychedelics.",
           "sources": [
-            15
-          ]
-        },
-        {
-          "text": "Two characters open up a world of typosquatting opportunities in Chromium browsers",
-          "sources": [
-            20
+            23
           ]
         }
       ]
@@ -235,39 +241,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+          "text": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI. www.theverge.com/ai-artificia...",
           "sources": [
-            2
+            5
           ]
         },
         {
-          "text": "Maybe the thi— no, fou— wait, fifth time’s the charm for WB.﻿ www.theverge.com/podcast/1008...",
+          "text": "[Subscriber Exclusive] NYC Subscriber Meetups!",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+          "text": "RevSofia, a Car Meetup app that people will love to use",
           "sources": [
-            14
+            13
           ]
         },
         {
           "text": "Quoting The New York Times",
           "sources": [
-            25
+            28
           ]
         },
         {
           "text": "I expect rapid progress but not towards general superintelligence",
           "sources": [
-            27
-          ]
-        },
-        {
-          "text": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-          "sources": [
-            35
+            30
           ]
         }
       ]
@@ -276,248 +276,248 @@
   "sources": [
     {
       "id": 1,
-      "title": "Lightricks/LTX-2.5",
-      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-10T14:07:37.844Z"
+      "date": "2026-10-10T23:07:09.562Z"
     },
     {
       "id": 2,
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "url": "https://www.latent.space/p/standard-bots",
-      "source": "Latent Space",
-      "date": "2026-10-10T14:04:11.000Z"
+      "title": "Simple tweaks to improve your 4K TV's picture quality",
+      "url": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+      "source": "Engadget",
+      "date": "2026-10-10T23:00:00.000Z"
     },
     {
       "id": 3,
-      "title": "Maybe the thi— no, fou— wait, fifth time’s the charm for WB.﻿ www.theverge.com/podcast/1008...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mxjnpbo6ug2l",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-10T14:02:29.757Z"
+      "title": "Anthropic Is Banishing Its Model Evals From the Internet",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW1PNnNxaUY1ZHEzS21SMk9HZDE5ajZnTEhSZUNyNUZtVnVzRk93ak1IUS1nQWRJYndEOV9FQUc1dENmSEFPSm40dDJFMGItdW4wQjhkSmpZd1Y3aWpHbkx6NTR2TlRMS0YzaF9SU0xWYms2VzhZajI0OUVhMl9QMi1ITnJ6ZlNWRldsc1lCeHk?oc=5",
+      "source": "Google News · IA · via Gizmodo",
+      "date": "2026-10-10T22:52:14.000Z"
     },
     {
       "id": 4,
-      "title": "Si la pregunta es si África tuvo un \"rascacielos\" hace 2.800 años, la respuesta de las matemáticas es que, técnicamente, sí",
-      "url": "https://www.xataka.com/magnet/pregunta-africa-tuvo-rascacielos-hace-2-800-anos-respuesta-matematicas-que-tecnicamente",
-      "source": "Xataka",
-      "date": "2026-10-10T14:00:27.000Z"
+      "title": "Keynote Address Tackles AI’s Role in Health Care, Eye Care",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTNjX2tYRHhKNVRNSHFSWllEZWYxQVB2UUo0WXZrODV2QTljSlg4eFBRM2ZYMzNCNmVDdXZjNjZzQlU3dUpNOEx0cHZoMWg4ZURsLVR3Mkk2WDVnQkJaSm1RVU1CTHBKQkJWS2JTTnhSc0ExbzktUFdUakc0V2MyckFKNnJOc096M2Iw?oc=5",
+      "source": "Google News · Eventos tech · via The American Journal of Managed Care",
+      "date": "2026-10-10T22:21:13.000Z"
     },
     {
       "id": 5,
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "date": "2026-10-10T14:00:00.000Z"
+      "title": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxkj3dicc32w",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-10T22:12:25.259Z"
     },
     {
       "id": 6,
-      "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-      "source": "The Verge",
-      "date": "2026-10-10T14:00:00.000Z"
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge AI",
+      "date": "2026-10-10T22:10:17.000Z"
     },
     {
       "id": 7,
-      "title": "How to change your home address on Google Maps",
-      "url": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
-      "source": "Engadget",
-      "date": "2026-10-10T14:00:00.000Z"
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "source": "Latent Space",
+      "date": "2026-10-10T22:07:17.000Z"
     },
     {
       "id": 8,
-      "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
-      "url": "https://www.techmeme.com/261010/p12#a261010p12",
-      "source": "Techmeme",
-      "date": "2026-10-10T13:50:00.000Z"
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "TechCrunch",
+      "date": "2026-10-10T21:47:51.000Z"
     },
     {
       "id": 9,
-      "title": "AI Agents Successfully Recreate the Gender Pay Gap",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlloRUxqaTJPVUhRN3hMb0dRMzdvdEo2S0RwWXJBREZXbGZCc2VWbVNycEpCNUxjZkpmcmFocm9hclF3UG4wd1hBci03VEdHUjQwbkM5bXJwZ0MzaUJWRWo3dHA1ZnFhOXB3NUlmM0RCSC1qaFc3bFRUMnZGYzRmbHF1eXlXMWpt?oc=5",
-      "source": "Google News · IA · via Gizmodo",
-      "date": "2026-10-10T13:44:03.000Z"
+      "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
+      "url": "https://www.techmeme.com/261010/p18#a261010p18",
+      "source": "Techmeme",
+      "date": "2026-10-10T21:15:01.000Z"
     },
     {
       "id": 10,
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "source": "The Verge AI",
-      "date": "2026-10-10T13:00:00.000Z"
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-10T20:59:28.000Z"
     },
     {
       "id": 11,
-      "title": "De qué va el escalofriante true crime ‘Los crímenes del cementerio de animales: Una historia de terror’ en HBO Max",
-      "url": "https://hipertextual.com/cine-television/de-que-va-el-escalofriante-true-crime-los-crimenes-del-cementerio-de-animales-una-historia-de-terror-en-hbo-max/",
-      "source": "Hipertextual",
-      "date": "2026-10-10T13:00:00.000Z"
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-10T19:50:00.000Z"
     },
     {
       "id": 12,
-      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-      "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-10T12:00:01.000Z"
+      "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5",
+      "source": "Anthropic · via The Hill",
+      "date": "2026-10-10T19:31:00.000Z"
     },
     {
       "id": 13,
+      "title": "RevSofia, a Car Meetup app that people will love to use",
+      "url": "https://dev.to/alexgeorgiev17/car-meets-in-sofia-get-planned-in-chaos-so-i-made-an-open-model-read-the-chat-for-us-24nm",
+      "source": "dev.to · IA · via Alex Georgiev",
+      "date": "2026-10-10T19:29:45.000Z"
+    },
+    {
+      "id": 14,
+      "title": "En 1971, Québec inundó 11.500 km² de bosque para crear un megaembalse y, sin saberlo, envenenó a un pueblo entero",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/1971-quebec-inundo-11-500-km2-bosque-para-crear-megaembalse-saberlo-enveneno-a-pueblo-entero",
+      "source": "Xataka",
+      "date": "2026-10-10T18:00:28.000Z"
+    },
+    {
+      "id": 15,
+      "title": "La historia real de ‘El precio de la red’: quién es Frances Haugen y qué fue el caso The Facebook Files",
+      "url": "https://hipertextual.com/cine-television/la-historia-real-de-el-precio-de-la-red-quien-es-frances-haugen-y-que-fue-el-caso-the-facebook-files/",
+      "source": "Hipertextual",
+      "date": "2026-10-10T18:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Microsoft Opens Copilot Benefits to Microsoft 365 Family Members, Cuts Shared Storage",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmRCa2lUeUhvck9aUWhxcUY4N3ZCcXM3NXJlRXk5YTZad3ZCM3o4RF9TN3lxVWpZcFRYb0FkcWNBamtBZnNQbHVxSkp5cHJnc2JMb21HTzRJUWhCd1NtZHR1bnZiNm1hZVk0ZVpKelB3MkVDT1I4ZW9HdWhYQ3JtLW5hNm1nN3REbVNhYlBLY090TFZUUjl0VkpaZHZndWNzV3czSTJITURXVzZUZ2RyLU1PTl9MOWNlVVlvM2lHeU8?oc=5",
+      "source": "Microsoft AI · via JournalArta",
+      "date": "2026-10-10T17:43:18.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTVlfU1h3R1MxeUJ1NDRGN3FtNGxTN1ZEVzdYSDdXYmgzcUluRnV2R0dXRWRfWldUcDZ4d0NmSVZvUGFadHFUYmo1YXpfVWFsWVR3UHlMS0lzdkNENEJaYVJBTFBIbGxhNU1XSVpCdlBFZkJQOWpHMnJPd3hSUmM?oc=5",
+      "source": "Startups LatAm · via El Ecosistema Startup",
+      "date": "2026-10-10T17:33:28.000Z"
+    },
+    {
+      "id": 18,
+      "title": "a16z-Backed AI Academy Recruits 50 Students for Tuition-Free Fellowship - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjhDcVlpZzFJSUNHR2lsaWJKUEdtbjUxWTZXSFNWREN0ajJDMWVBUDl2Q2xLYlJhcVE4cEd3cEY2UFhxNWU2VlFjUDlsTFJQdHhtbEV0LVVVM1Znb2s2WllRZnhPTEN4ekF0d3dMQlVsd0Zmdmp0cGdDenkzazhrT3RQbmtpTTR6VjFkTV9wNXUtdHhOazhpdkpKSVpCQkhpbGhkSA?oc=5",
+      "source": "a16z · via IndexBox",
+      "date": "2026-10-10T17:31:43.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "source": "The Verge",
+      "date": "2026-10-10T16:36:44.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBwa3pVRlJrazdxNmg1aHdRVU16ckRpcHF3S1FweHpVaG93cUxrTm93SHhnTDQ1LWpqa3V2VG9EdFo2WmdLcFNVMExvVmN4U0dRQjAxWlI5cUFOdzNnZ3hDQlZGdFZVZXJCdmtQZmJaWHlmMVZqaWtlSlhGampWVnI4UjNIZEpkbkdnTjRWUDk3Slo4YmE2aktzZ1NlWkxfT2dKNHgyaTRKeE5TbFJr?oc=5",
+      "source": "Mistral AI · via Dealroom",
+      "date": "2026-10-10T15:51:33.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Bitwarden Dual License Model",
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "source": "Hacker News",
+      "date": "2026-10-10T14:32:50.000Z"
+    },
+    {
+      "id": 22,
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
       "source": "Wired",
       "date": "2026-10-10T12:00:00.000Z"
     },
     {
-      "id": 14,
-      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
-      "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
-      "source": "dev.to · IA · via Sarvar Nadaf",
-      "date": "2026-10-10T11:46:22.000Z"
-    },
-    {
-      "id": 15,
+      "id": 23,
       "title": "One with the world? A new look at brains transformed by psychedelics.",
       "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
       "source": "Ars Technica",
       "date": "2026-10-10T11:15:35.000Z"
     },
     {
-      "id": 16,
+      "id": 24,
       "title": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
       "url": "https://elpais.com/tecnologia/2026-10-10/anthropic-revela-un-aviso-falso-a-la-policia-entre-los-nuevos-incidentes-de-una-ia-descontrolada.html",
       "source": "El País Tecnología",
       "date": "2026-10-10T11:13:15.000Z"
     },
     {
-      "id": 17,
-      "title": "The AI Summit introduces fleets to AI's potential and pitfalls",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YdERxanUtWUxYWmE2V2ZxTHQ5MVItTW9qMFhLT0NmTlgtWW9LNHNZQV9VdUt4YkNGelJDc1RKSnB1RndrVkVKazNiUHRkRi1FQ2ZsVnQ1VGRYREN3ZVBWcUZGNmJhVlJLME5yMw?oc=5",
-      "source": "Google News · Eventos tech · via Transport Topics",
-      "date": "2026-10-10T11:00:00.000Z"
-    },
-    {
-      "id": 18,
-      "title": "Few people pay for AI, but those who do spend big",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2czaXBwLUpwWEFXMXdRNTk0MURyZnB0eWdVQVk1R1liWmNqZTZETjQtOTRZN1BWZl9FLURlMDRkLVFQc20tblFnbDYzSWR0VGZHSWNrVWFseG5BRTJjSlQyemIzV25DZXA4dEtWb0tCVENRMjhPZ0NTby1pODV1VVdqcm5mSzU0NHg2TzJPYTVodVcxT0NrOTczTFRZYWwwc1ZYYzA4VVlGZ1JkUXBIN1NTSlJfdFhBMkt6bjNuSnk0TVh1X2c?oc=5",
-      "source": "a16z · via The Decoder",
-      "date": "2026-10-10T10:59:14.000Z"
-    },
-    {
-      "id": 19,
-      "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-      "source": "Anthropic · via Axios",
-      "date": "2026-10-10T10:58:03.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers",
-      "url": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
-      "source": "The Register",
-      "date": "2026-10-10T10:15:00.000Z"
-    },
-    {
-      "id": 21,
+      "id": 25,
       "title": "Googlebooks mark the end of the old Google",
       "url": "https://www.fastcompany.com/91615554/googlebooks-mark-the-end-of-the-old-google?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Tech",
       "date": "2026-10-10T10:06:00.000Z"
     },
     {
-      "id": 22,
-      "title": "This Week's Top Five Stories in AI",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTFGalAwc3Exbmc1ckQ1MkxFc2ViTERKYXg1YU1xU09FamhMdkhuV19aVTFUOWFodHpZdmJXOEJDOFdJQk5VZU12UTd6WklHUHBVRU1tYV9lZHlaOXFWYUhkQjN4V3hlSGtXTkNPQ1hNVGxLQTFic0Z5aEExcVk1bUdn?oc=5",
-      "source": "Mistral AI · via AI Magazine",
-      "date": "2026-10-10T08:09:52.000Z"
+      "id": 26,
+      "title": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J2cTNIQlBFaXpncjBrLVlabHR4Wk9kSlNDVjBCUWJjNDBtNnBRYi1fTFNWNTFnQ2NBeUhYQXdHWEpEUU0tVGNTMkE3c1hLRjZHWXQzRXdrTTVKUUptT3Nlc0JUTWlzdkRfN2RtQjhISHd1T0JMakNPZEI5QVZ2RTNZVGQyUllhSVZ0M29NdGp1OTJRUC0zREVGTWR3RjV3SXZoNFlrZVJHSUQ3OVdn?oc=5",
+      "source": "Perplexity · via MakeUseOf",
+      "date": "2026-10-10T10:00:13.000Z"
     },
     {
-      "id": 23,
+      "id": 27,
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
       "url": "https://arxiv.org/abs/2610.10541",
       "source": "arXiv cs.AI",
       "date": "2026-10-10T04:00:00.000Z"
     },
     {
-      "id": 24,
-      "title": "Lune",
-      "url": "https://www.producthunt.com/products/lune-research",
-      "source": "Product Hunt",
-      "date": "2026-10-10T03:56:36.000Z"
-    },
-    {
-      "id": 25,
+      "id": 28,
       "title": "Quoting The New York Times",
       "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "source": "Simon Willison",
       "date": "2026-10-10T02:04:12.000Z"
     },
     {
-      "id": 26,
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-09T21:41:29.000Z"
+      "id": 29,
+      "title": "PixRater",
+      "url": "https://www.producthunt.com/products/pixrater",
+      "source": "Product Hunt",
+      "date": "2026-10-09T22:26:44.000Z"
     },
     {
-      "id": 27,
+      "id": 30,
       "title": "I expect rapid progress but not towards general superintelligence",
       "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
       "source": "Interconnects",
       "date": "2026-10-09T21:33:47.000Z"
     },
     {
-      "id": 28,
-      "title": "Microsoft gets paid no matter which AI model wins",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVNlaWExdUYtd1ljYnYyUXFSTk9xMnNTYm5CRDFUZFdOT2hHOXNpUElScUtYd0JiVVU0MmsxdFFKTEVuQnY1ZUxjdXBlS3cwbWdtRkdncWNMTjZvY3p3TUxrMlVsYjQ5eXVYSEEwWEUxaXpHd3ltYzZ1cWJBZ3BGWkR2TDFOOUJZVjBj?oc=5",
-      "source": "Microsoft AI · via TheStreet",
-      "date": "2026-10-09T21:32:40.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzRRY1RoV2d6WGpQdnh1WjdCcTZsQmljX0NNNmNMUXJFanNRTEhPb19sZkswakFNZThtYVVsN0lydWowRGFGOElLcEZ3aG1jalBLM3ptTy13OWJfOXhpZy15b0FHSTVDYXptY3VzNXdOZGNTVVRhOVZoRWk5TlpHWHhZSW5Vc2UwRUNnOHBEazhXZmtu?oc=5",
-      "source": "Perplexity · via Startup Fortune",
-      "date": "2026-10-09T19:02:17.000Z"
-    },
-    {
-      "id": 30,
+      "id": 31,
       "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
       "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
       "source": "Crunchbase News",
       "date": "2026-10-09T18:28:35.000Z"
     },
     {
-      "id": 31,
+      "id": 32,
       "title": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
       "url": "https://sifted.eu/articles/report-open-model-abliteration-ai-safety/",
       "source": "Sifted",
       "date": "2026-10-09T16:48:02.000Z"
     },
     {
-      "id": 32,
+      "id": 33,
       "title": "Impactful scheduling for GPU clusters",
       "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
       "source": "Hugging Face Blog",
       "date": "2026-10-09T15:20:29.000Z"
     },
     {
-      "id": 33,
+      "id": 34,
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "source": "MIT Technology Review",
       "date": "2026-10-09T12:10:00.000Z"
     },
     {
-      "id": 34,
+      "id": 35,
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "source": "OpenAI",
       "date": "2026-10-09T07:00:00.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
-      "url": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
-      "source": "Last Week in AI",
-      "date": "2026-10-09T05:06:58.000Z"
     }
   ],
   "stats": {

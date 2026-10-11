@@ -1,0 +1,451 @@
+{
+  "id": "2026-10-11-23",
+  "generatedAt": "2026-10-11T23:20:00.120Z",
+  "periodStart": "2026-10-09T23:20:00.120Z",
+  "periodEnd": "2026-10-11T23:20:00.120Z",
+  "title": "Titulares del 11 de octubre",
+  "subtitle": "180 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "sources": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft wants its 'Copilot' AI to take control of more tasks in Windows without relying on the internet",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Claude AI sent US police a false murder tip, authorities say",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Preference Model Raises $16 Million Seed Round Led By Andreessen Horowitz",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Gboard Kurukuru Version",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Will the HomeView be Apple’s first smart home success?",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "El final explicado de &#8216;El precio de la red&#8217;: qué pasó con Facebook y Frances Haugen después de la filtración",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "The list of AI insiders sounding the alarm on their own companies keeps growing",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Travel AI’s Prove-It Phase, Visibility, and the Booking Gap",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why Japan said goodbye to traditional flip phones",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "The gap in shared understanding of LLM capability is widening",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "I Made Terrible Games With Google’s AI Playground",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "One Weekend: 3,000 Open-Source AI Projects",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand. www.theverge.com/ai-artificia...",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Dwarf Fortress uses version control now",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-11T23:20:01.144Z"
+    },
+    {
+      "id": 2,
+      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpoZ1QxOWVmSkdqblhxbndMUjAyZUtFbWpIcHFnU0Q0SHNJMms1UkVLOVhmUHVDUXpIQmhmSVpoRWE5TTNHRFFXNkNSbmVhTXpFaEk3ZkU2TTk3VWt1Wk1xZE9iVkZiT0JzNDlkRXlUZEI0U0I5ZXl3aUpJWDBXN1RmaUcwYTJiZ2hNb3U0bFBoaHhvR2Z4eTI5LWNYYTRTYXJPQU56QQ?oc=5",
+      "source": "Google News · IA · via The Guardian",
+      "date": "2026-10-11T23:01:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Why Japan said goodbye to traditional flip phones",
+      "url": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
+      "source": "Engadget",
+      "date": "2026-10-11T23:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261011/p11#a261011p11",
+      "source": "Techmeme",
+      "date": "2026-10-11T21:20:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch",
+      "date": "2026-10-11T21:14:40.000Z"
+    },
+    {
+      "id": 6,
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News",
+      "date": "2026-10-11T20:20:52.000Z"
+    },
+    {
+      "id": 7,
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "source": "The Verge",
+      "date": "2026-10-11T20:06:43.000Z"
+    },
+    {
+      "id": 8,
+      "title": "One Weekend: 3,000 Open-Source AI Projects",
+      "url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
+      "source": "dev.to · IA · via Jess Lee",
+      "date": "2026-10-11T19:43:45.000Z"
+    },
+    {
+      "id": 9,
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-11T19:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Microsoft wants its 'Copilot' AI to take control of more tasks in Windows without relying on the internet",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdFhnemNWQlV5TkVBVUlIaWEwdF9GOFRXV1ZNQTNJNGlkUTRWa0pqQ2dwVDFycHBFZWJ4cHFYQkpJMzdDbGVSTzRSYTJnSGU3T19Zbl9xcjYxb3hBQlNnVjRoTHdUVnNRSnJFc2dTR0VVY1BXRHJnZXBKMTFRSG41aE5fNXB1QndiVkFER2E0VmFrd1NIR1AxQ21wSy1JYy15NGt0ZXlpNUl2VFRUcXRCdlpOeHZRSmR3YkpwaGh1Y3FLZkVNNDZ1TGVGUVY1eGkzaFJ0bV9tenNuSXRWa3NJNHFEOWJadHh3d0pjX3lRM01QY3o2Q0IzUlNFNHpUQkU?oc=5",
+      "source": "Microsoft AI · via El Constitucional",
+      "date": "2026-10-11T18:47:51.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxmnjlvdqq2p",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-11T18:37:18.357Z"
+    },
+    {
+      "id": 12,
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge AI",
+      "date": "2026-10-11T18:33:56.000Z"
+    },
+    {
+      "id": 13,
+      "title": "En 1971 soltaron 11 ovejas salvajes en el Parque Nacional del Teide para la caza mayor. Hoy son una pesadilla ecológica",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/1971-liberaron-11-ovejas-salvajes-parque-nacional-teide-para-caza-mayor-hoy-pesadilla-ecologica",
+      "source": "Xataka",
+      "date": "2026-10-11T18:00:26.000Z"
+    },
+    {
+      "id": 14,
+      "title": "El final explicado de &#8216;El precio de la red&#8217;: qué pasó con Facebook y Frances Haugen después de la filtración",
+      "url": "https://hipertextual.com/cine-television/el-final-explicado-de-el-precio-de-la-red-que-paso-con-facebook-y-frances-haugen-despues-de-la-filtracion/",
+      "source": "Hipertextual",
+      "date": "2026-10-11T18:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-11T17:53:37.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Preference Model Raises $16 Million Seed Round Led By Andreessen Horowitz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUhTbFlYdldTekFIN2ZITndnMUE4ZFk5RTVpcm83cGpDNUNPNVhvNE5hTTJnT0VPSkVLeEh1TmhuOGlVZDJyRDZCM0VJaVhzWDNIZUF3TzJvdkxqTjFIU1Z0Wm5jUWtGUzB0Tk1aZjFlN1ZIdThNTVlJZW5kZlJ2cFE5OG5MU19FMmlRZUZPdVRBZEFsalJB0gGcAUFVX3lxTE45VENlVllqb2dWbGtVa001LXFhYTVKZG5VUDZrU3FfMFlNQ0xNcVdmZENGWEdZbWYzMU9rU2kxc2M5WDNfa1NKaFRTYXNCWEtEdTZGWHVpQXdQSjNsNTM3RWYxTHZQbjh0NTAwY3FLX1BTY3RDa2NOU2cxOC1BOElWU0Q4YTA1NkFYM1Q1VmpPamZxS1FEWWZITHpzUA?oc=5",
+      "source": "a16z · via Pulse 2.0",
+      "date": "2026-10-11T17:31:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "source": "Ars Technica",
+      "date": "2026-10-11T14:50:24.000Z"
+    },
+    {
+      "id": 18,
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-11T14:08:44.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Travel AI’s Prove-It Phase, Visibility, and the Booking Gap",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGt2cXZIMzBuRkNXcUN6SW9Tc2JjNkZnYWM4VEFVbUdwRGFEZjV5WEN4RzN0R3JkV082M3FLa2lGZmN1eTNiMHh3VzdYTkx5VW93X3Z3dU1xUTh5T1RhdTFmSUJ4bVg2WHg0dXl0elgyMkpLQzFZVjRVUVJkcV9GcGt1ZGFDLURGbDh3UGZkOA?oc=5",
+      "source": "Google News · Eventos tech · via Skift",
+      "date": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired",
+      "date": "2026-10-11T11:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "The list of AI insiders sounding the alarm on their own companies keeps growing",
+      "url": "https://www.fastcompany.com/91621115/the-growing-list-of-ai-insiders-sounding-the-alarm-on-their-own-companies?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-11T11:11:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Claude AI sent US police a false murder tip, authorities say",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeTZsaC1QSm8xZkJWcXd5R2ZWVkZ4QjYtSUIzZDZHdjRwSTBSWm9vdG05NG1POG83WVZBQjVjTmZxam5TbE10UzJtbkg0Si1lMUJzTjNPeDl6TXBrNzRlaDE1QVJrR3BmTzg0VHJqRE9mWEN1S1c1aTg3S3l4S0U5RmFKcFl5anNYVkZSblNrUGdRVTBiTU1RZ0poN2xRTHp2bWN5R1ZrSnFwb3VYbFY2R2FmakE1aEp4NlVsVzFLb3p2Mm90?oc=5",
+      "source": "Anthropic · via Euronews.com",
+      "date": "2026-10-11T10:45:42.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "date": "2026-10-11T04:14:18.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
+      "url": "https://elpais.com/sociedad/2026-10-11/mark-galeotti-experto-en-crimen-organizado-hemos-creado-una-sociedad-ciborg-a-gran-escala-en-la-que-todos-nuestros-datos-son-vulnerables.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-11T03:30:01.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "Simon Willison",
+      "date": "2026-10-11T00:52:37.000Z"
+    },
+    {
+      "id": 26,
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "source": "Latent Space",
+      "date": "2026-10-10T22:07:17.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTVlfU1h3R1MxeUJ1NDRGN3FtNGxTN1ZEVzdYSDdXYmgzcUluRnV2R0dXRWRfWldUcDZ4d0NmSVZvUGFadHFUYmo1YXpfVWFsWVR3UHlMS0lzdkNENEJaYVJBTFBIbGxhNU1XSVpCdlBFZkJQOWpHMnJPd3hSUmM?oc=5",
+      "source": "Startups LatAm · via El Ecosistema Startup",
+      "date": "2026-10-10T17:33:28.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBwa3pVRlJrazdxNmg1aHdRVU16ckRpcHF3S1FweHpVaG93cUxrTm93SHhnTDQ1LWpqa3V2VG9EdFo2WmdLcFNVMExvVmN4U0dRQjAxWlI5cUFOdzNnZ3hDQlZGdFZVZXJCdmtQZmJaWHlmMVZqaWtlSlhGampWVnI4UjNIZEpkbkdnTjRWUDk3Slo4YmE2aktzZ1NlWkxfT2dKNHgyaTRKeE5TbFJr?oc=5",
+      "source": "Mistral AI · via Dealroom",
+      "date": "2026-10-10T15:51:33.000Z"
+    },
+    {
+      "id": 29,
+      "title": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J2cTNIQlBFaXpncjBrLVlabHR4Wk9kSlNDVjBCUWJjNDBtNnBRYi1fTFNWNTFnQ2NBeUhYQXdHWEpEUU0tVGNTMkE3c1hLRjZHWXQzRXdrTTVKUUptT3Nlc0JUTWlzdkRfN2RtQjhISHd1T0JMakNPZEI5QVZ2RTNZVGQyUllhSVZ0M29NdGp1OTJRUC0zREVGTWR3RjV3SXZoNFlrZVJHSUQ3OVdn?oc=5",
+      "source": "Perplexity · via MakeUseOf",
+      "date": "2026-10-10T10:00:13.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 180,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

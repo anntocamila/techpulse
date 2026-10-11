@@ -1,0 +1,490 @@
+{
+  "id": "2026-10-11-14",
+  "generatedAt": "2026-10-11T14:31:24.927Z",
+  "periodStart": "2026-10-09T14:31:24.927Z",
+  "periodEnd": "2026-10-11T14:31:24.927Z",
+  "title": "Titulares del 11 de octubre",
+  "subtitle": "201 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft's Nadella Wants An Emergency Brake On Every AI Model",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Mistral AI launches Large 4 preview ahead of open-weight release",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Anthropic | History, Controversies, & Claude AI",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Impactful scheduling for GPU clusters",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Exclusive | Andreessen Horowitz and Atlas Holdings Want AI Entrepreneurs on the Factory Floor",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Gboard Kurukuru Version",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "What to know about the landmark Warner Bros. Discovery sale",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "3 razones para ver la segunda temporada de ‘Furia’, la serie española que impactó desde su estreno",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "The list of AI insiders sounding the alarm on their own companies keeps growing",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Travel AI’s Prove-It Phase, Visibility, and the Booking Gap",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why it's important to backup data saved on your older thumb drives",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Vurt wants you to look at vertical videos as a genre of their own",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "I Made Terrible Games With Google’s AI Playground",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Nitter: Update Oct 10th seeking funding and legal help",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Vurt is betting that the next big thing in vertical entertainment is living on wide-screen TVs.﻿ www.theverge.com/entertainmen...",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Dwarf Fortress uses version control now",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "I expect rapid progress but not towards general superintelligence",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-11T14:31:25.556Z"
+    },
+    {
+      "id": 2,
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "source": "TechCrunch",
+      "date": "2026-10-11T14:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Why it's important to backup data saved on your older thumb drives",
+      "url": "https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/",
+      "source": "Engadget",
+      "date": "2026-10-11T14:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-11T14:08:44.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Tiene 16 episodios y lleva ocho años en Netflix: en cuatro semanas dejará de estar disponible",
+      "url": "https://www.xataka.com/cine-y-tv/tiene-16-episodios-lleva-ocho-anos-netflix-cuatro-semanas-dejara-estar-disponible",
+      "source": "Xataka",
+      "date": "2026-10-11T14:00:27.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Microsoft's Nadella Wants An Emergency Brake On Every AI Model",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDVmSEh3X0pzMWZMMy1fNjRKZjlFZ3VHVHBkZ2RodUtHLUFGanVJWHl1X0NSZW82VlNkYjI5OVdJcmxYNHRFeVFfQloyV0ctZ1JCVk5TWHJrTzZJQUpTNURwdXhRVFpvOWdsRkktOUFyM1BIbENZeG5pMUlGam9YY0Y5MTBKY2Z0ZHBGYndBNGV2cm02bkRBdkZiN1pBRHVscG1WTjR5aHJJTkRlaVNPZzAxcEV5b2NoVWd2dGh4WQ?oc=5",
+      "source": "Microsoft AI · via Forbes",
+      "date": "2026-10-11T13:42:33.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Mistral AI launches Large 4 preview ahead of open-weight release",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTh1Y0ZrMlZtQXAwTFVjcXhCbVJNVlNoZVdwMFVQX2d6bUNpSlktclk5a0pONTc4WmpLVXlmeUJnelpqUUVJQXUwR3VPUW9tNTFzcTVsbGxnb3lCYkxjUFN4c0xYWHA3ZGQzcWFtWkF3UERZZThqUF9xczFWTVFURjZ6bHg5S0FzampwNXp4QjZRMm5ETHIyWlZmN0NTZzQwYkUydk8xRU9SVS1vbDhrVA?oc=5",
+      "source": "Mistral AI · via AI News",
+      "date": "2026-10-11T13:35:05.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Vurt is betting that the next big thing in vertical entertainment is living on wide-screen TVs.﻿ www.theverge.com/entertainmen...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxm3frjkec2l",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-11T13:13:02.848Z"
+    },
+    {
+      "id": 9,
+      "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
+      "url": "https://www.techmeme.com/261011/p6#a261011p6",
+      "source": "Techmeme",
+      "date": "2026-10-11T13:00:51.000Z"
+    },
+    {
+      "id": 10,
+      "title": "From ‘Artificial’ to ‘Musk’: Hollywood puts tech giants under microscope",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3oyMXNSRFZoSnAyaXlEWGVZN1BVWUIwanRTdEFUbTgyeUFmdmVFQi05djFLSWM5SGdYYnAxSVpZM1pHQmdtTXlDeDZsTHFfVklLM0JUX2ZBdHJzYzBBZzN2NGpSQUZPTzZzNWc1dzhMNnlwZ1NSc0tCaXRBYkdQdldFTHdHMjJwWkNYMW0zQkZOYWFGcjEwUW9ub1gtc3FFNkRvS29aN0g1SGFhRTdQdU1Cd1E3T2RfQ1U4ZHVNc2g?oc=5",
+      "source": "Google News · IA · via NBC News",
+      "date": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "3 razones para ver la segunda temporada de ‘Furia’, la serie española que impactó desde su estreno",
+      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-la-segunda-temporada-de-furia-la-serie-espanola-que-impacto-desde-su-estreno/",
+      "source": "Hipertextual",
+      "date": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "source": "The Verge",
+      "date": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Travel AI’s Prove-It Phase, Visibility, and the Booking Gap",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGt2cXZIMzBuRkNXcUN6SW9Tc2JjNkZnYWM4VEFVbUdwRGFEZjV5WEN4RzN0R3JkV082M3FLa2lGZmN1eTNiMHh3VzdYTkx5VW93X3Z3dU1xUTh5T1RhdTFmSUJ4bVg2WHg0dXl0elgyMkpLQzFZVjRVUVJkcV9GcGt1ZGFDLURGbDh3UGZkOA?oc=5",
+      "source": "Google News · Eventos tech · via Skift",
+      "date": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired",
+      "date": "2026-10-11T11:30:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+      "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+      "source": "The Register",
+      "date": "2026-10-11T11:30:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "The list of AI insiders sounding the alarm on their own companies keeps growing",
+      "url": "https://www.fastcompany.com/91621115/the-growing-list-of-ai-insiders-sounding-the-alarm-on-their-own-companies?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-11T11:11:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge AI",
+      "date": "2026-10-11T11:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "source": "Hacker News",
+      "date": "2026-10-11T10:37:55.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "source": "Anthropic · via Britannica",
+      "date": "2026-10-11T10:10:51.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Exclusive | Andreessen Horowitz and Atlas Holdings Want AI Entrepreneurs on the Factory Floor",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWZQSGpuVWQ1QlFzd3BaMjgzM2FZSEVJeTkxQjNaWHJXWTBHQkx6WENqbmNKZmtnZTdHWFJpV2Z2R0taNzY1OHllV1k0ZnFQcVkwVGk1VE1TNEFTdnFKTGVhZThIOTBsUTh6YWdpaEJ6djZhMnVTc0thcnpURTBpMFVMUnFMLXRDZ0pQWG1jalBpUXVjNldzdUtqRVVqdWRzQmtQQWZMelBKZEdDTy02d2JmOUQwSnZ6OVZxcnd1VHV4Zmx4Z2JvTk9R?oc=5",
+      "source": "a16z · via WSJ",
+      "date": "2026-10-11T07:27:34.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Gboard Kurukuru Version",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "date": "2026-10-11T04:14:18.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Mark Galeotti, experto en crimen organizado: “Hemos creado una sociedad cíborg a gran escala en la que todos nuestros datos son vulnerables”",
+      "url": "https://elpais.com/sociedad/2026-10-11/mark-galeotti-experto-en-crimen-organizado-hemos-creado-una-sociedad-ciborg-a-gran-escala-en-la-que-todos-nuestros-datos-son-vulnerables.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-11T03:30:01.000Z"
+    },
+    {
+      "id": 23,
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-10-11T00:59:52.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "Simon Willison",
+      "date": "2026-10-11T00:52:37.000Z"
+    },
+    {
+      "id": 25,
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "source": "Latent Space",
+      "date": "2026-10-10T22:07:17.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-10T19:50:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTVlfU1h3R1MxeUJ1NDRGN3FtNGxTN1ZEVzdYSDdXYmgzcUluRnV2R0dXRWRfWldUcDZ4d0NmSVZvUGFadHFUYmo1YXpfVWFsWVR3UHlMS0lzdkNENEJaYVJBTFBIbGxhNU1XSVpCdlBFZkJQOWpHMnJPd3hSUmM?oc=5",
+      "source": "Startups LatAm · via El Ecosistema Startup",
+      "date": "2026-10-10T17:33:28.000Z"
+    },
+    {
+      "id": 28,
+      "title": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who actually deserves my power button",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J2cTNIQlBFaXpncjBrLVlabHR4Wk9kSlNDVjBCUWJjNDBtNnBRYi1fTFNWNTFnQ2NBeUhYQXdHWEpEUU0tVGNTMkE3c1hLRjZHWXQzRXdrTTVKUUptT3Nlc0JUTWlzdkRfN2RtQjhISHd1T0JMakNPZEI5QVZ2RTNZVGQyUllhSVZ0M29NdGp1OTJRUC0zREVGTWR3RjV3SXZoNFlrZVJHSUQ3OVdn?oc=5",
+      "source": "Perplexity · via MakeUseOf",
+      "date": "2026-10-10T10:00:13.000Z"
+    },
+    {
+      "id": 29,
+      "title": "I expect rapid progress but not towards general superintelligence",
+      "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+      "source": "Interconnects",
+      "date": "2026-10-09T21:33:47.000Z"
+    },
+    {
+      "id": 30,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
+      "source": "Crunchbase News",
+      "date": "2026-10-09T18:28:35.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
+      "url": "https://sifted.eu/articles/report-open-model-abliteration-ai-safety/",
+      "source": "Sifted",
+      "date": "2026-10-09T16:48:02.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-09T15:20:29.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 201,
+    "sourcesOk": 60,
+    "sourcesFailed": 3
+  },
+  "generator": "headlines"
+}

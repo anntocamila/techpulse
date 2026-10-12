@@ -1,0 +1,542 @@
+{
+  "id": "2026-10-12-17",
+  "generatedAt": "2026-10-12T17:10:59.499Z",
+  "periodStart": "2026-10-10T17:10:59.499Z",
+  "periodEnd": "2026-10-12T17:10:59.499Z",
+  "title": "Titulares del 12 de octubre",
+  "subtitle": "216 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Meta has some Wonder Full new AI models",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "The Download: moon city problems and drone traffic controllers",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why did Anthropic's AI file a fake homicide report?",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Simulating student learning for better AI tutoring",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Microsoft unveils Maia 300 AI chip to boost Copilot, Teams and other services",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Claude Opus 5.5 Tops Epoch AI Leaderboard [2026]",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Loops Raises $3.5M From a16z Speedrun to Build the Retail OS for Agentic Commerce",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Stryker to invest $400m in CMR Surgical, with option to buy it outright",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Kudos 3.0",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Hay un misterioso joven de 16 años que recuerda con precisión el 99% de toda su vida",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Guía para perezosos: los mejores estrenos en streaming para ver ya mismo",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Microsoft president says UK is best placed to drive AI regulation",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Silicon Valley responds to Trump’s hands-off approach to AI regulation at Tech Week",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "¿Por qué vuelven los auriculares con cable a estar de moda? Las razones por las que son de nuevo una opción popular",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Community Summit North America 2026: Microsoft puts AI agents to work",
+          "sources": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Muse Wonder Puts Meta Back at the AI Frontier",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Elon Musk has donated over $276 million to Republican midterm efforts",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Here's what typically drains an EV battery the fastest",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "AMD unveils Helion racks for AI agents at OCP summit",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Meta says the models compete with the industry’s best and will soon power its Muse agent. www.theverge.com/ai-artificia...",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Dwarf Fortress uses version control now",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-12T17:11:00.290Z"
+    },
+    {
+      "id": 2,
+      "title": "Meta says the models compete with the industry’s best and will soon power its Muse agent. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxoyxz7oqs2n",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-12T17:07:32.832Z"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRPcGxVUDBQMWRvWUFCU3EySUhyQWU2WUFtWnVUbzhhX0VnZ2swRzBRbHJlUTBhZ1dxbElJdi1TTzRWLWpOaHQwMnI5WkpGOFZuLTdTOFBsX0dsU2dlbUJfWE5oTkdtd0FOUzNzMkhNejhfVVlFWmVleG5DRzFoRTZjSnAyRnlQM0NwcTB5emNSeXhm?oc=5",
+      "source": "Google News · IA · via Fierce Network",
+      "date": "2026-10-12T17:02:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Hay un misterioso joven de 16 años que recuerda con precisión el 99% de toda su vida",
+      "url": "https://www.xataka.com/investigacion/hay-joven-16-anos-que-recuerda-casi-cualquier-momento-su-vida-ciencia-tiene-mayor-idea-que",
+      "source": "Xataka",
+      "date": "2026-10-12T17:00:28.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "source": "Wired",
+      "date": "2026-10-12T17:00:27.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
+      "url": "https://www.techmeme.com/261012/p31#a261012p31",
+      "source": "Techmeme",
+      "date": "2026-10-12T17:00:13.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge AI",
+      "date": "2026-10-12T17:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Guía para perezosos: los mejores estrenos en streaming para ver ya mismo",
+      "url": "https://hipertextual.com/cine-television/guia-para-perezosos-los-mejores-estrenos-en-streaming-para-ver-ya-mismo/",
+      "source": "Hipertextual",
+      "date": "2026-10-12T17:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "source": "The Verge",
+      "date": "2026-10-12T16:52:54.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Here's what typically drains an EV battery the fastest",
+      "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
+      "source": "Engadget",
+      "date": "2026-10-12T16:45:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Community Summit North America 2026: Microsoft puts AI agents to work",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVdfVHdTSnJrV0ZzQmp3ZUhOaVp5Snh0RlNLbDdIRGRnUnh3RlhLQ1Jkai1xWkVzdjhEX0RrQlZHSlBIckROTDhtYUpxOG9ZdVNjVUdFWHV3REszUU96SVdTQ09JNDdlQ01CeUJfR1V4S2EwaFZzWU8xaXRMSDB1a2tDNm52Z1BDTGVOTkxVME1nYVltbWFBNXZnYXRCNmVNM1lQTS05MGRYU1IxN2c?oc=5",
+      "source": "Google News · Eventos tech · via Technology Record",
+      "date": "2026-10-12T16:38:42.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Loops Raises $3.5M From a16z Speedrun to Build the Retail OS for Agentic Commerce",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUtUZlo3eGo2ZWt3bzVvQnRNMEZiNU14UVVGRGoxNlJVTDVwVG9sRHBhaVNzaTVkN3RlQjZ0WElTbWVEVXIzRy1WSWhlT1A5X3pQaFNBOFZveGRCaERZeDZ6N2I2VEJNeWdrRjc3SGxPcHhxanZsWkJoREZrVHJoeklsUkdSdzJMSkpfdkYwQUlKQjBzT0FYU213RVpOdElvY2dmc3pR?oc=5",
+      "source": "a16z · via HackerNoon",
+      "date": "2026-10-12T16:34:57.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Why did Anthropic's AI file a fake homicide report?",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zbjZaNWVaSFgxMHExSmpLXzAweG8wUXlDNjFodDV2dUQyVTEwRVJ6ZWlDWHRXMGJPNEh5QUNGOWUyaXRZV2ZTTmZObmZZNEs4bV9hblFLeWFCYV9ER1YtcHlzeGRrY0htN21QVVZ4Zw?oc=5",
+      "source": "Anthropic · via WBUR",
+      "date": "2026-10-12T16:08:56.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+      "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+      "source": "Ars Technica",
+      "date": "2026-10-12T16:01:08.000Z"
+    },
+    {
+      "id": 15,
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-12T16:00:54.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Simulating student learning for better AI tutoring",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "source": "Microsoft Research",
+      "date": "2026-10-12T16:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "AMD unveils Helion racks for AI agents at OCP summit",
+      "url": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652",
+      "source": "The Register",
+      "date": "2026-10-12T15:51:36.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-12T15:45:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "date": "2026-10-12T15:31:19.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Stryker to invest $400m in CMR Surgical, with option to buy it outright",
+      "url": "https://sifted.eu/articles/stryker-to-invest-400m-in-cmr-surgical-with-option-to-buy-it-outright/",
+      "source": "Sifted",
+      "date": "2026-10-12T15:23:56.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Microsoft unveils Maia 300 AI chip to boost Copilot, Teams and other services",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcS1DODVKNVNCdzBmWXhtMDAtVl9VYnRjSjhPbXBiN0JicTFySHJFRTNMUTNXemhSMlBDalpLRzVHTFZfQkxJZlpSam9tRHBlYWJkbTM5YmpPcVVoOEctdHd1OEFWRG1DTFdlWG1kb0ZEeW1HbzRWNWxWS1EyczNON21vMVdZcV9nNE5DMEdBbWFWNldCdlRDRk9PNktjckZCNkE?oc=5",
+      "source": "Microsoft AI · via Tech Edition",
+      "date": "2026-10-12T15:17:31.000Z"
+    },
+    {
+      "id": 22,
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "source": "NVIDIA",
+      "date": "2026-10-12T15:00:25.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Silicon Valley responds to Trump’s hands-off approach to AI regulation at Tech Week",
+      "url": "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-12T14:41:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-12T14:04:16.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "source": "Import AI",
+      "date": "2026-10-12T12:30:39.000Z"
+    },
+    {
+      "id": 26,
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-12T12:10:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Claude Opus 5.5 Tops Epoch AI Leaderboard [2026]",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YdVRuOUctTUNlQVlKSF9fTDNQZnVFVno2U3RxaXljZ2pJZEJkZV92YmhoLVVrbG1pdVB1SUcwNWZjOTIwdVlybG1VMHVXVm1PaFk3RThoTjBuRHdWOVBILU5nQmxwdGVTdm5EUGlyUndRaDJicnA1RTVWWG90UQ?oc=5",
+      "source": "Mistral AI · via https://tech-insider.org/",
+      "date": "2026-10-12T06:06:51.000Z"
+    },
+    {
+      "id": 28,
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-10-12T04:21:36.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+      "url": "https://arxiv.org/abs/2610.12545",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-12T04:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "¿Por qué vuelven los auriculares con cable a estar de moda? Las razones por las que son de nuevo una opción popular",
+      "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-12/por-que-vuelven-los-auriculares-con-cable-a-estar-de-moda-las-razones-por-las-que-son-de-nuevo-una-opcion-popular.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-12T03:30:01.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Kudos 3.0",
+      "url": "https://www.producthunt.com/products/kudos-smart-wallet",
+      "source": "Product Hunt",
+      "date": "2026-10-12T01:58:06.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The investor&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-11T17:53:37.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Dwarf Fortress uses version control now",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "source": "Simon Willison",
+      "date": "2026-10-11T00:52:37.000Z"
+    },
+    {
+      "id": 35,
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "url": "https://www.latent.space/p/nyc2026",
+      "source": "Latent Space",
+      "date": "2026-10-10T22:07:17.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Myca, IA agrícola, levanta US$1,3M y va a LATAM",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTVlfU1h3R1MxeUJ1NDRGN3FtNGxTN1ZEVzdYSDdXYmgzcUluRnV2R0dXRWRfWldUcDZ4d0NmSVZvUGFadHFUYmo1YXpfVWFsWVR3UHlMS0lzdkNENEJaYVJBTFBIbGxhNU1XSVpCdlBFZkJQOWpHMnJPd3hSUmM?oc=5",
+      "source": "Startups LatAm · via El Ecosistema Startup",
+      "date": "2026-10-10T17:33:28.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 216,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

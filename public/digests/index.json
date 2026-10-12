@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-10-12-17",
+    "generatedAt": "2026-10-12T17:10:59.499Z",
+    "title": "Titulares del 12 de octubre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-10-11-23",
     "generatedAt": "2026-10-11T23:20:00.120Z",
     "title": "Titulares del 11 de octubre",
@@ -350,12 +356,6 @@
   {
     "id": "2026-09-12-21",
     "generatedAt": "2026-09-12T21:52:22.005Z",
-    "title": "Titulares del 12 de septiembre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-09-12-11",
-    "generatedAt": "2026-09-12T11:50:48.426Z",
     "title": "Titulares del 12 de septiembre",
     "generator": "headlines"
   }

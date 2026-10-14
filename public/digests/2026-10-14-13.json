@@ -1,0 +1,555 @@
+{
+  "id": "2026-10-14-13",
+  "generatedAt": "2026-10-14T13:12:47.716Z",
+  "periodStart": "2026-10-12T13:12:47.716Z",
+  "periodEnd": "2026-10-14T13:12:47.716Z",
+  "title": "Titulares del 14 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "The Download: faking blood and the future of batteries",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Samsung adds support for new languages across Galaxy AI features and Bixby",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Microsoft knows it robbed publishers to train AI. It just doesn’t care",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "The French approach to Artificial Intelligence: how Paris is safeguarding its technological sovereignty through the Nvidia-Mistral partnership",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Forgepoint raises $9.8M from Primary and a16z speedrun to put AI on the factory quote desk",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Exclusive: Stella &#038; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "AI is turning finance from reactive to proactive",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "RoleFit",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "¿Vas a configurar un PC nuevo? Consigue Windows 11 Pro por 11,96 euros y Office 2024 Pro por 21,92 euros",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Nintendo just made an unusual decision—and it’s going to be good for business",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Justice Department says North Koreans have infiltrated dozens of US companies",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Formlabs Has a 3D Printer for Normies",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "US tech giants warn Europe that ditching US tech giants could cost €115B",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "The Internet’s undersea backbone is slipping into the danger zone",
+          "sources": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Based on @cameronfaulkner.bsky.social's early hands-on time with the new Ocarina of Time Remake, it’s shaping up to be the best-looking, …",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "An Agent’s Plan Isn’t Permission",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "X’s reverse eternal September",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Redesigning source control at Anthropic",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Zuck’s wonder...full",
+          "sources": [
+            37
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-14T13:12:48.355Z"
+    },
+    {
+      "id": 2,
+      "title": "Based on @cameronfaulkner.bsky.social's early hands-on time with the new Ocarina of Time Remake, it’s shaping up to be the best-looking, …",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxtmqgk45k2c",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-14T13:11:53.766Z"
+    },
+    {
+      "id": 3,
+      "title": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261014/p19#a261014p19",
+      "source": "Techmeme",
+      "date": "2026-10-14T13:11:39.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
+      "url": "https://www.xataka.com/robotica-e-ia/todas-empresas-ia-quieren-crear-sus-propios-chips-asi-que-nvidia-quiere-ahora-tener-su-propia-ia",
+      "source": "Xataka",
+      "date": "2026-10-14T13:00:30.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEdVZ0NfSTRQbUstZHN1YkhzRHlkRU15N3NrUnNEeVgzZlBLQVdzczJFY2szOEpwdERyVXdVNFIxVHlCNmpVZEVKUTZoMnZjZUpNRTFFU3MyRnNvZlBpNjlzYzVRTFhpVHo3cWVhVEZWTThBNzlyUVlvemphTWRWSnZmd0VmU3N5T3J4bDEtUGs3S0F3bXNfYWx6N3hVR2dLVGc?oc=5",
+      "source": "Google News · IA · via Los Angeles Times",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
+      "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+      "source": "The Verge",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Formlabs Has a 3D Printer for Normies",
+      "url": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
+      "source": "Wired",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks",
+      "url": "https://www.engadget.com/2285785/the-legend-of-zelda-ocarina-of-time-preview/",
+      "source": "Engadget",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+      "url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-14T12:45:09.000Z"
+    },
+    {
+      "id": 10,
+      "title": "US tech giants warn Europe that ditching US tech giants could cost €115B",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+      "source": "The Register",
+      "date": "2026-10-14T12:45:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-14T12:10:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "An Agent’s Plan Isn’t Permission",
+      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
+      "source": "dev.to · IA · via dev.to staff",
+      "date": "2026-10-14T12:05:28.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Forgepoint raises $9.8M from Primary and a16z speedrun to put AI on the factory quote desk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaW5NUnU1cHhmZmdTaWVOX01uXzNiRHhnNDRsQkpMSHp2UGJ5Uy1scWdMS2RUTGt1LUlZRGM5a090bTV5X1oyRmU0VW9RYzhDS3VKZEZpWm1aaWpaNXVwdEF6ajc2azIxY1JoNm9qSllrUXBoQXY4b2RDbTRRRFVxX2VwZTdLbmdkY0tPRVduY2JIWXhrd1ROOXBhVnZOUGk5VHRlQl9FdnI1eVZLRjROWGsySi0zMmZFU1E?oc=5",
+      "source": "a16z · via Tech Funding News",
+      "date": "2026-10-14T12:02:58.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Exclusive: Stella &#038; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
+      "url": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
+      "source": "Crunchbase News",
+      "date": "2026-10-14T12:00:38.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Samsung adds support for new languages across Galaxy AI features and Bixby",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXNMcWdFd0trNHROYU1nR2h5NEdHUGRlbFgzWkI1amlSQzVVRnVrTnhTTElSa3dnaTA5U2hwYmhYT0VDbTBGTEZYSXRnZXB0d2tBdzVHbmRWOUZSa3MxVzhsdGxmTnNtOTdyZ09TdlBCSVotN21nWUpZRjRULVVnX1UycEVteC1HekExVHR0YlFpa05LZDJ5LUktVXhRQzlsNm5uend4bjhBRXFwS2h4d0U4OXo?oc=5",
+      "source": "Perplexity · via GSMArena.com",
+      "date": "2026-10-14T11:41:02.000Z"
+    },
+    {
+      "id": 16,
+      "title": "The Internet’s undersea backbone is slipping into the danger zone",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+      "source": "Ars Technica",
+      "date": "2026-10-14T11:15:24.000Z"
+    },
+    {
+      "id": 17,
+      "title": "AI is turning finance from reactive to proactive",
+      "url": "https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd/",
+      "source": "Sifted",
+      "date": "2026-10-14T11:05:46.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Microsoft knows it robbed publishers to train AI. It just doesn’t care",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUJ2dFN3bmZWa1ZDNUtabXZvbUlJNDVZa1BMTXktODBoVnNNV1VhczZ6MWdnZVdKeWdBWlJrR29Gd054Q0lMem9Ua2tZSi00SGpVWmMwWU1VX0t0ZWdiZDh0aXRXbUpUd01zV3N3dGpuOVlIdXBxcE00M254QzFEblowWEEtMWMxdnlwZVZzTlNWVWUwUXdPbEFUZkZ3ZFJNbkNRQ1N2eF9idVEyeWc5VV9ZNW8zcWhYUjdR?oc=5",
+      "source": "Microsoft AI · via Computerworld",
+      "date": "2026-10-14T11:05:35.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-14T11:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
+      "source": "Anthropic · via Scientific American",
+      "date": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "¿Vas a configurar un PC nuevo? Consigue Windows 11 Pro por 11,96 euros y Office 2024 Pro por 21,92 euros",
+      "url": "https://hipertextual.com/ofertas-descuentos/windows-11-pro-pc/",
+      "source": "Hipertextual",
+      "date": "2026-10-14T09:33:21.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Nintendo just made an unusual decision—and it’s going to be good for business",
+      "url": "https://www.fastcompany.com/91622966/why-nintendo-is-sticking-with-physical-video-games-for-now?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-14T09:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
+      "url": "https://elpais.com/tecnologia/2026-10-14/una-grabadora-oculta-en-openai-el-fbi-detiene-a-un-empleado-acusado-de-espiar-reuniones-confidenciales.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-14T06:45:45.000Z"
+    },
+    {
+      "id": 24,
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "source": "NVIDIA",
+      "date": "2026-10-14T06:04:15.000Z"
+    },
+    {
+      "id": 25,
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "source": "Latent Space",
+      "date": "2026-10-14T05:40:28.000Z"
+    },
+    {
+      "id": 26,
+      "title": "The French approach to Artificial Intelligence: how Paris is safeguarding its technological sovereignty through the Nvidia-Mistral partnership",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYjVRaTZjcjEwTzFnX0VrSjJibkpnRC1GMUZVZmo5NmN4ZFpMY3Zpcm41YndlVlh4dXNoZmU5RWgtWXl0dWFmWEFKZjJpdHEwMHFTODFRRG8zc2stOVhuZEZrMzVsb2hYY3VnUS1tTjFibGZtbVltU0Vsa05vcFVHSG5jV1RleUUweFc4c2ZQNXVHMEZrYV83aU40aWdFU0tDd1NhV0M4YTNwalRzT00xMFVQZ1loVTQ0OG9xVmhKdXd5ZHNaV1dIRUtsdWotdzJpbkRJeUNsQnlyRjNHWnpNbExFLVBPc21HX1c1VzdySVhCSFZENVR1SHlteVFCdVdYUk1LYTltMk9aZw?oc=5",
+      "source": "Mistral AI · via Il Sole 24 ORE",
+      "date": "2026-10-14T05:19:19.000Z"
+    },
+    {
+      "id": 27,
+      "title": "RoleFit",
+      "url": "https://www.producthunt.com/products/rolefit",
+      "source": "Product Hunt",
+      "date": "2026-10-14T05:07:36.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-14T04:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+      "url": "https://arxiv.org/abs/2610.13989",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-14T04:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlAtM0gxcXhQZndzdWNLb0IwZXZ2dVYwenVYbHlBSFBBd1dvc3JjZGdHQk43dnZLM2VicUNEMnZLYXczYWJLM3dHa1lIMlFlLWRINy13eFo4N3UwMmRHaFpkRmM3T2xqVDhuVUd6ZTNnVWJJZTlIQ1dmQUJkT1A1cEo0WWlhTGh1VnFVZU52Zkk?oc=5",
+      "source": "Google News · Eventos tech · via WSJ",
+      "date": "2026-10-14T02:02:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "date": "2026-10-14T02:00:14.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T01:30:42.000Z"
+    },
+    {
+      "id": 33,
+      "title": "X’s reverse eternal September",
+      "url": "https://www.platformer.news/x-reverse-eternal-september/",
+      "source": "Platformer",
+      "date": "2026-10-14T00:30:34.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "source": "Simon Willison",
+      "date": "2026-10-13T23:00:06.000Z"
+    },
+    {
+      "id": 35,
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge AI",
+      "date": "2026-10-13T20:45:25.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "source": "Launch HN",
+      "date": "2026-10-13T15:41:00.000Z"
+    },
+    {
+      "id": 37,
+      "title": "Zuck’s wonder...full",
+      "url": "https://www.bensbites.com/p/zucks-wonderfull",
+      "source": "Ben's Bites",
+      "date": "2026-10-13T13:00:35.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

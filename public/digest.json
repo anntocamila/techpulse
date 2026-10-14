@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-13-23",
-  "generatedAt": "2026-10-13T23:32:46.696Z",
-  "periodStart": "2026-10-11T23:32:46.696Z",
-  "periodEnd": "2026-10-13T23:32:46.696Z",
-  "title": "Titulares del 13 de octubre",
+  "id": "2026-10-14-13",
+  "generatedAt": "2026-10-14T13:12:47.716Z",
+  "periodStart": "2026-10-12T13:12:47.716Z",
+  "periodEnd": "2026-10-14T13:12:47.716Z",
+  "title": "Titulares del 14 de octubre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -19,21 +19,33 @@
           ]
         },
         {
+          "text": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "The Download: faking blood and the future of batteries",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+          "sources": [
+            29
+          ]
+        },
+        {
           "text": "OpenAI employee arrested for allegedly planting a bug in a conference room",
           "sources": [
-            18
-          ]
-        },
-        {
-          "text": "Kroger to lay off thousands of employees amid its increase in AI usage",
-          "sources": [
-            22
-          ]
-        },
-        {
-          "text": "The Download: open model trade-offs and geothermal power’s promise",
-          "sources": [
-            31
+            35
           ]
         }
       ]
@@ -45,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+          "text": "Samsung adds support for new languages across Galaxy AI features and Bixby",
           "sources": [
-            14
+            15
           ]
         },
         {
-          "text": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+          "text": "Microsoft knows it robbed publishers to train AI. It just doesn’t care",
           "sources": [
-            16
+            18
           ]
         },
         {
-          "text": "Developing Gemini 4 Argon responsibly and safely",
+          "text": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
           "sources": [
-            23
+            20
           ]
         },
         {
-          "text": "AI powerhouse Cohere to open office near Lansdowne Park",
+          "text": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
           "sources": [
             24
           ]
         },
         {
-          "text": "Microsoft’s Copilot Notebooks Challenge Google’s AI Research Tool",
+          "text": "The French approach to Artificial Intelligence: how Paris is safeguarding its technological sovereignty through the Nvidia-Mistral partnership",
           "sources": [
-            25
+            26
           ]
         },
         {
-          "text": "Nvidia plans $2 billion in new European AI investments",
+          "text": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
           "sources": [
-            26
+            31
           ]
         }
       ]
@@ -89,39 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Nvidia announces billion-dollar investments in European tech",
+          "text": "Forgepoint raises $9.8M from Primary and a16z speedrun to put AI on the factory quote desk",
           "sources": [
-            15
+            13
           ]
         },
         {
-          "text": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+          "text": "Exclusive: Stella &#038; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
           "sources": [
-            21
+            14
+          ]
+        },
+        {
+          "text": "AI is turning finance from reactive to proactive",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "RoleFit",
+          "sources": [
+            27
           ]
         },
         {
           "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
           "sources": [
-            28
-          ]
-        },
-        {
-          "text": "Where The Next Generation Of Super Apps Will Be Built",
-          "sources": [
-            32
-          ]
-        },
-        {
-          "text": "GotEmail",
-          "sources": [
-            33
-          ]
-        },
-        {
-          "text": "VCs Transform into Full-Service Platforms for AI Startups",
-          "sources": [
-            34
+            36
           ]
         }
       ]
@@ -133,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "text": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
           "sources": [
-            6
+            4
           ]
         },
         {
-          "text": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+          "text": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
           "sources": [
-            8
+            9
           ]
         },
         {
-          "text": "Estas versiones de Windows 11 se quedan sin soporte desde hoy: cómo te afecta y qué puedes hacer",
+          "text": "¿Vas a configurar un PC nuevo? Consigue Windows 11 Pro por 11,96 euros y Office 2024 Pro por 21,92 euros",
           "sources": [
-            13
+            21
           ]
         },
         {
-          "text": "OpenAI encuentra un \"sofisticado\" dispositivo de grabación en sus oficinas y se pone en manos del FBI",
+          "text": "Nintendo just made an unusual decision—and it’s going to be good for business",
           "sources": [
-            20
+            22
           ]
         },
         {
-          "text": "Rogue agents are the price of a breakneck AI arms race",
+          "text": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
           "sources": [
-            27
+            23
           ]
         },
         {
-          "text": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
+          "text": "Justice Department says North Koreans have infiltrated dozens of US companies",
           "sources": [
-            29
+            32
           ]
         }
       ]
@@ -177,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Goodwill Keystone AI summit explores how it can help PA people to find jobs",
+          "text": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room",
           "sources": [
-            3
+            30
           ]
         }
       ]
@@ -191,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Is Mini DisplayPort becoming obsolete?",
+          "text": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
           "sources": [
-            2
+            3
           ]
         },
         {
-          "text": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
+          "text": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
           "sources": [
-            4
+            6
           ]
         },
         {
-          "text": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+          "text": "Formlabs Has a 3D Printer for Normies",
           "sources": [
-            5
+            7
           ]
         },
         {
-          "text": "Apple’s HomeView ad is confusing to everyone except parents",
+          "text": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks",
           "sources": [
-            11
+            8
           ]
         },
         {
-          "text": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+          "text": "US tech giants warn Europe that ditching US tech giants could cost €115B",
           "sources": [
-            12
+            10
           ]
         },
         {
-          "text": "OpenAI engineer arrested in bugging of executive conference room",
+          "text": "The Internet’s undersea backbone is slipping into the danger zone",
           "sources": [
-            19
+            16
           ]
         }
       ]
@@ -235,33 +247,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
+          "text": "Based on @cameronfaulkner.bsky.social's early hands-on time with the new Ocarina of Time Remake, it’s shaping up to be the best-looking, …",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "An Agent’s Plan Isn’t Permission",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "X’s reverse eternal September",
+          "sources": [
+            33
+          ]
+        },
+        {
           "text": "Redesigning source control at Anthropic",
           "sources": [
-            7
-          ]
-        },
-        {
-          "text": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-          "sources": [
-            9
-          ]
-        },
-        {
-          "text": "The chaos is surprisingly real for an Apple commercial. www.theverge.com/tech/1010561...",
-          "sources": [
-            10
-          ]
-        },
-        {
-          "text": "Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching",
-          "sources": [
-            17
+            34
           ]
         },
         {
           "text": "Zuck’s wonder...full",
           "sources": [
-            30
+            37
           ]
         }
       ]
@@ -273,244 +291,265 @@
       "title": "google/embeddinggemma-2",
       "url": "https://huggingface.co/google/embeddinggemma-2",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-13T23:32:47.536Z"
+      "date": "2026-10-14T13:12:48.355Z"
     },
     {
       "id": 2,
-      "title": "Is Mini DisplayPort becoming obsolete?",
-      "url": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/",
-      "source": "Engadget",
-      "date": "2026-10-13T23:30:00.000Z"
+      "title": "Based on @cameronfaulkner.bsky.social's early hands-on time with the new Ocarina of Time Remake, it’s shaping up to be the best-looking, …",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxtmqgk45k2c",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-14T13:11:53.766Z"
     },
     {
       "id": 3,
-      "title": "Goodwill Keystone AI summit explores how it can help PA people to find jobs",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQcjdGcU5fcDNVbzMtU01MdnRxUW5WVTFwYURRRzRMTzYybjUxTDZkMjQ1c3h5Q2hQekRwUjJDNnpacFEwbkxrcnhKQXVub00tQ1ZDTUQySXljRUtIZ2ZpT0s5Zk1PVW9UWm5SMmpwMkV4WXFPbzR5ajR4bUlXLVBhY1NqeXUxREtvN1ZqSjFiSDdCZXd0M1JjaVB0ZG1XR2w1b1V3dy12VmwzZFZoZ25TTE1qdHRJMUR1WVR2WmQ4QnJ2VS1Yd2pyeFZNQVE0NTcyTmR5UXVQa3cyTzV3dV9Sdk5nWXNLNXFxNjRUS09BZ2ZMNTZ5SDE4eEJ0dEFSeUgyTGh2eHFtNGo5aHVVRUJ5MnNvNkhqc2N2OUVRRWtnQzVYUkYxUUdwUGpsSVV5Q2tmZVdBUE9XLTc2dw?oc=5",
-      "source": "Google News · Eventos tech · via WHP Harrisburg",
-      "date": "2026-10-13T23:25:23.000Z"
+      "title": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261014/p19#a261014p19",
+      "source": "Techmeme",
+      "date": "2026-10-14T13:11:39.000Z"
     },
     {
       "id": 4,
-      "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
-      "url": "https://www.techmeme.com/261013/p47#a261013p47",
-      "source": "Techmeme",
-      "date": "2026-10-13T23:20:01.000Z"
+      "title": "Todas las empresas de IA quieren crear sus propios chips, así que Nvidia quiere ahora tener su propia IA",
+      "url": "https://www.xataka.com/robotica-e-ia/todas-empresas-ia-quieren-crear-sus-propios-chips-asi-que-nvidia-quiere-ahora-tener-su-propia-ia",
+      "source": "Xataka",
+      "date": "2026-10-14T13:00:30.000Z"
     },
     {
       "id": 5,
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "source": "Wired",
-      "date": "2026-10-13T23:17:59.000Z"
+      "title": "Letters to the Editor: AI self-regulation is akin to sports teams refereeing their own games",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEdVZ0NfSTRQbUstZHN1YkhzRHlkRU15N3NrUnNEeVgzZlBLQVdzczJFY2szOEpwdERyVXdVNFIxVHlCNmpVZEVKUTZoMnZjZUpNRTFFU3MyRnNvZlBpNjlzYzVRTFhpVHo3cWVhVEZWTThBNzlyUVlvemphTWRWSnZmd0VmU3N5T3J4bDEtUGs3S0F3bXNfYWx6N3hVR2dLVGc?oc=5",
+      "source": "Google News · IA · via Los Angeles Times",
+      "date": "2026-10-14T13:00:00.000Z"
     },
     {
       "id": 6,
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "date": "2026-10-13T23:13:31.000Z"
+      "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
+      "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+      "source": "The Verge",
+      "date": "2026-10-14T13:00:00.000Z"
     },
     {
       "id": 7,
+      "title": "Formlabs Has a 3D Printer for Normies",
+      "url": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
+      "source": "Wired",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks",
+      "url": "https://www.engadget.com/2285785/the-legend-of-zelda-ocarina-of-time-preview/",
+      "source": "Engadget",
+      "date": "2026-10-14T13:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
+      "url": "https://www.cnbc.com/2026/10/14/5-things-to-know-before-the-stock-market-opens.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-14T12:45:09.000Z"
+    },
+    {
+      "id": 10,
+      "title": "US tech giants warn Europe that ditching US tech giants could cost €115B",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+      "source": "The Register",
+      "date": "2026-10-14T12:45:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-14T12:10:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "An Agent’s Plan Isn’t Permission",
+      "url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
+      "source": "dev.to · IA · via dev.to staff",
+      "date": "2026-10-14T12:05:28.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Forgepoint raises $9.8M from Primary and a16z speedrun to put AI on the factory quote desk",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaW5NUnU1cHhmZmdTaWVOX01uXzNiRHhnNDRsQkpMSHp2UGJ5Uy1scWdMS2RUTGt1LUlZRGM5a090bTV5X1oyRmU0VW9RYzhDS3VKZEZpWm1aaWpaNXVwdEF6ajc2azIxY1JoNm9qSllrUXBoQXY4b2RDbTRRRFVxX2VwZTdLbmdkY0tPRVduY2JIWXhrd1ROOXBhVnZOUGk5VHRlQl9FdnI1eVZLRjROWGsySi0zMmZFU1E?oc=5",
+      "source": "a16z · via Tech Funding News",
+      "date": "2026-10-14T12:02:58.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Exclusive: Stella &#038; Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
+      "url": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
+      "source": "Crunchbase News",
+      "date": "2026-10-14T12:00:38.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Samsung adds support for new languages across Galaxy AI features and Bixby",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXNMcWdFd0trNHROYU1nR2h5NEdHUGRlbFgzWkI1amlSQzVVRnVrTnhTTElSa3dnaTA5U2hwYmhYT0VDbTBGTEZYSXRnZXB0d2tBdzVHbmRWOUZSa3MxVzhsdGxmTnNtOTdyZ09TdlBCSVotN21nWUpZRjRULVVnX1UycEVteC1HekExVHR0YlFpa05LZDJ5LUktVXhRQzlsNm5uend4bjhBRXFwS2h4d0U4OXo?oc=5",
+      "source": "Perplexity · via GSMArena.com",
+      "date": "2026-10-14T11:41:02.000Z"
+    },
+    {
+      "id": 16,
+      "title": "The Internet’s undersea backbone is slipping into the danger zone",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+      "source": "Ars Technica",
+      "date": "2026-10-14T11:15:24.000Z"
+    },
+    {
+      "id": 17,
+      "title": "AI is turning finance from reactive to proactive",
+      "url": "https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd/",
+      "source": "Sifted",
+      "date": "2026-10-14T11:05:46.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Microsoft knows it robbed publishers to train AI. It just doesn’t care",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUJ2dFN3bmZWa1ZDNUtabXZvbUlJNDVZa1BMTXktODBoVnNNV1VhczZ6MWdnZVdKeWdBWlJrR29Gd054Q0lMem9Ua2tZSi00SGpVWmMwWU1VX0t0ZWdiZDh0aXRXbUpUd01zV3N3dGpuOVlIdXBxcE00M254QzFEblowWEEtMWMxdnlwZVZzTlNWVWUwUXdPbEFUZkZ3ZFJNbkNRQ1N2eF9idVEyeWc5VV9ZNW8zcWhYUjdR?oc=5",
+      "source": "Microsoft AI · via Computerworld",
+      "date": "2026-10-14T11:05:35.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-14T11:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
+      "source": "Anthropic · via Scientific American",
+      "date": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "¿Vas a configurar un PC nuevo? Consigue Windows 11 Pro por 11,96 euros y Office 2024 Pro por 21,92 euros",
+      "url": "https://hipertextual.com/ofertas-descuentos/windows-11-pro-pc/",
+      "source": "Hipertextual",
+      "date": "2026-10-14T09:33:21.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Nintendo just made an unusual decision—and it’s going to be good for business",
+      "url": "https://www.fastcompany.com/91622966/why-nintendo-is-sticking-with-physical-video-games-for-now?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-14T09:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Una grabadora oculta en OpenAI: el FBI detiene a un empleado por espiar reuniones confidenciales",
+      "url": "https://elpais.com/tecnologia/2026-10-14/una-grabadora-oculta-en-openai-el-fbi-detiene-a-un-empleado-acusado-de-espiar-reuniones-confidenciales.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-14T06:45:45.000Z"
+    },
+    {
+      "id": 24,
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "source": "NVIDIA",
+      "date": "2026-10-14T06:04:15.000Z"
+    },
+    {
+      "id": 25,
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "source": "Latent Space",
+      "date": "2026-10-14T05:40:28.000Z"
+    },
+    {
+      "id": 26,
+      "title": "The French approach to Artificial Intelligence: how Paris is safeguarding its technological sovereignty through the Nvidia-Mistral partnership",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYjVRaTZjcjEwTzFnX0VrSjJibkpnRC1GMUZVZmo5NmN4ZFpMY3Zpcm41YndlVlh4dXNoZmU5RWgtWXl0dWFmWEFKZjJpdHEwMHFTODFRRG8zc2stOVhuZEZrMzVsb2hYY3VnUS1tTjFibGZtbVltU0Vsa05vcFVHSG5jV1RleUUweFc4c2ZQNXVHMEZrYV83aU40aWdFU0tDd1NhV0M4YTNwalRzT00xMFVQZ1loVTQ0OG9xVmhKdXd5ZHNaV1dIRUtsdWotdzJpbkRJeUNsQnlyRjNHWnpNbExFLVBPc21HX1c1VzdySVhCSFZENVR1SHlteVFCdVdYUk1LYTltMk9aZw?oc=5",
+      "source": "Mistral AI · via Il Sole 24 ORE",
+      "date": "2026-10-14T05:19:19.000Z"
+    },
+    {
+      "id": 27,
+      "title": "RoleFit",
+      "url": "https://www.producthunt.com/products/rolefit",
+      "source": "Product Hunt",
+      "date": "2026-10-14T05:07:36.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-14T04:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+      "url": "https://arxiv.org/abs/2610.13989",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-14T04:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlAtM0gxcXhQZndzdWNLb0IwZXZ2dVYwenVYbHlBSFBBd1dvc3JjZGdHQk43dnZLM2VicUNEMnZLYXczYWJLM3dHa1lIMlFlLWRINy13eFo4N3UwMmRHaFpkRmM3T2xqVDhuVUd6ZTNnVWJJZTlIQ1dmQUJkT1A1cEo0WWlhTGh1VnFVZU52Zkk?oc=5",
+      "source": "Google News · Eventos tech · via WSJ",
+      "date": "2026-10-14T02:02:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "date": "2026-10-14T02:00:14.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "source": "TechCrunch",
+      "date": "2026-10-14T01:30:42.000Z"
+    },
+    {
+      "id": 33,
+      "title": "X’s reverse eternal September",
+      "url": "https://www.platformer.news/x-reverse-eternal-september/",
+      "source": "Platformer",
+      "date": "2026-10-14T00:30:34.000Z"
+    },
+    {
+      "id": 34,
       "title": "Redesigning source control at Anthropic",
       "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
       "source": "Simon Willison",
       "date": "2026-10-13T23:00:06.000Z"
     },
     {
-      "id": 8,
-      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-13T22:54:21.000Z"
-    },
-    {
-      "id": 9,
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "url": "https://www.latent.space/p/dyna",
-      "source": "Latent Space",
-      "date": "2026-10-13T22:25:55.000Z"
-    },
-    {
-      "id": 10,
-      "title": "The chaos is surprisingly real for an Apple commercial. www.theverge.com/tech/1010561...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mxs2l6abgc2g",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-13T22:14:08.630Z"
-    },
-    {
-      "id": 11,
-      "title": "Apple’s HomeView ad is confusing to everyone except parents",
-      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-      "source": "The Verge",
-      "date": "2026-10-13T22:10:00.000Z"
-    },
-    {
-      "id": 12,
-      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
-      "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
-      "source": "Ars Technica",
-      "date": "2026-10-13T21:55:49.000Z"
-    },
-    {
-      "id": 13,
-      "title": "Estas versiones de Windows 11 se quedan sin soporte desde hoy: cómo te afecta y qué puedes hacer",
-      "url": "https://hipertextual.com/software/windows-11-24h2-home-y-pro-se-quedan-sin-soporte-hoy-mismo/",
-      "source": "Hipertextual",
-      "date": "2026-10-13T21:40:00.000Z"
-    },
-    {
-      "id": 14,
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-      "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-13T21:33:21.000Z"
-    },
-    {
-      "id": 15,
-      "title": "Nvidia announces billion-dollar investments in European tech",
-      "url": "https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/",
-      "source": "Sifted",
-      "date": "2026-10-13T21:09:39.000Z"
-    },
-    {
-      "id": 16,
-      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5",
-      "source": "Anthropic · via The Guardian",
-      "date": "2026-10-13T20:56:00.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Prompt Paws: A Cozy 60 FPS AI Agent Bakery Game Teaching RAG, Guardrails & Context Caching",
-      "url": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
-      "source": "dev.to · IA · via Robina Mirbahar",
-      "date": "2026-10-13T20:49:38.000Z"
-    },
-    {
-      "id": 18,
+      "id": 35,
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
       "source": "The Verge AI",
       "date": "2026-10-13T20:45:25.000Z"
     },
     {
-      "id": 19,
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "source": "Hacker News",
-      "date": "2026-10-13T20:23:55.000Z"
-    },
-    {
-      "id": 20,
-      "title": "OpenAI encuentra un \"sofisticado\" dispositivo de grabación en sus oficinas y se pone en manos del FBI",
-      "url": "https://www.xataka.com/robotica-e-ia/importancia-nacional-openai-encuentra-sofisticado-dispositivo-grabacion-sus-oficinas-fbi-acaba-interviniendo",
-      "source": "Xataka",
-      "date": "2026-10-13T20:23:00.000Z"
-    },
-    {
-      "id": 21,
-      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-13T20:00:00.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Kroger to lay off thousands of employees amid its increase in AI usage",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkpTTDhySjlWR3NkMl81Q2xiV0ZYcEVYUzJqLV9SV2RSNUpCOU92dWlqdlJmZTB6OXBKdGpGVWJZelVKVHNWN251Z1dqSk1JU1pzTkFqUnlNM3FoVVZFWlFtZ1ZUak1PdDE5Zk5LOVVfb0pvTmREWEkxRWRoaXlkSUEyYkZfR1g4b3kwZ0Z2aldZUG5JWFNNV2FUYWhSTUxqdVQ3TDJMLTJfcWc1bC1XNUxZOXdQZ0Y2dkxKZmZ6X0p2UnVBdzdCLWFZU2xQNnRtZ1RiSw?oc=5",
-      "source": "Google News · IA · via KOMO",
-      "date": "2026-10-13T19:43:19.000Z"
-    },
-    {
-      "id": 23,
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
-      "date": "2026-10-13T19:43:07.000Z"
-    },
-    {
-      "id": 24,
-      "title": "AI powerhouse Cohere to open office near Lansdowne Park",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OOUpWWHpDd2pnTlFGenlJR2ZORHpWbUFZTDJ5OGNxZUhrelVnMlozVHNOWXUzbUtoOVBjOE1VNFc0X0JjbGlLd2pkQW9OSmJ1NmxTbmFJcGtuV0pBNTlYcTFRYzdmeDNJaExWVlpISHVES2ZJSTJlSGM4VQ?oc=5",
-      "source": "Cohere · via Ottawa Business Journal",
-      "date": "2026-10-13T18:36:00.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Microsoft’s Copilot Notebooks Challenge Google’s AI Research Tool",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGVvNEFXR1BiMFl6YWRvQ3BtRlo3QnFBZ3FWMmRGajRGaV9DREFQN0ZHeG0tUXV3OXk4S01ONnZKbE5vRGEta3hhVk9tV1dsN2h3LUd1bUNkSjJVeldOSmtPRWl0Z3lwSFVKNFlTMVl2Q3E1X2tTeEg4bjNEelNCRzd3RmdidmRnbEZVVW03WFVDTFVDbHl5ckxiY3lkcHZVWmlCSg?oc=5",
-      "source": "Microsoft AI · via JournalArta",
-      "date": "2026-10-13T17:51:29.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Nvidia plans $2 billion in new European AI investments",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lb0tEbjl2UU5OdmNsalIwdi1tRkE4VXAxdlIxYldfdEl1OGJ4WVRaLXpNcTg4bUJiMlcxZnR5b1g4QTdsWjBMTDNGeF9LNTZ0b3J6cTR5ZFJGMDkxbWpETFRudTBMeHZHVUNWYk1JckhFRTc1UXJ2MWZBcFMteG8?oc=5",
-      "source": "Mistral AI · via Latest news from Azerbaijan",
-      "date": "2026-10-13T17:48:05.000Z"
-    },
-    {
-      "id": 27,
-      "title": "Rogue agents are the price of a breakneck AI arms race",
-      "url": "https://www.fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-13T16:25:03.000Z"
-    },
-    {
-      "id": 28,
+      "id": 36,
       "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
       "url": "https://news.ycombinator.com/item?id=50073471",
       "source": "Launch HN",
       "date": "2026-10-13T15:41:00.000Z"
     },
     {
-      "id": 29,
-      "title": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
-      "url": "https://elpais.com/tecnologia/2026-10-13/asi-es-homeview-la-ultima-pantalla-inteligente-de-apple-para-controlar-los-hogares-con-su-nueva-ia.html",
-      "source": "El País Tecnología",
-      "date": "2026-10-13T15:34:40.000Z"
-    },
-    {
-      "id": 30,
+      "id": 37,
       "title": "Zuck’s wonder...full",
       "url": "https://www.bensbites.com/p/zucks-wonderfull",
       "source": "Ben's Bites",
       "date": "2026-10-13T13:00:35.000Z"
-    },
-    {
-      "id": 31,
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-13T12:00:00.000Z"
-    },
-    {
-      "id": 32,
-      "title": "Where The Next Generation Of Super Apps Will Be Built",
-      "url": "https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/",
-      "source": "Crunchbase News",
-      "date": "2026-10-13T11:00:48.000Z"
-    },
-    {
-      "id": 33,
-      "title": "GotEmail",
-      "url": "https://www.producthunt.com/products/gotemail",
-      "source": "Product Hunt",
-      "date": "2026-10-13T06:49:28.000Z"
-    },
-    {
-      "id": 34,
-      "title": "VCs Transform into Full-Service Platforms for AI Startups",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUhnTWZSQ3Y0NTd2MHZvU3pLVldaNU1McGxDdkIydDRocEgyemRPaW5MakJXZmZvUExUa283R3NCMFFuNnpQOVZXdmRpMkxDUkE4bDI0Zk9rLXAtblhFNm1hUUI3XzQyRnRaYnVyVjZaRVhCR0xCUVFFNUlWRHVIazlCNVFabXJ0?oc=5",
-      "source": "a16z · via 조선일보",
-      "date": "2026-10-13T06:26:37.000Z"
     }
   ],
   "stats": {
     "posts": 220,
-    "sourcesOk": 61,
-    "sourcesFailed": 2
+    "sourcesOk": 63,
+    "sourcesFailed": 0
   },
   "generator": "headlines"
 }

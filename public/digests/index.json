@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-10-15-12",
+    "generatedAt": "2026-10-15T12:59:17.631Z",
+    "title": "Titulares del 15 de octubre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-10-14-22",
     "generatedAt": "2026-10-14T22:53:57.216Z",
     "title": "Titulares del 14 de octubre",
@@ -350,12 +356,6 @@
   {
     "id": "2026-09-15-22",
     "generatedAt": "2026-09-15T22:35:00.229Z",
-    "title": "Titulares del 15 de septiembre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-09-15-13",
-    "generatedAt": "2026-09-15T13:01:20.101Z",
     "title": "Titulares del 15 de septiembre",
     "generator": "headlines"
   }

@@ -1,0 +1,529 @@
+{
+  "id": "2026-10-16-22",
+  "generatedAt": "2026-10-16T22:21:27.595Z",
+  "periodStart": "2026-10-14T22:21:27.595Z",
+  "periodEnd": "2026-10-16T22:21:27.595Z",
+  "title": "Titulares del 16 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "New technique uses artificial intelligence to fight breast cancer",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft Told Staff to Keep OpenAI Scraping Project ‘Secret’",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Fast post-quantum signature aggregation with lattice SNARKs",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Muse Spark Open",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Linux sigue los pasos de Windows y añade un asistente de IA a Ubuntu",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Replit is no longer working with Anthropic, CEO says",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "States sue OpenAI over allegedly hurting children and deceiving adults",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Moeve impulsa la innovación con diez startups que presentan sus proyectos piloto",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "UC Santa Cruz hosts AI summit and hackathon events for SF Tech Week - UC Santa Cruz",
+          "sources": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "The Leap Second Is No More",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Claude reveals ECDSA curve origins",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ www.theverge.com/transportati...",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-16T22:21:28.403Z"
+    },
+    {
+      "id": 2,
+      "title": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)",
+      "url": "https://www.techmeme.com/261016/p23#a261016p23",
+      "source": "Techmeme",
+      "date": "2026-10-16T22:10:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "source": "Simon Willison",
+      "date": "2026-10-16T22:06:37.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Microsoft Told Staff to Keep OpenAI Scraping Project ‘Secret’",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzVSZGRuX0lZeThXRWc5MldxSjE3MjFLbDhvWWhCVVpvbGgyUlNMV0tNOG5EN3BFakpsbzI4bUNPY1laUFR3OFZ6TW9OY2NFQWQ1RlU0TGQ4UkZBWlN2MGZYZWd0M0JoS3VwOTBrVnNwYU14RHczcHQxZVJ1RUJySEFfRmNuWERWZjlnN2pRMzhnU2o5VF9YR0JfcWs?oc=5",
+      "source": "Microsoft AI · via Bloomberg Law News",
+      "date": "2026-10-16T21:58:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
+      "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos",
+      "source": "Xataka",
+      "date": "2026-10-16T21:54:26.000Z"
+    },
+    {
+      "id": 6,
+      "title": "UC Santa Cruz hosts AI summit and hackathon events for SF Tech Week - UC Santa Cruz",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQ2RVTEkyR3hYUFhFVGZRTjZjRjdhX0lqTnoyWkg4bHdqRmhhR0xndFBtRE5kX3VsWXc4Ylh0WWhDelFqZVBaSFk0SUlTU3lCdHVTX3A1eEtJUEx4cmU5Z0xvSElKNDFUa0RCcl9QMA?oc=5",
+      "source": "Google News · Eventos tech · via UC Santa Cruz - News",
+      "date": "2026-10-16T21:52:43.000Z"
+    },
+    {
+      "id": 7,
+      "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+      "url": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-16T21:49:13.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+      "source": "Anthropic · via Politico",
+      "date": "2026-10-16T21:45:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "New technique uses artificial intelligence to fight breast cancer",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFgzVjhuLWljNHBkNy1WTkt1c2F0enZmTVp4QUZ2S3pQVm1lYUFwRFVxU01TeU1xR0lfQnZFTk4yYUlBTnhMeWFsQXFNNmdPTGRjc3E3VmtVMUZCcDlXUmVBdVdMeHFmZS1JUkVSUVFrUUE0dWlUckphNjI3ZE9uVEtDSWxpN1A5czUxR2NlVE1DblRtRlV1M0FEODRuakFWa0Rua3dtcw?oc=5",
+      "source": "Google News · IA · via CBS News",
+      "date": "2026-10-16T21:43:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Linux sigue los pasos de Windows y añade un asistente de IA a Ubuntu",
+      "url": "https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-local/",
+      "source": "Hipertextual",
+      "date": "2026-10-16T21:37:58.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Leap Second Is No More",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "source": "Wired",
+      "date": "2026-10-16T21:31:35.000Z"
+    },
+    {
+      "id": 12,
+      "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
+      "source": "Perplexity · via tech-insider.org",
+      "date": "2026-10-16T21:30:10.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T21:22:28.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Video shows the crash that injured two CHP officers responding to an earlier incident on I-80.﻿ www.theverge.com/transportati...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mxzhzjm5eu2h",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-16T21:03:26.931Z"
+    },
+    {
+      "id": 15,
+      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+      "url": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+      "source": "Engadget",
+      "date": "2026-10-16T20:50:28.000Z"
+    },
+    {
+      "id": 16,
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "date": "2026-10-16T20:50:27.000Z"
+    },
+    {
+      "id": 17,
+      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
+      "source": "dev.to · IA · via Jonathan Zhuo",
+      "date": "2026-10-16T20:34:07.000Z"
+    },
+    {
+      "id": 18,
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "date": "2026-10-16T20:20:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "States sue OpenAI over allegedly hurting children and deceiving adults",
+      "url": "https://www.fastcompany.com/91625470/openai-lawsuits-chatbot-chatgpt-artificial-intelligence?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-16T20:06:08.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vU1dCekYzajdib25IWmNBZHFhZ0s4bENmU3BqWm9aTFM0UUpUbm5Wdy1NLW1pOE80dVNFd0FXdnNBaFlkek1vQlZheUNSQmsyYlJXc0lEekxzd0NybUp0MWM4bWRpWXdQ?oc=5",
+      "source": "Cohere · via WebWire",
+      "date": "2026-10-16T19:40:28.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "date": "2026-10-16T18:55:59.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "source": "Google Research",
+      "date": "2026-10-16T18:11:34.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-16T18:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
+      "source": "Crunchbase News",
+      "date": "2026-10-16T17:57:38.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-16T17:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Fast post-quantum signature aggregation with lattice SNARKs",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFJ4RjUtRDJ4bGZZYURSSm5ndm1lWTkxbG5EZWtLYndCVWhNRzlKNDh2azNCWHV1ZDRJSWpsbTE2LXIzWlB0ZktmZHBaOFhOWk92UUNOZnFFUHZzRzdJQTJXdkN3cGhJSnhkQzZQS0hkWHRTV3FNWEVBZndIQ3JwcUJOTjU4cGNEamxLWUplMGhSUGJsV3JhOE5BWGw?oc=5",
+      "source": "a16z · via a16z crypto",
+      "date": "2026-10-16T16:46:11.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+      "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+      "source": "Sifted",
+      "date": "2026-10-16T15:16:15.000Z"
+    },
+    {
+      "id": 30,
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI",
+      "date": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Moeve impulsa la innovación con diez startups que presentan sus proyectos piloto",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3RxOUFHZFMwZzVpN3lwX3BhcnNiYlpoN0ItM1dnZWxHYkFiR1hmZXU5T1NpTTFoLVhKSjZqeUM4SURLU3lBQW84WWU5S08ycDZrZ0tSbnhuMGJFYnZyN01Zb3RHcDJkWjVlSWZjZnJzVXpKYVFYQXJfR1d0SlhoVkdnUHZtdnhLRVB3UE84aU9XX0RFa2Frd3h1bll3eUhnbU5hcExnbHhBZmlacWdXMUtsdw?oc=5",
+      "source": "Google News · Tecnología (ES) · via Territorio Fintech",
+      "date": "2026-10-16T04:30:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "source": "Latent Space",
+      "date": "2026-10-16T04:16:45.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+      "url": "https://arxiv.org/abs/2610.20615",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Muse Spark Open",
+      "url": "https://www.producthunt.com/products/muse-spark-open",
+      "source": "Product Hunt",
+      "date": "2026-10-15T20:13:34.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

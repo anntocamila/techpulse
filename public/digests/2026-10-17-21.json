@@ -1,0 +1,529 @@
+{
+  "id": "2026-10-17-21",
+  "generatedAt": "2026-10-17T21:54:46.259Z",
+  "periodStart": "2026-10-15T21:54:46.259Z",
+  "periodEnd": "2026-10-17T21:54:46.259Z",
+  "title": "Titulares del 17 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "google/embeddinggemma-2",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Meta removes language that may have allowed it to scrape news sites",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "UK Watchdog Proposes Strategic Market Tag for Microsoft, Puts Excel and Copilot AI Under Competition Scrutiny",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "How Itaú is building generative AI for its entire customer base",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Salience",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Meta removes language that raised scraping and AI training concerns",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Noticias de Israel y del mundo judío en español",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "El Chernóbil asturiano: el pueblo abandonado ubicado junto a una antigua central térmica que tiene cine, escuela, club social y hasta consultorio médico",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Why companies may be liable for AI errors",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI summit brings together Big Tech bosses and EU officials",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The Tesla Roadster is far from the first car to use fans for downforce",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "TikTok bans Musk documentary account",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "OpenCode Hacked: User credentials leaked",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Encryption Is Getting Squeezed From All Sides",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Cybercrims go beyond stealing data to attack physical building systems",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI Took Me to Three Stages. I Still Don't Like Public Speaking.",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. www.theverge.com/tech/1013453...",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Meta shakes up the frontiers, open and closed",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "[AINews] High Taste Testers Ep. 1",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-17T21:54:47.276Z"
+    },
+    {
+      "id": 2,
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-10-17T21:31:32.000Z"
+    },
+    {
+      "id": 3,
+      "title": "The Tesla Roadster is far from the first car to use fans for downforce",
+      "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+      "source": "Engadget",
+      "date": "2026-10-17T21:20:21.000Z"
+    },
+    {
+      "id": 4,
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA",
+      "date": "2026-10-17T21:00:13.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
+      "url": "https://www.techmeme.com/261017/p18#a261017p18",
+      "source": "Techmeme",
+      "date": "2026-10-17T20:50:01.000Z"
+    },
+    {
+      "id": 6,
+      "title": "AI Took Me to Three Stages. I Still Don't Like Public Speaking.",
+      "url": "https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38",
+      "source": "dev.to · IA · via Earl Grey",
+      "date": "2026-10-17T20:49:57.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Noticias de Israel y del mundo judío en español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3R3VkpiN2VWalVkWUkyYjVNTms1SWd4ZUtNeTh6TG9ienNMb0F0V0hFWU9zVGtBY3o2T2U1M0R1RE5TTWJZUE4xdVVUcVpkWGJMeGtjNFJhbjBjblU5Z2hPUzNXTE9XczlMZnVBMG1aZV9fUkh1MnAyVDBDYzZYQWtlMXNCUkdQbTNsNEZadw?oc=5",
+      "source": "Google News · Tecnología (ES) · via Aurora Israel",
+      "date": "2026-10-17T20:34:10.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Larry Ellison’s TikTok has shut down the promotional account for Alex Gibney’s Elon Musk documentary. www.theverge.com/tech/1013453...",
+      "url": "https://bsky.app/profile/theverge.com/post/3my3tl6n7gr25",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-17T19:35:30.290Z"
+    },
+    {
+      "id": 9,
+      "title": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "date": "2026-10-17T19:32:23.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5",
+      "source": "Anthropic · via Mother Jones",
+      "date": "2026-10-17T19:20:55.000Z"
+    },
+    {
+      "id": 11,
+      "title": "El Chernóbil asturiano: el pueblo abandonado ubicado junto a una antigua central térmica que tiene cine, escuela, club social y hasta consultorio médico",
+      "url": "https://www.xataka.com/magnet/chernobil-asturiano-pueblo-abandonado-ubicado-a-antigua-central-termica-que-tiene-cine-escuela-club-social-consultorio-medico",
+      "source": "Xataka",
+      "date": "2026-10-17T18:30:05.000Z"
+    },
+    {
+      "id": 12,
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "Hacker News",
+      "date": "2026-10-17T18:01:41.000Z"
+    },
+    {
+      "id": 13,
+      "title": "‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía",
+      "url": "https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/",
+      "source": "Hipertextual",
+      "date": "2026-10-17T18:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-17T15:42:34.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "date": "2026-10-17T15:04:36.000Z"
+    },
+    {
+      "id": 16,
+      "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+      "source": "Google News · IA · via Bloomberg.com",
+      "date": "2026-10-17T14:27:13.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Meta shakes up the frontiers, open and closed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "source": "Interconnects",
+      "date": "2026-10-17T14:06:54.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "source": "Wired",
+      "date": "2026-10-17T12:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Cybercrims go beyond stealing data to attack physical building systems",
+      "url": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+      "source": "The Register",
+      "date": "2026-10-17T11:30:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Why companies may be liable for AI errors",
+      "url": "https://www.fastcompany.com/91623691/companies-liable-ai-errors?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-17T09:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "source": "Latent Space",
+      "date": "2026-10-17T07:47:38.000Z"
+    },
+    {
+      "id": 22,
+      "title": "AI summit brings together Big Tech bosses and EU officials",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNOOVEtd2VHMzFZUE9vNENXajdMck81RkE4SjdsT3dwSGIxemE3WkQ5ZVJJcnhDWURZUl9kTkFhRlRnMU5wc2s5NmhtaFpaWnNSSERvTW1aMGxmakQ3bU1rdE92bDFraEJSV2ZKOWt1cHhUb21Ycnk5SWhISFdETUxjOEZlYTFr0gGIAUFVX3lxTFA4T3JRanpkN0FCb0NKaG10TXhoTk5GbVBvM25VVXRKWXhjTzNmeEV2cDVrcGhZZUZVNzFfRDFGOFB2bjB6MktEZzAxdFI5S1dKaEQzb2FQVDh5YjlzcTJiNTk3ZWVQZlFNN0JpOXBpZU95YXdmeGp0MUdmRjY4Yjk0dHhIQVV2VE8?oc=5",
+      "source": "Google News · Eventos tech · via DW.com",
+      "date": "2026-10-17T06:09:31.000Z"
+    },
+    {
+      "id": 23,
+      "title": "UK Watchdog Proposes Strategic Market Tag for Microsoft, Puts Excel and Copilot AI Under Competition Scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXZWbU9hZy1GcWlYZ2VGb3kwZ3Y5UEVyVkh1XzB3dDBHOW5uUENBYjhmYlVGVmtmc09lSFc2YWREbG5pdmsyN2FMcU9ncU5mWVZWMEdVT1pnbHd4aW5KSktxZjdlSEJYVTdMeDBPbk5CYTBjcmNOdERWRWE0R2N0M2lxRnVPaHp5V0RsZEZLbXU0SGhkZmc1MmMxVQ?oc=5",
+      "source": "Microsoft AI · via Benzinga",
+      "date": "2026-10-17T05:10:06.000Z"
+    },
+    {
+      "id": 24,
+      "title": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSWJvd2lTQUVIMV9sNmxiSlNWQU05bVNMWERyam12Ti1adlF4Z2MybVZXZXZhMm1qNC1EQVRMbXoxZ1VYWHlPVkx5S2I1Zldzd093YVBoMVFna0E?oc=5",
+      "source": "a16z · via BigGo Finance",
+      "date": "2026-10-17T04:08:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-17T04:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Salience",
+      "url": "https://www.producthunt.com/products/salience",
+      "source": "Product Hunt",
+      "date": "2026-10-17T03:46:40.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSEVvUWZ1cGs2d3ZBT2N6c0Nfb0hSMVQ5N053cThOZTI1Y2p1Q29LVzBsSmxHZGNxZEowMndUV0l5NHU0NFJvUnV2eEhUQTVWb01NWWJ6akt1UUxOcHJPWTZBQmIwajd5UFE0dGdqb1kxSF9NQzhLLVFGeDJXcmdHcm9jMFhsWHh6cU5MdG1YQ2xJMDl3aWxiM1dTUnE5N29mT3FzUWpnbG1Ba1FV0gGsAUFVX3lxTE9IRW9RZnVwazZ3dkFPY3pzQ19vSFIxVDk3TndxOE5lMjVjanVDb0tXMGxKbEdkY3FkSjAyd1RXSXk0dTQ0Um9SdXZ4SFRBNVZvTU1ZYnpqS3VRTE5wck9ZNkFCYjBqN3lQUTR0Z2pvWTFIX01DOEstUUZ4MldyZ0dyb2MwWGxYeHpxTkx0bVhDbEkwOXdpbGIzV1NScTk3b2ZPcXNRamdsbUFrUVU?oc=5",
+      "source": "Perplexity · via MarkTechPost",
+      "date": "2026-10-17T00:09:12.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "source": "Simon Willison",
+      "date": "2026-10-16T22:06:37.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrZTJzSVVQSDRwc2U0ZXRkd19sdWVKMjMxajZjUGFJQ0NxLWpLSkxJOG42eFlaYXF0Y1QwTExoLTdLQ1k1NkoxLUZJSXNSRnNqZjk4eEotRTVjNEhZUmhpbk9YRnBTNWhoRFU1X05Xdw?oc=5",
+      "source": "Cohere · via WebWire",
+      "date": "2026-10-16T19:40:28.000Z"
+    },
+    {
+      "id": 30,
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "date": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-16T18:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
+      "source": "Crunchbase News",
+      "date": "2026-10-16T17:57:38.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+      "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+      "source": "Sifted",
+      "date": "2026-10-16T15:16:15.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 62,
+    "sourcesFailed": 1
+  },
+  "generator": "headlines"
+}

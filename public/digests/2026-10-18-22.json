@@ -1,0 +1,464 @@
+{
+  "id": "2026-10-18-22",
+  "generatedAt": "2026-10-18T22:07:04.292Z",
+  "periodStart": "2026-10-16T22:07:04.292Z",
+  "periodEnd": "2026-10-18T22:07:04.292Z",
+  "title": "Titulares del 18 de octubre",
+  "subtitle": "153 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Why Artificial Intelligence Could Threaten The Future Of Science",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "A woman was arrested in Philly for blocking a delivery robot",
+          "sources": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Copilot vs Gemini vs Meta AI: Gemini Wins 9.1M Users [2026]",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Europe debates its future in the race of the AI giants",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Perplexity vs ChatGPT vs Google AI Mode: 37% vs 67% [2026]",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Vampire Crawlers™",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Una de las líneas del metro más antiguo del mundo está a punto de cambiar: Siemens ha enseñado los trenes de nueva generación",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "This quick test will tell you if your home Wi-Fi is to blame for laggy internet",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Noticias de Israel y del mundo judío en español",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Pakistan to participate in Global AI summit in Seoul, highlight digital transformation roadmap",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "What is Apple's Image Playground app for and how do you use it?",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Namecheap just seized and disabled all my domains",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Anthropic gives outside AI watchdog “employee-like” access",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The story of Michael Organ is the rare documentary that doubles as a psychological horror film. www.theverge.com/entertainmen...",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "How to Build a Drug Discovery Research Agent",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Inline rendering with document​.currentScript",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Meta shakes up the frontiers, open and closed",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "[AINews] High Taste Testers Ep. 1",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-18T22:07:05.223Z"
+    },
+    {
+      "id": 2,
+      "title": "What is Apple's Image Playground app for and how do you use it?",
+      "url": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
+      "source": "Engadget",
+      "date": "2026-10-18T22:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-18T21:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Why Artificial Intelligence Could Threaten The Future Of Science",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE1wVU9SRFc5LWdXRHVTWU9ZZlBTNjNpdFV2aXZoSVBUTWY4blVnRk11SmtHLWEyc1VDWXlRN0ZINzdSeWV3bTRLUTF6Z0ZFZjRJazBUZXJ1SUh6MTNRRm9KTWRPUVp2ODVaVXZmdDdxbWhCalFOV0NEbDlDMktWM1FPRDZvWG9fcl9YdXpweFdOZFg4V1BUODB6aGxmU0E1OG1uMzVWdWFyRXNIM3lXYkh1ODZDeW5tNVRqek94SDhfUQ?oc=5",
+      "source": "Google News · IA · via Forbes",
+      "date": "2026-10-18T20:54:11.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "date": "2026-10-18T20:37:40.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2Y2SHZFZjFCR3R6YmZWcFhtVkMwcUJHYTAtZzQxbnFJLVppSlBmQ1RDLTVuclVGblJEeVFIMWN5VTJuMHJLMG8zLVp5UTM3VHJPU3RtWHRVeFhZZkM5djJmYWhBekQwcDhEV1ZrRlFjeHdtRGpRRHdhR0FDVGJIbmthOE5MZ1V2VEFFeHJaQXlEMHdkWmQ1RlBoLWRONlg2YkJuU0VtSG1kQUJtYnFYRXVrczRWNWNDUzRzWkZhRWF6dw?oc=5",
+      "source": "Anthropic · via Crowdfund Insider",
+      "date": "2026-10-18T20:15:31.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+      "url": "https://www.techmeme.com/261018/p11#a261018p11",
+      "source": "Techmeme",
+      "date": "2026-10-18T19:55:01.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Copilot vs Gemini vs Meta AI: Gemini Wins 9.1M Users [2026]",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1adFN6VW9BX0pxNGk1d0NJdXhpSWV4NldmaHNzUWN3WGlNX3Vyc3FEc2VZUDBTZ0RBQWFWXzFXbkV5ZXhCV2lzTjhwTXNaWDZpZl80aDVYSHlhVXlqV1EzX2pQU01jX2lsSXR3RnVaU1kzdnFzb2tyX29CbmU?oc=5",
+      "source": "Microsoft AI · via tech-insider.org",
+      "date": "2026-10-18T19:48:41.000Z"
+    },
+    {
+      "id": 9,
+      "title": "The story of Michael Organ is the rare documentary that doubles as a psychological horror film. www.theverge.com/entertainmen...",
+      "url": "https://bsky.app/profile/theverge.com/post/3my6dxthnl32p",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-18T19:34:14.212Z"
+    },
+    {
+      "id": 10,
+      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "source": "The Verge",
+      "date": "2026-10-18T19:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Una de las líneas del metro más antiguo del mundo está a punto de cambiar: Siemens ha enseñado los trenes de nueva generación",
+      "url": "https://www.xataka.com/movilidad/lineas-metro-antiguo-mundo-esta-a-punto-cambiar-siemens-ha-ensenado-trenes-nueva-generacion",
+      "source": "Xataka",
+      "date": "2026-10-18T19:01:34.000Z"
+    },
+    {
+      "id": 12,
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI",
+      "date": "2026-10-18T18:28:10.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Pakistan to participate in Global AI summit in Seoul, highlight digital transformation roadmap",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREJMeTlsdVdBbnNXTVVCZkJibkNSME43Z3dwQi11MktJUGh2MGxrT1p6UDJxcjZDa3YybzdnUXRPUENkMklIYkF1V19CVmd4LThiaWZyYXZGTDB6c0I0VFJlaVNVSXVPV09BN2tGRTFTb05oX2dBVWhSM09GUUlkbVZ3cWx3WS1KcHVXY3pPcWp3RlBaTExIZV9kcl9rWFVjYVZLTDltX00taEpzU1hQTmxSeG1BbXdCZm9UcmRxX2h0R0VyeFFjZmlaUDhSWGs?oc=5",
+      "source": "Google News · Eventos tech · via Arab News PK",
+      "date": "2026-10-18T18:09:20.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
+      "url": "https://hipertextual.com/software/microsoft-defender-linux-escritorios-seguridad/",
+      "source": "Hipertextual",
+      "date": "2026-10-18T18:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Europe debates its future in the race of the AI giants",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXBlOThFM3J0SFNSQjlVSHhnRV9QajNmc3pmaERYU3V1SHRKX25lV2lQMDVibmVsWGJFSkFRalFEV2FrRFFoa1p1QlVxT3F1RGdkQ1c2UWNqaENybENDdnNpSGJ5M2czODV2ZEtKZXg4ZWJsRWFNdjhaODl0YUlJc19IMGdRRURNV0ptZG8zQ1JmVXBPTHhIdlMyQUk?oc=5",
+      "source": "Mistral AI · via Diari ARA",
+      "date": "2026-10-18T17:01:12.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "source": "Hacker News",
+      "date": "2026-10-18T16:56:56.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-18T16:30:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "date": "2026-10-18T16:25:19.000Z"
+    },
+    {
+      "id": 19,
+      "title": "How to Build a Drug Discovery Research Agent",
+      "url": "https://dev.to/valyuai/how-to-build-a-drug-discovery-research-agent-27mf",
+      "source": "dev.to · IA · via Prosper Otemuyiwa",
+      "date": "2026-10-18T16:24:24.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Perplexity vs ChatGPT vs Google AI Mode: 37% vs 67% [2026]",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41bUxaRm1nQmxqaW43UUFrNHdqbFRxejJNbFZzUjdKdkJOWEFPbW4wZmcyOWcxblk0dGtFVUFJTFJPVjYxaTd1VTA3Qnl2cnZqOWZ0WTJWMWY5YTFzSnhIckFMR0ZTeW81elpCaTRzLVBwQkdhYmhIX2pB?oc=5",
+      "source": "Perplexity · via https://tech-insider.org/",
+      "date": "2026-10-18T12:15:31.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-18T12:00:01.000Z"
+    },
+    {
+      "id": 22,
+      "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "source": "Wired",
+      "date": "2026-10-18T11:01:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "This quick test will tell you if your home Wi-Fi is to blame for laggy internet",
+      "url": "https://www.fastcompany.com/91606189/slow-wi-fi-open-speed-test?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-18T09:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Vampire Crawlers™",
+      "url": "https://www.producthunt.com/products/vampire-crawlers",
+      "source": "Product Hunt",
+      "date": "2026-10-18T04:10:35.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "source": "Simon Willison",
+      "date": "2026-10-17T21:11:12.000Z"
+    },
+    {
+      "id": 26,
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA",
+      "date": "2026-10-17T21:00:13.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Noticias de Israel y del mundo judío en español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3R3VkpiN2VWalVkWUkyYjVNTms1SWd4ZUtNeTh6TG9ienNMb0F0V0hFWU9zVGtBY3o2T2U1M0R1RE5TTWJZUE4xdVVUcVpkWGJMeGtjNFJhbjBjblU5Z2hPUzNXTE9XczlMZnVBMG1aZV9fUkh1MnAyVDBDYzZYQWtlMXNCUkdQbTNsNEZadw?oc=5",
+      "source": "Google News · Tecnología (ES) · via Aurora Israel",
+      "date": "2026-10-17T20:34:10.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Meta shakes up the frontiers, open and closed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "source": "Interconnects",
+      "date": "2026-10-17T14:06:54.000Z"
+    },
+    {
+      "id": 29,
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "source": "Latent Space",
+      "date": "2026-10-17T07:47:38.000Z"
+    },
+    {
+      "id": 30,
+      "title": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSWJvd2lTQUVIMV9sNmxiSlNWQU05bVNMWERyam12Ti1adlF4Z2MybVZXZXZhMm1qNC1EQVRMbXoxZ1VYWHlPVkx5S2I1Zldzd093YVBoMVFna0E?oc=5",
+      "source": "a16z · via BigGo Finance",
+      "date": "2026-10-17T04:08:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 153,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

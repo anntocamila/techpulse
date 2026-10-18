@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-18-12",
+  "generatedAt": "2026-10-18T12:20:03.802Z",
+  "periodStart": "2026-10-16T12:20:03.802Z",
+  "periodEnd": "2026-10-18T12:20:03.802Z",
+  "title": "Titulares del 18 de octubre",
+  "subtitle": "186 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "World Bank says ‘small AI’ could transform developing countries",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Meta removes language that may have allowed it to scrape news sites",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic wants outside input on Claude’s values. But who gets the final say?",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "UK CMA Targets Microsoft’s Copilot Grip: 20M Users [2026]",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "How Itaú is building generative AI for its entire customer base",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Vampire Crawlers™",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "China ha encontrado en la Luna una cápsula del tiempo de hierro, ahora solo queda aprender a abrirla",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "De qué va ‘Coven Academy: El secreto de las brujas’, la nueva serie de Disney+ ideal para Halloween",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "This quick test will tell you if your home Wi-Fi is to blame for laggy internet",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Meta removes language that raised scraping and AI training concerns",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Noticias de Israel y del mundo judío en español",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "CleverFi Wins Travel Tech Start-Up Summit Pitch Competition - News and Statistics",
+          "sources": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "NY announces game ownership bill requiring ownership rather than licensing",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "TikTok bans Musk documentary account",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Frustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands to rein in autono…",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "The Discerning Mind: What AI May Never Reach",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Inline rendering with document​.currentScript",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Meta shakes up the frontiers, open and closed",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "[AINews] High Taste Testers Ep. 1",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-18T12:20:04.586Z"
+    },
+    {
+      "id": 2,
+      "title": "Frustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands to rein in autono…",
+      "url": "https://bsky.app/profile/theverge.com/post/3my5kwfgh2n2h",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-18T12:06:02.199Z"
+    },
+    {
+      "id": 3,
+      "title": "China ha encontrado en la Luna una cápsula del tiempo de hierro, ahora solo queda aprender a abrirla",
+      "url": "https://www.xataka.com/espacio/china-ha-encontrado-luna-capsula-tiempo-hierro-ahora-solo-queda-aprender-a-abrirla",
+      "source": "Xataka",
+      "date": "2026-10-18T12:01:34.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-18T12:00:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "De qué va ‘Coven Academy: El secreto de las brujas’, la nueva serie de Disney+ ideal para Halloween",
+      "url": "https://hipertextual.com/cine-television/de-que-va-coven-academy-el-secreto-de-las-brujas-la-nueva-serie-de-disney-ideal-para-halloween/",
+      "source": "Hipertextual",
+      "date": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
+      "url": "https://www.techmeme.com/261018/p7#a261018p7",
+      "source": "Techmeme",
+      "date": "2026-10-18T11:15:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "source": "Wired",
+      "date": "2026-10-18T11:01:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "CleverFi Wins Travel Tech Start-Up Summit Pitch Competition - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGx3MEItVkVOZm9vZk9aOGNlcjU1eHRsOTY4UmZkVmhyNXBkWHQ4WFIxS1BHV0x2MlhYOFYzbDdxclhJUzlTVXUzQzZUcjdxd3NrYWNwc0xaNGJIOG5zRXR3VXFhNFN5ejZyUkJTUDZDR3N6MnZJclpsNmhOODRDSUlQWnQzREhyWDdaS0pRRWsweUloYy1YVnl2cHBDSXYzcGxF?oc=5",
+      "source": "Google News · Eventos tech · via IndexBox",
+      "date": "2026-10-18T10:20:51.000Z"
+    },
+    {
+      "id": 9,
+      "title": "World Bank says ‘small AI’ could transform developing countries",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
+      "source": "Google News · IA · via The Guardian",
+      "date": "2026-10-18T10:01:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic wants outside input on Claude’s values. But who gets the final say?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5",
+      "source": "Anthropic · via NBC News",
+      "date": "2026-10-18T09:30:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Discerning Mind: What AI May Never Reach",
+      "url": "https://dev.to/james_anderson_h/the-discerning-mind-what-ai-may-never-reach-5hkk",
+      "source": "dev.to · IA · via James Anderson",
+      "date": "2026-10-18T09:15:08.000Z"
+    },
+    {
+      "id": 12,
+      "title": "This quick test will tell you if your home Wi-Fi is to blame for laggy internet",
+      "url": "https://www.fastcompany.com/91606189/slow-wi-fi-open-speed-test?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-18T09:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
+      "url": "https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109",
+      "source": "The Register",
+      "date": "2026-10-18T08:09:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "UK CMA Targets Microsoft’s Copilot Grip: 20M Users [2026]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFdKellkeTFYb2hMVTRjc3Nkb3hIU3QzRTlBUGxUV0tKUEhqaFBreWliYXZ0ekNwSDhqSV9pV3VvdENNSENEbWJ1eERSQXp1UWg4VEM2SjYxN1RGUTV1LUdqaHk2bzZ4SWtxOU95UmI1TDlBOEtua2tvNjY0b2JjYXJVZlB6UQ?oc=5",
+      "source": "Microsoft AI · via https://tech-insider.org/",
+      "date": "2026-10-18T05:26:53.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Vampire Crawlers™",
+      "url": "https://www.producthunt.com/products/vampire-crawlers",
+      "source": "Product Hunt",
+      "date": "2026-10-18T04:10:35.000Z"
+    },
+    {
+      "id": 16,
+      "title": "You don't have to turn off your phone to switch SIM cards (but you probably should)",
+      "url": "https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/",
+      "source": "Engadget",
+      "date": "2026-10-18T00:30:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News",
+      "date": "2026-10-18T00:14:22.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-10-17T21:31:32.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "source": "Simon Willison",
+      "date": "2026-10-17T21:11:12.000Z"
+    },
+    {
+      "id": 20,
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "source": "NVIDIA",
+      "date": "2026-10-17T21:00:13.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Noticias de Israel y del mundo judío en español",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3R3VkpiN2VWalVkWUkyYjVNTms1SWd4ZUtNeTh6TG9ienNMb0F0V0hFWU9zVGtBY3o2T2U1M0R1RE5TTWJZUE4xdVVUcVpkWGJMeGtjNFJhbjBjblU5Z2hPUzNXTE9XczlMZnVBMG1aZV9fUkh1MnAyVDBDYzZYQWtlMXNCUkdQbTNsNEZadw?oc=5",
+      "source": "Google News · Tecnología (ES) · via Aurora Israel",
+      "date": "2026-10-17T20:34:10.000Z"
+    },
+    {
+      "id": 22,
+      "title": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "date": "2026-10-17T19:32:23.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge AI",
+      "date": "2026-10-17T15:04:36.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Meta shakes up the frontiers, open and closed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "source": "Interconnects",
+      "date": "2026-10-17T14:06:54.000Z"
+    },
+    {
+      "id": 25,
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "source": "Latent Space",
+      "date": "2026-10-17T07:47:38.000Z"
+    },
+    {
+      "id": 26,
+      "title": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSWJvd2lTQUVIMV9sNmxiSlNWQU05bVNMWERyam12Ti1adlF4Z2MybVZXZXZhMm1qNC1EQVRMbXoxZ1VYWHlPVkx5S2I1Zldzd093YVBoMVFna0E?oc=5",
+      "source": "a16z · via BigGo Finance",
+      "date": "2026-10-17T04:08:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "ChatGPT vs Gemini vs Perplexity: AI News Accuracy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbndjdTZKa19LclRhSEIzaFNuNDFtVmRnRnNyMmRxY3FOVEdHWi1QMjRZWkJKX3A2VTNhUnI0OEJDXzVfczhEYkI2OEViSzdpT2pZQzNmRGdHX1ozeWFhZTl5RzhpMVBxdUljcWdBeF90UkxuQk5TMDJHZkh2MnVKSUhhQ21JUQ?oc=5",
+      "source": "Perplexity · via tech-insider.org",
+      "date": "2026-10-16T21:30:10.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50WERkMENHSXFUZk1NSUJYNTloOVB0U2UyTXFsSm44blVLZHd2S25fM0YwdzdRLVFEYVh0OHlGNGg3Um5saGNoV0NZU000REw2X01HdmtWU3F1M0RJWEdPTw?oc=5",
+      "source": "Cohere · via WebWire",
+      "date": "2026-10-16T20:08:23.000Z"
+    },
+    {
+      "id": 29,
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "date": "2026-10-16T19:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-16T18:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/",
+      "source": "Crunchbase News",
+      "date": "2026-10-16T17:57:38.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-16T16:30:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Harry Stebbings on 996 regrets, political ambitions and building a personal brand",
+      "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+      "source": "Sifted",
+      "date": "2026-10-16T15:16:15.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 186,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

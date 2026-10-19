@@ -1,10 +1,10 @@
 {
-  "id": "2026-10-19-15",
-  "generatedAt": "2026-10-19T15:10:03.666Z",
-  "periodStart": "2026-10-17T15:10:03.666Z",
-  "periodEnd": "2026-10-19T15:10:03.666Z",
+  "id": "2026-10-19-23",
+  "generatedAt": "2026-10-19T23:14:02.749Z",
+  "periodStart": "2026-10-17T23:14:02.749Z",
+  "periodEnd": "2026-10-19T23:14:02.749Z",
   "title": "Titulares del 19 de octubre",
-  "subtitle": "186 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "subtitle": "210 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,27 +19,27 @@
           ]
         },
         {
-          "text": "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations",
+          "text": "AI Agent Cuts Centalion’s Trade Finance Amendment Time 80%",
           "sources": [
-            10
+            3
           ]
         },
         {
-          "text": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "text": "The fossil fuel comeback is here",
           "sources": [
-            11
+            12
           ]
         },
         {
-          "text": "The Download: preserving the Arctic permafrost, and playful AI agents",
+          "text": "Making the internet better for AI agents might make it worse for everyone else",
           "sources": [
-            18
+            24
           ]
         },
         {
           "text": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
           "sources": [
-            30
+            33
           ]
         }
       ]
@@ -51,39 +51,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Mistral Timestral: 209M Model Beats TimesFM-3 [2026]",
+          "text": "Microsoft could hold an advantage with Copilot for Legal",
           "sources": [
-            6
+            10
           ]
         },
         {
-          "text": "Anthropic Readies Model That Reads Users' Intentions Better",
+          "text": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
           "sources": [
-            13
-          ]
-        },
-        {
-          "text": "Why is Cohere Acquiring Agentic AI Cybersecurity firm AISLE?",
-          "sources": [
-            25
+            11
           ]
         },
         {
           "text": "Perplexity gives developers new tool to build safe AI agents",
           "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+          "sources": [
             26
           ]
         },
         {
-          "text": "CMA moves to give Microsoft strategic market status",
+          "text": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]",
           "sources": [
-            28
-          ]
-        },
-        {
-          "text": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-          "sources": [
-            34
+            30
           ]
         }
       ]
@@ -95,39 +95,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "LatAm: startups levantan US$1.300M y México supera a Brasil",
+          "text": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
           "sources": [
-            20
+            18
           ]
         },
         {
-          "text": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
+          "text": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
           "sources": [
-            21
+            22
           ]
         },
         {
-          "text": "Khosla Ventures doubles down on Even Healthcare to challenge India&#8217;s hospital economics",
+          "text": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "As France reels from days of violence, founders brace for more uncertainty",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Forgepoint Raises $9.8 Million Seed Led By Primary Venture Partners And A16z Speedrun To Scale AI Inside Sales Rep Frank",
           "sources": [
             27
           ]
         },
         {
-          "text": "The investors with the biggest jumps in the Sifted AI 100",
+          "text": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
           "sources": [
             29
-          ]
-        },
-        {
-          "text": "Rusteerio by Context.dev",
-          "sources": [
-            31
-          ]
-        },
-        {
-          "text": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-          "sources": [
-            33
           ]
         }
       ]
@@ -139,39 +139,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Las mejores ofertas de MediaMarkt durante su Hazte un Renove en tecnología, hoy 19 de octubre",
+          "text": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
           "sources": [
-            2
+            5
           ]
         },
         {
-          "text": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+          "text": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
           "sources": [
-            12
+            6
           ]
         },
         {
-          "text": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+          "text": "This startup died in 2017, but its dream of in-ear computing is everywhere",
           "sources": [
-            15
+            9
+          ]
+        },
+        {
+          "text": "China quiere que su IA conquiste el mundo, pero no que toda su tecnología salga del país: controles para 40 tecnologías clave",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Spotify se pone serio contra las cuentas compartidas y ahora exige esta verificación",
+          "sources": [
+            19
           ]
         },
         {
           "text": "BSC AI Factory seleccionará hasta 100 startups españolas de inteligencia artificial",
           "sources": [
-            22
-          ]
-        },
-        {
-          "text": "Estaba cansado de tener varios cargadores por casa; ahora unifico todo en una única base de carga y me ha cambiado la vida",
-          "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Voters think politicians don’t listen. Could AI help?",
-          "sources": [
-            24
+            32
           ]
         }
       ]
@@ -183,9 +183,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Nextech3D.ai to sponsor and power Event Planner Expo, keynote on agentic AI",
+          "text": "Notes and Quotes from James Franklin's Oct. 19 Press Conference",
           "sources": [
-            16
+            13
           ]
         }
       ]
@@ -197,39 +197,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
+          "text": "Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month (Ellen DiMauro/Semafor)",
           "sources": [
-            3
+            2
           ]
         },
         {
-          "text": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
+          "text": "Robot vacuums have a major privacy problem you should be aware of",
           "sources": [
-            5
+            4
           ]
         },
         {
-          "text": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "sources": [
-            7
-          ]
-        },
-        {
-          "text": "One of the rarest GameCube consoles sells for thousands of dollars today",
+          "text": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
           "sources": [
             8
           ]
         },
         {
-          "text": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+          "text": "Best Power Bank Deals: Laptops, MagSafe, and More",
           "sources": [
-            9
+            14
           ]
         },
         {
-          "text": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
+          "text": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
           "sources": [
-            19
+            15
+          ]
+        },
+        {
+          "text": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+          "sources": [
+            17
           ]
         }
       ]
@@ -241,27 +241,27 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "At $649, it’s a much better deal. However, the new, faster M6 version is only $130 more. www.theverge.com/gadgets/1013...",
+          "text": "The White House said 60 million of the tax-advantaged accounts for kids were created automatically in October. www.theverge.com/tech/1014…",
           "sources": [
-            4
+            7
           ]
         },
         {
-          "text": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+          "text": "AI Made Coding Faster. Now Teams Are Cutting the Process That Catches Risky Changes",
           "sources": [
-            14
+            28
           ]
         },
         {
           "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
           "sources": [
-            17
+            31
           ]
         },
         {
           "text": "llm-tools-datasette 0.1.1",
           "sources": [
-            32
+            34
           ]
         }
       ]
@@ -273,242 +273,242 @@
       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-19T15:10:04.629Z"
+      "date": "2026-10-19T23:14:03.470Z"
     },
     {
       "id": 2,
-      "title": "Las mejores ofertas de MediaMarkt durante su Hazte un Renove en tecnología, hoy 19 de octubre",
-      "url": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-durante-su-hazte-renove-tecnologia-hoy-19-octubre",
-      "source": "Xataka",
-      "date": "2026-10-19T15:01:55.000Z"
+      "title": "Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month (Ellen DiMauro/Semafor)",
+      "url": "https://www.techmeme.com/261019/p47#a261019p47",
+      "source": "Techmeme",
+      "date": "2026-10-19T23:10:02.000Z"
     },
     {
       "id": 3,
-      "title": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
-      "url": "https://www.techmeme.com/261019/p28#a261019p28",
-      "source": "Techmeme",
-      "date": "2026-10-19T14:55:01.000Z"
+      "title": "AI Agent Cuts Centalion’s Trade Finance Amendment Time 80%",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1dJYXdTX3Vlb21YVVF2cGpZYnU3X0VleU9TMTlpQVI5MHQ2bTZFczlxRnVwd3NzbTlDX0t3b090dzd4ZTIyclNscDg4QzBfYTVGbWVYS3hnbE85SURCTWVzcUVuQU5wQzZ1TDB2SFdYZVREN25NTjhzVm5GdllfZFVjdkM5NkkzZnFHWXRCUV94WkJIWlJfc19NRlBPZXUwRUlBMTY5WjlwNmhpUENfS0lBc3o?oc=5",
+      "source": "Google News · IA · via PYMNTS.com",
+      "date": "2026-10-19T23:04:07.000Z"
     },
     {
       "id": 4,
-      "title": "At $649, it’s a much better deal. However, the new, faster M6 version is only $130 more. www.theverge.com/gadgets/1013...",
-      "url": "https://bsky.app/profile/theverge.com/post/3myaetfohtv2p",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-19T14:54:58.584Z"
+      "title": "Robot vacuums have a major privacy problem you should be aware of",
+      "url": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/",
+      "source": "Engadget",
+      "date": "2026-10-19T23:00:00.000Z"
     },
     {
       "id": 5,
-      "title": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
-      "url": "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872",
-      "source": "The Register",
-      "date": "2026-10-19T14:47:24.000Z"
+      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-19T22:49:27.000Z"
     },
     {
       "id": 6,
-      "title": "Mistral Timestral: 209M Model Beats TimesFM-3 [2026]",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QlAzSXpwOFVZUXhqbmRwdHhmeEJGUi02bnU1NGU2UFA5djF2VEM2UHg1ZXVvZmF0cDltMkc1eWJZSU8ydWFiUjlpb0liQTRYOGl5OEZOakN6Z2p6WC03ZGVqVk1tWVhubERVZzZPN3c1c2M?oc=5",
-      "source": "Mistral AI · via shattered.io",
-      "date": "2026-10-19T14:46:03.000Z"
+      "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+      "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-19T22:46:33.000Z"
     },
     {
       "id": 7,
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "source": "Ars Technica",
-      "date": "2026-10-19T14:45:43.000Z"
+      "title": "The White House said 60 million of the tax-advantaged accounts for kids were created automatically in October. www.theverge.com/tech/1014…",
+      "url": "https://bsky.app/profile/theverge.com/post/3myb6f7jgcp2h",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-19T22:32:17.378Z"
     },
     {
       "id": 8,
-      "title": "One of the rarest GameCube consoles sells for thousands of dollars today",
-      "url": "https://www.engadget.com/2287670/rarest-gamecube-console-sells-for-thousands-dollars-today/",
-      "source": "Engadget",
-      "date": "2026-10-19T14:45:00.000Z"
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "source": "The Verge",
+      "date": "2026-10-19T22:30:42.000Z"
     },
     {
       "id": 9,
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "source": "The Verge",
-      "date": "2026-10-19T14:41:48.000Z"
+      "title": "This startup died in 2017, but its dream of in-ear computing is everywhere",
+      "url": "https://www.fastcompany.com/91625332/doppler-labs-here-one-airpods?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-19T22:09:28.000Z"
     },
     {
       "id": 10,
-      "title": "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEl0R3dzWnR4aGJiV2dKWFNCMkZCUjhIeHZURC1FaHUxcEtnZ19UUWVQNjU0aWdydU9iQ284MlpuYTB6N3QwdG94cE1oNUNDU2tzMDRZcGxSUkwyUkcwb0oyWk1jVWdNME5iNnBuNUtJQ1ZLR25tNFZaNldnU0EyM01UMDJsQ2hOUUllbmphZHAwTk5iUkZDUU9ZVWRFcDVMUF80?oc=5",
-      "source": "Google News · IA · via Yahoo Sports",
-      "date": "2026-10-19T14:34:07.000Z"
+      "title": "Microsoft could hold an advantage with Copilot for Legal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2lqdURjYVVuNFFhY0NTdlYyRmJtclJraFlYX3hUV2szZFRkNE9TM2c2UTV2YzItRUhPZ2hXQWF0N1EwUS16aVNhQUZlVUlfaUs1Sm1UWmRaYzhMYWFkQTMxNVJRSFZtZHVzYk5YU1dMRWFIZ1NoUkItWVNxR3VsY1g2WDgxb00zOHc4VEpJMFlrOXc0Y2s3bjBLT0pXcWV5VVJZ?oc=5",
+      "source": "Microsoft AI · via TechTarget",
+      "date": "2026-10-19T22:03:36.000Z"
     },
     {
       "id": 11,
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge AI",
-      "date": "2026-10-19T14:30:00.000Z"
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+      "source": "Anthropic · via Reuters",
+      "date": "2026-10-19T21:59:47.000Z"
     },
     {
       "id": 12,
-      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-19T14:20:08.000Z"
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "source": "The Verge AI",
+      "date": "2026-10-19T21:48:01.000Z"
     },
     {
       "id": 13,
-      "title": "Anthropic Readies Model That Reads Users' Intentions Better",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUI1LVFnVzE0bmNHTjRZSGJMRUhueTNjT1JzSFU5eDhHeFQtNlFYalF6eE9wU2FEelA3dHpXY2xGSW1NbVppT3NMcnlYaHk5alZCVnhoMFIzeHpRUXM1akVfeGJBZG54VWE5X0xZX3hUN21xd2xRQkxMQ0FhckVpOW9GLXRkUDJKYVk0Q1FEbUJkeGFMUmlRLXhUc0g5Zzg5SXlRRTNmQWgyQQ?oc=5",
-      "source": "Anthropic · via The Information",
-      "date": "2026-10-19T14:00:00.000Z"
+      "title": "Notes and Quotes from James Franklin's Oct. 19 Press Conference",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHlNbV9QRnNRc25lUWhoMTZwWmJsV0RQN0ZjNHE1dWg0cThIVnRpYlFURC1IREY1dFljN1E2M191WFk0aWpmQnh6em9NSXBwWE9pWGRjUEJFMGVvZW5RM3NsNlYxTUlMaGRVdTI5WXpQRVdLTkRDNHFCN2c5Y3ZneVdQQ2hRbVNuYV9rY1hBUlZFdlE2ZmtEZW9LS0NBRmZjV0JUZzRCclEzYmo3Sm5xSUNOa0hjeGRhMmY2SXJ3UF9CQQ?oc=5",
+      "source": "Google News · Eventos tech · via Sports Illustrated",
+      "date": "2026-10-19T21:00:02.000Z"
     },
     {
       "id": 14,
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "source": "dev.to · IA · via Jhin Lee",
-      "date": "2026-10-19T13:00:00.000Z"
+      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
+      "url": "https://www.wired.com/story/power-bank-deals-october-2026/",
+      "source": "Wired",
+      "date": "2026-10-19T20:55:15.000Z"
     },
     {
       "id": 15,
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "source": "TechCrunch",
-      "date": "2026-10-19T12:56:14.000Z"
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "source": "Ars Technica",
+      "date": "2026-10-19T20:54:17.000Z"
     },
     {
       "id": 16,
-      "title": "Nextech3D.ai to sponsor and power Event Planner Expo, keynote on agentic AI",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa1B1bUUyeGRlbjFwd0F5UnJFRXBPeml5aXAxVjRfTldfLTF0TXdPV0NzNTQwUGNhdkg4eDZQUFA4aWwydzl1Qno5SkNxeUZkZFRUNVp4ZDV2QzV5Z2FTRzhjdTl1ZlJNLTZsZGhzVkVyT1otYzhHRG9ocGE4b2VCQlRJTUQ5dkZZXzYtQWFVQldENkR1S0xNTElOcl9KUFhPell1cUJlaUI5U0l6eWdlM0xqUmUzNzV1Y0c4NE1DOHhaV21Bb3c2R1V6TzdCcGtmSXhCZVFmV1ZoTnJFSUE?oc=5",
-      "source": "Google News · Eventos tech · via Proactive financial news",
-      "date": "2026-10-19T12:38:00.000Z"
+      "title": "China quiere que su IA conquiste el mundo, pero no que toda su tecnología salga del país: controles para 40 tecnologías clave",
+      "url": "https://www.xataka.com/robotica-e-ia/china-quiere-que-su-ia-conquiste-mundo-no-que-toda-su-tecnologia-salga-pais-controles-para-40-tecnologias-clave",
+      "source": "Xataka",
+      "date": "2026-10-19T20:31:53.000Z"
     },
     {
       "id": 17,
+      "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+      "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+      "source": "The Register",
+      "date": "2026-10-19T20:26:21.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-19T20:09:24.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Spotify se pone serio contra las cuentas compartidas y ahora exige esta verificación",
+      "url": "https://hipertextual.com/mobile/spotify-verificacion-qr-cuentas-compartidas-plan-familiar/",
+      "source": "Hipertextual",
+      "date": "2026-10-19T20:02:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Perplexity gives developers new tool to build safe AI agents",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMW9qQ0w2M2l2Z1RtUk1sbVZLMmRRb2xsbWpOaEVidnFJVE1tQTZRYlZqMkZNYjVYTjRmWEFfWDEwYnE5cmdFLWNHYmUyOEwzOUZtYS0xZDNRQUctczdsdTJIN0R2UnRFUTZzOWtoemNtTGhxZ3YzZkZzSWpRSEVSVjVCRmhqTXlvakpoZ3FNekhaR3h2bVVJSHRfa2huSkVXZmo3MzYtNS1DWVJvTTFYbnFlNkg5dw?oc=5",
+      "source": "Perplexity · via The Daily Star",
+      "date": "2026-10-19T20:00:40.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "source": "NVIDIA",
+      "date": "2026-10-19T19:27:08.000Z"
+    },
+    {
+      "id": 22,
+      "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
+      "url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/",
+      "source": "Y Combinator Blog",
+      "date": "2026-10-19T18:58:11.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-19T18:37:27.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-19T18:22:47.000Z"
+    },
+    {
+      "id": 25,
+      "title": "As France reels from days of violence, founders brace for more uncertainty",
+      "url": "https://sifted.eu/articles/french-protests-startup-nation/",
+      "source": "Sifted",
+      "date": "2026-10-19T17:10:34.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-19T17:00:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Forgepoint Raises $9.8 Million Seed Led By Primary Venture Partners And A16z Speedrun To Scale AI Inside Sales Rep Frank",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTJrLVFVT3dkeDM5cEdGUFJJVWdITHY1NndRRXI0emVUX1IxOFkwVmhtTDRYSVhsMk5ubHY0MWV2ZXl5X2JJNTJZTWthN29Ob25KOVVHdkFrd3dMckZmdmpPSW4tR3B5ekFzWGlvYTc1SGhzRnlUc1FSazFPODFwN3czejFNYUxpRG1ZOWpMZWtuUkdUbWJFRXdmZHRPbDY2S2VSd0d5SFpqRkRSWDBCV2VBTmYxcE9PajhvXzlaU2hYTklRd1dqM1pDRndDUEZ4ZUxDMzRn?oc=5",
+      "source": "a16z · via Pulse 2.0",
+      "date": "2026-10-19T16:46:36.000Z"
+    },
+    {
+      "id": 28,
+      "title": "AI Made Coding Faster. Now Teams Are Cutting the Process That Catches Risky Changes",
+      "url": "https://dev.to/pixel-wraith/ai-made-coding-faster-now-teams-are-cutting-the-process-that-catches-risky-changes-4b14",
+      "source": "dev.to · IA · via Jake Lundberg",
+      "date": "2026-10-19T16:02:31.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+      "url": "https://news.ycombinator.com/item?id=50154029",
+      "source": "Launch HN",
+      "date": "2026-10-19T16:00:18.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Mistral Timestral: 209M Model Tops Google TimesFM-3 [2026]",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ndWpnTUNrVFpzNk5TeERyWDljVU14b3poWEcyalNkazJSZloyWmNCRTRNS0ZUNF9TSzJGNlpKQlZvM2lMQ0puRUlDcEh5c29DSFc3d0xUaHNrX0pnRXdyOVVqYm1KYTBVUmFsTTZKTXVwWEFZSUtJ?oc=5",
+      "source": "Mistral AI · via https://tech-insider.org/",
+      "date": "2026-10-19T15:47:55.000Z"
+    },
+    {
+      "id": 31,
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
       "url": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
       "source": "Import AI",
       "date": "2026-10-19T12:31:37.000Z"
     },
     {
-      "id": 18,
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-19T12:10:00.000Z"
-    },
-    {
-      "id": 19,
-      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
-      "source": "Wired",
-      "date": "2026-10-19T11:30:00.000Z"
-    },
-    {
-      "id": 20,
-      "title": "LatAm: startups levantan US$1.300M y México supera a Brasil",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakFiZUYtZElaTTNYTHRhbWJkYnFKWGlqMC02Z2NPUV9tdTZJS1NPbHdFeFIybnpRZVpyQXN5VUxzeWhSZ2JtQWVHcTZ3dGJSdk9qaTgtaTFUS0RyUDhLWElZdnVqbUJRZEtxdjdZVFp3VWVlb1NDV0ZyYklmblhaMGxfaFlBOG1rVTQtUHdsbl9qZw?oc=5",
-      "source": "Startups LatAm · via El Ecosistema Startup",
-      "date": "2026-10-19T11:27:33.000Z"
-    },
-    {
-      "id": 21,
-      "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
-      "url": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
-      "source": "Crunchbase News",
-      "date": "2026-10-19T11:00:46.000Z"
-    },
-    {
-      "id": 22,
+      "id": 32,
       "title": "BSC AI Factory seleccionará hasta 100 startups españolas de inteligencia artificial",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjZxUWRFNk5QbDJ1LXVCVkNDaWc0MzhsNktsM0pxQXdMUTVyNXVRc182SU4ydlNseXdjSW9rRWI1UV91ME5jRjEycUpkRFBsN21rQnQ0a2puZ2JicXRUc2FuUklVN0x4Sml1eFgyWkNPcTRRUG9ZTDdRMEM4OGx1Tk5TNXNFOTJZczI2dDRWdGw1M01wcjhyX0diQ3ZHbGFPaDhJZnFtNlJGN19uTG1sa0VMRVpZWjlQVXM2MkpMS2NSN2lLZVdiajdFSEwwM0hCWnRj?oc=5",
       "source": "Google News · Tecnología (ES) · via IT User",
       "date": "2026-10-19T11:00:00.000Z"
     },
     {
-      "id": 23,
-      "title": "Estaba cansado de tener varios cargadores por casa; ahora unifico todo en una única base de carga y me ha cambiado la vida",
-      "url": "https://hipertextual.com/brands/base-carga-ugreen/",
-      "source": "Hipertextual",
-      "date": "2026-10-19T10:47:28.000Z"
-    },
-    {
-      "id": 24,
-      "title": "Voters think politicians don’t listen. Could AI help?",
-      "url": "https://www.fastcompany.com/91624480/voters-think-politicians-dont-listen-could-ai-help?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-19T10:31:00.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Why is Cohere Acquiring Agentic AI Cybersecurity firm AISLE?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmFSY2k2a2JBdWlDS2picjhlbVpoMFpIQlVqNF9fbWRTeVpFd1R5VGdENk9ZNjl3R1F2cF83S0VlNTZrRW5XS2xPU1JjNjFLTWdWMUxPWEx1dTRjZUZLZnRsbjFtVjdsc2ZPc3BManNIa1hsZEd3d2k1Q0FsZDlGR1VQUzM5Mk9CbUtIOTdRMFNheWM?oc=5",
-      "source": "Cohere · via Cyber Magazine",
-      "date": "2026-10-19T10:09:20.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Perplexity gives developers new tool to build safe AI agents",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMW9qQ0w2M2l2Z1RtUk1sbVZLMmRRb2xsbWpOaEVidnFJVE1tQTZRYlZqMkZNYjVYTjRmWEFfWDEwYnE5cmdFLWNHYmUyOEwzOUZtYS0xZDNRQUctczdsdTJIN0R2UnRFUTZzOWtoemNtTGhxZ3YzZkZzSWpRSEVSVjVCRmhqTXlvakpoZ3FNekhaR3h2bVVJSHRfa2huSkVXZmo3MzYtNS1DWVJvTTFYbnFlNkg5dw?oc=5",
-      "source": "Perplexity · via The Daily Star",
-      "date": "2026-10-19T07:59:32.000Z"
-    },
-    {
-      "id": 27,
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India&#8217;s hospital economics",
-      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-19T07:30:00.000Z"
-    },
-    {
-      "id": 28,
-      "title": "CMA moves to give Microsoft strategic market status",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEZlbWJtZXlxbFNUdFNsOHNVcGpYVEtGSk9wdG9SdkVRRjYwSVcxc0NReDAyM240S3ZfdVRJc1hpa2xjMUswZXp1UnJXOGFJeFRrTkx1Y2RlS2RCc3FHeW9KUkpEaG5qNzNOMzNOYUVmdWFwVEpGNzVmSGpMZ3c2TUY1SXF5MV9yWmxHbF91UTlrcVIy?oc=5",
-      "source": "Microsoft AI · via Resultsense",
-      "date": "2026-10-19T06:30:15.000Z"
-    },
-    {
-      "id": 29,
-      "title": "The investors with the biggest jumps in the Sifted AI 100",
-      "url": "https://sifted.eu/articles/the-investors-with-the-biggest-jumps-in-the-sifted-ai-100/",
-      "source": "Sifted",
-      "date": "2026-10-19T05:00:39.000Z"
-    },
-    {
-      "id": 30,
+      "id": 33,
       "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
       "url": "https://arxiv.org/abs/2610.22428",
       "source": "arXiv cs.CL",
       "date": "2026-10-19T04:00:00.000Z"
     },
     {
-      "id": 31,
-      "title": "Rusteerio by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "source": "Product Hunt",
-      "date": "2026-10-19T01:42:06.000Z"
-    },
-    {
-      "id": 32,
+      "id": 34,
       "title": "llm-tools-datasette 0.1.1",
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
       "source": "Simon Willison",
       "date": "2026-10-18T23:43:09.000Z"
-    },
-    {
-      "id": 33,
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "source": "TechCrunch Venture",
-      "date": "2026-10-18T21:00:00.000Z"
-    },
-    {
-      "id": 34,
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "source": "NVIDIA",
-      "date": "2026-10-17T21:00:13.000Z"
     }
   ],
   "stats": {
-    "posts": 186,
+    "posts": 210,
     "sourcesOk": 62,
     "sourcesFailed": 1
   },

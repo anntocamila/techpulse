@@ -1,0 +1,542 @@
+{
+  "id": "2026-10-21-13",
+  "generatedAt": "2026-10-21T13:20:25.910Z",
+  "periodStart": "2026-10-19T13:20:25.910Z",
+  "periodEnd": "2026-10-21T13:20:25.910Z",
+  "title": "Titulares del 21 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Nvidia's Huang urges Europe to go all in on AI",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "The Download: introducing the Impossible issue",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Save Hours of Work with These 10 Microsoft Copilot Prompts",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "OpenAI models are coming to Google Cloud",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Perplexity Computer for Mac Adds Local AI Mode for Pro, Max Subscribers",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Legora raises fresh $550m at $8.8bn valuation",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Agent Pets",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Eka Robotics raises $150M at $1.45B valuation led by a16z and F-Prime for dexterous robots",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Freelander 8, así es el SUV premium del grupo Chery con cerebro de Qualcomm que llegará próximamente a las carreteras",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "A mitad de precio el Huawei Watch GT5 Pro, un smartwatch todoterreno con una pantalla soberbia y cargado en funciones de salud",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Mach9 raises $34M after pivoting to AI CAD software",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Futures orbit around SpaceX as Tesla merger talk cheers investors",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Handwashing changed medicine. AI could too, if hospitals stop treating it like traditional software",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+          "sources": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "How to spot a white label gadget, and why that's important",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "AI cuts coding time, but it's also filling open source's inbox with crap",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "I reviewed the iPhone Duo, ask me anything",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "The 1.5°C goal of the Paris Agreement is no longer viable",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft’s new Advanced Shader Delivery technology is now part of Nvidia’s drivers. www.theverge.com/news/1015299...",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Claude Mods: Flipping the Harness Inside Out",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Your Platform Engineering Investment Is Not Paying Off. Here's Why.",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Joel Kaplan leaves Meta",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "eMudhra Intermediate CA Compromise",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "Legora raises fresh $550m at $8.8bn valuation",
+      "url": "https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/",
+      "source": "Sifted",
+      "date": "2026-10-21T14:14:55.000Z"
+    },
+    {
+      "id": 2,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-21T13:20:26.880Z"
+    },
+    {
+      "id": 3,
+      "title": "Save Hours of Work with These 10 Microsoft Copilot Prompts",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTSXN6WU5kX1N4Qm9lNkxac2UwNWZQTEZHWDFyaGNWVW1jaDQzNldHRUJ1T0MwN0dLT2RRbHVFZkYyUWVQbW1yX3c3a1dUajNIQXdMY3ExdW9LT2hqem9kTEdrSnlqZmYxcU5WLWt1eVVUd01K?oc=5",
+      "source": "Microsoft AI · via Geeky Gadgets",
+      "date": "2026-10-21T13:17:42.000Z"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)",
+      "url": "https://www.techmeme.com/261021/p26#a261021p26",
+      "source": "Techmeme",
+      "date": "2026-10-21T13:15:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
+      "url": "https://elpais.com/tecnologia/2026-10-21/el-iphone-duo-de-2300-euros-desata-una-fiebre-inedita-por-los-plegables-se-agota-y-acumula-tres-meses-de-espera.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-21T13:12:37.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Freelander 8, así es el SUV premium del grupo Chery con cerebro de Qualcomm que llegará próximamente a las carreteras",
+      "url": "https://hipertextual.com/movilidad/freelander-8-asi-es-el-suv-premium-del-grupo-chery-con-cerebro-de-qualcomm-que-llegara-proximamente-a-las-carreteras/",
+      "source": "Hipertextual",
+      "date": "2026-10-21T13:12:14.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft’s new Advanced Shader Delivery technology is now part of Nvidia’s drivers. www.theverge.com/news/1015299...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myf7wegssx2r",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-21T13:10:28.156Z"
+    },
+    {
+      "id": 8,
+      "title": "Nvidia's Huang urges Europe to go all in on AI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW1pMmxnbDZoNVVxVE1CR1Q5MFRnVGJvZGNfTDJsYnoxUW1HMHUyX01YRkltUGNlSmdEQ2RhLURrNVpmV1RBdW1QcmU4RGFJQmpPTDJleW10dDBNdkg5eVdfeXBlRW5MYzRxVjRuTnd5RjJ2WFZMQkVQQktFUDItMXdhOG84cVZEeEJlbjRkc0dqQXhZaWQtMw?oc=5",
+      "source": "Google News · IA · via France 24",
+      "date": "2026-10-21T13:09:49.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "Latent Space",
+      "date": "2026-10-21T13:04:19.000Z"
+    },
+    {
+      "id": 10,
+      "title": "A mitad de precio el Huawei Watch GT5 Pro, un smartwatch todoterreno con una pantalla soberbia y cargado en funciones de salud",
+      "url": "https://www.xataka.com/seleccion/a-mitad-precio-huawei-watch-gt5-pro-smartwatch-todoterreno-pantalla-soberbia-cargado-funciones-salud",
+      "source": "Xataka",
+      "date": "2026-10-21T13:01:44.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "source": "TechCrunch",
+      "date": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "How to spot a white label gadget, and why that's important",
+      "url": "https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/",
+      "source": "Engadget",
+      "date": "2026-10-21T13:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-21T12:51:24.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Your Platform Engineering Investment Is Not Paying Off. Here's Why.",
+      "url": "https://dev.to/remojansen/your-platform-engineering-investment-is-not-paying-off-heres-why-b6l",
+      "source": "dev.to · IA · via Remo H. Jansen",
+      "date": "2026-10-21T12:50:56.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Futures orbit around SpaceX as Tesla merger talk cheers investors",
+      "url": "https://www.cnbc.com/2026/10/21/futures-orbit-around-spacex-as-tesla-merger-talk-cheers-investors.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-21T12:44:19.000Z"
+    },
+    {
+      "id": 16,
+      "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+      "source": "The Register",
+      "date": "2026-10-21T12:43:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "source": "Wired",
+      "date": "2026-10-21T12:35:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+      "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T12:30:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "source": "The Verge",
+      "date": "2026-10-21T12:15:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-21T12:10:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "date": "2026-10-21T12:00:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Perplexity Computer for Mac Adds Local AI Mode for Pro, Max Subscribers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXI2U2pmdkNXMy1QTnBKTDdFQm5vM3hacjhkMnNxWkMtWUVob20zRU40Ni1QNmZZWi1HbGpGUnE4cmFDVHVpWGpyc2NlbzhidGpWd3VmUk5vd21iazNsQW14d2ZhaFBZa1ZGWUNLZzN4YVRLM3dvYTlJYzVtaTJ4NmNlQUhCMmlVWXZlT1NRSWlCZi1UX2dsQnEwSUJUc004VFZpc2pwQ2w5bFFaRm0wYm9PSGvSAboBQVVfeXFMT3FDMzA5bXlpX1E3XzhTVmdRVElUY0dZRUV2S1hDN09MWWYwYUdoeElRQ0lqZTFzeEhtZW85WlNiOWZ3SXZ1Z3RVWElNd3BNclRrVTJtN3daX1g5WHdMTzlsU1pKLXJOaWRxSlNrcTgwSXVReTBMRUtFVGd4TGs3eE9mY3N1T3F1b0FicDJIMkZQUXJVa0xxUm9rWG42NlVfcXJaOFFrbExQQXR0Sk40bTJFcnM2VU85bE13?oc=5",
+      "source": "Perplexity · via Gadgets 360",
+      "date": "2026-10-21T11:57:05.000Z"
+    },
+    {
+      "id": 23,
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
+      "source": "Google News · Eventos tech · via NVIDIA Blog",
+      "date": "2026-10-21T11:44:31.000Z"
+    },
+    {
+      "id": 24,
+      "title": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+      "url": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
+      "source": "Crunchbase News",
+      "date": "2026-10-21T11:00:38.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "source": "NVIDIA",
+      "date": "2026-10-21T10:50:37.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Handwashing changed medicine. AI could too, if hospitals stop treating it like traditional software",
+      "url": "https://www.fastcompany.com/91624590/handwashing-changed-medicine-ai-could-too-if-hospitals-stop-treating-it-like-traditional-software-ai-healthcare-technology?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-21T10:33:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "source": "Hacker News",
+      "date": "2026-10-21T09:07:49.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "source": "Launch HN",
+      "date": "2026-10-21T06:42:12.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Agent Pets",
+      "url": "https://www.producthunt.com/products/agent-pets",
+      "source": "Product Hunt",
+      "date": "2026-10-21T04:55:21.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Eka Robotics raises $150M at $1.45B valuation led by a16z and F-Prime for dexterous robots",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEJraEx3SjZ5X3RJWGEzemZwZzVrQzNXRUxnQThVR05Ha3hpcTRMLTZoQnpmcDNwV1Z4eEkwOTJFbTlqd2NQN3FjdGp3b29LcFEwUkJGUXVfWUhJdE9kUHBXMTVpLXNWaXRZRmtRS1I0YmZUS25pUnVzWndjZDRlY2hhd0wxbGRuQ3kxY3dtUF9SOWhuQVE2b1hSRm5UREVTems4WEQwTTZjLUIxOXF3UHlZWjFrVlJX?oc=5",
+      "source": "a16z · via Tech Funding News",
+      "date": "2026-10-21T04:18:12.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Modeling Human Behavior in the Prisoner's Dilemma with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.23860",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Joel Kaplan leaves Meta",
+      "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+      "source": "Platformer",
+      "date": "2026-10-21T01:34:35.000Z"
+    },
+    {
+      "id": 34,
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "source": "Simon Willison",
+      "date": "2026-10-20T23:50:25.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge AI",
+      "date": "2026-10-20T23:04:19.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-20T17:55:12.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-21-22",
+  "generatedAt": "2026-10-21T22:55:49.093Z",
+  "periodStart": "2026-10-19T22:55:49.093Z",
+  "periodEnd": "2026-10-21T22:55:49.093Z",
+  "title": "Titulares del 21 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Data centers could erase decades of air quality gains",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "The Download: introducing the Impossible issue",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft Stocks Slip as Volkswagen Scales Copilot to 330,000 Workers",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Broad access through consistent standards",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "TechCrunch Founder Summit 2026: Everything you need to know",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Exclusive: Former H Company CTO seeks $30m for new startup",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Tesla beats on earnings and sales even as auto revenue declines",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "El último golpe para Meta llega en forma de una sanción de 25.000 millones de dólares por un escándalo de privacidad",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Olvídate de Android Auto: la IA de Gemini llega a CarPlay para que hables con tu coche",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "AI chatbots struggle to understand cultural context, a new study finds",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Summit 2026 - Connecting Physical AI: Interconnect and Antenna Solutions for Humanoid Robots",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "New York’s first microdrama film festival searches for its audience",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "OpenClaw creator says he spent $10 million in tokens last month",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "New research out of Texas shows how data centers are driving up pollution. www.theverge.com/ai-artificia...",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "I Fixed WebGPU on Linux. Then Forgot How I Did It.",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Claude Mods: Flipping the Harness Inside Out",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-21T22:55:49.717Z"
+    },
+    {
+      "id": 2,
+      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "date": "2026-10-21T22:51:22.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired",
+      "date": "2026-10-21T22:39:50.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVBpUUhwbjh5R1VKYXhzRTc4NWNMYjI5Z3VyeDRScFQ3ZzJzdmpQTXFVS3U4MFB2YWFZbDBZN1pRdkRHVXUySC13R0g0aVhiZDh2X1p1a01sT24xYXhzTjJzN09TLVV2YjdIQ2dGUTBySnE3dFdDV2VFTWRGTnNlZnVIZ2xHSjJjSXczd3BtZ2huTDd2Z0xTTXd0ZlF6Vk1jRVJIOWJnTzFmNXJtcVVEUXc3Y2p1UdIBuwFBVV95cUxONHl2aDNjLTdPQzB4d2lITC1pZXkwVDhwNzQ2UkhIZl81SmFnVW9rM1ZPcEJFYmJXWVh1ZTVSdFplNVpxZ3NmYVdLNndFcG9KcjJ2OUNVeDNEbzZmb1lrMVd0R3ByMFdORC1EejQtRHJVZGJVZUlOaG1pMkQ0ZWFQYW82RENZUUxyOHYzb0RrZ2JnNmlTc25SWEFVajhsVWlDRmFtVGtaaEtsVkdaLU1uUlVWY0hmQ2FSdGhv?oc=5",
+      "source": "Google News · IA · via Al Jazeera",
+      "date": "2026-10-21T22:36:21.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+      "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+      "source": "Engadget",
+      "date": "2026-10-21T22:36:03.000Z"
+    },
+    {
+      "id": 6,
+      "title": "New research out of Texas shows how data centers are driving up pollution. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myg7jkxihw24",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-21T22:35:58.013Z"
+    },
+    {
+      "id": 7,
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-21T22:35:36.000Z"
+    },
+    {
+      "id": 8,
+      "title": "SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)",
+      "url": "https://www.techmeme.com/261021/p55#a261021p55",
+      "source": "Techmeme",
+      "date": "2026-10-21T22:35:02.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge AI",
+      "date": "2026-10-21T22:33:44.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Microsoft Stocks Slip as Volkswagen Scales Copilot to 330,000 Workers",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFlfUC1OVThwNF91bGthVnB1WHNxajhrNHU0eFhNeWdKWDM4YXVRUnYzR1YyampnQzJRZlczcDlIUDBqUXZBSWc2a2paYkpYUTlrVTJIaWc2X002Zk95THhpM1pMbzFQWlFTRWIxMGtCenBGQ0xGVVVNdm0tSTZXajNma01VV3hXaEkyRzBlTWJpSWpiNmRxWU9xM3ZaSGcyenRfd3VZSGpfZE95azA5eEh3aFpxX2IzdUI0elpmRDJDb2xOWld4SQ?oc=5",
+      "source": "Microsoft AI · via TradingView",
+      "date": "2026-10-21T22:26:24.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "source": "Ars Technica",
+      "date": "2026-10-21T22:06:07.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
+      "source": "Anthropic · via CNBC",
+      "date": "2026-10-21T21:42:54.000Z"
+    },
+    {
+      "id": 13,
+      "title": "El último golpe para Meta llega en forma de una sanción de 25.000 millones de dólares por un escándalo de privacidad",
+      "url": "https://www.xataka.com/empresas-y-economia/ultimo-golpe-para-meta-llega-forma-sancion-25-000-millones-dolares-escandalo-privacidad",
+      "source": "Xataka",
+      "date": "2026-10-21T21:42:17.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Olvídate de Android Auto: la IA de Gemini llega a CarPlay para que hables con tu coche",
+      "url": "https://hipertextual.com/apple/gemini-google-maps-carplay-ia-navegacion/",
+      "source": "Hipertextual",
+      "date": "2026-10-21T21:33:25.000Z"
+    },
+    {
+      "id": 15,
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-21T21:16:20.000Z"
+    },
+    {
+      "id": 16,
+      "title": "I Fixed WebGPU on Linux. Then Forgot How I Did It.",
+      "url": "https://dev.to/sizzlebop/i-fixed-webgpu-on-linux-then-forgot-how-i-did-it-5hjd",
+      "source": "dev.to · IA · via Jessica Doering",
+      "date": "2026-10-21T21:13:14.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "date": "2026-10-21T21:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "New York’s first microdrama film festival searches for its audience",
+      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "source": "The Verge",
+      "date": "2026-10-21T20:49:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "OpenClaw creator says he spent $10 million in tokens last month",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+      "source": "The Register",
+      "date": "2026-10-21T20:40:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
+      "url": "https://elpais.com/tecnologia/2026-10-21/el-iphone-duo-de-2300-euros-desata-una-fiebre-inedita-por-los-plegables-se-agota-y-acumula-tres-meses-de-espera.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-21T19:04:49.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "source": "Simon Willison",
+      "date": "2026-10-21T18:41:53.000Z"
+    },
+    {
+      "id": 22,
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-21T18:26:30.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "source": "Google Research",
+      "date": "2026-10-21T16:23:53.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Summit 2026 - Connecting Physical AI: Interconnect and Antenna Solutions for Humanoid Robots",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEhFaEhjNkc5Y19UaVBkUUVpbE50OXRRU2tpV3lxQXdUUjlTWk9RdU94R3k1RENteUlvNFN3V0k0NjU1Nk5ZaWxkZXBUa3FDV29ub29fMXFtRTBFTUZXV1NKeGJTbEhEdXlQeHpvODlxR0s5NFNSY3l6eE5XWHFnQU8yUWRtaHhJWlFZTEx2MWFOMWptcHB4Y1NCUmRud1ZWeGJBbjFvblo5bzl4aEJfUGJCYjNic00zM05DSHg5aHJRRlZXd1Zr?oc=5",
+      "source": "Google News · Eventos tech · via All About Circuits",
+      "date": "2026-10-21T16:15:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "source": "Microsoft Research",
+      "date": "2026-10-21T16:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "AI chatbots struggle to understand cultural context, a new study finds",
+      "url": "https://www.fastcompany.com/91627566/ai-chatbots-struggle-to-understand-cultural-context-new-study?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-21T15:47:09.000Z"
+    },
+    {
+      "id": 27,
+      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWng2WWdrYk1qN09VQ1hYM3M3V0NERGNSWUh5cVVSbU16QnlCTEJpYzlfaHZDcElzSkNGYVR0NFcxOGh2OGlvYzY0NDVzWlllZXdGaFNKWjRQa0I2ZjdrRHkxd25zc2tGUHVBbzZfMmttMF9yMkRsWXNMM0J2eno0TzNFRkFrX3ZwZ1dmNFRocEtlZlU5Wjd6QU9CdWZPZVN6NEV1RnZvTld4eGpKb29wN2h5YVFPM0U0cjN1T0xkSC1PZ1FGMGNUUklIbVI?oc=5",
+      "source": "a16z · via CoinDesk",
+      "date": "2026-10-21T15:24:31.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Exclusive: Former H Company CTO seeks $30m for new startup",
+      "url": "https://sifted.eu/articles/former-h-company-cto-seeks-30m-for-new-startup/",
+      "source": "Sifted",
+      "date": "2026-10-21T14:23:23.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-21T14:03:11.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "Latent Space",
+      "date": "2026-10-21T13:04:19.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-21T12:10:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight",
+      "url": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
+      "source": "Crunchbase News",
+      "date": "2026-10-21T11:00:38.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "source": "Launch HN",
+      "date": "2026-10-21T06:42:12.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-21T04:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

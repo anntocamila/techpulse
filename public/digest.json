@@ -1,8 +1,8 @@
 {
-  "id": "2026-10-22-13",
-  "generatedAt": "2026-10-22T13:20:26.631Z",
-  "periodStart": "2026-10-20T13:20:26.631Z",
-  "periodEnd": "2026-10-22T13:20:26.631Z",
+  "id": "2026-10-22-22",
+  "generatedAt": "2026-10-22T22:53:40.860Z",
+  "periodStart": "2026-10-20T22:53:40.860Z",
+  "periodEnd": "2026-10-22T22:53:40.860Z",
   "title": "Titulares del 22 de octubre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -13,39 +13,39 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "black-forest-labs/flux-3-image-klein-comfy",
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "sources": [
             1
           ]
         },
         {
-          "text": "1Password lets AI agents use your passwords without seeing them",
+          "text": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
           "sources": [
-            12
+            8
           ]
         },
         {
-          "text": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+          "text": "Designing an AI serving harness built to last",
           "sources": [
-            17
+            13
           ]
         },
         {
-          "text": "The Download: computing’s next leap and permafrost’s climate threat",
+          "text": "Someone hacked the Switch 2 by using an old game and AI",
           "sources": [
-            18
+            28
           ]
         },
         {
           "text": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
           "sources": [
-            31
+            34
           ]
         },
         {
           "text": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
           "sources": [
-            32
+            35
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+          "text": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
           "sources": [
-            11
+            6
           ]
         },
         {
-          "text": "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
+          "text": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails",
           "sources": [
-            20
+            19
           ]
         },
         {
-          "text": "Perplexity AI Predicts an Explosive Q4 for Uniswap: Should UNI Holders Be Excited?",
+          "text": "The science behind TorchNeuron, Amazon&#8217;s new PyTorch backend for AWS Trainium chips",
           "sources": [
             23
           ]
         },
         {
-          "text": "Work IQ: Unlock More Value from SharePoint with Microsoft 365 Copilot",
+          "text": "Build more responsive apps with the Decisions API",
           "sources": [
             24
           ]
         },
         {
-          "text": "Ensemble forecasting with IBM Granite time-series models",
+          "text": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’",
           "sources": [
-            25
+            26
           ]
         },
         {
-          "text": "Mistral Voxtral 3: Speech AI Hits $0.0035/Min [2026]",
+          "text": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
           "sources": [
-            29
+            30
           ]
         }
       ]
@@ -101,39 +101,33 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
+          "text": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Palantir chief: Europe must ‘accept some dependency’ on US tech",
+          "sources": [
+            25
+          ]
+        },
+        {
           "text": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
           "sources": [
-            10
-          ]
-        },
-        {
-          "text": "Andreessen Horowitz Drops ‘Crypto’ From Flagship Fund, Rebrands as a16z Frontier",
-          "sources": [
-            15
-          ]
-        },
-        {
-          "text": "Resend Inboxes",
-          "sources": [
-            28
-          ]
-        },
-        {
-          "text": "Ireland’s AI scene has buzz. Now it needs breakouts",
-          "sources": [
-            30
-          ]
-        },
-        {
-          "text": "TechCrunch Founder Summit 2026: Everything you need to know",
-          "sources": [
-            34
-          ]
-        },
-        {
-          "text": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
-          "sources": [
-            36
+            33
           ]
         }
       ]
@@ -145,39 +139,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Carrefour liquida esta smart TV QLED de Xiaomi para la cocina o el dormitorio: ahora cuesta 149 euros",
+          "text": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "DeepSeek reportedly raises $15B days after US restrictions",
+          "text": "Apagar el móvil cinco minutos al día: el consejo de sistemas de Moncloa que Sánchez contó en ‘La Revuelta’ para protegerse de virus",
           "sources": [
-            6
+            12
           ]
         },
         {
-          "text": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+          "text": "AI stocks slip and global markets retreat as oil hits 5-month high",
           "sources": [
-            16
+            14
           ]
         },
         {
-          "text": "Millones de intentos de ataque en pocas horas tras destapar la IA fallos graves en miles de webs",
+          "text": "Rivian buys world model startup to accelerate self-driving ambitions",
           "sources": [
-            19
+            15
           ]
         },
         {
-          "text": "How Google is building a gigawatt-scale power plant—without building a power plant",
+          "text": "Tom Skerritt, estrella de &#8216;Alien&#8217; y &#8216;Top Gun&#8217;, ha muerto a los 93 años",
           "sources": [
-            22
+            17
           ]
         },
         {
-          "text": "Si usas Chrome, Google empezará a vigilar todo el texto que copias en tu equipo",
+          "text": "Millones de ciberataques en pocas horas, tras descubrir la IA un fallo en el corazón del 70% de las webs",
           "sources": [
-            33
+            29
           ]
         }
       ]
@@ -189,9 +183,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation",
+          "text": "Fuel Tech Schedules 2026 Third Quarter Financial Results and Conference Call",
           "sources": [
-            7
+            21
           ]
         }
       ]
@@ -203,39 +197,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The Atari VCS saga will come to an end next year when its software store closes",
+          "text": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
           "sources": [
             2
           ]
         },
         {
-          "text": "Sources: the Pentagon quietly establishes the Technology Support Office (TSO), an agency to execute covert sabotage, cyberattacks, and supply chain disruptions (Politico)",
+          "text": "What to Know About Shamonda Virus Following the First Reported Human Infection",
           "sources": [
             5
           ]
         },
         {
-          "text": "Nvidia's Huang: Don't mention the AI-pocalypse",
+          "text": "Canva’s first AI image model plans designs before generating them",
           "sources": [
-            9
+            11
           ]
         },
         {
-          "text": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+          "text": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
           "sources": [
-            13
+            16
           ]
         },
         {
-          "text": "1Password will let you hand your data security over to your preferred AI agent",
+          "text": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
           "sources": [
-            14
+            18
           ]
         },
         {
-          "text": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+          "text": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
           "sources": [
-            21
+            20
           ]
         }
       ]
@@ -247,33 +241,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The Nook and Home are cheaper, faster, and sleeker smart bird feeders — but the new camera might be a deal-breaker for diehard birders. w…",
+          "text": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. www.theverge.com/ai-artificia...",
           "sources": [
-            4
+            10
           ]
         },
         {
-          "text": "Claude’s personal agent",
+          "text": "DE STAAT - FREEDOM (Official Music Video)",
           "sources": [
-            8
+            22
           ]
         },
         {
-          "text": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-          "sources": [
-            26
-          ]
-        },
-        {
-          "text": "One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻",
+          "text": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
           "sources": [
             27
           ]
         },
         {
-          "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "text": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
           "sources": [
-            35
+            31
+          ]
+        },
+        {
+          "text": "Claude’s personal agent",
+          "sources": [
+            32
           ]
         }
       ]
@@ -282,261 +276,254 @@
   "sources": [
     {
       "id": 1,
-      "title": "black-forest-labs/flux-3-image-klein-comfy",
-      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-22T13:20:27.352Z"
+      "date": "2026-10-22T22:53:42.935Z"
     },
     {
       "id": 2,
-      "title": "The Atari VCS saga will come to an end next year when its software store closes",
-      "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
-      "source": "The Verge",
-      "date": "2026-10-22T13:17:59.000Z"
+      "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
+      "url": "https://www.techmeme.com/261022/p55#a261022p55",
+      "source": "Techmeme",
+      "date": "2026-10-22T22:35:33.000Z"
     },
     {
       "id": 3,
-      "title": "Carrefour liquida esta smart TV QLED de Xiaomi para la cocina o el dormitorio: ahora cuesta 149 euros",
-      "url": "https://www.xataka.com/seleccion/carrefour-liquida-esta-smart-tv-qled-xiaomi-para-cocina-dormitorio-ahora-cuesta-149-euros",
-      "source": "Xataka",
-      "date": "2026-10-22T13:16:09.000Z"
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-22T22:34:54.000Z"
     },
     {
       "id": 4,
-      "title": "The Nook and Home are cheaper, faster, and sleeker smart bird feeders — but the new camera might be a deal-breaker for diehard birders. w…",
-      "url": "https://bsky.app/profile/theverge.com/post/3myhqoi4psj2r",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-22T13:15:36.298Z"
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWJ2MkFOWFpYdGwtMjVRSlBXM0tZSTVxcXNhODUwZG9La3R4eEMtU0x2YnE3djMxNzh3ZmI5V21mVHMyRUMtQ3FoalNSam9PREg2cHprMHJnd05qdi1wN09EcE5qR0RKdFNqTklTdnYxNGhrNVNwWThFWWQwWnZGeXFIM1FKV213ZklBLWpxV2RXNTJQeVBJUnlTRXNLQ1NheGFGT1lEMGpMa1pkamtEdTlhaDQ0UQ?oc=5",
+      "source": "a16z · via TechCrunch",
+      "date": "2026-10-22T22:34:54.000Z"
     },
     {
       "id": 5,
-      "title": "Sources: the Pentagon quietly establishes the Technology Support Office (TSO), an agency to execute covert sabotage, cyberattacks, and supply chain disruptions (Politico)",
-      "url": "https://www.techmeme.com/261022/p27#a261022p27",
-      "source": "Techmeme",
-      "date": "2026-10-22T13:15:01.000Z"
+      "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "source": "Wired",
+      "date": "2026-10-22T22:26:57.000Z"
     },
     {
       "id": 6,
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch",
-      "date": "2026-10-22T13:11:13.000Z"
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-22T22:24:34.000Z"
     },
     {
       "id": 7,
-      "title": "Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5",
-      "source": "Google News · Eventos tech · via Petrie-Flom Center",
-      "date": "2026-10-22T13:07:50.000Z"
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-22T22:21:08.000Z"
     },
     {
       "id": 8,
+      "title": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3VTZHhhbHJIbTZuRHlZd1IwQVlra19BTGpjVXZaQ2lacDE3cVExRE5iNy1xRlVmS0lyY0FFS19HaEdRdy1LQ0VqU1ZzRURUUlNRQzQ5TlZqeHg2THNpN1JoNE9Ld3duY3ZOTDBnQ0QwZ3Z3QU9PdTBia1M4OEpaQkFra3hoSFhfSC1WUWNYNXhVOWJaRnoyR0otSzAwbWRxdHl4bi1Idl9aM2ZhQmV2NThBTUlOdmlvUnpFUFRZVQ?oc=5",
+      "source": "Google News · IA · via Politico",
+      "date": "2026-10-22T22:14:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-22T22:08:24.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myinlqozya25",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-22T21:53:02.714Z"
+    },
+    {
+      "id": 11,
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "date": "2026-10-22T21:51:25.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Apagar el móvil cinco minutos al día: el consejo de sistemas de Moncloa que Sánchez contó en ‘La Revuelta’ para protegerse de virus",
+      "url": "https://www.xataka.com/seguridad/apagar-movil-cinco-minutos-al-dia-consejo-que-recibio-pedro-sanchez-moncloa-para-protegerlo-amenazas",
+      "source": "Xataka",
+      "date": "2026-10-22T21:23:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-22T21:17:29.000Z"
+    },
+    {
+      "id": 14,
+      "title": "AI stocks slip and global markets retreat as oil hits 5-month high",
+      "url": "https://www.fastcompany.com/91628397/stocks-markets-rates-earnings-oil?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-22T21:08:34.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch",
+      "date": "2026-10-22T21:05:05.000Z"
+    },
+    {
+      "id": 16,
+      "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+      "url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
+      "source": "Engadget",
+      "date": "2026-10-22T20:57:17.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Tom Skerritt, estrella de &#8216;Alien&#8217; y &#8216;Top Gun&#8217;, ha muerto a los 93 años",
+      "url": "https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93-anos/",
+      "source": "Hipertextual",
+      "date": "2026-10-22T20:51:13.000Z"
+    },
+    {
+      "id": 18,
+      "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+      "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+      "source": "The Register",
+      "date": "2026-10-22T20:37:52.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Microsoft is retiring an Outlook feature that allows Copilot to assign a priority to emails",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpGdVpzU2YtT3h4TlVURDM1YjZudDFOaHBCc0dHeVh1bmtUVVZWM3FLMFNDS1FfUzBlX0lxTW44bTUtU0hpellXaUN0VU9vb1BNRFktODJzWEJhNFg0cjdQTFRnb3JVRmRET3laY0kwQjVsU0FfY1lfUC13M2R6djNJQzRvWllicmtuQ2tZbVkzZks0UmZwM1E0SllFMFIxelppYTM1eUsxbTlURzJsMEdMOWNaX1dEdzVjXw?oc=5",
+      "source": "Microsoft AI · via Neowin",
+      "date": "2026-10-22T20:32:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "source": "Ars Technica",
+      "date": "2026-10-22T20:17:52.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Fuel Tech Schedules 2026 Third Quarter Financial Results and Conference Call",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHhHRGE3dFFObXY4MnVTUGFrdlhBQmY2dllWYlk5WXNDME1JVnhWU2c3eEYwSEJFaEZXdlFQRU9oVEdfSnF0LWxqVmJtZUJONjBRZEdTUDFGWG5jYnJhSkNEYVNNbUM4U2FQcU5tX2RES3hzenJjRXpEcTJWQlp2dXVSUkxta0ZaWVVKaDhHX3V3NzdPUVRHUFBKRQ?oc=5",
+      "source": "Google News · Eventos tech · via Yahoo Finance",
+      "date": "2026-10-22T20:15:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "source": "Simon Willison",
+      "date": "2026-10-22T19:42:26.000Z"
+    },
+    {
+      "id": 23,
+      "title": "The science behind TorchNeuron, Amazon&#8217;s new PyTorch backend for AWS Trainium chips",
+      "url": "https://www.amazon.science/blog/the-science-behind-torchneuron-amazons-new-pytorch-backend-for-aws-trainium-chips",
+      "source": "Amazon Science",
+      "date": "2026-10-22T19:36:42.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "date": "2026-10-22T19:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Palantir chief: Europe must ‘accept some dependency’ on US tech",
+      "url": "https://sifted.eu/articles/palantir-louis-mosley-european-tech-sovereignty/",
+      "source": "Sifted",
+      "date": "2026-10-22T18:56:43.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDE5V3NNUV9BRGdBQkNJYVRybEtyQXZMbEE1VXVrZEV3V0xNaVZqdXBadDlwbzZyMGF5TW1JejdseXEyMjBTdF8yQlBOZS1vY2RxQXliWExoMG9yR0dqcFgyUVR4bkRuWWdwVTU2eWV5UjJyN2QtdlZFTGZCdGlwSUgzZw?oc=5",
+      "source": "Anthropic · via Billboard",
+      "date": "2026-10-22T18:10:53.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "url": "https://www.latent.space/p/modal-d",
+      "source": "Latent Space",
+      "date": "2026-10-22T17:40:57.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge AI",
+      "date": "2026-10-22T17:21:31.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Millones de ciberataques en pocas horas, tras descubrir la IA un fallo en el corazón del 70% de las webs",
+      "url": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-22T16:40:23.000Z"
+    },
+    {
+      "id": 30,
+      "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-22T16:39:09.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "source": "dev.to · IA · via Olivier Bourgeois",
+      "date": "2026-10-22T16:05:20.000Z"
+    },
+    {
+      "id": 32,
       "title": "Claude’s personal agent",
       "url": "https://www.bensbites.com/p/claudes-personal-agent",
       "source": "Ben's Bites",
       "date": "2026-10-22T13:01:21.000Z"
     },
     {
-      "id": 9,
-      "title": "Nvidia's Huang: Don't mention the AI-pocalypse",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
-      "source": "The Register",
-      "date": "2026-10-22T13:01:00.000Z"
-    },
-    {
-      "id": 10,
+      "id": 33,
       "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
       "url": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
       "source": "Crunchbase News",
       "date": "2026-10-22T13:00:23.000Z"
     },
     {
-      "id": 11,
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "source": "NVIDIA",
-      "date": "2026-10-22T13:00:20.000Z"
-    },
-    {
-      "id": 12,
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "source": "The Verge AI",
-      "date": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "id": 13,
-      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-      "source": "Wired",
-      "date": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "id": 14,
-      "title": "1Password will let you hand your data security over to your preferred AI agent",
-      "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/",
-      "source": "Engadget",
-      "date": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "id": 15,
-      "title": "Andreessen Horowitz Drops ‘Crypto’ From Flagship Fund, Rebrands as a16z Frontier",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjBBdXBWR1R5QXNMU29yLU8xWmxORUhGUnRRd084cDZtYjdQWXViVVhERUFkT1RHMEZfNzFjOXVxNzhNWEdSLXo3SERHcXpWRkZhZGlFS2ZaXzV6TzNYZ3BvTm5zN1JzbldwSFg5SnNvR1hJVmF5RFMtcEpTVjQyV1dLLU9Yb3RVd1Q0Z2JDR0lKZUZZX1c3Wk1GR3Q1S1VRd2pDUi1ZWjJKeDQyaVJWRmNkXzdmTm8?oc=5",
-      "source": "a16z · via The Crypto Times",
-      "date": "2026-10-22T12:48:20.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-22T12:46:15.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5",
-      "source": "Google News · IA · via The New York Times",
-      "date": "2026-10-22T12:45:53.000Z"
-    },
-    {
-      "id": 18,
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-22T12:10:00.000Z"
-    },
-    {
-      "id": 19,
-      "title": "Millones de intentos de ataque en pocas horas tras destapar la IA fallos graves en miles de webs",
-      "url": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html",
-      "source": "El País Tecnología",
-      "date": "2026-10-22T11:40:42.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Cohere: Sovereign AI, Aleph Alpha Merger and US$20bn Value",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenNyWlI3YnVzbkcyNmtMZGlueHZTa21FOUFjS0xZajhQcUtiTklWdGdER1BNYTZFRFR3bHpTOW5iLUhlWUJpbTEzb1RNNjRwSURWRUJQXzZMWl9nODR5N3hrdmQtQkxQY3VVUG9hMVpkMHRRdE1nT0RaN3dHM3duaTJxRjEtQ2RsOGJmaA?oc=5",
-      "source": "Cohere · via AI Magazine",
-      "date": "2026-10-22T11:36:47.000Z"
-    },
-    {
-      "id": 21,
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "source": "Ars Technica",
-      "date": "2026-10-22T11:30:33.000Z"
-    },
-    {
-      "id": 22,
-      "title": "How Google is building a gigawatt-scale power plant—without building a power plant",
-      "url": "https://www.fastcompany.com/91627781/how-google-is-building-a-gigawatt-scale-power-plant-without-building-a-power-plant?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-22T11:30:00.000Z"
-    },
-    {
-      "id": 23,
-      "title": "Perplexity AI Predicts an Explosive Q4 for Uniswap: Should UNI Holders Be Excited?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1ZCWmFFRENhdnVlY05NZVhlSjY5cDRDb0ZBVmhFTDJGeGJLN1ZRN2k2UTZDX1NHaXB3YzFZeTFQd1g4TGREVlBZOUtrNW02THlqdGZzNXp2ZlhKVXFOS19ObXNNYlNMTy1IWjV6cEpqTHlwOU10OTNTUHFXS00zVEFVbUI3b0VWZHdIWWJwcThtbjk3UnVjV256TnNrRTQzTm4wZ3huWHVpdVU?oc=5",
-      "source": "Perplexity · via icobench.com",
-      "date": "2026-10-22T09:40:29.000Z"
-    },
-    {
-      "id": 24,
-      "title": "Work IQ: Unlock More Value from SharePoint with Microsoft 365 Copilot",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOODdDdzNxLWwtdld2VDVnZGJjaS1FbXg0VUdCSXFXanZaYUNpZzZmNWZDUnNuTjU4U180ZU5SaklNTjF2REltbDlmZjE0TDE0YlFPVVJYVHNLSFFHcS0yeVNiX21FTm1ZMVN0UVNtbTlKOVN1Z1p3NFdnelVmazNzYkZWM05Ub21ybXo4aldfQ0ZTdHhMT3dJ?oc=5",
-      "source": "Microsoft AI · via MSDynamicsWorld.com",
-      "date": "2026-10-22T09:35:59.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "date": "2026-10-22T07:51:31.000Z"
-    },
-    {
-      "id": 26,
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "source": "Latent Space",
-      "date": "2026-10-22T07:42:44.000Z"
-    },
-    {
-      "id": 27,
-      "title": "One Dev, Four Specialists: My Agent Team for OpenCode 🧑‍💻",
-      "url": "https://dev.to/playfulprogramming/one-dev-four-specialists-my-agent-team-for-opencode-5f31",
-      "source": "dev.to · IA · via Domenico Tenace",
-      "date": "2026-10-22T07:00:00.000Z"
-    },
-    {
-      "id": 28,
-      "title": "Resend Inboxes",
-      "url": "https://www.producthunt.com/products/resend",
-      "source": "Product Hunt",
-      "date": "2026-10-22T05:25:49.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Mistral Voxtral 3: Speech AI Hits $0.0035/Min [2026]",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoa0N2UjF2R3NJNFYtTGJwOW9JeXlCVlR1TFlab29MUVp5M2ROcTE2Mm5qeDF4b3ZTaDJhblZ4Wjc4a3Joandad3l1S1JkeFZiRk9tOTBKUnVRZVI2aXlxcW13YTJvckRJZUU5V2xxTQ?oc=5",
-      "source": "Mistral AI · via shattered.io",
-      "date": "2026-10-22T05:17:10.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Ireland’s AI scene has buzz. Now it needs breakouts",
-      "url": "https://sifted.eu/articles/irelands-ai-scene/",
-      "source": "Sifted",
-      "date": "2026-10-22T05:00:56.000Z"
-    },
-    {
-      "id": 31,
+      "id": 34,
       "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
       "url": "https://arxiv.org/abs/2610.28686",
       "source": "arXiv cs.AI",
       "date": "2026-10-22T04:00:00.000Z"
     },
     {
-      "id": 32,
+      "id": 35,
       "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
       "url": "https://arxiv.org/abs/2610.28673",
       "source": "arXiv cs.CL",
       "date": "2026-10-22T04:00:00.000Z"
-    },
-    {
-      "id": 33,
-      "title": "Si usas Chrome, Google empezará a vigilar todo el texto que copias en tu equipo",
-      "url": "https://hipertextual.com/internet/google-chrome-analizara-texto-portapapeles-estafas/",
-      "source": "Hipertextual",
-      "date": "2026-10-21T23:30:00.000Z"
-    },
-    {
-      "id": 34,
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-21T21:16:20.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "source": "Simon Willison",
-      "date": "2026-10-21T18:41:53.000Z"
-    },
-    {
-      "id": 36,
-      "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
-      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "source": "TechCrunch Venture",
-      "date": "2026-10-21T14:03:11.000Z"
     }
   ],
   "stats": {
     "posts": 220,
-    "sourcesOk": 63,
-    "sourcesFailed": 0
+    "sourcesOk": 62,
+    "sourcesFailed": 1
   },
   "generator": "headlines"
 }

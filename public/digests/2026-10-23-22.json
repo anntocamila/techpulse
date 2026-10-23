@@ -1,0 +1,542 @@
+{
+  "id": "2026-10-23-22",
+  "generatedAt": "2026-10-23T22:46:51.233Z",
+  "periodStart": "2026-10-21T22:46:51.233Z",
+  "periodEnd": "2026-10-23T22:46:51.233Z",
+  "title": "Titulares del 23 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "USC helps seniors learn how to use artificial intelligence",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "OpenAI now trains its frontier AI models with no internet access",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Should AI have the same rights as humans?",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Bringing foundational models to the front lines of TB screening",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "VCs, Superhuman Mail founder share red flags about product-market fit",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "What some of Anthropic’s backers are reportedly worth before its IPO",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Oslo tech struggles to break out of Stockholm's shadow",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Product Hunt Visual Launch Editor",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "What AI leaves out of the answer still counts",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Madrid: 42% de startups usa IA como tecnología principal",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mark Pope Post-Texas Tech Press Conference",
+          "sources": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "OpenAI says it's cutting off internet access for frontier model training",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Xbox’s first chief operating officer is out after just a few months",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "There's a third PHP2Shell bug, but it won't get an emergency fix",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Helen Chiang is leaving Microsoft after 21 years. www.theverge.com/news/1018037...",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Quick Study",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "AI Is Getting Good at Math. Here’s Why.",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100% on My Laptop)",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Introducing Machine Gods",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-23T22:46:52.186Z"
+    },
+    {
+      "id": 2,
+      "title": "OpenAI says it's cutting off internet access for frontier model training",
+      "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+      "source": "Engadget",
+      "date": "2026-10-23T22:37:02.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-23T22:36:23.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODhtenZZeldtYXpjbXpoZ0hhMGlsVVVfTzIwbEdNU1V0cjB0cnNvdkI5WUpOTk53R191Q1NpZHZHYUtZRnNZMmxaczF1ZGtGV1ZGUUN5eFVZaVdPQ0dMYVRMZkg3Tm4xN0QyNjhQeVZ0eVd4RGIxQVRwVUVya0FpNzVyMHJ6aWlDaWhCSnF1SXRWcU9OUU9YVnF1VEdkUW8tRER2cWZzN2FCamtxcVJrTkFrWUcxQ1c4ZzBFQlNNZEdaRVZRdmV0QzRCZ0tIY3VmLWVTUw?oc=5",
+      "source": "Microsoft AI · via Visual Studio Magazine",
+      "date": "2026-10-23T22:09:49.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Mark Pope Post-Texas Tech Press Conference",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2IzQU0xQ2JabUU4cHJObjZIN0U5dU0tUVdJZ2NzcVRpVGZhTGo4UGVoc21zX1hRUmVsTHIwOHZjWmRUOHdzekdWdHN5bnk3Q0ZwczBoSHdtencyd1NnM0NfVUlYOHJMcExaUDktX2RySFpiMFJoS0lOemw2dXo3NkNyYk5LVV84aGtF?oc=5",
+      "source": "Google News · Eventos tech · via UKAthletics",
+      "date": "2026-10-23T22:00:39.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "date": "2026-10-23T21:59:19.000Z"
+    },
+    {
+      "id": 7,
+      "title": "USC helps seniors learn how to use artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2NOcDJ0UkJoTXkyek1POTJFMzFhY1JWT29IVzRNeXRpLVJ0NEU1Qm51eEExa2NJTXVhb2p4TXdtOVUxSHJPVjNmOGZLaGhCeDNVRTQzMHh6WmtHTnlkYi1LZVBDckd1NDJsclVfdUVuV0tPME04Nm1paTMtM1RySVNGTUhrLTJoaHpwLUhHRmVPSFVZbGxTajhMWQ?oc=5",
+      "source": "Google News · IA · via WSPA 7News",
+      "date": "2026-10-23T21:56:54.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
+      "url": "https://www.techmeme.com/261023/p23#a261023p23",
+      "source": "Techmeme",
+      "date": "2026-10-23T21:55:01.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Helen Chiang is leaving Microsoft after 21 years. www.theverge.com/news/1018037...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myl5luyeek23",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-23T21:44:47.505Z"
+    },
+    {
+      "id": 10,
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "source": "The Verge",
+      "date": "2026-10-23T21:39:26.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "Simon Willison",
+      "date": "2026-10-23T21:35:13.000Z"
+    },
+    {
+      "id": 12,
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge AI",
+      "date": "2026-10-23T21:11:07.000Z"
+    },
+    {
+      "id": 13,
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-23T20:57:13.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
+      "source": "Hipertextual",
+      "date": "2026-10-23T20:46:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "source": "Ars Technica",
+      "date": "2026-10-23T20:28:43.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Should AI have the same rights as humans?",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzV1XzNuYUg2cTBjdVYwYm8zajcxc25faEp3UW1sdnZZNEZBdGYydXN5NGlfVXRKLTBKTFUwbmE1OU5HbHhJNmM3dVMtbGVDNEhHTkJfSGlJOHFSTzJOR3RqRUJwQWNaNVk1MlFWTDNSQmFHZXJtM1YzZTNidHE0RUdVeldCMHM?oc=5",
+      "source": "Anthropic · via WBUR",
+      "date": "2026-10-23T20:06:16.000Z"
+    },
+    {
+      "id": 17,
+      "title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
+      "url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
+      "source": "The Register",
+      "date": "2026-10-23T20:04:40.000Z"
+    },
+    {
+      "id": 18,
+      "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+      "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+      "source": "Xataka",
+      "date": "2026-10-23T19:30:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "date": "2026-10-23T18:51:33.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "source": "Crunchbase News",
+      "date": "2026-10-23T18:51:22.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
+      "url": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
+      "source": "Wired",
+      "date": "2026-10-23T18:27:32.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T17:27:52.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "date": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "What AI leaves out of the answer still counts",
+      "url": "https://www.fastcompany.com/91625997/what-ai-leaves-out-answer-still-counts?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Madrid: 42% de startups usa IA como tecnología principal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTlGZ25zQUpYRFN4ak1yRkhHRUNMSFNvcWZwRk9MNUpscGhlc0xkaktJcl9qR0stTmRhWFRsSkJVd1NUdUpfdnp2dWNXVFpKQjBDZURrQUxFQ05ZZ0NFRWl3aDFYM2YwMWlxVmY5X0JCb0lPMjdYVDhXY2RJdVBWYk9zX0Jhc1lwZ3hnZDhR?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-23T16:24:51.000Z"
+    },
+    {
+      "id": 26,
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-23T16:15:50.000Z"
+    },
+    {
+      "id": 27,
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-23T16:02:43.000Z"
+    },
+    {
+      "id": 28,
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "source": "Latent Space",
+      "date": "2026-10-23T15:19:48.000Z"
+    },
+    {
+      "id": 29,
+      "title": "I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100% on My Laptop)",
+      "url": "https://dev.to/kumuda/i-built-a-pixel-hero-that-nags-me-to-drink-water-and-runs-100-on-my-laptop-2ilb",
+      "source": "dev.to · IA · via Kumuda Sri P",
+      "date": "2026-10-23T13:30:44.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkhGRUdyYUxhQUlELUc2RjBnX0JuVVRtODBacXlVTmo2RDZzQVlOUWI5NnlickhnQ3dQN2YyaVFKaHRhZGZ0N2tGOGVSM1JVMTVPc0RCaUU4LUpaVkJRVGczQXp6cklTaXBuNVlFcTlEajJzZW9zUlpobDl0R0FWZVRPTnNwMHdEXzNqUmx1ZktkVzllbEdPR3B3Z2hJQQ?oc=5",
+      "source": "a16z · via Yahoo Finance",
+      "date": "2026-10-23T13:29:21.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-23T12:10:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Oslo tech struggles to break out of Stockholm's shadow",
+      "url": "https://sifted.eu/articles/oslo-tech-problems-physical-ai-vc-growth-capital/",
+      "source": "Sifted",
+      "date": "2026-10-23T10:45:03.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt",
+      "date": "2026-10-23T06:03:38.000Z"
+    },
+    {
+      "id": 34,
+      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+      "url": "https://arxiv.org/abs/2610.30151",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+      "url": "https://arxiv.org/abs/2610.30154",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Introducing Machine Gods",
+      "url": "https://www.platformer.news/machine-gods-manifesto-ai-realism/",
+      "source": "Platformer",
+      "date": "2026-10-23T00:47:03.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

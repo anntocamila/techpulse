@@ -1,0 +1,529 @@
+{
+  "id": "2026-10-24-12",
+  "generatedAt": "2026-10-24T12:22:20.523Z",
+  "periodStart": "2026-10-22T12:22:20.523Z",
+  "periodEnd": "2026-10-24T12:22:20.523Z",
+  "title": "Titulares del 24 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "OpenAI now trains its frontier AI models with no internet access",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "3 Things To Know As A Potential Anthropic IPO Nears",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Bringing foundational models to the front lines of TB screening",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Startups don&#8217;t need to go viral to win customers",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "a16z Renames a16z Crypto as a16z Frontier, Broadening Its Investment Scope",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Basedash Scheduled CSV Exports",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "What some of Anthropic’s backers are worth before its IPO",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Oslo tech struggles to break out of Stockholm's shadow",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "\"No hay esperanza para los glaciares del Pirineo\". Las fotos del Aneto tras el verano sugieren un colapso climático extremo",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "5 cosas que deberías saber de ‘Clayface’ antes de ver la película de DC",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Google says now is your best time to snag cheap flights for Thanksgiving and Christmas",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Madrid: 42% de startups usa IA como tecnología principal",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Oklahoma Local News Summit explores AI’s role in journalism",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Laika has spent 20 years building up to Wildwood",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Raspberry Pi Desktop proves old PCs aren't past it",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "sources": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How the stop-motion animation studio blends traditional techniques with modern tech. www.theverge.com/entertainmen...",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "My AI Coding Workflow, v3",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Quick Study",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Introducing Machine Gods",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-24T12:22:21.320Z"
+    },
+    {
+      "id": 2,
+      "title": "How the stop-motion animation studio blends traditional techniques with modern tech. www.theverge.com/entertainmen...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mymobejmoo2g",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-24T12:15:47.930Z"
+    },
+    {
+      "id": 3,
+      "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+      "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
+      "source": "Engadget",
+      "date": "2026-10-24T12:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "\"No hay esperanza para los glaciares del Pirineo\". Las fotos del Aneto tras el verano sugieren un colapso climático extremo",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/no-hay-esperanza-para-glaciares-pirineo-fotos-aneto-verano-sugieren-colapso-climatico-extremo",
+      "source": "Xataka",
+      "date": "2026-10-24T12:00:09.000Z"
+    },
+    {
+      "id": 5,
+      "title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWdVcmp6Vm8xaTlHbXhmRUp2bnU1Q2hlMUY1eG05ekVJSWFPRjRZWGcyODNDeUV4dW5IUndhM2NtWlJDSE1QSmhlekNNVUotb2NHRjBwRTc4dkR0Y3RNeUIwWlZNUk1hOTc2dEJYTEVUUlVhSXFmeUx1RlZWNjJ0ZmhINTRHcXZac0NtOUd2RE9oTUU1Rk9TLWJmSlpFTWxfaVlSdUhkZ2p3ZVB3LXhWSVZSS004ZkNzRlFWUzVjVQ?oc=5",
+      "source": "Google News · IA · via The New York Times",
+      "date": "2026-10-24T12:00:03.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "source": "The Verge",
+      "date": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired",
+      "date": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+      "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+      "source": "The Register",
+      "date": "2026-10-24T11:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-24T11:00:01.000Z"
+    },
+    {
+      "id": 10,
+      "title": "5 cosas que deberías saber de ‘Clayface’ antes de ver la película de DC",
+      "url": "https://hipertextual.com/cine-television/5-cosas-que-deberias-saber-de-clayface-antes-de-ver-la-pelicula-de-dc/",
+      "source": "Hipertextual",
+      "date": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+      "url": "https://www.techmeme.com/261024/p3#a261024p3",
+      "source": "Techmeme",
+      "date": "2026-10-24T10:35:01.000Z"
+    },
+    {
+      "id": 12,
+      "title": "My AI Coding Workflow, v3",
+      "url": "https://dev.to/helderberto/my-ai-coding-workflow-v3-3c4c",
+      "source": "dev.to · IA · via Helder Burato Berto",
+      "date": "2026-10-24T09:51:31.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Google says now is your best time to snag cheap flights for Thanksgiving and Christmas",
+      "url": "https://www.fastcompany.com/91627136/google-now-best-time-snag-cheap-flights-thanksgiving-christmas-airfare-holiday-travel?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-24T09:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "source": "Latent Space",
+      "date": "2026-10-24T07:18:29.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "Hacker News",
+      "date": "2026-10-24T05:49:57.000Z"
+    },
+    {
+      "id": 16,
+      "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+      "url": "https://arxiv.org/abs/2610.30154",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-24T04:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Oklahoma Local News Summit explores AI’s role in journalism",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJlRldpRFJEdVE0bDhnOFpLQkhBNVlRVHhqWkJWel9pcUh4VThKYng3VHJpTkx4WGt4UkEtcVM5Z2l4TWdBYnlxLUN4NFZfb0ExWmJSaWdfWXZiS0J5c0loM3FnOGdtYkt6NnlGZnJHWTMxa1JLdVJ1Wm9VUVRyMkFNZ2laMzBEUzRvVFhMcDFnQm1lcUVZN2VYYTdEQnVQNGc?oc=5",
+      "source": "Google News · Eventos tech · via News On 6",
+      "date": "2026-10-24T01:09:12.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Startups don&#8217;t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-23T23:07:45.000Z"
+    },
+    {
+      "id": 19,
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "date": "2026-10-23T23:05:49.000Z"
+    },
+    {
+      "id": 20,
+      "title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3g0SGZPbjZNY0dQcFFYakN5SHFWcnZaUkRDd0FxMGN0QkNacm1lSkxIbnpwbG1vLU5pMU1WTGRDejNuYWhXRU1YZnB6M005TTRUSm9yQWhtbzhld0liT0RKeVVhTDhkdjRwOE4tNlJzQzJ0R3V5SFZweENhSHJDUWNoUW5rTnJJbGg3TmtaemUybVpZd3R3dtIBVkFVX3lxTE14UG5iczI0Q2FCc01uSVotWXZCWEwySFVOMnF5YVNjSldpMnV2MUpNbEZUNmtjdVV4V0tIRDd2emRCUVdiYjZCY2x1am9LbnROeDRjdEFB?oc=5",
+      "source": "Microsoft AI · via Law360",
+      "date": "2026-10-23T22:10:17.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "Simon Willison",
+      "date": "2026-10-23T21:35:13.000Z"
+    },
+    {
+      "id": 22,
+      "title": "3 Things To Know As A Potential Anthropic IPO Nears",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWE3NTNacUp0ZW1XV3ZHZElTblBEWjB3TUVEMndYSEpvU1NuMUFrVXBDOGIyRGNjdV9RM3U1LS1qdE1ZcXpfVTBWSHN5Y1pBbEh2bGpvMkNfcEVKc2JfVzBWYV9DTHVyOVhKMkNNTFVXc1ZVcEJTUUNMMk5DY0VoZU1HbENYdw?oc=5",
+      "source": "Anthropic · via Forbes",
+      "date": "2026-10-23T21:31:34.000Z"
+    },
+    {
+      "id": 23,
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge AI",
+      "date": "2026-10-23T21:11:07.000Z"
+    },
+    {
+      "id": 24,
+      "title": "a16z Renames a16z Crypto as a16z Frontier, Broadening Its Investment Scope",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hMzhpbnVtQm82ZVlHQW4yS3JSeWY4MWFEakJYNmpSTTE5NzdodUc4RTczamRDR21NSl84Ml9zZnVsTTF2c0ZKWU5UQlhzZHR4R2NmcHFMVDY?oc=5",
+      "source": "a16z · via TOKENPOST",
+      "date": "2026-10-23T18:57:41.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "date": "2026-10-23T18:51:33.000Z"
+    },
+    {
+      "id": 26,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "source": "Crunchbase News",
+      "date": "2026-10-23T18:51:22.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "date": "2026-10-23T17:51:50.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T17:27:52.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "date": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Madrid: 42% de startups usa IA como tecnología principal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTlGZ25zQUpYRFN4ak1yRkhHRUNMSFNvcWZwRk9MNUpscGhlc0xkaktJcl9qR0stTmRhWFRsSkJVd1NUdUpfdnp2dWNXVFpKQjBDZURrQUxFQ05ZZ0NFRWl3aDFYM2YwMWlxVmY5X0JCb0lPMjdYVDhXY2RJdVBWYk9zX0Jhc1lwZ3hnZDhR?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-23T16:24:51.000Z"
+    },
+    {
+      "id": 31,
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-23T16:15:50.000Z"
+    },
+    {
+      "id": 32,
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-23T16:02:43.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-23T12:10:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Oslo tech struggles to break out of Stockholm's shadow",
+      "url": "https://sifted.eu/articles/oslo-tech-problems-physical-ai-vc-growth-capital/",
+      "source": "Sifted",
+      "date": "2026-10-23T10:45:03.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Introducing Machine Gods",
+      "url": "https://www.platformer.news/machine-gods-manifesto-ai-realism/",
+      "source": "Platformer",
+      "date": "2026-10-23T00:47:03.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 62,
+    "sourcesFailed": 1
+  },
+  "generator": "headlines"
+}

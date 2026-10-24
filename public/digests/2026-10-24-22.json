@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-24-22",
+  "generatedAt": "2026-10-24T22:09:16.020Z",
+  "periodStart": "2026-10-22T22:09:16.020Z",
+  "periodEnd": "2026-10-24T22:09:16.020Z",
+  "title": "Titulares del 24 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Blue Planet III is keeping the rough edges in the age of AI",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Pennsylvania will require labels on AI-generated ads",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Cohere to Acquire AI Vulnerability Remediation Firm Aisle",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Bringing foundational models to the front lines of TB screening",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "a16z Removes 'Crypto' From Flagship Fund, Broadens $2.2 Billion Vehicle to AI and Robotics",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Startups don&#8217;t need to go viral to win customers",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Basedash Scheduled CSV Exports",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "What some of Anthropic’s backers are worth before its IPO",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Oslo tech struggles to break out of Stockholm's shadow",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Starlink seems to be working normally again in Ukraine",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Mientras discutimos qué especie introducir, el oso pardo sigue expandiéndose por el noroeste de la península Ibérica",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Las mejores adaptaciones de Jane Austen para ver si te gustó ‘Sentido y sensibilidad’",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "The AI infrastructure race: I’ve seen this movie before",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Madrid: 42% de startups usa IA como tecnología principal",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Oct. 24 – Georgia Tech Manufacturing Institute leader to speak at Southern AI Business Summit",
+          "sources": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The pros and cons of using an eSIM over a physical SIM card",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "No Signs of AI Payoff Outside the Tech Sector",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it's real. www.theverge.com/ai-ar…",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "SlothOps: A Local AI Caretaker for Your Codebase",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "battledrones v14: Compass Rose, a four player map",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-24T22:09:17.403Z"
+    },
+    {
+      "id": 2,
+      "title": "The pros and cons of using an eSIM over a physical SIM card",
+      "url": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+      "source": "Engadget",
+      "date": "2026-10-24T22:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it's real. www.theverge.com/ai-ar…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mynnmkyjvz2g",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-24T21:36:49.408Z"
+    },
+    {
+      "id": 4,
+      "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+      "url": "https://www.techmeme.com/261024/p9#a261024p9",
+      "source": "Techmeme",
+      "date": "2026-10-24T21:30:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge AI",
+      "date": "2026-10-24T21:29:12.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "TechCrunch",
+      "date": "2026-10-24T20:46:34.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
+      "source": "Anthropic · via The Profile | Polina Pompliano",
+      "date": "2026-10-24T20:35:29.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Oct. 24 – Georgia Tech Manufacturing Institute leader to speak at Southern AI Business Summit",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdkwtT2k0ZUQ1emdvWHNqWWhKakxBMzhGb3pDZWMwMThoQzEtajFIUVVCeV9pekZHYTBIczlqcHBPcjNQRTZrMHpMUU9rbmtzWmlRUnoyUGUwYlZDUG1BYUpQMzVtVXdtQXI3VXI0SV9qWDNPRFQzTVFHaGowaUR6eFJsVkszTm43V3FTa2dtQ1p0SkhUS0pieDk5QUdXcUhpMUtLd3RhWFZCbVpxRjYxNnFsUkJZT1MtQkxfQTY0X21QNVVQa0RCX0dBX1VzSjhOc25jblc1dzY3VFp4dlBkY1FBM25BNkR5Q0JUdXhycVlDUWYwUm1sNU8tTU1MWXFZc1g3eElycjFCcDFwTy1zM0F6V3pVZGVvYVVzSnRxQll5MllZSUE?oc=5",
+      "source": "Google News · Eventos tech · via Savannah Business Journal",
+      "date": "2026-10-24T20:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News",
+      "date": "2026-10-24T19:47:19.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYThnTG0wb2FMSVJjNGpJUmNQdFBObzViU2dhT19qN2g0U2ZKaGxfVFMyWGRmdm5VTDV5R1lVU09DcmQySDU2SHNFMmh2cmFJbVZIaEhDSC1scXBiN0RUeG15QUNMSmRSY0ZFSzRVY2tvOWtDeFlhODlfa0x0cHFPcmVhWTVlVDM2RDdWblRkaXR2Xzc5YUxFOFlKQmlxU1JXT25RZC1TOEZmUUl5bVFz?oc=5",
+      "source": "Microsoft AI · via KuCoin",
+      "date": "2026-10-24T18:34:08.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc01zYzdVcy1lZkdPaWdaZG1hTlBWcnpBejRwY05jYU5SR0l5R1J3TFgwektLVTBnQzh0ZDNjdXZOT25tcXY1ZnJKU1AxRXNSem9XQllXUThhUFJ3cDRzU0xQVmhKd2I5dTZxbXpSbG9hdU95T0FPR19DbzRHSjhCSWtNbWYxSEZadGVCSWlNTFBlQjFJQ3o4c1ktcnp0QXV6MGww?oc=5",
+      "source": "Google News · IA · via The Verge",
+      "date": "2026-10-24T18:32:21.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Mientras discutimos qué especie introducir, el oso pardo sigue expandiéndose por el noroeste de la península Ibérica",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/discutimos-que-especie-introducir-oso-pardo-sigue-expandiendose-noroeste-peninsula-iberica",
+      "source": "Xataka",
+      "date": "2026-10-24T18:30:10.000Z"
+    },
+    {
+      "id": 13,
+      "title": "a16z Removes 'Crypto' From Flagship Fund, Broadens $2.2 Billion Vehicle to AI and Robotics",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRkNFV1ZERUp6NGlDdjhtSUppN1Z1Ym9PZVZqX05MeHpVZ2dFenhkdVljUjJXbjRoak92UTBhZ2FIdGxYN3JVZVVSYUJnT19NZl90UnF4cWtDNFNxZWFoVDhUNlViMi1jZ1NOVjdjaHFjY0dQRXc?oc=5",
+      "source": "a16z · via BigGo Finance",
+      "date": "2026-10-24T18:17:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Las mejores adaptaciones de Jane Austen para ver si te gustó ‘Sentido y sensibilidad’",
+      "url": "https://hipertextual.com/cine-television/las-mejores-adaptaciones-de-jane-austen-para-ver-si-te-gusto-sentido-y-sensibilidad/",
+      "source": "Hipertextual",
+      "date": "2026-10-24T18:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "SlothOps: A Local AI Caretaker for Your Codebase",
+      "url": "https://dev.to/extinctsion/slothops-a-local-ai-caretaker-for-your-codebase-4nh",
+      "source": "dev.to · IA · via Aditya",
+      "date": "2026-10-24T17:32:52.000Z"
+    },
+    {
+      "id": 16,
+      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+      "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-24T16:14:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "source": "The Verge",
+      "date": "2026-10-24T15:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Cohere to Acquire AI Vulnerability Remediation Firm Aisle",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWRMLWFWenVsRTUtc2E1bUI3Z29zd3ROZVNrMFpIZFA0OTBqQXdJZnFvVXpKdWZqLWd5QVJRMHctaUlTckd4dnpHX0FtVEpwZTJDRGJSNHVsbHlweU13bHZacVRIam5OelVfZWZ2ZHlETVZHd2htdU83eVJtd1FjV3g5RzNVazNwbmdvdmwxeERFU3Yta05rNlJuSkU4V2M?oc=5",
+      "source": "Cohere · via BankInfoSecurity",
+      "date": "2026-10-24T13:25:06.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+      "url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+      "source": "The Register",
+      "date": "2026-10-24T13:02:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The AI infrastructure race: I’ve seen this movie before",
+      "url": "https://www.fastcompany.com/91619326/the-ai-infrastructure-race-ive-seen-this-movie-before-technology-ai-infrastructure?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-24T12:22:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired",
+      "date": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "source": "Latent Space",
+      "date": "2026-10-24T07:18:29.000Z"
+    },
+    {
+      "id": 23,
+      "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
+      "url": "https://arxiv.org/abs/2610.30154",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-24T04:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "Simon Willison",
+      "date": "2026-10-24T03:59:57.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Startups don&#8217;t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-23T23:07:45.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "date": "2026-10-23T18:51:33.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+      "source": "Crunchbase News",
+      "date": "2026-10-23T18:51:22.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "date": "2026-10-23T17:51:50.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T17:27:52.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "date": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Madrid: 42% de startups usa IA como tecnología principal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTlGZ25zQUpYRFN4ak1yRkhHRUNMSFNvcWZwRk9MNUpscGhlc0xkaktJcl9qR0stTmRhWFRsSkJVd1NUdUpfdnp2dWNXVFpKQjBDZURrQUxFQ05ZZ0NFRWl3aDFYM2YwMWlxVmY5X0JCb0lPMjdYVDhXY2RJdVBWYk9zX0Jhc1lwZ3hnZDhR?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-23T16:24:51.000Z"
+    },
+    {
+      "id": 32,
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-23T16:02:43.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-23T12:10:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Oslo tech struggles to break out of Stockholm's shadow",
+      "url": "https://sifted.eu/articles/oslo-tech-problems-physical-ai-vc-growth-capital/",
+      "source": "Sifted",
+      "date": "2026-10-23T10:45:03.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 62,
+    "sourcesFailed": 1
+  },
+  "generator": "headlines"
+}

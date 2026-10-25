@@ -1,10 +1,10 @@
 {
-  "id": "2026-10-25-12",
-  "generatedAt": "2026-10-25T12:52:48.472Z",
-  "periodStart": "2026-10-23T12:52:48.472Z",
-  "periodEnd": "2026-10-25T12:52:48.472Z",
+  "id": "2026-10-25-22",
+  "generatedAt": "2026-10-25T22:12:22.820Z",
+  "periodStart": "2026-10-23T22:12:22.820Z",
+  "periodEnd": "2026-10-25T22:12:22.820Z",
   "title": "Titulares del 25 de octubre",
-  "subtitle": "196 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "subtitle": "154 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "text": "Project aims to boost AI across tourism sector in South West",
+          "text": "AI bot accessed public voter data through Georgia data hub, state says",
           "sources": [
-            5
+            9
           ]
         },
         {
-          "text": "Google’s AI search changes upended online publishing",
+          "text": "r/opensource just banned AI, non-English speakers, and more",
           "sources": [
-            7
+            17
           ]
         }
       ]
@@ -39,39 +39,33 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments",
+          "text": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
           "sources": [
-            15
+            12
           ]
         },
         {
-          "text": "Anthropic Investigates Elevated Errors Across Five Claude Models",
+          "text": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
           "sources": [
             16
           ]
         },
         {
+          "text": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments",
+          "sources": [
+            22
+          ]
+        },
+        {
           "text": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
           "sources": [
-            20
+            25
           ]
         },
         {
-          "text": "Bringing foundational models to the front lines of TB screening",
+          "text": "Perplexity launches Decider for Mac, a free local decision model",
           "sources": [
-            28
-          ]
-        },
-        {
-          "text": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-          "sources": [
-            30
-          ]
-        },
-        {
-          "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "sources": [
-            31
+            26
           ]
         }
       ]
@@ -83,33 +77,27 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
+          "text": "Alex Depledge quits UK treasury job over 'sideshow' treatment of scaleups",
+          "sources": [
+            14
+          ]
+        },
+        {
           "text": "AgentGrid.io",
           "sources": [
-            17
+            23
           ]
         },
         {
           "text": "a16z Removes 'Crypto' From Flagship Fund, Broadens $2.2 Billion Vehicle to AI and Robotics",
           "sources": [
-            22
+            27
           ]
         },
         {
           "text": "Startups don&#8217;t need to go viral to win customers",
           "sources": [
-            27
-          ]
-        },
-        {
-          "text": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
-          "sources": [
-            29
-          ]
-        },
-        {
-          "text": "What some of Anthropic’s backers are worth before its IPO",
-          "sources": [
-            32
+            30
           ]
         }
       ]
@@ -121,39 +109,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "31,50 euros en copas y seis meses de cárcel: el Supremo cambia cómo se castiga el fraude con las tarjetas de crédito",
+          "text": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "Todo lo que debes saber de ‘Los demonios’, el clásico del terror que causa furor",
+          "text": "Tachi: microalgas con IA desde La Serena a Boston",
           "sources": [
-            8
+            10
+          ]
+        },
+        {
+          "text": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?",
+          "sources": [
+            13
           ]
         },
         {
           "text": "Town CEO Jean-Denis Greze on why most people still don’t know what to ask AI",
           "sources": [
-            12
+            21
           ]
         },
         {
           "text": "Cambridge Analytica, diez años después: Meta no ahuyenta los fantasmas de la injerencia política",
           "sources": [
-            18
-          ]
-        },
-        {
-          "text": "Starlink seems to be working normally again in Ukraine",
-          "sources": [
-            21
-          ]
-        },
-        {
-          "text": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-          "sources": [
-            23
+            24
           ]
         }
       ]
@@ -165,9 +153,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "OmniAb Highlights $3B Milestone Pipeline, AI Antibody Platform at Conference",
+          "text": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
           "sources": [
-            19
+            3
           ]
         }
       ]
@@ -179,39 +167,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "When AI glasses could be a worthy headphones replacement",
+          "text": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
           "sources": [
             2
           ]
         },
         {
-          "text": "Wallhack M-001 Review: When Fun Overrides Specs",
+          "text": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
           "sources": [
-            4
+            5
           ]
         },
         {
-          "text": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
+          "text": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
           "sources": [
-            10
+            6
+          ]
+        },
+        {
+          "text": "Dolly Parton's Imagination Library",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Wallhack M-001 Review: When Fun Overrides Specs",
+          "sources": [
+            18
           ]
         },
         {
           "text": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
           "sources": [
-            11
-          ]
-        },
-        {
-          "text": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-          "sources": [
-            13
-          ]
-        },
-        {
-          "text": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-          "sources": [
-            24
+            20
           ]
         }
       ]
@@ -223,33 +211,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Publishers spent years figuring out how to get clicks on Google. But new AI search features have torn that ecosystem apart. www.theverge.…",
+          "text": "The iPhone Duo is the most repairable foldable yet, but that’s not saying much. www.theverge.com/tech/1018233...",
           "sources": [
-            6
+            4
+          ]
+        },
+        {
+          "text": "Google DevFest Central Valley: Community First, Buildathon Second.",
+          "sources": [
+            8
           ]
         },
         {
           "text": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
           "sources": [
-            9
-          ]
-        },
-        {
-          "text": "Slow Post: planning five DEV posts took me 67 minutes, so now two open models do it while I sleep",
-          "sources": [
-            14
+            19
           ]
         },
         {
           "text": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
           "sources": [
-            25
+            28
           ]
         },
         {
           "text": "battledrones v14: Compass Rose, a four player map",
           "sources": [
-            26
+            29
           ]
         }
       ]
@@ -261,228 +249,214 @@
       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-25T12:52:49.380Z"
+      "date": "2026-10-25T22:12:23.704Z"
     },
     {
       "id": 2,
-      "title": "When AI glasses could be a worthy headphones replacement",
-      "url": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+      "url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
       "source": "Engadget",
-      "date": "2026-10-25T12:45:00.000Z"
+      "date": "2026-10-25T22:00:00.000Z"
     },
     {
       "id": 3,
-      "title": "31,50 euros en copas y seis meses de cárcel: el Supremo cambia cómo se castiga el fraude con las tarjetas de crédito",
-      "url": "https://www.xataka.com/legislacion-y-derechos/31-50-euros-copas-seis-meses-carcel-supremo-cambia-como-se-castiga-fraude-tarjetas-credito",
-      "source": "Xataka",
-      "date": "2026-10-25T12:30:07.000Z"
+      "title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRk9fWEFQV3p0bGRZZkVBeDRra0ZqQW8zZTZKbjRqczhHVHVBMGF1dU5Lcm9fTU5JdFNzNXRJaTFUOTczNGNwbXZDLU9pVkFaNmFCVWpPNVhIVFQ2UGl5TEtpUFJDTFhHNjFieFdjVjF6QXo1am1KbVNuRzl5RlJ3cnc4SXJ1N1c1eFp2LV9nMA?oc=5",
+      "source": "Google News · Eventos tech · via ServeTheHome",
+      "date": "2026-10-25T21:51:55.000Z"
     },
     {
       "id": 4,
+      "title": "The iPhone Duo is the most repairable foldable yet, but that’s not saying much. www.theverge.com/tech/1018233...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myq6gbjfrp27",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-25T21:42:51.190Z"
+    },
+    {
+      "id": 5,
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "date": "2026-10-25T21:40:27.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
+      "url": "https://www.techmeme.com/261025/p11#a261025p11",
+      "source": "Techmeme",
+      "date": "2026-10-25T21:35:01.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "date": "2026-10-25T21:31:16.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Google DevFest Central Valley: Community First, Buildathon Second.",
+      "url": "https://dev.to/earlgreyhot1701d/google-devfest-central-valley-community-first-buildathon-second-101e",
+      "source": "dev.to · IA · via Earl Grey",
+      "date": "2026-10-25T20:56:48.000Z"
+    },
+    {
+      "id": 9,
+      "title": "AI bot accessed public voter data through Georgia data hub, state says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPal9vVmpkaFg0NWVhbWg3OXd2Sm5mS1FCeEwzVDY4UlRZaFVrQUpwQU1iMUJtSG0wckpmOVA2b3RoRnRpRVlOZlpTWE51U2loT05Vc3ByV01fakNQVXZONk0wc2hwM1F2cTduZGlCaklsQXh3MkxwaDFzLWNvN3MtendyZlpzWVVFYS02T0tqM0VVTS1xeWhvMm5Kcm0tZFFuYlJTWXU4NTRyaUhlZ2JJRkxlNWlRdTkzZzZpZVlMeHVCaXBCaUpxLWNR0gHeAUFVX3lxTE5Td08yR3lWM3k4YnlJbmVtQ2dJVWJwY2paRlNLN010d1RNVVExVXBRVE1CckdHV0VpNGU2bTEwb3Azc0dWV182b1dzU1Y5enF2VklZT3c4a2N1b0tZbmZoU3dPY3ZCUzdvWDFpdFFyQ0ZCeld4Ty12ZGxjN2pTRTR5WEI1MzZ0cmtUZ2VORkc3Zk4tTnltdDZ1TWJ0aEpoT0szMmtmZ3ZKeWpjVXg4LWRpSkRLZVl6c0xuaUtrQTM1S2dGZl9idDNKYmlrSkxDcUpmaFFQd2pqWlFKWERtQQ?oc=5",
+      "source": "Google News · IA · via WSB-TV",
+      "date": "2026-10-25T20:12:37.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Tachi: microalgas con IA desde La Serena a Boston",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEJaQVJ6LVR6N3FHcUhWQ09oNklGLTVVektkc3BBS1NaTkFHMl84a1lPYmhDV0YzSmYxelRfMlgzWllYOTJVZFJBSmpHM1ljUFY5Yzk5dno2OW5mSXhONW9HU0VGTjVUZ1J6Rk84OGd2ZGZiMHJwekVySENmN3BKNDV6aTdkdw?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-25T20:03:35.000Z"
+    },
+    {
+      "id": 11,
+      "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
+      "url": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
+      "source": "Xataka",
+      "date": "2026-10-25T20:00:10.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
+      "source": "Anthropic · via Los Angeles Times",
+      "date": "2026-10-25T19:42:08.000Z"
+    },
+    {
+      "id": 13,
+      "title": "¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?",
+      "url": "https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/",
+      "source": "Hipertextual",
+      "date": "2026-10-25T19:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Alex Depledge quits UK treasury job over 'sideshow' treatment of scaleups",
+      "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+      "source": "Sifted",
+      "date": "2026-10-25T18:43:50.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "source": "Hacker News",
+      "date": "2026-10-25T18:23:54.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEEtSUNpZ0RhQkZmUjdFMmhBRHdCRjFLcVBQNWtTZUJpYWd6WmFYNGFVam9aN05oOFBWMUxKdUcySzM0am0zd3dDajRMVkZLODFFRFVrbXZncTRyeU94VmxRT0NDZHdzaGVGVU01T1FEMzE5NmcwR2NiQjBVbzFzNWMzN2tkUEJrWl84ZllrVjgwUU9QcnE1MzMxOVJUelU?oc=5",
+      "source": "Mistral AI · via Startup Fortune",
+      "date": "2026-10-25T16:38:31.000Z"
+    },
+    {
+      "id": 17,
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "date": "2026-10-25T13:25:32.000Z"
+    },
+    {
+      "id": 18,
       "title": "Wallhack M-001 Review: When Fun Overrides Specs",
       "url": "https://www.wired.com/review/wallhack-m-001/",
       "source": "Wired",
       "date": "2026-10-25T12:30:00.000Z"
     },
     {
-      "id": 5,
-      "title": "Project aims to boost AI across tourism sector in South West",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jMmtCWmtWamJZSG1hWXVXQUFtWDdPZUdLdHFEdXZpSmJfRFVjOUhaWWF3TFpUVG9rT3NRNlYzT2pCR0tvb3U3TF92a3FqcjVITm51Y05mV2FVclU?oc=5",
-      "source": "Google News · IA · via BBC",
-      "date": "2026-10-25T12:08:09.000Z"
-    },
-    {
-      "id": 6,
-      "title": "Publishers spent years figuring out how to get clicks on Google. But new AI search features have torn that ecosystem apart. www.theverge.…",
-      "url": "https://bsky.app/profile/theverge.com/post/3myp63ju25c2m",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-25T12:04:11.230Z"
-    },
-    {
-      "id": 7,
-      "title": "Google’s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "source": "The Verge AI",
-      "date": "2026-10-25T12:00:00.000Z"
-    },
-    {
-      "id": 8,
-      "title": "Todo lo que debes saber de ‘Los demonios’, el clásico del terror que causa furor",
-      "url": "https://hipertextual.com/cine-television/todo-lo-que-debes-saber-de-los-demonios-el-clasico-del-terror-que-causa-furor/",
-      "source": "Hipertextual",
-      "date": "2026-10-25T12:00:00.000Z"
-    },
-    {
-      "id": 9,
+      "id": 19,
       "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
       "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
       "source": "Interconnects",
       "date": "2026-10-25T11:49:00.000Z"
     },
     {
-      "id": 10,
-      "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
-      "url": "https://www.techmeme.com/261025/p7#a261025p7",
-      "source": "Techmeme",
-      "date": "2026-10-25T11:00:54.000Z"
-    },
-    {
-      "id": 11,
+      "id": 20,
       "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
       "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
       "source": "The Register",
       "date": "2026-10-25T10:39:00.000Z"
     },
     {
-      "id": 12,
+      "id": 21,
       "title": "Town CEO Jean-Denis Greze on why most people still don’t know what to ask AI",
       "url": "https://www.fastcompany.com/91629462/town-ceo-jean-denis-greze-on-why-most-people-still-dont-know-what-to-ask-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Tech",
       "date": "2026-10-25T09:10:00.000Z"
     },
     {
-      "id": 13,
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "source": "Hacker News",
-      "date": "2026-10-25T09:00:40.000Z"
-    },
-    {
-      "id": 14,
-      "title": "Slow Post: planning five DEV posts took me 67 minutes, so now two open models do it while I sleep",
-      "url": "https://dev.to/abeera_lodhi/slow-post-planning-five-dev-posts-took-me-67-minutes-so-now-two-open-models-do-it-while-i-sleep-1fep",
-      "source": "dev.to · IA · via Abeera Lodhi",
-      "date": "2026-10-25T07:55:51.000Z"
-    },
-    {
-      "id": 15,
+      "id": 22,
       "title": "Washington bans Chinese AI model DeepSeek, Microsoft abandons major UK project: The week’s key developments",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNSNFN0bDZabWpTQmRvZXM3bFpTWlFXTE9KY1RkTGRwRDY1bFcyNG9vdkdZbTFiWHRmOG4wbm1fU3E2XzAyMG5zWWprcm02NXgxLUw0bEk0bFhGU0tSX3lzMS00MXpuQjJlN0JBVlAyT1kwWUpOX0FfQkdaSDVqUi1zSzMzQnM4eF9BOUZ5X1lORmgzSmlqS0Y5enFtb096X1FPVGlKbXFqeExmMXlidFczQmJ4UHROQlh0bVdEV1VUektkai0xMmVUV1l3M0QwbmJnNVhZUzJqT0pTUy05d1Rrd21EV3FFZy01aVJB?oc=5",
       "source": "Microsoft AI · via L'Orient Today",
       "date": "2026-10-25T07:21:00.000Z"
     },
     {
-      "id": 16,
-      "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0VWT1ZhaXhkVkdab21aZUZvbTF3eFN6RUxKdFhTYkc1ZU9xX21BVkNhamNYamtfV1VTR1pEQnpxZlhZT054SEtfdDRKWFB3T3NXYWpVS0d2TWo4TGJHM1F1VjUtUzJUbmV6NU9VX2JjbGp1Sk5OOGFFcDlWSUdpNlpaUk45dzJyZUxGQlRfUQ?oc=5",
-      "source": "Anthropic · via Unite.AI",
-      "date": "2026-10-25T06:30:11.000Z"
-    },
-    {
-      "id": 17,
+      "id": 23,
       "title": "AgentGrid.io",
       "url": "https://www.producthunt.com/products/agentgrid-io",
       "source": "Product Hunt",
       "date": "2026-10-25T05:39:16.000Z"
     },
     {
-      "id": 18,
+      "id": 24,
       "title": "Cambridge Analytica, diez años después: Meta no ahuyenta los fantasmas de la injerencia política",
       "url": "https://elpais.com/tecnologia/2026-10-25/cambridge-analytica-diez-anos-despues-meta-no-ahuyenta-los-fantasmas-de-la-injerencia-politica.html",
       "source": "El País Tecnología",
       "date": "2026-10-25T04:30:01.000Z"
     },
     {
-      "id": 19,
-      "title": "OmniAb Highlights $3B Milestone Pipeline, AI Antibody Platform at Conference",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUk9rLVJXOUgySGVQWW83OVk5eGtUS2NpZXM1dEt2YXZCRDN5N0Y5NmhwTGctZXpBc3hnemtTVFBWZ1JhYU1hazR3RkEzS2NTelE2NzlJbThnaHhqeF8yMmhmWGhGTjM1WlYycUZXYU5VNDlOWktYUUJseHczR2JLZkRFMTVNRURFNEtwZnl1Wk1FSV9ZNXgwVTZjcUhJYzJESFE?oc=5",
-      "source": "Google News · Eventos tech · via Yahoo Finance",
-      "date": "2026-10-25T04:02:00.000Z"
-    },
-    {
-      "id": 20,
+      "id": 25,
       "title": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWpac0ZnWnJzZEFod2ZHYXBheWdBX2lVeGx0b2d2QUVPQ0NfTGFteUlOalNvT3lJek9neWFiQ2Z1ZTZkVVlEQzJieW9wQ0NSTzdBNmtncXEyOU5Ja3NUMENVYjNnaXRHelJ0N3lFWXZkOUk4YjBmRWNGaWprLU5LQVpfN2NxVGJlMWVzczQ2OEhuN1BVQlRYOUJ2U3ZKUHRjdjdzdlpMZw?oc=5",
       "source": "xAI · via Startup Fortune",
       "date": "2026-10-24T23:49:57.000Z"
     },
     {
-      "id": 21,
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "source": "TechCrunch",
-      "date": "2026-10-24T20:46:34.000Z"
+      "id": 26,
+      "title": "Perplexity launches Decider for Mac, a free local decision model",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajlzYVhZcE05UzVXaVdYbTdWc3czX1YzMjR0dWJFWFhxZDNnb3R5M2Z6bDhrOXZxNzVXWENMczNhQURQbU8zeFo1ZVpobC1YUHVGWUZlWFQ4UXpPMEd6SG1HR1IxaEh2ODlseS03OHl0MV85Qkg0QWlZeWNSWEVoOXdwY2lJcFVqczhxZjJ2eDVGVDdSTGc?oc=5",
+      "source": "Perplexity · via Pasquale Pillitteri",
+      "date": "2026-10-24T18:47:31.000Z"
     },
     {
-      "id": 22,
+      "id": 27,
       "title": "a16z Removes 'Crypto' From Flagship Fund, Broadens $2.2 Billion Vehicle to AI and Robotics",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRkNFV1ZERUp6NGlDdjhtSUppN1Z1Ym9PZVZqX05MeHpVZ2dFenhkdVljUjJXbjRoak92UTBhZ2FIdGxYN3JVZVVSYUJnT19NZl90UnF4cWtDNFNxZWFoVDhUNlViMi1jZ1NOVjdjaHFjY0dQRXc?oc=5",
       "source": "a16z · via BigGo Finance",
       "date": "2026-10-24T18:17:00.000Z"
     },
     {
-      "id": 23,
-      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-      "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-24T16:14:00.000Z"
-    },
-    {
-      "id": 24,
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "source": "The Verge",
-      "date": "2026-10-24T15:00:00.000Z"
-    },
-    {
-      "id": 25,
+      "id": 28,
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "url": "https://latent.space/p/ainews-kimi-31/",
       "source": "Latent Space",
       "date": "2026-10-24T07:18:29.000Z"
     },
     {
-      "id": 26,
+      "id": 29,
       "title": "battledrones v14: Compass Rose, a four player map",
       "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "source": "Simon Willison",
       "date": "2026-10-24T03:59:57.000Z"
     },
     {
-      "id": 27,
+      "id": 30,
       "title": "Startups don&#8217;t need to go viral to win customers",
       "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
       "source": "TechCrunch Startups",
       "date": "2026-10-23T23:07:45.000Z"
-    },
-    {
-      "id": 28,
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "source": "Google Research",
-      "date": "2026-10-23T18:51:33.000Z"
-    },
-    {
-      "id": 29,
-      "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
-      "source": "Crunchbase News",
-      "date": "2026-10-23T18:51:22.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
-      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-23T17:27:52.000Z"
-    },
-    {
-      "id": 31,
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "date": "2026-10-23T17:00:00.000Z"
-    },
-    {
-      "id": 32,
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "source": "TechCrunch Venture",
-      "date": "2026-10-23T16:02:43.000Z"
     }
   ],
   "stats": {
-    "posts": 196,
+    "posts": 154,
     "sourcesOk": 61,
     "sourcesFailed": 2
   },

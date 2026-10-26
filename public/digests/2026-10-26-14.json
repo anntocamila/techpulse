@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-26-14",
+  "generatedAt": "2026-10-26T14:42:53.285Z",
+  "periodStart": "2026-10-24T14:42:53.285Z",
+  "periodEnd": "2026-10-26T14:42:53.285Z",
+  "title": "Titulares del 26 de octubre",
+  "subtitle": "198 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Artificial intelligence bot accesses Georgia voting data",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Kevin Roose is AGI-pilled. Why aren’t you?",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Download: everyday AI harms and the race to nuclear spaceflight",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Narmi Launches Microsoft 365 Copilot Connector, Bringing Customer Financial Data Securely into Existing Banking Workflows",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "How Fanatics and OpenAI streamline the fan experience",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "DeepSeek vs Qwen vs Mistral: 1T Params, $1.36 Input [2026]",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Revolut CEO slams ‘dangerous’ VCs, says he removed them from board",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "A100 Rental Price Hits $1.09/Hr [2026]: a16z Caveats",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Standfast",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic officially files for its public debut",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "España tiene uno de los parques de vivienda pública más pobres de la OCDE. Y hay una ley de 2013 que ayuda a entenderlo",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Meta announces $95 billion stock offering to fund AI expansion",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "¡Por fin, Apple! El iPad mini OLED es oficial: más potente y delgado que nunca, pero también más caro",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "This Texas startup is turning oil well waste into EV batteries",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Tachi: microalgas con IA desde La Serena a Boston",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players",
+          "sources": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Sources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October (Wall Street Journal)",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Even Realities launches a brown version of its G2 smart glasses",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Private equity giant: AI payoff strictly limited to Big Tech",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Anthropic S-1",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Plus, snag a free $5 Best Buy gift card when you sign up for its new gamer-centric site, and save on other tech. www.theverge.com/gadgets…",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Slowth Money: a local AI agent for your financial goals",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Seam Cutter",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-26T14:42:54.281Z"
+    },
+    {
+      "id": 2,
+      "title": "Plus, snag a free $5 Best Buy gift card when you sign up for its new gamer-centric site, and save on other tech. www.theverge.com/gadgets…",
+      "url": "https://bsky.app/profile/theverge.com/post/3myrxfdd5kd2g",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-26T14:42:22.357Z"
+    },
+    {
+      "id": 3,
+      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+      "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
+      "source": "The Verge",
+      "date": "2026-10-26T14:41:43.000Z"
+    },
+    {
+      "id": 4,
+      "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUV1R2I5c2xGekFhWGtJbHVLVm5pRjF4VkNkWExuZmNDbTRCbk5YTFY5RThBZ1FFRUl2QTVCRVFNSjBUamYyYjlhZzI1SHB6TEhxWUhoRVFoVXIzcjlQck5qVEhINnh0OV8xYkJsWW81RTJfcV9meE5KQjdFNm1DUXB4OFpMMXFXOEdFSTBFeDNPdzQ2MG1LZjc5Rm5MRGlwVVJNSGc3THJCVVNkM1ZEeW50VkFpX2lZSlNQb2RuaENEQzJvRjYyb3pxdkcteHc?oc=5",
+      "source": "Google News · Eventos tech · via Audacy",
+      "date": "2026-10-26T14:38:25.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Revolut CEO slams ‘dangerous’ VCs, says he removed them from board",
+      "url": "https://sifted.eu/articles/revolut-ceo-slams-dangerous-vcs/",
+      "source": "Sifted",
+      "date": "2026-10-26T14:37:13.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "source": "TechCrunch",
+      "date": "2026-10-26T14:35:22.000Z"
+    },
+    {
+      "id": 7,
+      "title": "España tiene uno de los parques de vivienda pública más pobres de la OCDE. Y hay una ley de 2013 que ayuda a entenderlo",
+      "url": "https://www.xataka.com/magnet/espana-tiene-uno-parques-vivienda-publica-pobres-ocde-hay-ley-2013-que-ayuda-a-entenderlo",
+      "source": "Xataka",
+      "date": "2026-10-26T14:31:27.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Artificial intelligence bot accesses Georgia voting data",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZUpOY0c1MmxaUm0tWU5SNlR4X0xlWXRFT21nZFQ0NTROT0xuYVk2ZzEwcTdnc1lwcjY2RU1XaFAybkFvM0t3RE1Kb0tCSVlHVE4xenZjaE1LU0hkRVlQcGl3OF9QSUlSMl9pTXJudUlWdmVqblJtTjZiaw?oc=5",
+      "source": "Google News · IA · via The Atlanta Journal-Constitution",
+      "date": "2026-10-26T14:31:22.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+      "source": "Anthropic · via Reuters",
+      "date": "2026-10-26T14:24:55.000Z"
+    },
+    {
+      "id": 10,
+      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "source": "Wired",
+      "date": "2026-10-26T14:09:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Sources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261026/p28#a261026p28",
+      "source": "Techmeme",
+      "date": "2026-10-26T14:06:20.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Meta announces $95 billion stock offering to fund AI expansion",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-26T14:05:36.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "source": "The Verge AI",
+      "date": "2026-10-26T14:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Even Realities launches a brown version of its G2 smart glasses",
+      "url": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/",
+      "source": "Engadget",
+      "date": "2026-10-26T14:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Private equity giant: AI payoff strictly limited to Big Tech",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
+      "source": "The Register",
+      "date": "2026-10-26T13:59:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "¡Por fin, Apple! El iPad mini OLED es oficial: más potente y delgado que nunca, pero también más caro",
+      "url": "https://hipertextual.com/apple/nuevo-ipad-mini-oled-octubre-2026/",
+      "source": "Hipertextual",
+      "date": "2026-10-26T13:09:55.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News",
+      "date": "2026-10-26T13:04:50.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Narmi Launches Microsoft 365 Copilot Connector, Bringing Customer Financial Data Securely into Existing Banking Workflows",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXc2TndpMnJveWV0bTJqVDNMd2s2dk9MQ1p2X0VrNGs5azZiTVh4SlN2clZqWlpxUElIdTVsb2NRYUc5eGJYaTgwZFAyS2R2cE11VHNmcklHaUhQWGVtdEMzN3hsRERBTWxxSVRVRjJzMDM2ZXdQVkJHcTZ0bGF2VGl5M3hHanBqVzhmMjlR?oc=5",
+      "source": "Microsoft AI · via Yahoo! Finance Canada",
+      "date": "2026-10-26T13:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMUQ0TmxWVGJjSEVWU2JlVjBuWW5XYWJQdFJPbHFITGtYNDhqMGtSbXJnaG9XdDVBZFdKekZZUzJhdGFLck5NbXYyTTVRQWRiRG9jcFRtNnh2MWJNcWtFcmJmSURhUkk5a1d6cnZ6YUJwY2JMX3RQenlMa2pRQ1ZVTkE0UFltOHhxdXBfcFpvZ0ZlR19OYm5uRGhPMmJMTTBWbEZrcDRaekE5VWJFUTNrLUpISWtHZTJaeFR6bi00MEdoYmdSbG1tMFJJM2ZRekRkaUMtTTN0SndBeFJ6US1rVXAzWUdnT3I1SkFVUzd1a1YtOGthUmhwStIB_gFBVV95cUxQX2pZOE9yZWFyRGZveVptYlU5dHZjZG1hZHlpMTktMG9Kb19rWE4tQjBmcElZd1hrZjhURmpKdGNoSWFIWG9SVWJKVjYzcFpaRWVNSEpwcWJNWWZqckZoVXV4eklyeUE1emVPNzNUX3pfZ0o2VkRRd2pBLUF0YnZpN2F5b0V5TE4wWW5BdF9DUW9DMlR0UllNMmh0SzVETWROVi14Wk52dmpJSldmSjVsdXpDem5QNVlKdm1jQTFNRkQ5WXlPVF8yLUtqQklHcGdMUnBqSVJOWF9zQ3lNRzVfWnU0WWo0UGlkSGxHSUEtQll6SkRMakppZThEZllmUQ?oc=5",
+      "source": "Perplexity · via The Economic Times",
+      "date": "2026-10-26T12:51:54.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-26T12:40:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "source": "Import AI",
+      "date": "2026-10-26T12:31:52.000Z"
+    },
+    {
+      "id": 22,
+      "title": "A100 Rental Price Hits $1.09/Hr [2026]: a16z Caveats",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjJIaDZiRS1qVHYzZzd3MFFNRWo4d2Y4OFUxeDc2NmJJT19LZXczcUJRMUdISUN0QWtDVzlfa2Vxb1pwdVVkMjlvVHlWRW80SzZsbEtHMjMtdnF0UVgyVzZvWk5MUDVjeDVjbEtJRzh5YXlUdnpvWTlsNXJqcXIzbGIwbGJSYmM?oc=5",
+      "source": "a16z · via shattered.io",
+      "date": "2026-10-26T11:13:54.000Z"
+    },
+    {
+      "id": 23,
+      "title": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
+      "url": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
+      "source": "Crunchbase News",
+      "date": "2026-10-26T11:00:38.000Z"
+    },
+    {
+      "id": 24,
+      "title": "This Texas startup is turning oil well waste into EV batteries",
+      "url": "https://www.fastcompany.com/91628438/this-texas-startup-is-turning-oil-well-waste-into-ev-batteries?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-26T09:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI",
+      "date": "2026-10-26T07:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "DeepSeek vs Qwen vs Mistral: 1T Params, $1.36 Input [2026]",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZ2d4ZHljaWhJaXVaOHBLa1RCdy1EVGFJbTFjWEdxSXRSTXNoX0ZVeHBjS282NXVnX1B1c3BmNXFuWFhnbk1MVkNTX3dIOGE3QXM2c2syajg0czhXd0cxTjAxNy12ZWdYWHBPOUpVN0hiajNtMDBoeEo5ZXFfQQ?oc=5",
+      "source": "Mistral AI · via shattered.io",
+      "date": "2026-10-26T06:40:17.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.31678",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Standfast",
+      "url": "https://www.producthunt.com/products/standfast",
+      "source": "Product Hunt",
+      "date": "2026-10-26T02:50:33.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Slowth Money: a local AI agent for your financial goals",
+      "url": "https://dev.to/javz/slowth-money-a-local-ai-agent-for-your-financial-goals-2ki2",
+      "source": "dev.to · IA · via Julien Avezou",
+      "date": "2026-10-25T23:38:36.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Tachi: microalgas con IA desde La Serena a Boston",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEJaQVJ6LVR6N3FHcUhWQ09oNklGLTVVektkc3BBS1NaTkFHMl84a1lPYmhDV0YzSmYxelRfMlgzWllYOTJVZFJBSmpHM1ljUFY5Yzk5dno2OW5mSXhONW9HU0VGTjVUZ1J6Rk84OGd2ZGZiMHJwekVySENmN3BKNDV6aTdkdw?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-25T20:03:35.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "source": "Simon Willison",
+      "date": "2026-10-25T15:10:19.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "source": "Interconnects",
+      "date": "2026-10-25T11:49:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWpac0ZnWnJzZEFod2ZHYXBheWdBX2lVeGx0b2d2QUVPQ0NfTGFteUlOalNvT3lJek9neWFiQ2Z1ZTZkVVlEQzJieW9wQ0NSTzdBNmtncXEyOU5Ja3NUMENVYjNnaXRHelJ0N3lFWXZkOUk4YjBmRWNGaWprLU5LQVpfN2NxVGJlMWVzczQ2OEhuN1BVQlRYOUJ2U3ZKUHRjdjdzdlpMZw?oc=5",
+      "source": "xAI · via Startup Fortune",
+      "date": "2026-10-24T23:49:57.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 198,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

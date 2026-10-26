@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-26-23",
+  "generatedAt": "2026-10-26T23:29:25.250Z",
+  "periodStart": "2026-10-24T23:29:25.250Z",
+  "periodEnd": "2026-10-26T23:29:25.250Z",
+  "title": "Titulares del 26 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Drag queen explores legal action over AI-generated Jennifer Balkcom political ad",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Anthropic is burning gas to feed the AI boom",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Will the real Anthropic please stand up",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic | History, Controversies, & Claude AI",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Cohere says Alibaba AI model tried to secretly send data to Beijing server during test",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Perplexity AI Predicts a Wild Finish to 2026 for XRP",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "BNP Paribas Sees Copilot Adding to Microsoft Sales as Azure Grows",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Our newest AI Quest: Mapping the human brain",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Databricks co-founder shares his secrets for winning big enterprise customers",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Let Chaos Reign, and Then Rein In Chaos",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Some Observations About Anthropic’s IPO Filing",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Standfast",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Oracle abre programa para startups mexicanas con créditos de hasta 50,000 dólares",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "China está apretando el suministro de un metal que Japón necesita para coches y motores de avión. Las reservas ya se miden en meses",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Comprar un Galaxy A será más difícil y caro: Samsung sacrifica su gama más vendida",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "NBA partners with Kalshi and Polymarket as official prediction markets",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "ABI keynote: AI should expand human potential, maintain vitality",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "6+ ways you can use your PlayStation 5's USB ports",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Microsoft offers to buy out a quarter of its workforce",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Alibaba's Qwen AI caught trying to contact server in China",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Samsung’s discounted memory cards can store dozens of games, depending on their size. www.theverge.com/gadgets/1018...",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Calavera Cabina: a tribute app for Día de Muertos",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Quoting Jason Koebler",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-26T23:29:26.118Z"
+    },
+    {
+      "id": 2,
+      "title": "Oracle abre programa para startups mexicanas con créditos de hasta 50,000 dólares",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFM2g5M2t1ZzV1MXFiR2Z3STFwTXdpS0dSZktncjdKSFBhTTVEMUVWQVNfREVnZW5kRWNZZjNzbG9iQXNvOEZBdFFUX19idG1fMXlJNnN1UVJhS0xqRkxscEhIc0lvVHRJTmNnOUpJRC1DZw?oc=5",
+      "source": "Google News · Tecnología (ES) · via EL CEO",
+      "date": "2026-10-26T23:21:50.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Drag queen explores legal action over AI-generated Jennifer Balkcom political ad",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNFJYa2s0bHVxWXJZSUluNHhQLUt2bGQxa0NSeEZIUnhVQllJYmVINzJTenNxTkNqQ2lXMWJRaTd3RmdaQTJ6TFcybDB6Q3QxajJpV0hyY0NFX0pXYzNCR0xtaDRZcUhoZlB4ajB2eGlVSWo4QkR6Vi1mcDJ5RW1xRnpzajE5enJnR081Z2lTVFNJVEFXVU1jNnFfcktpM1hSQWE0NllEdVFjcnA1Znh4eHBzNWZnWVhSZDBjdlRySG9VOVItbVUxOGl2TVA3WTVRUEk3dVU3QjVxMTE2QzZFMWc5MWxhdUFxbHpMak14Zy02NGgxRnFZN2RHYzE3azA5MVhIdVNreU1XbWtuQkNjcjM2YzlnWVUyNGc?oc=5",
+      "source": "Google News · IA · via WLOS",
+      "date": "2026-10-26T23:13:36.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)",
+      "url": "https://www.techmeme.com/261026/p49#a261026p49",
+      "source": "Techmeme",
+      "date": "2026-10-26T23:10:02.000Z"
+    },
+    {
+      "id": 5,
+      "title": "6+ ways you can use your PlayStation 5's USB ports",
+      "url": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+      "source": "Engadget",
+      "date": "2026-10-26T23:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "China está apretando el suministro de un metal que Japón necesita para coches y motores de avión. Las reservas ya se miden en meses",
+      "url": "https://www.xataka.com/empresas-y-economia/china-esta-apretando-suministro-metal-que-japon-necesita-para-coches-motores-avion-reservas-se-miden-meses",
+      "source": "Xataka",
+      "date": "2026-10-26T22:57:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-26T22:50:07.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "Wired",
+      "date": "2026-10-26T22:40:37.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "source": "Ars Technica",
+      "date": "2026-10-26T22:36:06.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "source": "Anthropic · via Britannica",
+      "date": "2026-10-26T22:04:04.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Samsung’s discounted memory cards can store dozens of games, depending on their size. www.theverge.com/gadgets/1018...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myspvwabjq2y",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-26T22:01:09.549Z"
+    },
+    {
+      "id": 12,
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "date": "2026-10-26T22:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-26T22:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "source": "The Verge",
+      "date": "2026-10-26T21:56:36.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge AI",
+      "date": "2026-10-26T21:45:31.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Comprar un Galaxy A será más difícil y caro: Samsung sacrifica su gama más vendida",
+      "url": "https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-precios/",
+      "source": "Hipertextual",
+      "date": "2026-10-26T21:45:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Alibaba's Qwen AI caught trying to contact server in China",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+      "source": "The Register",
+      "date": "2026-10-26T21:27:37.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Calavera Cabina: a tribute app for Día de Muertos",
+      "url": "https://dev.to/cloudinary/calavera-cabina-a-tribute-app-for-dia-de-muertos-1bko",
+      "source": "dev.to · IA · via Jen Looper",
+      "date": "2026-10-26T21:22:25.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "source": "TechCrunch",
+      "date": "2026-10-26T21:05:11.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Cohere says Alibaba AI model tried to secretly send data to Beijing server during test",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkQ5cnFlNGwtaHpEdEttTWZtdlZSSGZ5S2ozN1BxbXFTVmlBekVmTG9uT2VNWG9rT3ZtcVhqSllUR0poZ1ZEQnZySnU1UDE5Y0RFME9KVkFGb0xpSjJkOEw3MDBVdENoZ0ZKVGxkNWR5LXJKeTF5eEs3c0pGRHVFUGJSSzBvWHZ1MWtNb1VnRHY3MnZMZmxfMHkxN3NrNDhYSUh4RHV1MTZBd1pORjF3RmhWQ2dQdHZQbDVFYVFITG4wcjNSRF9zLTJyQmg?oc=5",
+      "source": "Cohere · via 디지털투데이",
+      "date": "2026-10-26T20:56:35.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Perplexity AI Predicts a Wild Finish to 2026 for XRP",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzFTZHlYN1VWU3VvUTBkYmtuN1hNUGk2RXdXbnpYSnowTWxkUEtVckxRM2wzZGVQV25PRl9PTTdMT2k0cTd2ZG1fNFprckc3Mk82YUM0b2pNSkhzWFZZTlY3SEltWG5HT3pqSXdtYTZCZk5KSnhTa09SU3VjaWFXallhU1pwOFdk?oc=5",
+      "source": "Perplexity · via Cryptonews",
+      "date": "2026-10-26T20:55:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Let Chaos Reign, and Then Rein In Chaos",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZkd3NmZORU1Za1MxVjREMFh4Zkp2UHprdl9GU0hlNXNrN04tVFdXZjlJTzFVUXZZS2Q2MVg1SWYxc0ptc1NIakhLYzZxTW1YY3dFc0Jzc1dJd2tyajB1TXZPdnFEZE0?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-10-26T20:26:15.000Z"
+    },
+    {
+      "id": 23,
+      "title": "BNP Paribas Sees Copilot Adding to Microsoft Sales as Azure Grows",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmeE9uWWo2WEVBb09XaXFCX1RzWjhjbTZOVnpNSnd6TWJ2cnFqbDF0bVE0OThaeE11X2JId1hhZTZNVm5kZE0xajFnSGtJa0YxNVBpS3BEdWQ?oc=5",
+      "source": "Microsoft AI · via www.tokenpost.com",
+      "date": "2026-10-26T20:15:28.000Z"
+    },
+    {
+      "id": 24,
+      "title": "ABI keynote: AI should expand human potential, maintain vitality",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZG9pY3plNTJmcXRyekpxWHpsd2doM21FVG5iUGxpNXNjb2pubWNpN1E3VE9abmQ2cUVwZ0VKSEoxWFg2Z3JhTk9WSkdTdTdGSmg5U05Jb3Mtb2hQR0x3VWRfMktzUG9IV3c5Qmw0VkxyQVppdFhOdXBQTE5VdEdHV01nVXdLWTJhY01lU1dxZnc5Uno2S2pKZDl3?oc=5",
+      "source": "Google News · Eventos tech · via Business Record",
+      "date": "2026-10-26T20:12:44.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Some Observations About Anthropic’s IPO Filing",
+      "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+      "source": "Crunchbase News",
+      "date": "2026-10-26T20:10:57.000Z"
+    },
+    {
+      "id": 26,
+      "title": "NBA partners with Kalshi and Polymarket as official prediction markets",
+      "url": "https://www.fastcompany.com/91630158/nba-prediction-markets?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-26T20:08:15.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "source": "Simon Willison",
+      "date": "2026-10-26T19:00:25.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-26T17:45:43.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?",
+      "url": "https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/",
+      "source": "Sifted",
+      "date": "2026-10-26T17:03:39.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI",
+      "date": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "url": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "source": "Import AI",
+      "date": "2026-10-26T12:31:52.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+      "url": "https://arxiv.org/abs/2610.31678",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Standfast",
+      "url": "https://www.producthunt.com/products/standfast",
+      "source": "Product Hunt",
+      "date": "2026-10-26T02:50:33.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

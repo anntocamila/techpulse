@@ -1,0 +1,516 @@
+{
+  "id": "2026-10-27-13",
+  "generatedAt": "2026-10-27T13:49:37.050Z",
+  "periodStart": "2026-10-25T13:49:37.050Z",
+  "periodEnd": "2026-10-27T13:49:37.050Z",
+  "title": "Titulares del 27 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "‘Sloppy gruesomeness’: reviewers slate Musk’s AI-made Odyssey film",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Data center backlash is uniting America",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft offers exits to thousands, including employees on AI and Copilot teams",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Cohere sounds the alarm over Chinese open-weight model",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Anthropic's IPO is risky business",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "AI chatbots outperformed dentists and doctors on radiation safety quiz",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Our newest AI Quest: Mapping the human brain",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Sequoia and General Catalyst value ex-police chief’s AI startup at $400m — reports",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "ContextGem 1.0",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Let Chaos Reign, and Then Rein In Chaos",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Cazan tres veces en dos días a un conductor de autobús por exceso de velocidad: Singapur llevará a los tribunales a seis conductores de bus y camión",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Japan internet giant GMO says hackers posted stolen customer data",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Así es el nuevo MacBook Pro M6: una actualización sin sorpresas como antesala del gran cambio",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Biggest stock listing ever? A look at Anthropic’s IPO by the numbers",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Santander X y Racing: reto para startups deportivas",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Forge buys AI Infra Summit organiser Kisaco in 14-event deal",
+          "sources": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Book vs clamshell foldable phones: which is better for your everyday needs?",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure (Natasha Mascarenhas/Bloomberg)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Apple's foldable phone has a crease in its reputation",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Apple refreshes the iMac with M6 chips",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Microsoft offers to buy out a quarter of its workforce",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ www.theverge.com/tech/101867…",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Your Website Changed. Did the AI Get the Memo?",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "GPT-6.1 Terra",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-27T13:49:38.627Z"
+    },
+    {
+      "id": 2,
+      "title": "The new Airfly View makes it a little easier to connect wireless headphones with step-by-step instructions.﻿ www.theverge.com/tech/101867…",
+      "url": "https://bsky.app/profile/theverge.com/post/3myuevk43fh2i",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-27T13:49:25.235Z"
+    },
+    {
+      "id": 3,
+      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlsud-digital-dollar.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-27T13:45:45.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Cazan tres veces en dos días a un conductor de autobús por exceso de velocidad: Singapur llevará a los tribunales a seis conductores de bus y camión",
+      "url": "https://www.xataka.com/movilidad/cazan-tres-veces-dos-dias-a-conductor-autobus-exceso-velocidad-singapur-llevara-a-tribunales-a-seis-conductores-bus-camion",
+      "source": "Xataka",
+      "date": "2026-10-27T13:45:27.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Book vs clamshell foldable phones: which is better for your everyday needs?",
+      "url": "https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better/",
+      "source": "Engadget",
+      "date": "2026-10-27T13:45:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "‘Sloppy gruesomeness’: reviewers slate Musk’s AI-made Odyssey film",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJCQU52c1RnV0lJdUMzRnhWRzlkVHB1YVVTWlJpWlJZNzI4YzFZWkptQjBCTWx2U0ZOZjNCWDFoNmJtWjA1S2pTRXVQUFJNNDNmS056MS04MTd4NVZwVDNkTWc0bDBKS1ZLYnViTmhfUDB4Nml0emZfcnVLTzV0T3hfcFVmeTlqNk1WMEoxN2Vya2VDSjVyazRnUWxuMEE?oc=5",
+      "source": "Google News · IA · via The Guardian",
+      "date": "2026-10-27T13:43:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure (Natasha Mascarenhas/Bloomberg)",
+      "url": "https://www.techmeme.com/261027/p19#a261027p19",
+      "source": "Techmeme",
+      "date": "2026-10-27T13:40:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch",
+      "date": "2026-10-27T13:32:57.000Z"
+    },
+    {
+      "id": 9,
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "source": "Wired",
+      "date": "2026-10-27T13:29:41.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Así es el nuevo MacBook Pro M6: una actualización sin sorpresas como antesala del gran cambio",
+      "url": "https://hipertextual.com/apple/nuevo-macbook-pro-m6-2026/",
+      "source": "Hipertextual",
+      "date": "2026-10-27T13:24:41.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Biggest stock listing ever? A look at Anthropic’s IPO by the numbers",
+      "url": "https://www.fastcompany.com/91630606/biggest-stock-listing-ever-look-anthropics-ipo-numbers?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-27T13:20:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Microsoft offers exits to thousands, including employees on AI and Copilot teams",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1A0aERBTW5yeDd4OFYyNVlHdVpTbFRqdUFTZmtaV2k3R1UtdGdLRkJHT2hibDVRVGJOWDRERWoyX3hnQkZjbjJkZlFaUk5SN25mOFB0SHFoNnNDb1d3REZuaDZHYmNMaFNSd01aMFJqVUMyNFlpTG15TmZnMmE3bUJabkRLUWNtNmhial9aY1g0Y2pHT3RvMWJaSk5OZGZmU0VxcldpeGIxVTFCQzZ4eE9zaUhITk5Vak5Od0s3c1pobDlPUzlJMzl3?oc=5",
+      "source": "Microsoft AI · via Computerworld",
+      "date": "2026-10-27T13:17:06.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Cohere sounds the alarm over Chinese open-weight model",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlNXR0kwTmRxWFVOZ3o0SUhZWC15cmNKb1NpajNuVU02dy1fVE8ycVVQQTI1RGhEVDlxTGFHUkE1Wnd3V2pObEtoal90ckxYUkQwNklUbVI1eG50WE1neGZYb2RfWWZ0V3BZYy1VbnhING1fLThXeWo1X0FvWHhRVFM0TGVad3pPbEZCZ1VsR24xdTM1UnZBU1MzRU4tNUlvTFE?oc=5",
+      "source": "Cohere · via Techzine Global",
+      "date": "2026-10-27T13:16:29.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Apple's foldable phone has a crease in its reputation",
+      "url": "https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669",
+      "source": "The Register",
+      "date": "2026-10-27T13:15:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Forge buys AI Infra Summit organiser Kisaco in 14-event deal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTNaT2R1QzI0MTEwNVh5NTU0cVpxb1AxTUhkU0Z3Z1lxR1FpRld1cHhKaF9LLU1td0Zjc181YUZlMVF5VUxUTE5wSDBoY0J4ZEN5bWFvOGczQmtGa1J4MUpMbU1abjRQYkZZRWlPSVhwb1NiZmYxZmdybXd2MGRVWUV0dDIzbnlva05iX2tLeVRTTFhuRGVLNl9R?oc=5",
+      "source": "Google News · Eventos tech · via Dealroom",
+      "date": "2026-10-27T13:09:09.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Your Website Changed. Did the AI Get the Memo?",
+      "url": "https://dev.to/kenwalger/your-website-changed-did-the-ai-get-the-memo-2jgc",
+      "source": "dev.to · IA · via Ken W Alger",
+      "date": "2026-10-27T13:07:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Apple refreshes the iMac with M6 chips",
+      "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+      "source": "The Verge",
+      "date": "2026-10-27T13:05:26.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
+      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-27T13:01:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Sequoia and General Catalyst value ex-police chief’s AI startup at $400m — reports",
+      "url": "https://sifted.eu/articles/sequoia-general-catalyst-22one-ai-police-startup/",
+      "source": "Sifted",
+      "date": "2026-10-27T12:21:38.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Santander X y Racing: reto para startups deportivas",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYk5OMzg1aFVuTWhmdVNKeUcwWm03eXhSTzdUbkpuMGJ4Nk5IdE5jZEp2cTBadEJRN0I3VmNKT2h3aXhHa3E5Q0FjenhkTFJZV0FxcWlCYnhUNWhpdmRZeHVpV2oydUFnVEtFbHBMYXRMVk9uR29wTUNwdGljQUM2MWNFOGk2NWRE?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-10-27T12:21:30.000Z"
+    },
+    {
+      "id": 21,
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-27T12:10:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+      "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+      "source": "Crunchbase News",
+      "date": "2026-10-27T11:00:53.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Anthropic's IPO is risky business",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BQmF4N2tuZEkyNXluTHlDTnpXbzJwM0dvZzlMd3NZTkJRUk9VSFI2X1RfYUNrTTRhd2FmTzFNejVFWkd4U3lMT0JxN0E3S25makc2MDBJNGFGdTRlNUpBS0hoRmhmdkY5Mkx0a3hyajBMYW9Kdm9YQk1HSdIBgAFBVV95cUxQcHAtNDE0N1FrSjJ3cTB6RndId0tsX2ZPSW1LZUJ3V0FMTGdkMWZRbk5lVHhBQm9fUnhBOVVlMzJhS1VsaEp5MWxHMDBmYnFWWVJzV09DZk9LdGdZRVdoRjcyYXl4TDFPM25fMVM1ckIxOG5QTmNhZXFSZTBWVTdBQQ?oc=5",
+      "source": "Anthropic · via CNBC",
+      "date": "2026-10-27T11:00:01.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "The Verge AI",
+      "date": "2026-10-27T10:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "source": "Latent Space",
+      "date": "2026-10-27T07:24:59.000Z"
+    },
+    {
+      "id": 26,
+      "title": "ContextGem 1.0",
+      "url": "https://www.producthunt.com/products/contextgem",
+      "source": "Product Hunt",
+      "date": "2026-10-27T04:48:43.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.32997",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-27T04:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "AI chatbots outperformed dentists and doctors on radiation safety quiz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzFkZmJNQzNiWHhtb2dFcHg1Z1Vudm5PM2dKZVlJVHh5ZV9IMEdNVDJlV0NJN3VtVk1VSGZnRjBQXzNrNEZyMmNUUzFISmlDVDJxU0wzT2ZUcHU4dDFuMWZRZ3M3QmoybEtRTFdiWENXaW5jVXJ2RVBJdlhaa3Zab25ianlQUHYwQ0duYzdQVG8zdWhWcVZnajN3Zw?oc=5",
+      "source": "Perplexity · via Bioengineer.org",
+      "date": "2026-10-27T00:18:22.000Z"
+    },
+    {
+      "id": 30,
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison",
+      "date": "2026-10-26T23:53:07.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "source": "Ars Technica",
+      "date": "2026-10-26T22:36:06.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI",
+      "date": "2026-10-26T22:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Let Chaos Reign, and Then Rein In Chaos",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jZkd3NmZORU1Za1MxVjREMFh4Zkp2UHprdl9GU0hlNXNrN04tVFdXZjlJTzFVUXZZS2Q2MVg1SWYxc0ptc1NIakhLYzZxTW1YY3dFc0Jzc1dJd2tyajB1TXZPdnFEZE0?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-10-26T20:33:27.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI",
+      "date": "2026-10-26T16:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

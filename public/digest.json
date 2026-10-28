@@ -1,8 +1,8 @@
 {
-  "id": "2026-10-28-14",
-  "generatedAt": "2026-10-28T14:43:46.880Z",
-  "periodStart": "2026-10-26T14:43:46.880Z",
-  "periodEnd": "2026-10-28T14:43:46.880Z",
+  "id": "2026-10-28-23",
+  "generatedAt": "2026-10-28T23:45:01.452Z",
+  "periodStart": "2026-10-26T23:45:01.452Z",
+  "periodEnd": "2026-10-28T23:45:01.452Z",
   "title": "Titulares del 28 de octubre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -19,21 +19,21 @@
           ]
         },
         {
-          "text": "Banks raise concerns as consumers give AI access to financial accounts",
+          "text": "Breakingviews - COMMENTARY: Google and Microsoft weave tangled AI webs",
           "sources": [
-            18
+            17
           ]
         },
         {
-          "text": "The Download: dead startups fueling AI and interspecies communication",
+          "text": "Creating AI value with enterprise context",
           "sources": [
-            26
+            20
           ]
         },
         {
-          "text": "Voters in Texas agree: They hate data centers",
+          "text": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
           "sources": [
-            29
+            22
           ]
         },
         {
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+          "text": "Alibaba’s Qwen AI Model Attempted Data Upload to China During Canadian Test",
           "sources": [
             2
           ]
         },
         {
-          "text": "Mistral opens Responses API in public preview, borrowing OpenAI's format for agent builders",
+          "text": "Microsoft Takes Copilot Past Per-Seat; Usage Buyers Up 75%+",
           "sources": [
-            11
+            5
           ]
         },
         {
-          "text": "Microsoft is killing off Copilot on smart TVs",
+          "text": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
           "sources": [
-            14
+            8
           ]
         },
         {
-          "text": "HIVE Digital Technologies secures $129 million loan for Cohere AI cluster",
+          "text": "AI for Science expands to foundations and research institutions",
           "sources": [
-            24
+            21
           ]
         },
         {
-          "text": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE)",
+          "text": "Cloudera expands its AI ecosystem with partnerships and packaged blueprints",
           "sources": [
-            27
+            25
           ]
         },
         {
-          "text": "Legora is building the agentic operating system for legal work",
+          "text": "Watch Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court | The Big Interview",
           "sources": [
-            30
+            26
           ]
         }
       ]
@@ -101,31 +101,31 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The executive talent market is divided in two",
+          "text": "Upwind raises $400M after walking away from Datadog acquisition offer",
           "sources": [
-            6
+            4
           ]
         },
         {
-          "text": "A16z’s crypto predictions aged like milk",
+          "text": "The Evolving Landscape of Venture Capital Mindsets",
           "sources": [
-            13
+            27
           ]
         },
         {
-          "text": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-          "sources": [
-            21
-          ]
-        },
-        {
-          "text": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
+          "text": "The Crunchbase Tech Layoffs Tracker",
           "sources": [
             28
           ]
         },
         {
-          "text": "WebAI by Opera",
+          "text": "The executive talent market is divided in two",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "OpenLLM",
           "sources": [
             32
           ]
@@ -145,33 +145,33 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+          "text": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
           "sources": [
-            4
+            11
           ]
         },
         {
-          "text": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+          "text": "Una parte de Dinamarca quiso deshacerse de Microsoft Office y usar una alternativa open source. Y el plan empezó a torcerse",
           "sources": [
-            5
+            12
           ]
         },
         {
-          "text": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos, aunque la academia tendrá la última palabra",
+          "text": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
           "sources": [
-            7
+            15
           ]
         },
         {
-          "text": "Airbnb’s next big bet: 1 million free nights a year for people in crisis",
+          "text": "Tus mensajes de Discord podrían aparecer en Google si no haces este ajuste",
           "sources": [
-            22
+            16
           ]
         },
         {
-          "text": "Amazon presenta nuevos Echo con Alexa+, incluyendo un despertador inteligente que querrás poner en la mesilla de noche",
+          "text": "Apple was always against touchscreen Macs. What changed?",
           "sources": [
-            25
+            18
           ]
         },
         {
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "ASI Power Summit 2026: The Power of Agentic AI",
+          "text": "Five Things: 2026 Tech Nebraska Summit",
           "sources": [
-            17
+            23
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
+          "text": "FCC chair wants to let prisons jam illegal cellphones",
           "sources": [
-            3
+            6
           ]
         },
         {
-          "text": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
+          "text": "Adam Mosseri says negativity around AI is ‘going to get worse’",
           "sources": [
             9
           ]
         },
         {
-          "text": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
+          "text": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
           "sources": [
             10
           ]
         },
         {
-          "text": "A hidden ocean change near Antarctica could have global consequences",
+          "text": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
           "sources": [
-            15
+            13
           ]
         },
         {
-          "text": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
+          "text": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
           "sources": [
             19
-          ]
-        },
-        {
-          "text": "What’s the Best Kindle of 2026 (So Far)?",
-          "sources": [
-            20
           ]
         }
       ]
@@ -247,39 +247,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Virgin Galactic plans to launch Apeiron in mid-2027, over two years after its last commercial spaceflight.﻿ www.theverge.com/science/1020...",
+          "text": "Quoting Ted Sanders",
           "sources": [
-            8
+            3
           ]
         },
         {
-          "text": "The October inflection point for vibe game development",
+          "text": "The Instagram boss said that worries about AI come down to ‘a fear of being left behind in some way.’﻿ www.theverge.com/ai-artificia...",
           "sources": [
-            12
+            7
           ]
         },
         {
-          "text": "Four Ways a Test Can Lie to You",
+          "text": "Why Agents Love Supabase",
           "sources": [
-            16
+            24
+          ]
+        },
+        {
+          "text": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+          "sources": [
+            29
           ]
         },
         {
           "text": "Artificial Analysis v5 and the benchmarker's dilemma",
           "sources": [
-            23
-          ]
-        },
-        {
-          "text": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-          "sources": [
             31
-          ]
-        },
-        {
-          "text": "The AI election that wasn't",
-          "sources": [
-            37
           ]
         }
       ]
@@ -291,224 +285,224 @@
       "title": "RecursiveSI/flint",
       "url": "https://huggingface.co/RecursiveSI/flint",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-28T14:43:47.594Z"
+      "date": "2026-10-28T23:45:02.162Z"
     },
     {
       "id": 2,
-      "title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5",
-      "source": "Anthropic · via WSJ",
-      "date": "2026-10-28T14:40:37.000Z"
+      "title": "Alibaba’s Qwen AI Model Attempted Data Upload to China During Canadian Test",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRmFDaGUyT3FvTTV0enVqSVloNGRMVjhUYkU5RnBxTzI1VE1ZSjZ6MHVxTERQY0RxNzNZcnRNV2RQbUZhX01PUWhmYWVYN3RzMEtoTVFIeEpXdjBReXZBTy14MU5hVEE?oc=5",
+      "source": "Cohere · via THE ELEC, Korea Electronics Industry Media",
+      "date": "2026-10-28T23:27:09.000Z"
     },
     {
       "id": 3,
-      "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
-      "url": "https://www.techmeme.com/261028/p32#a261028p32",
-      "source": "Techmeme",
-      "date": "2026-10-28T14:40:01.000Z"
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "source": "Simon Willison",
+      "date": "2026-10-28T23:23:21.000Z"
     },
     {
       "id": 4,
-      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
-      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-28T14:39:39.000Z"
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-28T23:15:00.000Z"
     },
     {
       "id": 5,
-      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-      "source": "TechCrunch",
-      "date": "2026-10-28T14:34:25.000Z"
+      "title": "Microsoft Takes Copilot Past Per-Seat; Usage Buyers Up 75%+",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkRYS2owYTBSRGtnU2locWF5SG56TktpcXFINVBHYWUyWHkyN2pHZk55ajlvRjNBNEt0NkltNTZjMW1CRmE0azhQN1FvUGtKUnBHWE5QYmU2MjNUbmRJZkRRU0xTRzZkMElDcXVCRWFXNEt0YjVpMEw3ZFVMZ0hxbWV4Zl95ZXpMN1FWNA?oc=5",
+      "source": "Microsoft AI · via FourWeekMBA",
+      "date": "2026-10-28T23:12:58.000Z"
     },
     {
       "id": 6,
+      "title": "FCC chair wants to let prisons jam illegal cellphones",
+      "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+      "source": "Engadget",
+      "date": "2026-10-28T23:09:22.000Z"
+    },
+    {
+      "id": 7,
+      "title": "The Instagram boss said that worries about AI come down to ‘a fear of being left behind in some way.’﻿ www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myxuinyn6r2i",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-28T23:06:31.657Z"
+    },
+    {
+      "id": 8,
+      "title": "Before Perplexity, Aravind Srinivas built a Twitter search tool that changed his startup's direction",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMUQ0TmxWVGJjSEVWU2JlVjBuWW5XYWJQdFJPbHFITGtYNDhqMGtSbXJnaG9XdDVBZFdKekZZUzJhdGFLck5NbXYyTTVRQWRiRG9jcFRtNnh2MWJNcWtFcmJmSURhUkk5a1d6cnZ6YUJwY2JMX3RQenlMa2pRQ1ZVTkE0UFltOHhxdXBfcFpvZ0ZlR19OYm5uRGhPMmJMTTBWbEZrcDRaekE5VWJFUTNrLUpISWtHZTJaeFR6bi00MEdoYmdSbG1tMFJJM2ZRekRkaUMtTTN0SndBeFJ6US1rVXAzWUdnT3I1SkFVUzd1a1YtOGthUmhwStIB_gFBVV95cUxQX2pZOE9yZWFyRGZveVptYlU5dHZjZG1hZHlpMTktMG9Kb19rWE4tQjBmcElZd1hrZjhURmpKdGNoSWFIWG9SVWJKVjYzcFpaRWVNSEpwcWJNWWZqckZoVXV4eklyeUE1emVPNzNUX3pfZ0o2VkRRd2pBLUF0YnZpN2F5b0V5TE4wWW5BdF9DUW9DMlR0UllNMmh0SzVETWROVi14Wk52dmpJSldmSjVsdXpDem5QNVlKdm1jQTFNRkQ5WXlPVF8yLUtqQklHcGdMUnBqSVJOWF9zQ3lNRzVfWnU0WWo0UGlkSGxHSUEtQll6SkRMakppZThEZllmUQ?oc=5",
+      "source": "Perplexity · via The Economic Times",
+      "date": "2026-10-28T23:05:39.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "date": "2026-10-28T23:05:39.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
+      "url": "https://www.techmeme.com/261028/p57#a261028p57",
+      "source": "Techmeme",
+      "date": "2026-10-28T23:00:49.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-28T23:00:27.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Una parte de Dinamarca quiso deshacerse de Microsoft Office y usar una alternativa open source. Y el plan empezó a torcerse",
+      "url": "https://www.xataka.com/aplicaciones/parte-dinamarca-quiso-deshacerse-microsoft-office-usar-alternativa-open-source-plan-empezo-a-torcerse",
+      "source": "Xataka",
+      "date": "2026-10-28T22:56:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+      "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+      "source": "Wired",
+      "date": "2026-10-28T22:54:16.000Z"
+    },
+    {
+      "id": 14,
+      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+      "source": "Ars Technica",
+      "date": "2026-10-28T22:51:15.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "source": "TechCrunch",
+      "date": "2026-10-28T22:47:50.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Tus mensajes de Discord podrían aparecer en Google si no haces este ajuste",
+      "url": "https://hipertextual.com/internet/discord-mensajes-google-como-evitar-indexacion/",
+      "source": "Hipertextual",
+      "date": "2026-10-28T21:59:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Breakingviews - COMMENTARY: Google and Microsoft weave tangled AI webs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm43cDBhVFBTTlpKaVFQWVMtbUhkRmtZOHFRV0Nrb2hYblRMSTZIaTZuTlJUVGJSWGhHOWl3a1RjclBvUm1uQnd5RVlUdW5ocTYtYTZMendCUWNGTmNzWjJkRzhyNTJGbWNzQ3hpUjdUTjVvbmVNRW0teER2WUktTnVVbzdHTnpxeEZZTm5uUGQ2T0pNUkNQVElBZER1V0dT?oc=5",
+      "source": "Google News · IA · via Reuters",
+      "date": "2026-10-28T21:48:05.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Apple was always against touchscreen Macs. What changed?",
+      "url": "https://www.fastcompany.com/91631800/apple-proled-macbook-pro-touchless-about-face?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-28T20:56:10.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Please state the nature of the medical emergency: Google is building a robot medic for NASA",
+      "url": "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
+      "source": "The Register",
+      "date": "2026-10-28T20:44:22.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-28T20:32:02.000Z"
+    },
+    {
+      "id": 21,
+      "title": "AI for Science expands to foundations and research institutions",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "source": "Anthropic · via Anthropic",
+      "date": "2026-10-28T20:14:19.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge AI",
+      "date": "2026-10-28T20:03:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Five Things: 2026 Tech Nebraska Summit",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWQxbkhINlJsTE91NlIwY1o0VGhObk9mTldrNXRsajZvN0pWQzN6Q0F6UGtmQWV6RDliWWlLdjZla3NHaU94WTI0aWp0WGJ6RTB3VDBtZ25nb1JaZGxOQm9NN0JxV3RMMDF1MTNmbVN0TE1NVFpxQkhDdERTQlNyclMwMA?oc=5",
+      "source": "Google News · Eventos tech · via Silicon Prairie News",
+      "date": "2026-10-28T20:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Why Agents Love Supabase",
+      "url": "https://latent.space/p/supabase/",
+      "source": "Latent Space",
+      "date": "2026-10-28T19:48:05.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Cloudera expands its AI ecosystem with partnerships and packaged blueprints",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDJPWTY0TDl1OG1HSGlXQkFRUlpabjdvcTJyMlg0c0RMQjg2Y0NkWWhfRWJhd25iQ3dvTk56TkdMb045emdabjVRYmRKdW5xTE9PeGhCY0hveEhBX0FVS0gxOUFKWko4aG9ST3pNS1M2bjRtT3kwLW5iTnhyekMtVGVZWkQ1Ty1VdlRXZVNtRENUMC0waU9teEFOOGhhTVJBUzFXMkFuTlUtT3dydjEwVlVn?oc=5",
+      "source": "Mistral AI · via SiliconANGLE",
+      "date": "2026-10-28T19:21:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Watch Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court | The Big Interview",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dzVnc1RPU2NaNXhIcHFJRGRTcmR1bzUxNFFXNUk1aFNKWkVBSXB0VUtsLWlTalJUbUhGSmtsaHVGVzh5bHRKWHB3TFVJeW9taW9PS2NNVWhCb3pPdHdLcUpnU050YVVfeXc?oc=5",
+      "source": "xAI · via WIRED",
+      "date": "2026-10-28T19:04:16.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The Evolving Landscape of Venture Capital Mindsets",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaem12cTBoNFg4MXV1ZDIwWk9FdkZYd0xFbWNBVWhTNmRJTXBFaWJ3WTl6Y3Q4alJZaXpiek8wVXhENW5Ydk40SmV1UEIyc0JqS1UxdUdWLS1sY1g1U0hIRFZPVHJ0aVNiNWItTW95bEduclBKVHE0?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-10-28T17:28:59.000Z"
+    },
+    {
+      "id": 28,
+      "title": "The Crunchbase Tech Layoffs Tracker",
+      "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+      "source": "Crunchbase News",
+      "date": "2026-10-28T16:25:30.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+      "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
+      "source": "dev.to · IA · via Maxim Saplin",
+      "date": "2026-10-28T15:45:10.000Z"
+    },
+    {
+      "id": 30,
       "title": "The executive talent market is divided in two",
       "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
       "source": "Sifted",
       "date": "2026-10-28T14:32:29.000Z"
     },
     {
-      "id": 7,
-      "title": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos, aunque la academia tendrá la última palabra",
-      "url": "https://www.xataka.com/robotica-e-ia/openai-asegura-haber-logrado-avances-tres-problemas-cientificos-muy-complejos-academia-tendra-ultima-palabra",
-      "source": "Xataka",
-      "date": "2026-10-28T14:31:29.000Z"
-    },
-    {
-      "id": 8,
-      "title": "Virgin Galactic plans to launch Apeiron in mid-2027, over two years after its last commercial spaceflight.﻿ www.theverge.com/science/1020...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mywx6qkdtj2h",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-28T14:22:00.717Z"
-    },
-    {
-      "id": 9,
-      "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
-      "url": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
-      "source": "The Verge",
-      "date": "2026-10-28T14:17:43.000Z"
-    },
-    {
-      "id": 10,
-      "title": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
-      "url": "https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953",
-      "source": "The Register",
-      "date": "2026-10-28T14:15:00.000Z"
-    },
-    {
-      "id": 11,
-      "title": "Mistral opens Responses API in public preview, borrowing OpenAI's format for agent builders",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Lb3FjMVdhVXBtUjZKVExFNVllVGxWSVRtWmlSOWFhXy1SaVQxVmsybkg1RjJEWDlsWlZiblZwbHdmdm1PbFdHakdFRURGejFkY2dVa3Q2cU9falpjMGNrcjg3VVhGR2I1UUlHNU9LcDVZWXlDVGZXVXN6aw?oc=5",
-      "source": "Mistral AI · via Crypto Briefing",
-      "date": "2026-10-28T14:05:06.000Z"
-    },
-    {
-      "id": 12,
-      "title": "The October inflection point for vibe game development",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "source": "Simon Willison",
-      "date": "2026-10-28T13:55:15.000Z"
-    },
-    {
-      "id": 13,
-      "title": "A16z’s crypto predictions aged like milk",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PQXBBREhkaDBOSTJfbTJTd2pOM1ZfeE5adjJ3YkJLamZuNThGeHRGeXhoYUpxQmRXbGgzTUZjSDhpSXhyRG1fSWFBS18tcGRLVGRzT2h6VHRuZlQ5dTByNVdFWDJ2ZTk2bVZz?oc=5",
-      "source": "a16z · via Protos | Informed crypto news",
-      "date": "2026-10-28T13:55:06.000Z"
-    },
-    {
-      "id": 14,
-      "title": "Microsoft is killing off Copilot on smart TVs",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5",
-      "source": "Microsoft AI · via Neowin",
-      "date": "2026-10-28T13:43:08.000Z"
-    },
-    {
-      "id": 15,
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-      "source": "Ars Technica",
-      "date": "2026-10-28T13:38:53.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Four Ways a Test Can Lie to You",
-      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
-      "source": "dev.to · IA · via Ken W Alger",
-      "date": "2026-10-28T13:32:00.000Z"
-    },
-    {
-      "id": 17,
-      "title": "ASI Power Summit 2026: The Power of Agentic AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEF3bnZ6SjlVQi1xazVpUFNCUEMxNGFRem1zaWl5cXB3Ql8zSktOSTV4NjZCSHNvM3BoX1BMdkw0dURDakJCelIwc200TTdMNXotdnVGNFpvaTFXQXN5X083YVJoa25FS1NWaXJpdW9IWk9uOFN0M0Z6SmxBQk8tVmdVRzV3TWVxSE10TUhOQkxCRFFRbVJvazZYS2tYWEJDaEdYNUg5bw?oc=5",
-      "source": "Google News · Eventos tech · via Advertising Specialty Institute",
-      "date": "2026-10-28T13:23:50.000Z"
-    },
-    {
-      "id": 18,
-      "title": "Banks raise concerns as consumers give AI access to financial accounts",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1JPWXVmMmt1bHN6MFZUaURDUGJlTUx3Y1FKckJQb0t3eUxmSG5uTlg4NGZwZmlsQlY2aHlPX2d4SFoxSlRHZ3NOSFVnNnhkLTdFbm5NMnFaQ2hSeHJXOV9kX0h0ZVZYbHRDd3ZGLW53MHpnZm01WnU4VXNDWi1lcUpYeWVzaFJtYXkyalBIVlRCT3BsVjgxNzc5U2tpQUU?oc=5",
-      "source": "Google News · IA · via CBS News",
-      "date": "2026-10-28T13:17:00.000Z"
-    },
-    {
-      "id": 19,
-      "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
-      "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
-      "source": "Engadget",
-      "date": "2026-10-28T13:13:19.000Z"
-    },
-    {
-      "id": 20,
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "url": "https://www.wired.com/gallery/best-kindle/",
-      "source": "Wired",
-      "date": "2026-10-28T13:02:00.000Z"
-    },
-    {
-      "id": 21,
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-28T13:00:00.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Airbnb’s next big bet: 1 million free nights a year for people in crisis",
-      "url": "https://www.fastcompany.com/91630190/airbnb-nonprofit-brian-chesky-emergency-housing?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-28T13:00:00.000Z"
-    },
-    {
-      "id": 23,
+      "id": 31,
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
       "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
       "source": "Interconnects",
       "date": "2026-10-28T12:58:39.000Z"
     },
     {
-      "id": 24,
-      "title": "HIVE Digital Technologies secures $129 million loan for Cohere AI cluster",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEQzM1pMcFdNWUhoU2hGOEpaUDZ6VjlWU0FCckd2QTVUWGZsM0JGTWd2UlVyQkxNdG03N0ZROW1QY2ZvSnFaMTZjX3U2Qmp2NHozb3B4d3hiSE45RWV6SUJZLXpBbS1mX1VzU0ZuYy10NjVBd2d1NjEtWUJnd1ZFSTVMOFFrNW1zYWI0?oc=5",
-      "source": "Cohere · via Yahoo Finance",
-      "date": "2026-10-28T12:39:00.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Amazon presenta nuevos Echo con Alexa+, incluyendo un despertador inteligente que querrás poner en la mesilla de noche",
-      "url": "https://hipertextual.com/tecnologia/amazon-presenta-nuevos-echo-con-alexa-incluyendo-un-despertador-inteligente-que-querras-poner-en-la-mesilla-de-noche/",
-      "source": "Hipertextual",
-      "date": "2026-10-28T12:15:37.000Z"
-    },
-    {
-      "id": 26,
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-28T12:10:00.000Z"
-    },
-    {
-      "id": 27,
-      "title": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDRBWTZmM1V4VlBLTXptQlRINldsY2Y4blgtUm9LLTUzdW9yUC1tbEhFSjlOWDRDeGFuNG52UDFSR1BNODhUYUlzbjRVWUd3VUpkQ0Ywb2tWTEM3OXJpQXo2VlVqZ0FOQWxxUHNyQTA3Umc2cURCcS12ZTJLdnVpcGRqNE1UQQ?oc=5",
-      "source": "Perplexity · via icobench.com",
-      "date": "2026-10-28T12:03:29.000Z"
-    },
-    {
-      "id": 28,
-      "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-      "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
-      "source": "Crunchbase News",
-      "date": "2026-10-28T12:00:48.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Voters in Texas agree: They hate data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "source": "The Verge AI",
-      "date": "2026-10-28T12:00:00.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "source": "OpenAI",
-      "date": "2026-10-28T09:30:00.000Z"
-    },
-    {
-      "id": 31,
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "source": "Latent Space",
-      "date": "2026-10-28T08:50:30.000Z"
-    },
-    {
       "id": 32,
-      "title": "WebAI by Opera",
-      "url": "https://www.producthunt.com/products/opera",
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
       "source": "Product Hunt",
-      "date": "2026-10-28T06:46:15.000Z"
+      "date": "2026-10-28T06:14:57.000Z"
     },
     {
       "id": 33,
@@ -537,13 +531,6 @@
       "url": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/",
       "source": "Y Combinator Blog",
       "date": "2026-10-28T02:59:08.000Z"
-    },
-    {
-      "id": 37,
-      "title": "The AI election that wasn't",
-      "url": "https://www.platformer.news/ai-midterms-openai-deepfakes/",
-      "source": "Platformer",
-      "date": "2026-10-28T00:23:24.000Z"
     }
   ],
   "stats": {

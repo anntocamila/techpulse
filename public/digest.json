@@ -1,9 +1,9 @@
 {
-  "id": "2026-10-27-23",
-  "generatedAt": "2026-10-27T23:23:53.439Z",
-  "periodStart": "2026-10-25T23:23:53.439Z",
-  "periodEnd": "2026-10-27T23:23:53.439Z",
-  "title": "Titulares del 27 de octubre",
+  "id": "2026-10-28-14",
+  "generatedAt": "2026-10-28T14:43:46.880Z",
+  "periodStart": "2026-10-26T14:43:46.880Z",
+  "periodEnd": "2026-10-28T14:43:46.880Z",
+  "title": "Titulares del 28 de octubre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -13,39 +13,39 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "text": "RecursiveSI/flint",
           "sources": [
             1
           ]
         },
         {
-          "text": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "text": "Banks raise concerns as consumers give AI access to financial accounts",
           "sources": [
-            20
+            18
           ]
         },
         {
-          "text": "VisionQuest is what happens when AI really goes rogue",
+          "text": "The Download: dead startups fueling AI and interspecies communication",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Voters in Texas agree: They hate data centers",
           "sources": [
             29
           ]
         },
         {
-          "text": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+          "text": "Counting the Bandages: On measuring the time that AI saves",
           "sources": [
-            32
+            34
           ]
         },
         {
-          "text": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+          "text": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
           "sources": [
             35
-          ]
-        },
-        {
-          "text": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
-          "sources": [
-            36
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "xAI Sued Over Hard-to-Cancel SuperGrok Subscriptions",
+          "text": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
           "sources": [
-            15
+            2
           ]
         },
         {
-          "text": "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen'",
+          "text": "Mistral opens Responses API in public preview, borrowing OpenAI's format for agent builders",
           "sources": [
-            16
+            11
           ]
         },
         {
-          "text": "Anthropic | History, Controversies, & Claude AI",
+          "text": "Microsoft is killing off Copilot on smart TVs",
           "sources": [
-            18
+            14
           ]
         },
         {
-          "text": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+          "text": "HIVE Digital Technologies secures $129 million loan for Cohere AI cluster",
           "sources": [
-            19
+            24
           ]
         },
         {
-          "text": "Understand Microsoft Copilot security concerns",
+          "text": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE)",
           "sources": [
-            21
+            27
           ]
         },
         {
-          "text": "Cloudera Expands Enterprise AI Ecosystem With Mistral AI, VAST Data, Neo4j, And Cartesia",
+          "text": "Legora is building the agentic operating system for legal work",
           "sources": [
-            25
+            30
           ]
         }
       ]
@@ -101,39 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Revolut faces Bank of England scrutiny over  product approval process, reports say",
+          "text": "The executive talent market is divided in two",
           "sources": [
-            10
+            6
           ]
         },
         {
-          "text": "Guidewire buys Hyperexponential for $1.7B in cash",
-          "sources": [
-            12
-          ]
-        },
-        {
-          "text": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
+          "text": "A16z’s crypto predictions aged like milk",
           "sources": [
             13
           ]
         },
         {
-          "text": "Databricks & the Future of the Firm",
+          "text": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
           "sources": [
-            30
+            21
           ]
         },
         {
-          "text": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
+          "text": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
           "sources": [
-            33
+            28
           ]
         },
         {
-          "text": "ContextGem 1.0",
+          "text": "WebAI by Opera",
           "sources": [
-            34
+            32
+          ]
+        },
+        {
+          "text": "How Alex Lee became the first engineer at Magic Patterns",
+          "sources": [
+            36
           ]
         }
       ]
@@ -145,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "La lenta adopción tecnológica de las pymes desafía a las startups en México",
+          "text": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
           "sources": [
-            3
+            4
           ]
         },
         {
-          "text": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+          "text": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
           "sources": [
             5
           ]
         },
         {
-          "text": "Excel quiere ahorrarte horas frente a la pantalla con una nueva IA que hace el trabajo aburrido por ti",
+          "text": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos, aunque la academia tendrá la última palabra",
           "sources": [
-            6
+            7
           ]
         },
         {
-          "text": "The data center boom has an upside: innovation for the US grid",
+          "text": "Airbnb’s next big bet: 1 million free nights a year for people in crisis",
           "sources": [
-            8
+            22
           ]
         },
         {
-          "text": "Siete días metiéndose en agua a 14 °C: lo que de verdad dice (y lo que no) el último estudio del “cold plunge”",
+          "text": "Amazon presenta nuevos Echo con Alexa+, incluyendo un despertador inteligente que querrás poner en la mesilla de noche",
           "sources": [
-            17
+            25
           ]
         },
         {
-          "text": "Former DOGE staffers say they just hacked Anthropic in less than 12 hours",
+          "text": "La moda de los dispositivos sin pantalla y por qué cada vez hay más",
           "sources": [
-            27
+            33
           ]
         }
       ]
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Video: Brent Key Week Press Conference",
+          "text": "ASI Power Summit 2026: The Power of Agentic AI",
           "sources": [
-            26
+            17
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
+          "text": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
           "sources": [
-            2
+            3
           ]
         },
         {
-          "text": "Discord public server messages may be soon searchable on Google, but you can opt out",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "text": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
           "sources": [
             9
           ]
         },
         {
-          "text": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "text": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
           "sources": [
-            11
+            10
           ]
         },
         {
-          "text": "Big Red gets cozy with Google to offer TPUs to AI customers",
+          "text": "A hidden ocean change near Antarctica could have global consequences",
           "sources": [
-            22
+            15
           ]
         },
         {
-          "text": "Anthropic Says It Will Revolutionize Biology—Some Day",
+          "text": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
           "sources": [
-            23
+            19
+          ]
+        },
+        {
+          "text": "What’s the Best Kindle of 2026 (So Far)?",
+          "sources": [
+            20
           ]
         }
       ]
@@ -247,33 +247,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Inside Apple’s first folding iPhone, contact with the delicate inner screen could cause a stress ‘hotspot.’ www.theverge.com/tech/1020145...",
+          "text": "Virgin Galactic plans to launch Apeiron in mid-2027, over two years after its last commercial spaceflight.﻿ www.theverge.com/science/1020...",
           "sources": [
-            7
+            8
           ]
         },
         {
-          "text": "Linterna: keep the voice behind the memory",
+          "text": "The October inflection point for vibe game development",
           "sources": [
-            14
+            12
           ]
         },
         {
-          "text": "Game Boy Color on My Conference Badge",
+          "text": "Four Ways a Test Can Lie to You",
           "sources": [
-            24
+            16
           ]
         },
         {
-          "text": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+          "text": "Artificial Analysis v5 and the benchmarker's dilemma",
           "sources": [
-            28
+            23
           ]
         },
         {
-          "text": "Is Anthropic the best business in the world?",
+          "text": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
           "sources": [
             31
+          ]
+        },
+        {
+          "text": "The AI election that wasn't",
+          "sources": [
+            37
           ]
         }
       ]
@@ -282,255 +288,262 @@
   "sources": [
     {
       "id": 1,
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "title": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-27T23:23:54.166Z"
+      "date": "2026-10-28T14:43:47.594Z"
     },
     {
       "id": 2,
-      "title": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
-      "url": "https://www.techmeme.com/261027/p35#a261027p35",
-      "source": "Techmeme",
-      "date": "2026-10-27T23:20:01.000Z"
+      "title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5",
+      "source": "Anthropic · via WSJ",
+      "date": "2026-10-28T14:40:37.000Z"
     },
     {
       "id": 3,
-      "title": "La lenta adopción tecnológica de las pymes desafía a las startups en México",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFExR3dNd1NqaTV6YnktS1pzYUNCQnVwdGRMbW1yRnBHd1BHcUZEd1hSa05hZEM1djlLczB2UlBLdXkwQkUzNXJqaTVmSU14ODJTbkgwSzRRNm9GbGxadnM5VjVlbzVvbVBuM1dMNDdwVVlSMVFYVkpNZWhrRGtDNHQ3azh6dEtlLUVzSVNDTGQ4a1RFakZoX1BrN0V3X3JXTzQwMzM5eTJJUktSQWFnRnJHZ2NBS19xZUJ0ZNIBwgFBVV95cUxQcWd5ZVhfMzhTNExrdWpWdExZbTFQUFdOdDN4OEwxbk16RklrUEtOcWtJLXJHYXRRT2JtLWxZa1ZWOEhaYnJ0UUtEMWJpekNJSi00cVFGYzdsMUtwcld0RW5yaGw0T2xITEQ4WVJicWZoQkJ0Q2l2ckpsX1JNOWthcDg2MG9fRmdtQ2VJMUp0RGZOVmJUb3RyMndfWmozQ0dGYXc3X1lVenVPRGdwM3FLYlNRZFVyYlNQTTFNc3VIMXpJZw?oc=5",
-      "source": "Google News · Tecnología (ES) · via El Economista",
-      "date": "2026-10-27T23:09:24.000Z"
+      "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
+      "url": "https://www.techmeme.com/261028/p32#a261028p32",
+      "source": "Techmeme",
+      "date": "2026-10-28T14:40:01.000Z"
     },
     {
       "id": 4,
-      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
-      "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
-      "source": "Engadget",
-      "date": "2026-10-27T23:04:49.000Z"
+      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-28T14:39:39.000Z"
     },
     {
       "id": 5,
-      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-27T23:03:09.000Z"
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "source": "TechCrunch",
+      "date": "2026-10-28T14:34:25.000Z"
     },
     {
       "id": 6,
-      "title": "Excel quiere ahorrarte horas frente a la pantalla con una nueva IA que hace el trabajo aburrido por ti",
-      "url": "https://hipertextual.com/software/excel-obtener-limpiar-datos-ia-copilot/",
-      "source": "Hipertextual",
-      "date": "2026-10-27T23:02:01.000Z"
+      "title": "The executive talent market is divided in two",
+      "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
+      "source": "Sifted",
+      "date": "2026-10-28T14:32:29.000Z"
     },
     {
       "id": 7,
-      "title": "Inside Apple’s first folding iPhone, contact with the delicate inner screen could cause a stress ‘hotspot.’ www.theverge.com/tech/1020145...",
-      "url": "https://bsky.app/profile/theverge.com/post/3myvdo7epju2i",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-27T23:00:04.771Z"
+      "title": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos, aunque la academia tendrá la última palabra",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-asegura-haber-logrado-avances-tres-problemas-cientificos-muy-complejos-academia-tendra-ultima-palabra",
+      "source": "Xataka",
+      "date": "2026-10-28T14:31:29.000Z"
     },
     {
       "id": 8,
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "source": "TechCrunch",
-      "date": "2026-10-27T22:55:41.000Z"
+      "title": "Virgin Galactic plans to launch Apeiron in mid-2027, over two years after its last commercial spaceflight.﻿ www.theverge.com/science/1020...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mywx6qkdtj2h",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-28T14:22:00.717Z"
     },
     {
       "id": 9,
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
+      "url": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
       "source": "The Verge",
-      "date": "2026-10-27T22:55:05.000Z"
+      "date": "2026-10-28T14:17:43.000Z"
     },
     {
       "id": 10,
-      "title": "Revolut faces Bank of England scrutiny over  product approval process, reports say",
-      "url": "https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/",
-      "source": "Sifted",
-      "date": "2026-10-27T22:38:01.000Z"
+      "title": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
+      "url": "https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953",
+      "source": "The Register",
+      "date": "2026-10-28T14:15:00.000Z"
     },
     {
       "id": 11,
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-      "source": "Ars Technica",
-      "date": "2026-10-27T22:37:30.000Z"
+      "title": "Mistral opens Responses API in public preview, borrowing OpenAI's format for agent builders",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Lb3FjMVdhVXBtUjZKVExFNVllVGxWSVRtWmlSOWFhXy1SaVQxVmsybkg1RjJEWDlsWlZiblZwbHdmdm1PbFdHakdFRURGejFkY2dVa3Q2cU9falpjMGNrcjg3VVhGR2I1UUlHNU9LcDVZWXlDVGZXVXN6aw?oc=5",
+      "source": "Mistral AI · via Crypto Briefing",
+      "date": "2026-10-28T14:05:06.000Z"
     },
     {
       "id": 12,
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "source": "TechCrunch Startups",
-      "date": "2026-10-27T22:26:03.000Z"
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "Simon Willison",
+      "date": "2026-10-28T13:55:15.000Z"
     },
     {
       "id": 13,
-      "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "source": "TechCrunch Venture",
-      "date": "2026-10-27T22:17:18.000Z"
+      "title": "A16z’s crypto predictions aged like milk",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PQXBBREhkaDBOSTJfbTJTd2pOM1ZfeE5adjJ3YkJLamZuNThGeHRGeXhoYUpxQmRXbGgzTUZjSDhpSXhyRG1fSWFBS18tcGRLVGRzT2h6VHRuZlQ5dTByNVdFWDJ2ZTk2bVZz?oc=5",
+      "source": "a16z · via Protos | Informed crypto news",
+      "date": "2026-10-28T13:55:06.000Z"
     },
     {
       "id": 14,
-      "title": "Linterna: keep the voice behind the memory",
-      "url": "https://dev.to/edyvision/linterna-keep-the-voice-behind-the-memory-3kk8",
-      "source": "dev.to · IA · via Eidan Rosado",
-      "date": "2026-10-27T22:06:12.000Z"
+      "title": "Microsoft is killing off Copilot on smart TVs",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHplNl9FMm5Sb2wxYW9MX2J3bWRkX0ZYcm96YTEzVXdPOWZ0ZkFTVnhMdDM3U0JJYlJJVF9XU1B2VjItSXFhMS1Jd0w3bDNRX1UwcDRERFdscE9jZFg4UnBhRXlpX3Zhc0Z5VXRlYXgza1g2cFV6OGRycHZKOXc?oc=5",
+      "source": "Microsoft AI · via Neowin",
+      "date": "2026-10-28T13:43:08.000Z"
     },
     {
       "id": 15,
-      "title": "xAI Sued Over Hard-to-Cancel SuperGrok Subscriptions",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTZ2b00xOFFRT29iSExaWS16anVxMWpEQzMwZkRBd2tqbnU5NmZvNzU2SmRDeS11TGlrS3VHYVgya2NUOTJ1Tmp0cS1aUmlodDBPU21uaW1QVU1NalRLOHhUMEtQWGRiWFdTQ0tsUFo0akNkX1BtcHcwMkxYOHA1ekFWc1cyTmRrMmNxcHp0RWxIMDlkb2dtdWtlQUdCX0pqYzV0VHVucXNkMEptMG9CcHJORERoZXRNWU90cmM0VQ?oc=5",
-      "source": "xAI · via openclassactions.com",
-      "date": "2026-10-27T21:45:00.000Z"
+      "title": "A hidden ocean change near Antarctica could have global consequences",
+      "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+      "source": "Ars Technica",
+      "date": "2026-10-28T13:38:53.000Z"
     },
     {
       "id": 16,
-      "title": "Cohere Flags Alibaba AI For Sending Data to China: 'Something That Should Never Happen'",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMG1nVmpUalVXdEx0R29JNUhNM0R5TTN1Ny1QS3JTbW1QbE5aNDJqV3poZG5lckRzRTQyT2t6dFU1VG1oUmVUeFFMaUxCXzRfQjZCZVhkZVFtTHFQWTkxb0k4c1Rxd2sydUVER0ZSQjBxU3hrdjdMTGxZeXgxV1ZaSkx3Z3NyNVdkMWJsRXlVVU9OVEh1aHlnb0RFLS14RkJ5eTd1eDVBUGN3bEZKNmpBa3ZYcGtXOWtoQWM2ODZnbDRYdzR3UVF5TlNFTjRfd01GNHlkRXhES1FXRV8yYkx3Qjl3?oc=5",
-      "source": "Cohere · via Benzinga",
-      "date": "2026-10-27T21:02:54.000Z"
+      "title": "Four Ways a Test Can Lie to You",
+      "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
+      "source": "dev.to · IA · via Ken W Alger",
+      "date": "2026-10-28T13:32:00.000Z"
     },
     {
       "id": 17,
-      "title": "Siete días metiéndose en agua a 14 °C: lo que de verdad dice (y lo que no) el último estudio del “cold plunge”",
-      "url": "https://www.xataka.com/investigacion/siete-dias-metiendose-agua-a-14-c-que-verdad-dice-que-no-ultimo-estudio-cold-plunge",
-      "source": "Xataka",
-      "date": "2026-10-27T21:01:27.000Z"
+      "title": "ASI Power Summit 2026: The Power of Agentic AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEF3bnZ6SjlVQi1xazVpUFNCUEMxNGFRem1zaWl5cXB3Ql8zSktOSTV4NjZCSHNvM3BoX1BMdkw0dURDakJCelIwc200TTdMNXotdnVGNFpvaTFXQXN5X083YVJoa25FS1NWaXJpdW9IWk9uOFN0M0Z6SmxBQk8tVmdVRzV3TWVxSE10TUhOQkxCRFFRbVJvazZYS2tYWEJDaEdYNUg5bw?oc=5",
+      "source": "Google News · Eventos tech · via Advertising Specialty Institute",
+      "date": "2026-10-28T13:23:50.000Z"
     },
     {
       "id": 18,
-      "title": "Anthropic | History, Controversies, & Claude AI",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
-      "source": "Anthropic · via Britannica",
-      "date": "2026-10-27T20:55:09.000Z"
+      "title": "Banks raise concerns as consumers give AI access to financial accounts",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1JPWXVmMmt1bHN6MFZUaURDUGJlTUx3Y1FKckJQb0t3eUxmSG5uTlg4NGZwZmlsQlY2aHlPX2d4SFoxSlRHZ3NOSFVnNnhkLTdFbm5NMnFaQ2hSeHJXOV9kX0h0ZVZYbHRDd3ZGLW53MHpnZm01WnU4VXNDWi1lcUpYeWVzaFJtYXkyalBIVlRCT3BsVjgxNzc5U2tpQUU?oc=5",
+      "source": "Google News · IA · via CBS News",
+      "date": "2026-10-28T13:17:00.000Z"
     },
     {
       "id": 19,
-      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
-      "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-27T20:50:39.000Z"
+      "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
+      "url": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+      "source": "Engadget",
+      "date": "2026-10-28T13:13:19.000Z"
     },
     {
       "id": 20,
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge AI",
-      "date": "2026-10-27T20:48:58.000Z"
+      "title": "What’s the Best Kindle of 2026 (So Far)?",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "source": "Wired",
+      "date": "2026-10-28T13:02:00.000Z"
     },
     {
       "id": 21,
-      "title": "Understand Microsoft Copilot security concerns",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNemNWSlFZR245Ml9QRXdtNkh5YkJNS0RLMnBCblNrOVdwVHJLNzVnTkMzd1Yzdl93Uk1sX1VfeEpJM3QtN2NiTlEtcE1GUEoxdmdmWWlCWkNyU2NXYUlqRlpEWW44S3lIcG0xSXBsMlhkUUE5U3VubWxsTV9GcTN0aUVvY2RqTWZCc0k2UG9Gbw?oc=5",
-      "source": "Microsoft AI · via TechTarget",
-      "date": "2026-10-27T20:46:15.000Z"
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-28T13:00:00.000Z"
     },
     {
       "id": 22,
-      "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
-      "source": "The Register",
-      "date": "2026-10-27T20:20:27.000Z"
+      "title": "Airbnb’s next big bet: 1 million free nights a year for people in crisis",
+      "url": "https://www.fastcompany.com/91630190/airbnb-nonprofit-brian-chesky-emergency-housing?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-28T13:00:00.000Z"
     },
     {
       "id": 23,
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "source": "Wired",
-      "date": "2026-10-27T19:39:04.000Z"
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "source": "Interconnects",
+      "date": "2026-10-28T12:58:39.000Z"
     },
     {
       "id": 24,
-      "title": "Game Boy Color on My Conference Badge",
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "source": "Simon Willison",
-      "date": "2026-10-27T19:34:18.000Z"
+      "title": "HIVE Digital Technologies secures $129 million loan for Cohere AI cluster",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEQzM1pMcFdNWUhoU2hGOEpaUDZ6VjlWU0FCckd2QTVUWGZsM0JGTWd2UlVyQkxNdG03N0ZROW1QY2ZvSnFaMTZjX3U2Qmp2NHozb3B4d3hiSE45RWV6SUJZLXpBbS1mX1VzU0ZuYy10NjVBd2d1NjEtWUJnd1ZFSTVMOFFrNW1zYWI0?oc=5",
+      "source": "Cohere · via Yahoo Finance",
+      "date": "2026-10-28T12:39:00.000Z"
     },
     {
       "id": 25,
-      "title": "Cloudera Expands Enterprise AI Ecosystem With Mistral AI, VAST Data, Neo4j, And Cartesia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pqUDlGMnBIMktCVFZ5ekJHemxJZVNMSzNPLUpNcVY4bDhKVEExVkF2RlV3R1RYcENyZndYYUduaXgxdnlUdkRadEZKTm5ZX093TDFWeTFhMDJrcV9VZGViVXRuN001OWdCZ242SWFaWm9iOFY2UkNOcVFNbjNrYl9aZDczbld5WVBnSU1YN183MW05YVllcXJYR2pvOXNtdE9QVkFia2M?oc=5",
-      "source": "Mistral AI · via Pulse 2.0",
-      "date": "2026-10-27T19:28:49.000Z"
+      "title": "Amazon presenta nuevos Echo con Alexa+, incluyendo un despertador inteligente que querrás poner en la mesilla de noche",
+      "url": "https://hipertextual.com/tecnologia/amazon-presenta-nuevos-echo-con-alexa-incluyendo-un-despertador-inteligente-que-querras-poner-en-la-mesilla-de-noche/",
+      "source": "Hipertextual",
+      "date": "2026-10-28T12:15:37.000Z"
     },
     {
       "id": 26,
-      "title": "Video: Brent Key Week Press Conference",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVjJ5M3NKVGhPZ3h4YXNFMGVlanM0SERYUml3RWV3UjRweUpqLUU3R0ltMHFCTTJXTjdXdTd1cllwX0tKYmtlVWdQc1NfRW9JZldzVXVhN1JSREJ1SG9qSzlBRGRiZWRmb3RVeDdUVW5CUHFoeHdVX0FxT1BlLThGeWNTZFE4STh0WjEw?oc=5",
-      "source": "Google News · Eventos tech · via Georgia Tech Yellow Jackets",
-      "date": "2026-10-27T19:24:19.000Z"
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-28T12:10:00.000Z"
     },
     {
       "id": 27,
-      "title": "Former DOGE staffers say they just hacked Anthropic in less than 12 hours",
-      "url": "https://www.fastcompany.com/91630974/former-doge-staffers-say-they-just-hacked-anthropic-in-less-than-12-hours?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-27T19:04:15.000Z"
+      "title": "Perplexity AI Predicts an Explosive Q4 Move for Hyperliquid (HYPE)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDRBWTZmM1V4VlBLTXptQlRINldsY2Y4blgtUm9LLTUzdW9yUC1tbEhFSjlOWDRDeGFuNG52UDFSR1BNODhUYUlzbjRVWUd3VUpkQ0Ywb2tWTEM3OXJpQXo2VlVqZ0FOQWxxUHNyQTA3Umc2cURCcS12ZTJLdnVpcGRqNE1UQQ?oc=5",
+      "source": "Perplexity · via icobench.com",
+      "date": "2026-10-28T12:03:29.000Z"
     },
     {
       "id": 28,
-      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-      "url": "https://latent.space/p/opus55/",
-      "source": "Latent Space",
-      "date": "2026-10-27T18:53:10.000Z"
+      "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
+      "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+      "source": "Crunchbase News",
+      "date": "2026-10-28T12:00:48.000Z"
     },
     {
       "id": 29,
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTktWVU0bDhDRmw1M1VYemhCN1d1b2xwQXN1SWVhUUlkYV9CendHd2ptYmpkTmY2Tl9OUVk3SkgxUnRXNV9lX19MYUVqNmkwa0hHM1U3aFI4MEZzakVkRktIaE03WnIxcW5ldnFEa214RDR4aWlaU3F2TXl1WWUzTm96NEVLWUFBZ0J3X2ZNbzI?oc=5",
-      "source": "Google News · IA · via The Verge",
-      "date": "2026-10-27T17:30:00.000Z"
+      "title": "Voters in Texas agree: They hate data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "source": "The Verge AI",
+      "date": "2026-10-28T12:00:00.000Z"
     },
     {
       "id": 30,
-      "title": "Databricks & the Future of the Firm",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fMTdGRkd4VmFoTDVYM3prbUpEQTY1S0JDZ0l2VGxuaTdHeTBNUy1iWkpqWXdpaGpGX3hYTm4wQ3hCSzY2V3NuVGVSR0M4S0gtZndzVkxrU2xtZkMwQVM3RA?oc=5",
-      "source": "a16z · via Andreessen Horowitz",
-      "date": "2026-10-27T15:10:47.000Z"
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI",
+      "date": "2026-10-28T09:30:00.000Z"
     },
     {
       "id": 31,
-      "title": "Is Anthropic the best business in the world?",
-      "url": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
-      "source": "Ben's Bites",
-      "date": "2026-10-27T14:19:32.000Z"
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "source": "Latent Space",
+      "date": "2026-10-28T08:50:30.000Z"
     },
     {
       "id": 32,
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-27T12:10:00.000Z"
+      "title": "WebAI by Opera",
+      "url": "https://www.producthunt.com/products/opera",
+      "source": "Product Hunt",
+      "date": "2026-10-28T06:46:15.000Z"
     },
     {
       "id": 33,
-      "title": "Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push",
-      "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
-      "source": "Crunchbase News",
-      "date": "2026-10-27T11:00:53.000Z"
+      "title": "La moda de los dispositivos sin pantalla y por qué cada vez hay más",
+      "url": "https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantalla-y-por-que-cada-vez-hay-mas.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-28T04:30:00.000Z"
     },
     {
       "id": 34,
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
-      "source": "Product Hunt",
-      "date": "2026-10-27T04:48:43.000Z"
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "url": "https://arxiv.org/abs/2610.35942",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-28T04:00:00.000Z"
     },
     {
       "id": 35,
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-27T04:00:00.000Z"
+      "title": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
+      "url": "https://arxiv.org/abs/2610.35925",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-28T04:00:00.000Z"
     },
     {
       "id": 36,
-      "title": "Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning",
-      "url": "https://arxiv.org/abs/2610.32997",
-      "source": "arXiv cs.CL",
-      "date": "2026-10-27T04:00:00.000Z"
+      "title": "How Alex Lee became the first engineer at Magic Patterns",
+      "url": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/",
+      "source": "Y Combinator Blog",
+      "date": "2026-10-28T02:59:08.000Z"
+    },
+    {
+      "id": 37,
+      "title": "The AI election that wasn't",
+      "url": "https://www.platformer.news/ai-midterms-openai-deepfakes/",
+      "source": "Platformer",
+      "date": "2026-10-28T00:23:24.000Z"
     }
   ],
   "stats": {

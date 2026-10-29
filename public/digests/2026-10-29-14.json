@@ -1,0 +1,529 @@
+{
+  "id": "2026-10-29-14",
+  "generatedAt": "2026-10-29T14:50:32.313Z",
+  "periodStart": "2026-10-27T14:50:32.313Z",
+  "periodEnd": "2026-10-29T14:50:32.313Z",
+  "title": "Titulares del 29 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Michigan tapping artificial intelligence to address prison violence",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Anthropic is asking Wall Street to believe in AGI",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Download: AI agent tracking and climate feedback loops",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Counting the Bandages: On measuring the time that AI saves",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Orange unit signs deal to Mistral’s latest AI cybersecurity model By Reuters",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Granite Switch 4.1.1 — Update models like you update software",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "He called for an AI slowdown, then told investors he’d race ahead",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "McGraw Hill integrates content with Microsoft Copilot",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Exclusive: Fractile raises £540m in new Series C funding, filings show",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Andreessen Horowitz's Fund: Samsung, SK Hynix as Critical as Nvidia",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Arco",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ninja se adelanta al Black Friday con nuevas ofertas en sus electrodomésticos: hay freidoras de aire, cafeteras e incluso heladeras",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "4 tips on how to get started with consumer-friendly AI agents",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Hasta la caca de perro será un arma en &#8216;GTA 6&#8217;: revelada la última locura de Rockstar",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MetricStream Hosts 14th Annual U.S. GRC Summit on AI in GRC Novem",
+          "sources": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price (Claire Rychlewski/Axios)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "The NYT Cooking app is testing AI recipe modifications",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Systemd adds support for Rust",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "DoorDash acquires Instacart in $17 billion delivery service merger",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Some users aren’t exactly thrilled with the New York Times’ recipe tweaking AI tool.﻿ www.theverge.com/ai-artificia...",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Quoting Ben Hylak",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "AI is overwhelming and I’m doing it wrong",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Artificial Analysis v5 and the benchmarker's dilemma",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-29T14:50:33.339Z"
+    },
+    {
+      "id": 2,
+      "title": "Ninja se adelanta al Black Friday con nuevas ofertas en sus electrodomésticos: hay freidoras de aire, cafeteras e incluso heladeras",
+      "url": "https://www.xataka.com/seleccion/ninja-se-adelanta-al-black-friday-nuevas-ofertas-sus-electrodomesticos-hay-freidoras-aire-cafeteras-e-incluso-heladeras",
+      "source": "Xataka",
+      "date": "2026-10-29T14:45:27.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Some users aren’t exactly thrilled with the New York Times’ recipe tweaking AI tool.﻿ www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3myzisnxwu62u",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-29T14:42:42.172Z"
+    },
+    {
+      "id": 4,
+      "title": "Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price (Claire Rychlewski/Axios)",
+      "url": "https://www.techmeme.com/261029/p31#a261029p31",
+      "source": "Techmeme",
+      "date": "2026-10-29T14:40:03.000Z"
+    },
+    {
+      "id": 5,
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "source": "The Verge",
+      "date": "2026-10-29T14:39:37.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Orange unit signs deal to Mistral’s latest AI cybersecurity model By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZm1CY2NIQUk5UTlXVEV2TkV5YXNiS2dlNUdZOTdvWEtPTGxpVU9Ic1lTZ0Y2VnZuVHQ1TVA2RmJyS3dwVWNJNHNlY01RQjJ0cVVaQVM1M0JyMGt1di16MUhqTHRER3Z0Z1VhVzZPeUJJZnlVY21IM0JGWXlkd2x5MkxZcmdXaU5EajZGNUN5Y3AtbF9yS2pOM19idi1ITVFEMzNRcUVzQjREM1BRNkx4R1JWeVB6QkxscjNULWFn?oc=5",
+      "source": "Mistral AI · via Investing.com",
+      "date": "2026-10-29T14:39:23.000Z"
+    },
+    {
+      "id": 7,
+      "title": "MetricStream Hosts 14th Annual U.S. GRC Summit on AI in GRC Novem",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUm1BNnF6VnFma2UydFZObl9vblVoYW9wdVVjWkktek1wVGNaM0h4aS1sZGs2b2tMQXhBeGE0Ul9DaVRaOFUycm5CVHJFOXdhZzY2MGJHZXN6OHY4Q2pnV29Ua1M5Q2FMS21sMktHbEo5SFFOZk1pekRfVlN3WlhDM0xGOS13SzM0ZVZNNFdyTkw2MzZxV1RjS1pCTWYxTU1CREluNGZsZTVpYmtVSVNmMDRyNGw?oc=5",
+      "source": "Google News · Eventos tech · via The National Law Review",
+      "date": "2026-10-29T14:37:23.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "source": "TechCrunch",
+      "date": "2026-10-29T14:35:26.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-29T14:34:21.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Michigan tapping artificial intelligence to address prison violence",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlgzSFBrSVM5THVsSEg4RW5qQ0dRbDZmSmhQZm50UF9mNmNESFljQmRfUXhsazBwYjF2MFV1RFdFWm5NaFhQWTBKaFNPaDlCN3AwWnYwN3ZyMW5VZ3dqNHNHbGEwWUoxeC11anowdjZncnJlRUxveVNmVG1GQlRoWlZqNlZFYzNmaUdSa2VDNGVjdlVRaXRpQWFmSGJrQkttX2lEVnBpa3ZldjZFRDl3ODZLVzJpQ0dKQXNrWE9LRlFoR1hVd0FhQjJNX3hNUXJUZFE?oc=5",
+      "source": "Google News · IA · via Detroit Free Press",
+      "date": "2026-10-29T14:10:53.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "source": "Simon Willison",
+      "date": "2026-10-29T14:06:27.000Z"
+    },
+    {
+      "id": 12,
+      "title": "AI is overwhelming and I’m doing it wrong",
+      "url": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
+      "source": "Ben's Bites",
+      "date": "2026-10-29T14:03:54.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge AI",
+      "date": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "4 tips on how to get started with consumer-friendly AI agents",
+      "url": "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "source": "Wired",
+      "date": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Systemd adds support for Rust",
+      "url": "https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264",
+      "source": "The Register",
+      "date": "2026-10-29T14:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Exclusive: Fractile raises £540m in new Series C funding, filings show",
+      "url": "https://sifted.eu/articles/exclusive-fractile-series-c/",
+      "source": "Sifted",
+      "date": "2026-10-29T13:51:26.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-29T13:37:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "He called for an AI slowdown, then told investors he’d race ahead",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdU9FVmtYcElxdzl0RTloc1AxVy0ycXNKWC1UTVhrV1p0S0dDS2VLSWxBQUZ3NjF4LURVUWVJTWhueGhZTWZwMFRaTDhtUlpCUXljcHlUelRybU4xWFVLUWJ0TDIwb3lBVHQ3SEQ1V0FOUzJ4S0VBWm93YlplT1pFcEtOaFNtYXpCSkowUzlJWk5SQTZmUTFka2dUbGl0RnhXQW1ITGp1SF9pQnRkQU10WG96MXE?oc=5",
+      "source": "Anthropic · via The Washington Post",
+      "date": "2026-10-29T13:33:58.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Hasta la caca de perro será un arma en &#8216;GTA 6&#8217;: revelada la última locura de Rockstar",
+      "url": "https://hipertextual.com/videojuegos/hasta-la-caca-de-perro-sera-un-arma-en-gta-6/",
+      "source": "Hipertextual",
+      "date": "2026-10-29T13:26:39.000Z"
+    },
+    {
+      "id": 21,
+      "title": "McGraw Hill integrates content with Microsoft Copilot",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjdHbGVFWlBROFByS015MVlFZ2Y1TUhIajRSSVJHRU5iczN5M0x0TnhUNGl0ZEE0d1QzblcyaG81VHltd3UyeUVnb2JGdTZzZ2pvSWFPbHpXR1p2MG5UanVxTkJXbUgzXzJjUldsODR4eDN0enJpeVhDOFBITWdWcFZZZWhVb243RUNabklDWkVYTlJQVzFPaFd6Z0NDaFZESnpTM2Z3UUVuSEM3dmdz?oc=5",
+      "source": "Microsoft AI · via Investing.com",
+      "date": "2026-10-29T13:19:22.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+      "source": "NVIDIA",
+      "date": "2026-10-29T13:00:16.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+      "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-29T13:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "source": "Ars Technica",
+      "date": "2026-10-29T12:58:34.000Z"
+    },
+    {
+      "id": 25,
+      "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+      "url": "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm",
+      "source": "dev.to · IA · via Sarvar Nadaf",
+      "date": "2026-10-29T12:37:40.000Z"
+    },
+    {
+      "id": 26,
+      "title": "DoorDash acquires Instacart in $17 billion delivery service merger",
+      "url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/",
+      "source": "Engadget",
+      "date": "2026-10-29T12:24:06.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-29T12:10:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+      "url": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+      "source": "Crunchbase News",
+      "date": "2026-10-29T11:00:35.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Andreessen Horowitz's Fund: Samsung, SK Hynix as Critical as Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWUxZFFlb2ZoLThhZHpsUjlZN3h0YVR1QUp0NmwwS3R5OHlMQkRFdjdQVEt1OXE5QW9hOTlyaWFLT0RtQjdYRUlXUnd3Q0hwTDdKa1VZbVFSdnJzODJuMzBXdXNILUVHcGMwUnJlXzM0bjJ1T3J1LW1uZXBlWjM0YVRGYWNudVRm?oc=5",
+      "source": "a16z · via 조선일보",
+      "date": "2026-10-29T08:03:58.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlltNktIV0J4OHlPTV9TRnpmSmxodENvYkwySlRIcHZBT3VvTjVTVGlnelkteVJ3ZUNoSWJXWWFWOTVuVTR3SlhpX215aGRHS0RHWGdpY2NxTUxuZUJ0V1Z3a1ZMeE41S0xHWmd1TWZjMGxnS1lfeXFkUUwzYWJ4bkFBT2Z6OW5wRHlvaFhlamFNalB6YmNLMklBQmFoVC0xSnlGbW9B?oc=5",
+      "source": "Cohere · via Cybersecurity Insiders",
+      "date": "2026-10-29T07:07:18.000Z"
+    },
+    {
+      "id": 31,
+      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "source": "Latent Space",
+      "date": "2026-10-29T05:55:19.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
+      "source": "Product Hunt",
+      "date": "2026-10-29T05:31:15.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Los hackers norcoreanos del grupo Lazarus se blindan con IA y cifrado poscuántico",
+      "url": "https://elpais.com/tecnologia/2026-10-29/los-hackers-norcoreanos-del-grupo-lazarus-se-blindan-con-ia-y-cifrado-poscuantico.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-29T04:30:01.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Counting the Bandages: On measuring the time that AI saves",
+      "url": "https://arxiv.org/abs/2610.35942",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-29T04:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "source": "Interconnects",
+      "date": "2026-10-28T12:58:39.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 62,
+    "sourcesFailed": 1
+  },
+  "generator": "headlines"
+}

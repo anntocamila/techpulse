@@ -1,0 +1,555 @@
+{
+  "id": "2026-10-30-23",
+  "generatedAt": "2026-10-30T23:23:57.628Z",
+  "periodStart": "2026-10-28T23:23:57.628Z",
+  "periodEnd": "2026-10-30T23:23:57.628Z",
+  "title": "Titulares del 30 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Nanbeige/Nanbeige4.3-33B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Earnings stoke AI fears and send tech stocks tumbling",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic orders AI tool Claude to stop remaking video games",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Anthropic, Google, Microsoft, and OpenAI Agree to Let Sites Opt Out of AI Training",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Mistral releases the weights of Le Chonk, its trillion-parameter open model built for coders and cyber defenders",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "nemotron-halloween",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Illinois Crypto Tax Rules Would Effectively Ban DeFi, a16z, Uniswap Labs Say",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "South Korea is betting on startups to secure its future on the global stage",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Axonnic",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Estos Galaxy Watch estarían a punto de quedarse sin nuevas funciones de Samsung",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Mozilla has a plan to rescue us from the zombie internet",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI won’t take your factory job, Valley manufacturing leaders say",
+          "sources": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Exclusive details about Akai’s MPC Sample Key",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Meta settles another social media addiction case just before trial",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Bunny CDN Security Incident",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. www.…",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "dbreunig/nesformer",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "GhostCache: Deleting the file didn't delete the secret",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Was I wrong about open models & cyber risks?",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "What Google and Reddit's bad days have in common",
+          "sources": [
+            37
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-30T23:23:58.439Z"
+    },
+    {
+      "id": 2,
+      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-30T23:21:23.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T22:56:13.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)",
+      "url": "https://www.techmeme.com/261030/p28#a261030p28",
+      "source": "Techmeme",
+      "date": "2026-10-30T22:50:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-30T22:42:26.000Z"
+    },
+    {
+      "id": 6,
+      "title": "AI won’t take your factory job, Valley manufacturing leaders say",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGN5UV9tSmNMVmlfaW1BR1hKSHZmRm9iSnJnRGZxM2IxSE1fOW5uWHk0QldrUnpNaHM5a0dHbkZ1Y1JKZUI2WWtEdGhKOXd0dTRpcGRvdGF5Nmhybm90bjJydmltSjB0RTlrU0JfbG82TG9hVGt2N01zSTBaSkt5Ynh3VjFfQlk?oc=5",
+      "source": "Google News · Eventos tech · via The Business Journal",
+      "date": "2026-10-30T22:36:43.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "source": "Ars Technica",
+      "date": "2026-10-30T22:36:41.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. www.…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mz4tnllbui27",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-30T22:34:43.180Z"
+    },
+    {
+      "id": 9,
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "date": "2026-10-30T22:32:53.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+      "source": "Anthropic · via Game Developer",
+      "date": "2026-10-30T22:18:45.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+      "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
+      "source": "Wired",
+      "date": "2026-10-30T22:15:06.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic, Google, Microsoft, and OpenAI Agree to Let Sites Opt Out of AI Training",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkM2MS1CbWxTY2s4eTd4UlJyM0pnb1U5NVJGeXljbTl2ZUZuYk1rYmhLSHNmQ2R3MU1sMlpSR1N1a0xHNXR4WkRadVJhcjUybURrYWJPYjUwR3J3Vno5dzljNzVDS3VlZWRsc0h4V0tHRWNlMzlWMGh6NlZHVmVNMDg1RjJhWUlIWUdCdUU2MjdYVUw1QnVFeWZCUl8yN1JPYng0WGJNQUdCeDJkbHhJb3JZenZRUQ?oc=5",
+      "source": "Microsoft AI · via Thurrott.com",
+      "date": "2026-10-30T22:12:36.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Illinois Crypto Tax Rules Would Effectively Ban DeFi, a16z, Uniswap Labs Say",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMTh1YktXUDNUWklxUFZETk1FaF9kcnN4aGhWZDd4dmVfMElXWHRzNUhHZnY0dXdzMGVET0hPY2JUeDQyTGZHTUtLblBZcG5HRmZZVg?oc=5",
+      "source": "a16z · via bloomingbit",
+      "date": "2026-10-30T22:08:30.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
+      "url": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
+      "source": "Xataka",
+      "date": "2026-10-30T22:01:27.000Z"
+    },
+    {
+      "id": 15,
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "Simon Willison",
+      "date": "2026-10-30T21:59:22.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Earnings stoke AI fears and send tech stocks tumbling",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUV9HVk91NlhYX1lmZWJKUjd5dTRJUzFnSTVWN0xaYWROMERpSzl3U1Q3N3dCelctRmxkZ24xTHoybjlCTjhGc3JQYnRGMjEtTmpGb0RlWDZQRDNjNFF3Q1U2bGVXblpoSVhBakxjaFU3aHNfNkI5UHNLSXQwdEdJbHVUTTlaLTc1WTlNTzVDQ0sxb1U4a1huS3hrMUl1OVVjYUJ2dnZ3R2tSb01IWVNqaXhGNWRRQ0t2cDNkUFp3?oc=5",
+      "source": "Google News · IA · via Le Monde.fr",
+      "date": "2026-10-30T21:39:54.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-30T21:35:31.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "source": "The Verge",
+      "date": "2026-10-30T21:01:32.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Estos Galaxy Watch estarían a punto de quedarse sin nuevas funciones de Samsung",
+      "url": "https://hipertextual.com/mobile/galaxy-watch-fin-actualizaciones-samsung/",
+      "source": "Hipertextual",
+      "date": "2026-10-30T20:30:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "GhostCache: Deleting the file didn't delete the secret",
+      "url": "https://dev.to/bipul_chamoli_09b5f0cc719/ghostcache-deleting-the-file-didnt-delete-the-secret-3d5d",
+      "source": "dev.to · IA · via Bipul Chamoli",
+      "date": "2026-10-30T20:27:40.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Meta settles another social media addiction case just before trial",
+      "url": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
+      "source": "Engadget",
+      "date": "2026-10-30T20:21:28.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Mistral releases the weights of Le Chonk, its trillion-parameter open model built for coders and cyber defenders",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2NLQkY3WXNvRTJ0ZG5oN0Jfb1ROVUFIUURmcWhPcFVuRThnQ3dzZmdreUdla2ltN3o2NzlwU0k5TnhXNVJTRHE5aGdRVjV4c0g4aDM1anFjcHhsSTM1U21TcDc4Z2xQNHB1dTlNcG9QNk5XMm5Udk03dmdMRUxVY0p3dXVEQVFjZUpiaVpyVmVjeXZNMzFXVFB4SzlqWVlXUUZVNGJLRjg1NlpnU1JDYXVsNzBlNzNwaG81Vm1XYTNXTEs1cDFGS2t3TEFfRm9oa3EzeVZJTS10SmxpdXc?oc=5",
+      "source": "Mistral AI · via Dealroom",
+      "date": "2026-10-30T19:17:05.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Mozilla has a plan to rescue us from the zombie internet",
+      "url": "https://www.fastcompany.com/91632539/mozillas-plan-to-rescue-us-from-the-zombie-internet?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-30T19:09:44.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Bunny CDN Security Incident",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "source": "Hacker News",
+      "date": "2026-10-30T19:05:22.000Z"
+    },
+    {
+      "id": 25,
+      "title": "How Harsh Vardhan Goenka became founding engineer #1 at Kalpa Labs",
+      "url": "https://www.ycombinator.com/blog/how-harsh-vardhan-goenka-became-founding-engineer-1-at-kalpa-labs/",
+      "source": "Y Combinator Blog",
+      "date": "2026-10-30T18:31:21.000Z"
+    },
+    {
+      "id": 26,
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "date": "2026-10-30T17:57:24.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Was I wrong about open models & cyber risks?",
+      "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "source": "Interconnects",
+      "date": "2026-10-30T17:36:56.000Z"
+    },
+    {
+      "id": 28,
+      "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+      "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+      "source": "Crunchbase News",
+      "date": "2026-10-30T16:33:59.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Perplexity Agent Now Works Inside Your Signed-In Chrome Tabs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJFZEFHT29PdjZGSFRNTVdqM2l5RjFBeTNYY05MaHNnZlkyRjc1a0lrNjV4MUx1WEdjYURhTnBwWlJLNzM3U0hXeTE2R0JuckNSbDhJU0g2ZDhtQmd1UFhQNDlyaWJod2pBYmRTMmpma1F6WHNmOFB0SmFudl80Ri1LUU00bEh6N2EtWklDdldIZw?oc=5",
+      "source": "Perplexity · via FourWeekMBA",
+      "date": "2026-10-30T15:48:20.000Z"
+    },
+    {
+      "id": 30,
+      "title": "South Korea is betting on startups to secure its future on the global stage",
+      "url": "https://sifted.eu/articles/south-korea-is-betting-on-startups-brnd/",
+      "source": "Sifted",
+      "date": "2026-10-30T14:26:45.000Z"
+    },
+    {
+      "id": 31,
+      "title": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+      "url": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-30T11:31:16.000Z"
+    },
+    {
+      "id": 32,
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-30T11:30:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "source": "Latent Space",
+      "date": "2026-10-30T08:24:29.000Z"
+    },
+    {
+      "id": 34,
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+      "url": "https://arxiv.org/abs/2610.37671",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Axonnic",
+      "url": "https://www.producthunt.com/products/axonnic",
+      "source": "Product Hunt",
+      "date": "2026-10-30T01:11:16.000Z"
+    },
+    {
+      "id": 37,
+      "title": "What Google and Reddit's bad days have in common",
+      "url": "https://www.platformer.news/thursday-newsletter-6/",
+      "source": "Platformer",
+      "date": "2026-10-30T00:51:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

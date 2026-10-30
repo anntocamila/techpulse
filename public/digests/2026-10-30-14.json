@@ -1,0 +1,542 @@
+{
+  "id": "2026-10-30-14",
+  "generatedAt": "2026-10-30T14:43:57.218Z",
+  "periodStart": "2026-10-28T14:43:57.218Z",
+  "periodEnd": "2026-10-30T14:43:57.218Z",
+  "title": "Titulares del 30 de octubre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Maine’s data center revolt will decide who controls the Senate",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft to end Copilot support on LG, Samsung smart TVs",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Mistral AI opens trillion-parameter model for cybersecurity",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Canada to Take Equity Stake in AI Firm Cohere",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "South Korea is betting on startups to secure its future on the global stage",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "a16z's American Dynamism 50 reframes defense around factories, not prototypes",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "StepGrab",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "OpenAI-backed Thrive Holdings acquires ADT",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Teles, cafeteras, auriculares y más con descuentos de hasta el 70%: los mejores chollos tecnológicos en Amazon hoy, 30 de octubre",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "I tried plug-in solar and loved it—but there’s a catch",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Siete nuevas startups se incorporan a Ceuta Open Future con proyectos de inteligencia artificial, educación y tecnología",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "San Diego to Host Digital Marketing & AI Summit on November 19th, 2026",
+          "sources": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "NASA ponders a Hubble servicing mission or a controlled deorbit",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "GM to pay $220 million after selling customer Smart Driver data",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "“There’s a generation of young creators and young people using our MacBook Pros that expect to touch,” said Apple’s marketing chief Greg …",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "What Google and Reddit's bad days have in common",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "API credits benefit for eligible ChatGPT subscriptions",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-10-30T14:43:58.182Z"
+    },
+    {
+      "id": 2,
+      "title": "“There’s a generation of young creators and young people using our MacBook Pros that expect to touch,” said Apple’s marketing chief Greg …",
+      "url": "https://bsky.app/profile/theverge.com/post/3mz3yszwn4c2p",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-10-30T14:34:35.645Z"
+    },
+    {
+      "id": 3,
+      "title": "Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)",
+      "url": "https://www.techmeme.com/261030/p14#a261030p14",
+      "source": "Techmeme",
+      "date": "2026-10-30T14:30:01.000Z"
+    },
+    {
+      "id": 4,
+      "title": "San Diego to Host Digital Marketing & AI Summit on November 19th, 2026",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWV0dXRlcFV1cHVQQTVRNGd6Qnd5Zno5SGE3YWVLazNQeVIzQzdLZnBwTE1KYjFrSmRHWlVYLVJtenVnQnltN2ZLRDk4ZEpPTkVfOW5MQ25iZ0psdnc2ZXBjN2VScDQ5dHRlTnlPUk1hXzV2M2ZJNFdhZmFrYThGSWlfa1Zjb1ViSks0ajl4TDkyVlgtQ0VSX2l5TmNrbjA1VGVzbmxuV0lkQWJodEE?oc=5",
+      "source": "Google News · Eventos tech · via EIN News",
+      "date": "2026-10-30T14:28:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "South Korea is betting on startups to secure its future on the global stage",
+      "url": "https://sifted.eu/articles/south-korea-is-betting-on-startups-brnd/",
+      "source": "Sifted",
+      "date": "2026-10-30T14:26:45.000Z"
+    },
+    {
+      "id": 6,
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge",
+      "date": "2026-10-30T14:23:26.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Teles, cafeteras, auriculares y más con descuentos de hasta el 70%: los mejores chollos tecnológicos en Amazon hoy, 30 de octubre",
+      "url": "https://www.xataka.com/seleccion/teles-cafeteras-auriculares-descuentos-70-mejores-chollos-tecnologicos-amazon-hoy-30-octubre",
+      "source": "Xataka",
+      "date": "2026-10-30T14:15:28.000Z"
+    },
+    {
+      "id": 8,
+      "title": "MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU",
+      "url": "https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a",
+      "source": "dev.to · IA · via Jessica Doering",
+      "date": "2026-10-30T14:04:55.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "source": "CNBC Tech",
+      "date": "2026-10-30T14:03:21.000Z"
+    },
+    {
+      "id": 10,
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T14:00:25.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-30T14:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
+      "url": "https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622",
+      "source": "The Register",
+      "date": "2026-10-30T14:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTM3TmZacWdPWmppcV9qZnFRV00yaGpnNmk1NFhKczFQMk5oX1FPa1NWRnlFcW5pVURlVGxRaDRheWR1RUZ3bnVFOEk4d0JLRDR1eF95ZWZMd1Uya2UtQmdBNWJRdW92emtYTFZ2VmZpX1VkMXczdFQ3SmNWMEFmN0YtYTFYcnBKN2tnSExQMXR6ZHVwbzcxeDg2UDZqLUVGWEZvVHRDc21LcG9SanJOQUF4Rm5ITHFVYjdNVDRLNW9XTXpP?oc=5",
+      "source": "Google News · IA · via NBC News",
+      "date": "2026-10-30T13:58:09.000Z"
+    },
+    {
+      "id": 14,
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "source": "Ars Technica",
+      "date": "2026-10-30T13:53:20.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+      "url": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
+      "source": "Wired",
+      "date": "2026-10-30T13:34:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Microsoft to end Copilot support on LG, Samsung smart TVs",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KR25yNHFkbUlwWi1vWjZtNWNCYTM2Z2dPOVh2QXFBUGNVeUpVUjdtSUF6aW1oMi1Lb3VmaGRqRENKZ3YxZTZNRjVQS1pBRkhrdnllUVBNdThsSzN3X2ZmazZMc3M2MDFrT1JUNmo0aFVkdUpZZG5VRVBud0FISG8?oc=5",
+      "source": "Microsoft AI · via TheDesk.net",
+      "date": "2026-10-30T13:24:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future",
+      "url": "https://www.engadget.com/2302065/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/",
+      "source": "Engadget",
+      "date": "2026-10-30T13:06:06.000Z"
+    },
+    {
+      "id": 18,
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "source": "Microsoft Research",
+      "date": "2026-10-30T13:05:28.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnY0akR6LXVXSnVoSDMxdVhIN0E5aDBaZnRpQUh4Z0gyTkFGV1RLTFh3ZkExWV9aVExBX0toTVpQbjZXckVGNENuRlg5U0s5bUdEWWFfZ2xVU2EwMXJKbjBiRHRDZWxZaHdVeU9VN250RXZ6SFU1UzN6Nks3U0l5b0ZIVzhTd2N6SkdjTmdIM3A3dw?oc=5",
+      "source": "Anthropic · via Fortune",
+      "date": "2026-10-30T13:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Mistral AI opens trillion-parameter model for cybersecurity",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcERBUlN1ZVg0bkNpQVhNUWRXMkdzN0wxY1Z3MkRGSzFBRWcwLTB3RVptbGowN3BqLURWZzJlclRISWFSNEhrUFlFb0lfNkZ1Q1UybTR5NFZOc1U4VGpLYlRmY0pIa2FTcUxFTnpJc0szanl6Ukc4OWc4NkNfWWJpazZiTjZ4b0k?oc=5",
+      "source": "Mistral AI · via YourStory.com",
+      "date": "2026-10-30T12:41:40.000Z"
+    },
+    {
+      "id": 21,
+      "title": "I tried plug-in solar and loved it—but there’s a catch",
+      "url": "https://www.fastcompany.com/91632331/i-tried-plug-in-solar-and-loved-it-but-theres-a-catch?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "La amistad de Jensen Huang, jefe de Nvidia, con una presunta agente china dispara las alarmas sobre el espionaje en el mundo de la IA",
+      "url": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html",
+      "source": "El País Tecnología",
+      "date": "2026-10-30T11:31:16.000Z"
+    },
+    {
+      "id": 23,
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-30T11:30:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Siete nuevas startups se incorporan a Ceuta Open Future con proyectos de inteligencia artificial, educación y tecnología",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNXpRcWNFYi1DR0YtY2V4WW9wU3RocEhidWJOcHJLZkJPUXZ3WlhyRXgwMzN6YTVHRm02WHF1eGc3UHR3dWhFUlJUbWV6MlJ4aUhEcHNvenhLZFBJYlEyT3lfSmZTZjN4eFNzY2NVWjNpaTVSVmtfRk02ZUF3cXJ5b2RMdlZDdFlSV2trcFp5OXh2RVBNakFxOFpkMVVhZFctM05MSGhkTlJ3ZHA3c1J0N085UlBiajFxOHBJLWN1dnp2Unh0UDhsbzU1aVRLNUxzWWFzR3NaS1FxNldJa05EUXRXR0xjQ1lUc1NhelFESmExT0RLSVFWZUVxQUpJZVJuaDdn0gGIAkFVX3lxTFAyUk9VdjA3TUpvaTMtYWl2YWxmQ1FmQ242SVlFWlJDX25QR3ZVcGtobHA4ZGkzeGxvVTVUVXplWklhanZibEdGcE9TMTJkcWcwN1NXT2VOUHN4d2E5UjZpZ09ZVmotZ2VncXVBYmt6Ui0yV3d3ZE56VlN4U3J5dHUtYnVDM2VfdFBmQkNicUZtUXRfSDRPeUF5QVlxNFdIcG5EUGp3clN4Z2Q1UTEyUGZVeEZfdXhRM09BTVdfd1N5b2h2VWRVbGlxN1NJU2dicTcyRzJQMF9JYmVsZkpXWUxrc0F4VDUwSkhVaDJoUVhpU0hydVpyYWh4RDhka0tnbU54bjBxemF0SQ?oc=5",
+      "source": "Google News · Tecnología (ES) · via Ceuta al Día",
+      "date": "2026-10-30T11:17:29.000Z"
+    },
+    {
+      "id": 25,
+      "title": "a16z's American Dynamism 50 reframes defense around factories, not prototypes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXBCMTdhemhLRHV4WHBKa3Q3YzItOFNudy1kQ1V0RTRob253ZHpHRW10Uk4telptZTlpdlFxUjFubExaa2k1S3NiWnNKLXlSYmEzc3lfSmZKVnk5cUxic3N0TlZVZ2pVU2dlVHFFNzQxYU5ldWxYVV8tQ1h4aW1XWkxKQVFteWh5YjcyeVBEeV9ic2c2cEsyV3JSUkw0QjRva0Uwa3psMjdvcjY5TkhV?oc=5",
+      "source": "a16z · via Dealroom",
+      "date": "2026-10-30T11:10:15.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
+      "source": "Crunchbase News",
+      "date": "2026-10-30T11:00:49.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge AI",
+      "date": "2026-10-30T11:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "source": "Latent Space",
+      "date": "2026-10-30T08:24:29.000Z"
+    },
+    {
+      "id": 29,
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+      "url": "https://arxiv.org/abs/2610.37671",
+      "source": "arXiv cs.CL",
+      "date": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "What Google and Reddit's bad days have in common",
+      "url": "https://www.platformer.news/thursday-newsletter-6/",
+      "source": "Platformer",
+      "date": "2026-10-30T00:51:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison",
+      "date": "2026-10-29T22:48:29.000Z"
+    },
+    {
+      "id": 33,
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
+      "source": "Product Hunt",
+      "date": "2026-10-29T22:03:45.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Canada to Take Equity Stake in AI Firm Cohere",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEVSWHVMeWdhSEpveGFxMzh1Q0FFUTNpaGRUTWgxbGlBOHlOTkQyZTA3QjVCUXJJY3kwaFRFN3ViQTlXalowMVBKLV9Mci1nWXRoOEhjT053SHdnNklfcDBoWVp0LWgzLVFZeE5EcjlCOUZTak1DRHl0ckd3SGt4Y3dpRTZPVXhMV0VvdXRvSm1DT21CVjNNS1h3?oc=5",
+      "source": "Cohere · via WSJ",
+      "date": "2026-10-29T20:58:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-29T19:56:19.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Perplexity’s AI got some answers wrong, but it helped Aravind Srinivas find his first users",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUxfald0WFp3UWZGU1NySnl4THN2STF0eE9IRG5fbUZtOWZDLWZmQVFXUVlwRHdzc1BkNl9LRWxCekRxMDdaaC0xSFFZLWJUX1RQdnh3OHBhclpCMEtMbk9VaXpaY0NRcXFkWWxqeEMxWTBYejlaNFVCYXZCM3J1cUtCUGdYZzZKaUlJOE9EV0ZkWERWQlV0RDd4UXlmZUhuQ2JoWlhSZjNGanc2V3pSLUVOZVJfU1k0eEtYR0dGMi1BYTZLRUxpeExxejNNcnZXUDB5MHJlWUJ5V2lXbmJzekZ2UzYzdC1IbjFQM0trRdIB9AFBVV95cUxQWDdLc1M4Q2pja20wSTM5UTNicW14TU5jc0hFcUlETWh5Y205V1hnWUowZVZsMXFkVmFzLWJFeWN3N1o3dHd5VG5fVGdCdTgyYjlBd0FQMld0dzBlRTJXR0swb0x1NEV2R0o5cXBiOUdnMkJWOFFFQVEwc3BpWnlEUEZzbjVFLWJPaHJOeGd5Z1FSUjN5a092ZHJkM0dmVmxwTE8yS09INmI5dW1UZXVBczVkd2xKam4xR21zZDJvTW9VMHR0Uk9vQzRzREdfUmQxSnZyT3dGUVJXM0NLY1dPaXpTRXY0OUh6Um9GRUZTWk1XaElD?oc=5",
+      "source": "Perplexity · via The Economic Times",
+      "date": "2026-10-29T19:35:03.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

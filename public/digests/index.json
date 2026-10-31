@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-10-31-14",
+    "generatedAt": "2026-10-31T14:07:23.041Z",
+    "title": "Titulares del 31 de octubre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-10-30-23",
     "generatedAt": "2026-10-30T23:23:57.628Z",
     "title": "Titulares del 30 de octubre",
@@ -350,12 +356,6 @@
   {
     "id": "2026-10-01-23",
     "generatedAt": "2026-10-01T23:36:08.958Z",
-    "title": "Titulares del 1 de octubre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-10-01-14",
-    "generatedAt": "2026-10-01T14:58:02.577Z",
     "title": "Titulares del 1 de octubre",
     "generator": "headlines"
   }

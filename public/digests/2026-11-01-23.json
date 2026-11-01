@@ -1,0 +1,451 @@
+{
+  "id": "2026-11-01-23",
+  "generatedAt": "2026-11-01T23:15:38.721Z",
+  "periodStart": "2026-10-30T23:15:38.721Z",
+  "periodEnd": "2026-11-01T23:15:38.721Z",
+  "title": "Titulares del 1 de noviembre",
+  "subtitle": "173 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "AI investors hedge against losses amid tech stock selloff",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "I built an AI Tamagotchi before Meta could",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic orders AI tool Claude to stop remaking video games",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Elon Musk admits Grok Bot costs too much to run as users hit weekly caps",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "FY27 Q1 - Press Releases - Investor Relations",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Canadian taxpayers now own a part of Cohere AI, what that means for digital sovereignty",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Mistral Le Chonk Coding Score 48 Ties Terra [2026]",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "a16z raised over 20% of US venture money this year, and Contrary's Kyle Harrison calls it the 'McDonaldization' of VC",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "agentmash",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "El &#8216;top&#8217; de personajes más populares de cinco franquicias distintas",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Why driverless trucks won’t be taking over highways just yet",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "México lidera en América Latina el desarrollo de inteligencia artificial física",
+          "sources": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Tech tip: How to get started with AI agents, and which are best for specific tasks",
+          "sources": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How IShowSpeed became YouTube's top livestreamer with 62M+ subscribers, as his 24/7 \"IRL streams\" that last days mingle childlike wonder with teenage mischief (Jon Caramanica/New York Times)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "How to clean your PlayStation 5 without damaging it",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "NASA hopes the commercial space industry can help save Hubble",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Mathematics has changed. Let's act like it",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "The 30 Best Gifts for Star Wars Fans (2026)",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "'Mother of all editors' Emacs is 50",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost. www.theverge.com/science/1024...",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Quoting Kyle Kingsbury",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-01T23:15:39.790Z"
+    },
+    {
+      "id": 2,
+      "title": "How IShowSpeed became YouTube's top livestreamer with 62M+ subscribers, as his 24/7 \"IRL streams\" that last days mingle childlike wonder with teenage mischief (Jon Caramanica/New York Times)",
+      "url": "https://www.techmeme.com/261101/p18#a261101p18",
+      "source": "Techmeme",
+      "date": "2026-11-01T23:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+      "source": "Anthropic · via Game Developer",
+      "date": "2026-11-01T23:11:44.000Z"
+    },
+    {
+      "id": 4,
+      "title": "How to clean your PlayStation 5 without damaging it",
+      "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+      "source": "Engadget",
+      "date": "2026-11-01T23:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Elon Musk admits Grok Bot costs too much to run as users hit weekly caps",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDFiZVdGODIwVV9lUzBEV1Q1N2llcnMyQkFBSHZlalBkRWVUMlNoNW1wVlpvUHFhem1fbVVKUUNKUzkwWDNieDloTmlpUWVJbngzYVJlQzZOU3R6bXJuR05PbjZubEZhd0JaTEhZaG9vUzFIMkJjUzRudkdHWkIxekUyYlVQSEM5dndDQktmSTVLYzZ4SzRKTG1rSmxVRGJoU3c?oc=5",
+      "source": "xAI · via Startup Fortune",
+      "date": "2026-11-01T22:49:28.000Z"
+    },
+    {
+      "id": 6,
+      "title": "FY27 Q1 - Press Releases - Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
+      "source": "Microsoft AI · via Microsoft",
+      "date": "2026-11-01T22:46:26.000Z"
+    },
+    {
+      "id": 7,
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T21:55:23.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Tech tip: How to get started with AI agents, and which are best for specific tasks",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTR2a21oMGhCSjh1QVd0STBEeWM0RlM5LXZyckh0VDFGNnZDaVBQaHV5WGE3akpXbFJhZ1duMWlJdmhWVnc5V01PY0dyNi1DbTJfREVCSUZDcHY5Ylhqb2REbi1OQ09sSFpaYzNoTHVBUU9kdmxZY0tBNDhmenQxSUtBMWRFUDNDczBMWk5PTjB3T2pnXzU1WkZad0QwZUhiVVFBVjhfYlg0NU9nTHNfSG9MWmZGQVVTUVF4Z1hB?oc=5",
+      "source": "Google News · Eventos tech · via Japan Today",
+      "date": "2026-11-01T21:44:12.000Z"
+    },
+    {
+      "id": 9,
+      "title": "The Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost. www.theverge.com/science/1024...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzbpzt5vog24",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-01T21:13:16.737Z"
+    },
+    {
+      "id": 10,
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "source": "The Verge",
+      "date": "2026-11-01T21:09:21.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Unos investigadores han decidido ponerle patas a un teléfono móvil y el resultado ha sido un robot que camina",
+      "url": "https://www.xataka.com/robotica-e-ia/unos-investigadores-han-decidido-ponerle-patas-a-telefono-movil-resultado-ha-sido-robot-que-camina",
+      "source": "Xataka",
+      "date": "2026-11-01T21:01:27.000Z"
+    },
+    {
+      "id": 12,
+      "title": "AI investors hedge against losses amid tech stock selloff",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms?oc=5",
+      "source": "Google News · IA · via The Jerusalem Post",
+      "date": "2026-11-01T20:38:11.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Canadian taxpayers now own a part of Cohere AI, what that means for digital sovereignty",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGViUlZZMDhkcl9kbjRUV0J2MUlUQkxwYmlKZ21JNWZnVkZYcXpIU3NSWTdheE1xcVhFZ2VNU2V0cS1RSmpsTDdtSUwyYUlBTmVUc1EyaVpnRDZsMTNQMHJqLXJOaEZiUGJxcjhQVng0ZHNLYkxsVlAzWG9Ed3djR2lSdnY1Wk9sVXlxUVZmZEs3MXE2T0VFZ3R0ckdVeXhZWC1NdnFMV2ZjSC11TGx0enhsajMwaFRRNFpRSEFQbVo4V0V3ZUE?oc=5",
+      "source": "Cohere · via CTV News",
+      "date": "2026-11-01T19:53:14.000Z"
+    },
+    {
+      "id": 14,
+      "title": "El &#8216;top&#8217; de personajes más populares de cinco franquicias distintas",
+      "url": "https://hipertextual.com/cine-television/el-top-de-personajes-mas-populares-de-cinco-franquicias-distintas/",
+      "source": "Hipertextual",
+      "date": "2026-11-01T19:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "source": "Hacker News",
+      "date": "2026-11-01T18:28:42.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "source": "Simon Willison",
+      "date": "2026-11-01T16:49:04.000Z"
+    },
+    {
+      "id": 17,
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-01T16:34:43.000Z"
+    },
+    {
+      "id": 18,
+      "title": "a16z raised over 20% of US venture money this year, and Contrary's Kyle Harrison calls it the 'McDonaldization' of VC",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2IwYVhHcGV3cmUxcFpRY0pSWGQ3b1JFYThRUDhxV1AzZWY1cnM1UlVQeW1fd2ZLZmxtVllEZTlCU284OFJZcFZNaEpfUXhvV3QzbEZBRXQ4MlY3UERLRnYtam5LWHdRZkV5M1RScno0c3V6cWdFLVJIWXRhYjlHdXFfNTRPeXRKN1dsVFpmNlF6Tlo4d0xKVGNKMXVkaV9JQ0tCczMtMkpRalJCV1RUOGR2eUk5anRDSEkySmVZcFpxWWpnZG1OQ1NMSjlRUkhpTWZtWDk5RTZPY3VSdWFmTg?oc=5",
+      "source": "a16z · via Dealroom",
+      "date": "2026-11-01T15:17:58.000Z"
+    },
+    {
+      "id": 19,
+      "title": "I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans",
+      "url": "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
+      "source": "dev.to · IA · via chet100",
+      "date": "2026-11-01T12:50:06.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "source": "Wired",
+      "date": "2026-11-01T12:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "'Mother of all editors' Emacs is 50",
+      "url": "https://www.theregister.com/applications/2026/11/01/mother-of-all-editors-emacs-is-50/5306727",
+      "source": "The Register",
+      "date": "2026-11-01T11:51:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Why driverless trucks won’t be taking over highways just yet",
+      "url": "https://www.fastcompany.com/91632428/driverless-trucks-wont-be-taking-over-highways-just-yet?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-01T09:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "México lidera en América Latina el desarrollo de inteligencia artificial física",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXZrQ25aT2RLenI3NXctYzVubVJDRl9rWGllT0o1cVRxY1J5TWVMZDhmMHRubGRpTmd4TmNiX1E0T00yTUtlN2hIdU8zLXhrNlBlM0Q5MzM3V1o3anlYOFFxa3RnMHdLcV9aN2FGUi13S01MWEVzTHo3R0czRjF2dEhSdzZmdWlRQi1Jdnh1Sk50T1V4ZEY3d3F4N28yQkluX1dlYi1OUU1DX0JCYlAwcV9MWkJlZUptS1psRUZ3?oc=5",
+      "source": "Google News · Tecnología (ES) · via Sociedad Noticias",
+      "date": "2026-11-01T04:30:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch Startups",
+      "date": "2026-10-31T21:36:07.000Z"
+    },
+    {
+      "id": 25,
+      "title": "agentmash",
+      "url": "https://www.producthunt.com/products/agentmash",
+      "source": "Product Hunt",
+      "date": "2026-10-31T18:08:19.000Z"
+    },
+    {
+      "id": 26,
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI",
+      "date": "2026-10-31T16:05:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "url": "https://latent.space/p/arca/",
+      "source": "Latent Space",
+      "date": "2026-10-31T16:05:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Mistral Le Chonk Coding Score 48 Ties Terra [2026]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHVjNHo5VWRyYTBqMzIyWEVpZFN2WkdicDFUd0VMS1NrVVVXUnB5elNOcFNjelhGLTJvWS02d3h2djgwWjNQeS00eE5xOG12QTlYRnViclhzVmJPQjdtY3p1THFGX2Q3M3gzQzUyNHZBNDUtMTZONnphMUhCYm83U1lSTnFCZw?oc=5",
+      "source": "Mistral AI · via shattered.io",
+      "date": "2026-10-31T05:11:12.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "source": "TechCrunch Venture",
+      "date": "2026-10-31T04:16:50.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 173,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

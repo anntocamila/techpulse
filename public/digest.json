@@ -1,10 +1,10 @@
 {
-  "id": "2026-10-31-22",
-  "generatedAt": "2026-10-31T22:57:13.162Z",
-  "periodStart": "2026-10-29T22:57:13.162Z",
-  "periodEnd": "2026-10-31T22:57:13.162Z",
-  "title": "Titulares del 31 de octubre",
-  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "id": "2026-11-01-14",
+  "generatedAt": "2026-11-01T14:38:17.359Z",
+  "periodStart": "2026-10-30T14:38:17.359Z",
+  "periodEnd": "2026-11-01T14:38:17.359Z",
+  "title": "Titulares del 1 de noviembre",
+  "subtitle": "214 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -13,33 +13,21 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Nanbeige/Nanbeige4.3-33B",
+          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "sources": [
             1
           ]
         },
         {
+          "text": "How AI is disrupting the art of campaigning",
+          "sources": [
+            8
+          ]
+        },
+        {
           "text": "I built an AI Tamagotchi before Meta could",
           "sources": [
-            17
-          ]
-        },
-        {
-          "text": "Report from the Vatican",
-          "sources": [
-            20
-          ]
-        },
-        {
-          "text": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-          "sources": [
-            28
-          ]
-        },
-        {
-          "text": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-          "sources": [
-            35
+            25
           ]
         }
       ]
@@ -51,33 +39,33 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "FY27 Q1 - Press Releases - Investor Relations",
+          "text": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
           "sources": [
-            3
+            4
           ]
         },
         {
-          "text": "xAI adds invisible text watermarking to Grok API models",
-          "sources": [
-            5
-          ]
-        },
-        {
-          "text": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "text": "Press Release & Webcast",
           "sources": [
             11
           ]
         },
         {
-          "text": "Ottawa Backs Cohere With $240M; RBC Blocks AI Agents [2026]",
+          "text": "Grok watermark arrives on xAI API text on November 7",
           "sources": [
-            21
+            12
+          ]
+        },
+        {
+          "text": "Cohere + Aleph Alpha: €500M Canada-Germany AI Deal [2026]",
+          "sources": [
+            19
           ]
         },
         {
           "text": "Mistral Le Chonk Coding Score 48 Ties Terra [2026]",
           "sources": [
-            25
+            28
           ]
         },
         {
@@ -97,25 +85,25 @@
         {
           "text": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
           "sources": [
-            7
+            23
+          ]
+        },
+        {
+          "text": "agentmash",
+          "sources": [
+            24
           ]
         },
         {
           "text": "Meshy Ranks on a16z’s First AI Apps by Revenue List",
           "sources": [
-            23
-          ]
-        },
-        {
-          "text": "AC Bridge",
-          "sources": [
-            26
+            27
           ]
         },
         {
           "text": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
           "sources": [
-            27
+            29
           ]
         },
         {
@@ -139,39 +127,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+          "text": "Why AI is boosting Meta's ad business while hurting Google search",
           "sources": [
-            4
+            5
           ]
         },
         {
-          "text": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "text": "Teles por menos de 80 euros, los Galaxy Buds4 Pro a mínimo histórico y más: AliExpress sigue con muchas ofertas top en tecnología",
           "sources": [
-            6
+            7
           ]
         },
         {
-          "text": "Cuando Lenin se topó con “El Monederos”: el día que casi le secuestran y roban el Rolls-Royce",
+          "text": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "De qué va ‘Klara y el Sol’ y por qué es la película escándalo de Taika Waititi",
           "sources": [
             10
           ]
         },
         {
-          "text": "Extraterrestres, disparos, ciencia ficción y filosofía. Esto es lo que debes saber de &#8216;Hope&#8217;, la película que causa sensación y se estrena en España",
+          "text": "Why driverless trucks won’t be taking over highways just yet",
           "sources": [
-            15
+            18
           ]
         },
         {
-          "text": "Enterprise AI is waiting for its PageRank moment",
+          "text": "México lidera en América Latina el desarrollo de inteligencia artificial física",
           "sources": [
-            24
-          ]
-        },
-        {
-          "text": "Golpe milmillonario a Binance: así han perpetrado los hackers norcoreanos el mayor robo cibernético de la historia",
-          "sources": [
-            34
+            21
           ]
         }
       ]
@@ -183,9 +171,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Jacksonville State University to Host AI Forward Summit Connecting Education and Industry in February",
+          "text": "Best Technology Keynote Speakers 2027 #1 AI Scott Steinberg",
           "sources": [
-            16
+            14
           ]
         }
       ]
@@ -197,39 +185,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "4 important features you should know if you use Microsoft Teams",
+          "text": "North Korea linked to massive Binance crypto heist",
           "sources": [
-            2
+            3
           ]
         },
         {
-          "text": "Get in the spirit with these horrors from YouTube",
+          "text": "How to check if your upcoming flight has Starlink Wi-Fi",
           "sources": [
-            9
+            6
           ]
         },
         {
-          "text": "HackerTube: YouTube built from videos recommended by HN",
+          "text": "The 30 Best Gifts for Star Wars Fans (2026)",
           "sources": [
-            12
+            13
           ]
         },
         {
-          "text": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
+          "text": "'Mother of all editors' Emacs is 50",
           "sources": [
-            14
+            15
           ]
         },
         {
-          "text": "Google's AI satellite sends a very expensive haiku to Earth",
+          "text": "Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021 (Gunjan Banerji/Wall Street Journal)",
           "sources": [
-            19
+            16
           ]
         },
         {
-          "text": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+          "text": "Norway makes shithouses great again",
           "sources": [
-            22
+            17
           ]
         }
       ]
@@ -241,27 +229,27 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Close out the Halloween season with these creepy, weird, and unsettling videos from YouTube. www.theverge.com/entertainmen...",
+          "text": "The FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers. www.theverge.com/tech/1024…",
           "sources": [
-            8
+            2
           ]
         },
         {
-          "text": "I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.",
+          "text": "From a Simple \"Mark as Seen\" to Feedgrab & Ghostify: Story of My Life!",
           "sources": [
-            13
+            20
+          ]
+        },
+        {
+          "text": "How We Took Over ChatGPT Accounts",
+          "sources": [
+            22
           ]
         },
         {
           "text": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
           "sources": [
-            18
-          ]
-        },
-        {
-          "text": "dbreunig/nesformer",
-          "sources": [
-            29
+            26
           ]
         },
         {
@@ -276,206 +264,206 @@
   "sources": [
     {
       "id": 1,
-      "title": "Nanbeige/Nanbeige4.3-33B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hugging Face · Modelos",
-      "date": "2026-10-31T22:57:13.685Z"
+      "date": "2026-11-01T14:38:18.324Z"
     },
     {
       "id": 2,
-      "title": "4 important features you should know if you use Microsoft Teams",
-      "url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
-      "source": "Engadget",
-      "date": "2026-10-31T22:45:00.000Z"
+      "title": "The FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers. www.theverge.com/tech/1024…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzazswawgu2y",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-01T14:35:42.621Z"
     },
     {
       "id": 3,
-      "title": "FY27 Q1 - Press Releases - Investor Relations",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
-      "source": "Microsoft AI · via Microsoft",
-      "date": "2026-10-31T22:43:39.000Z"
+      "title": "North Korea linked to massive Binance crypto heist",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "source": "The Verge",
+      "date": "2026-11-01T14:33:11.000Z"
     },
     {
       "id": 4,
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "source": "CNBC Tech",
-      "date": "2026-10-31T22:27:56.000Z"
+      "title": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlRTSktsR1lfYmNBOURrNzZSbDJRcG55dmhHQ2E3d1JQSXNQMjRrdVpHdTlUcHotNF9UaVdnX0QzRlVONWtPSmsteUtQSTc0cTRxRjVjOXM1WWExcTdkdkJqLTdmc19seXlxYXd3ZGlZejREMTJTeUsxWFVaVHFjemkwQVVZTk0?oc=5",
+      "source": "Anthropic · via WSJ",
+      "date": "2026-11-01T14:31:33.000Z"
     },
     {
       "id": 5,
-      "title": "xAI adds invisible text watermarking to Grok API models",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVVNoS1c1dUpTemd3Y2VtUDlMaXBOQ182bHM1cHlNYjZ4N0ZZWGpjcnlpbzVRYjFnWU1Ld1M3M3MwWVpLc0FXSENUWVpMeEFha2lyaVBTcGZrNlhwQ3dtVV9vcUNFMWs3R0E?oc=5",
-      "source": "xAI · via Crypto Briefing",
-      "date": "2026-10-31T22:16:47.000Z"
+      "title": "Why AI is boosting Meta's ad business while hurting Google search",
+      "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-01T14:31:29.000Z"
     },
     {
       "id": 6,
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "date": "2026-10-31T21:41:00.000Z"
+      "title": "How to check if your upcoming flight has Starlink Wi-Fi",
+      "url": "https://www.engadget.com/2300275/starlink-wifi-how-to-check-upcoming-flight/",
+      "source": "Engadget",
+      "date": "2026-11-01T14:30:00.000Z"
     },
     {
       "id": 7,
+      "title": "Teles por menos de 80 euros, los Galaxy Buds4 Pro a mínimo histórico y más: AliExpress sigue con muchas ofertas top en tecnología",
+      "url": "https://www.xataka.com/seleccion/teles-80-euros-galaxy-buds4-pro-a-minimo-historico-aliexpress-sigue-muchas-ofertas-top-tecnologia",
+      "source": "Xataka",
+      "date": "2026-11-01T14:15:27.000Z"
+    },
+    {
+      "id": 8,
+      "title": "How AI is disrupting the art of campaigning",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1BkajNlSE5zdFFDQVhaVkdqQWxoRzVRQmFLbXVvTEoteHcwV2RuMXg1MnNocFVLLUY4SVJMck4yR19wYlBQemNWRG9lNjdaTm5GeHFkb3BuVHUySTltMnNhUVFkMm8tTm1vcUdjc21FTVhqNXA1NGRkOEFQcmhjdFNSZFVsVzJVb05uTTNPUkZCdEVzcjE1cTZn?oc=5",
+      "source": "Google News · IA · via The Economist",
+      "date": "2026-11-01T14:10:44.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "De qué va ‘Klara y el Sol’ y por qué es la película escándalo de Taika Waititi",
+      "url": "https://hipertextual.com/cine-television/de-que-va-klara-y-el-sol-y-por-que-es-la-pelicula-escandalo-de-taika-waititi/",
+      "source": "Hipertextual",
+      "date": "2026-11-01T14:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Press Release & Webcast",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
+      "source": "Microsoft AI · via Microsoft",
+      "date": "2026-11-01T13:40:14.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Grok watermark arrives on xAI API text on November 7",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUE4ZGswYnZpOVR1aHNfQXpnRVFCaENXY3dTQjUzdGp2WXAwdW1fWjducjRLeGVPcXZPMFZLR2hGOWdFa01lRzRhQUxsUGdmM1VaOW54eXFTUjJUeVZTMUN5Y1hmVXhWSDNvWFNjTGlZSEpJSXo3aEtfRXVMcHhMdEp3dkRoN0ZuZmc?oc=5",
+      "source": "xAI · via Pasquale Pillitteri",
+      "date": "2026-11-01T12:51:25.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "source": "Wired",
+      "date": "2026-11-01T12:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Best Technology Keynote Speakers 2027 #1 AI Scott Steinberg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejJGY0hrSVQ3TDVmRHVCQmc4djhjcjEwcmJaYzNrU2lvRjR5eU9TQzBXQmZrUkZDdUtTSEl1Q28xRFBIQmJZOEVqMnY1UEpLNzVsby1CTDNrdU00SmlWdjdpUGd3SHBQRmVvQWRsZDdJSXFwRFhHR0otcTVWd2pJcQ?oc=5",
+      "source": "Google News · Eventos tech · via https://www.futuristsspeakers.com/",
+      "date": "2026-11-01T11:52:55.000Z"
+    },
+    {
+      "id": 15,
+      "title": "'Mother of all editors' Emacs is 50",
+      "url": "https://www.theregister.com/applications/2026/11/01/mother-of-all-editors-emacs-is-50/5306727",
+      "source": "The Register",
+      "date": "2026-11-01T11:51:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021 (Gunjan Banerji/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261101/p8#a261101p8",
+      "source": "Techmeme",
+      "date": "2026-11-01T11:00:01.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "source": "Hacker News",
+      "date": "2026-11-01T10:47:58.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Why driverless trucks won’t be taking over highways just yet",
+      "url": "https://www.fastcompany.com/91632428/driverless-trucks-wont-be-taking-over-highways-just-yet?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-01T09:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Cohere + Aleph Alpha: €500M Canada-Germany AI Deal [2026]",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1hrNGpQTXU2RmYzNVlzRVZ5RWZmWlNBeU4wMFJxMUVvdFhoRGRhYTlqNy1ISTZFUDRQWU9QWVBxcEd4elJVT3d4TUpPcUJhWVpsam5WWFpfQVhyUnNLdzQxVlFSSVJEcFE2dklWVzdzamNIdWVuejVLaXV1bnEwb2lVXzJjZ1hSUkNFc1d4dm9fNWxfLVE?oc=5",
+      "source": "Cohere · via tech-insider.org",
+      "date": "2026-11-01T07:42:22.000Z"
+    },
+    {
+      "id": 20,
+      "title": "From a Simple \"Mark as Seen\" to Feedgrab & Ghostify: Story of My Life!",
+      "url": "https://dev.to/fm/from-a-simple-mark-as-seen-to-feedgrab-ghostify-story-of-my-life-33dl",
+      "source": "dev.to · IA · via Fayaz",
+      "date": "2026-11-01T06:37:38.000Z"
+    },
+    {
+      "id": 21,
+      "title": "México lidera en América Latina el desarrollo de inteligencia artificial física",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXZrQ25aT2RLenI3NXctYzVubVJDRl9rWGllT0o1cVRxY1J5TWVMZDhmMHRubGRpTmd4TmNiX1E0T00yTUtlN2hIdU8zLXhrNlBlM0Q5MzM3V1o3anlYOFFxa3RnMHdLcV9aN2FGUi13S01MWEVzTHo3R0czRjF2dEhSdzZmdWlRQi1Jdnh1Sk50T1V4ZEY3d3F4N28yQkluX1dlYi1OUU1DX0JCYlAwcV9MWkJlZUptS1psRUZ3?oc=5",
+      "source": "Google News · Tecnología (ES) · via Sociedad Noticias",
+      "date": "2026-11-01T04:30:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "source": "Simon Willison",
+      "date": "2026-10-31T23:15:22.000Z"
+    },
+    {
+      "id": 23,
       "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
       "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "source": "TechCrunch Startups",
       "date": "2026-10-31T21:36:07.000Z"
     },
     {
-      "id": 8,
-      "title": "Close out the Halloween season with these creepy, weird, and unsettling videos from YouTube. www.theverge.com/entertainmen...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mz77d55tje23",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-10-31T21:08:55.762Z"
+      "id": 24,
+      "title": "agentmash",
+      "url": "https://www.producthunt.com/products/agentmash",
+      "source": "Product Hunt",
+      "date": "2026-10-31T18:08:19.000Z"
     },
     {
-      "id": 9,
-      "title": "Get in the spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "source": "The Verge",
-      "date": "2026-10-31T21:06:58.000Z"
-    },
-    {
-      "id": 10,
-      "title": "Cuando Lenin se topó con “El Monederos”: el día que casi le secuestran y roban el Rolls-Royce",
-      "url": "https://www.xataka.com/magnet/cuando-lenin-se-topo-monederos-dia-que-casi-le-secuestran-roban-rolls-royce-1",
-      "source": "Xataka",
-      "date": "2026-10-31T21:01:27.000Z"
-    },
-    {
-      "id": 11,
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5",
-      "source": "Anthropic · via Mashable",
-      "date": "2026-10-31T20:05:28.000Z"
-    },
-    {
-      "id": 12,
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "source": "Hacker News",
-      "date": "2026-10-31T19:56:53.000Z"
-    },
-    {
-      "id": 13,
-      "title": "I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.",
-      "url": "https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4",
-      "source": "dev.to · IA · via Jessica Doering",
-      "date": "2026-10-31T19:33:06.000Z"
-    },
-    {
-      "id": 14,
-      "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
-      "url": "https://www.techmeme.com/261031/p11#a261031p11",
-      "source": "Techmeme",
-      "date": "2026-10-31T19:01:11.000Z"
-    },
-    {
-      "id": 15,
-      "title": "Extraterrestres, disparos, ciencia ficción y filosofía. Esto es lo que debes saber de &#8216;Hope&#8217;, la película que causa sensación y se estrena en España",
-      "url": "https://hipertextual.com/cine-television/extraterrestres-disparos-ciencia-ficcion-y-filosofia-esto-es-lo-que-debes-saber-de-hope-la-pelicula-que-causa-sensacion-y-se-estrena-en-espana/",
-      "source": "Hipertextual",
-      "date": "2026-10-31T19:00:00.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Jacksonville State University to Host AI Forward Summit Connecting Education and Industry in February",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFNER0NhVHpnNHk1Y2l6cHMwNGdrQ1hmVV9vdWhlTjR5TGlXbG1vTWJhV0hsVFEySTJXenVDWHdqTUliVjVlNFc2engta0V3VWZZNXpBb01RaDJHUTBBNU5LX0REMWY1MHJtT3NIaUlObFh6OW1JQTlxZ25vejF3SThXQWRQOHFOUkN5NXhHeFFZQzh5d3U4ZTJVRW1FdzIxUXQ3UGJoUW5fLVlPUThPMGVVdnJXbkZBaVpEVk1OdmpBa0FuMkQtZg?oc=5",
-      "source": "Google News · Eventos tech · via Calhoun Journal",
-      "date": "2026-10-31T17:05:50.000Z"
-    },
-    {
-      "id": 17,
+      "id": 25,
       "title": "I built an AI Tamagotchi before Meta could",
       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "source": "The Verge AI",
       "date": "2026-10-31T16:05:00.000Z"
     },
     {
-      "id": 18,
+      "id": 26,
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "url": "https://latent.space/p/arca/",
       "source": "Latent Space",
       "date": "2026-10-31T16:05:00.000Z"
     },
     {
-      "id": 19,
-      "title": "Google's AI satellite sends a very expensive haiku to Earth",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-      "source": "The Register",
-      "date": "2026-10-31T15:36:14.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Report from the Vatican",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4a2xLRGtVZGVONkV4VW9mVmVnSGtnV1dMMmxEWllBd0pWSXZHMHM3alV3amszU0JfNkNiaTVOY21KTVBlcm9sVjQxS21tTnVEMWduYXdLV2JhMW5jTEpBZmpDajFlbk9L?oc=5",
-      "source": "Google News · IA · via Marcus on AI | Substack",
-      "date": "2026-10-31T15:17:33.000Z"
-    },
-    {
-      "id": 21,
-      "title": "Ottawa Backs Cohere With $240M; RBC Blocks AI Agents [2026]",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmZmR0lpczgweDBBdFhrU0N1MjdobGdzYnJlYXdvak9MaVlXQWNmR1ltd0ZVZlpURHoxTThRdGoyVVFVRjg3WmJiQmhJLWtGZ3gxcFBZMnFzcjZ4cDFKX0o2SS1rMThIeWF3N2Nvb2JTSHlnc1hmQUJnMlV2V1ZqNQ?oc=5",
-      "source": "Cohere · via tech-insider.org",
-      "date": "2026-10-31T13:42:31.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "source": "Wired",
-      "date": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": 23,
+      "id": 27,
       "title": "Meshy Ranks on a16z’s First AI Apps by Revenue List",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTBvM1IwSngxOFdxenRiUFB1WWtFNDd4OVpJcHVHVEZzLUtBalU0MF9OTEZTWUZDaWxKalpUNk9WUWZMcFFIVzlxSG5QMU8wM2hoSzhUdUc2cXpuM2xXcTJKbndGWk9zY216RDRheEs3ZFE5bE1mM3h2el9wYjRkZmNZYzlPS2xJcHRBZlNCamphUVpMdEk0UTRn?oc=5",
       "source": "a16z · via 3D Printing Industry",
       "date": "2026-10-31T11:43:00.000Z"
     },
     {
-      "id": 24,
-      "title": "Enterprise AI is waiting for its PageRank moment",
-      "url": "https://www.fastcompany.com/91630610/enterprise-ai-waiting-pagerank-moment?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-10-31T11:00:00.000Z"
-    },
-    {
-      "id": 25,
+      "id": 28,
       "title": "Mistral Le Chonk Coding Score 48 Ties Terra [2026]",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHVjNHo5VWRyYTBqMzIyWEVpZFN2WkdicDFUd0VMS1NrVVVXUnB5elNOcFNjelhGLTJvWS02d3h2djgwWjNQeS00eE5xOG12QTlYRnViclhzVmJPQjdtY3p1THFGX2Q3M3gzQzUyNHZBNDUtMTZONnphMUhCYm83U1lSTnFCZw?oc=5",
       "source": "Mistral AI · via shattered.io",
       "date": "2026-10-31T05:11:12.000Z"
     },
     {
-      "id": 26,
-      "title": "AC Bridge",
-      "url": "https://www.producthunt.com/products/ac-bridge",
-      "source": "Product Hunt",
-      "date": "2026-10-31T04:20:01.000Z"
-    },
-    {
-      "id": 27,
+      "id": 29,
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
       "source": "TechCrunch Venture",
       "date": "2026-10-31T04:16:50.000Z"
-    },
-    {
-      "id": 28,
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "id": 29,
-      "title": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "source": "Simon Willison",
-      "date": "2026-10-30T21:59:22.000Z"
     },
     {
       "id": 30,
@@ -504,26 +492,12 @@
       "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
       "source": "Crunchbase News",
       "date": "2026-10-30T16:33:59.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Golpe milmillonario a Binance: así han perpetrado los hackers norcoreanos el mayor robo cibernético de la historia",
-      "url": "https://elpais.com/tecnologia/2026-10-30/golpe-mil-millonario-a-binance-asi-han-perpetrado-los-hackers-norcoreanos-el-mayor-golpe-cibernetico-de-la-historia.html",
-      "source": "El País Tecnología",
-      "date": "2026-10-30T11:34:19.000Z"
-    },
-    {
-      "id": 35,
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-30T11:30:00.000Z"
     }
   ],
   "stats": {
-    "posts": 220,
-    "sourcesOk": 62,
-    "sourcesFailed": 1
+    "posts": 214,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
   },
   "generator": "headlines"
 }

@@ -1,0 +1,516 @@
+{
+  "id": "2026-11-02-17",
+  "generatedAt": "2026-11-02T17:37:19.073Z",
+  "periodStart": "2026-10-31T17:37:19.073Z",
+  "periodEnd": "2026-11-02T17:37:19.073Z",
+  "title": "Titulares del 2 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "LiquidAI/LFM3-1.7B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Raising the quality of insights in agentic analytics",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Will artificial intelligence make caddies a thing of the past?",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "We’re Living in the Age of the Imperial CEO",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Microsoft Q1 FY 2027: Copilot Consumption Expands the AI Business",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Mistral AI chief warns of US, Chinese AI export controls",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Grok Bot users accuse xAI of an \"indirect rug pull\" after usage cuts, Musk blames unsustainable costs",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Introducing the Grid Protectors Program",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "42AI comes out of stealth with $62.5M and a world model that can &#8216;predict human behavior&#8217;",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC&#8217;s Record Funding Year",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Help",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "El HomeView es solo el principio: filtrados los planes de Apple para una versión Ultra con brazo robótico",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Hoy en Action la powerbank perfecta para llevarla en el bolsillo: es ideal para viajes o festivales y está disponible en varios colores",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&#038;T, T-Mobile, and Verizon",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "How AI data centers could find a regulation-free haven at the end of the world",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Numerosos proyectos de inteligencia artificial y tecnología digital participaron en la final del concurso de startups Hung Yen.",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "James Franklin Press Conference (11/2/26)",
+          "sources": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Gemini could be poking through your emails - here's how to stop it",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement violates its usage policy (Bruno Ferreira/Tom's Hardware)",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Thieves pilfer environment variables from Trigger AI workflow tool",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "The world has a new plan to save nature, but it still needs the money",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The HomeView-like tabletop robot could cost over $1,000, reports The Information.﻿ www.theverge.com/tech/1024496...",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "AI coding and open-source CRM: the Salesforce replacement test",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The U.S. Census Bureau and “Super Intelligence”",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-02T17:37:19.836Z"
+    },
+    {
+      "id": 2,
+      "title": "James Franklin Press Conference (11/2/26)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUZVdjZTT3ZXTmNTVmticC1CejhfRnBXMW53SmpzRVpMZy1MZ19seUZ3TmF2eUczYWY2WnNfY1BRdXlaY2pUbTZCZUpsa0Yyb2RBX1NXV0R0OHROZUhpckIyV0x1M3BXY3duOWtPRU5VY0cycFI3TEx4SDE3Y3Vfa0hXWXFxR1BiZGlzZGs5NmJ2OXluaWUtZVRMbU8yd1Yx?oc=5",
+      "source": "Google News · Eventos tech · via Virginia Tech Athletics",
+      "date": "2026-11-02T17:35:16.000Z"
+    },
+    {
+      "id": 3,
+      "title": "El HomeView es solo el principio: filtrados los planes de Apple para una versión Ultra con brazo robótico",
+      "url": "https://hipertextual.com/apple/el-homeview-es-solo-el-principio-filtrados-los-planes-de-apple-para-una-version-ultra-con-brazo-robotico/",
+      "source": "Hipertextual",
+      "date": "2026-11-02T17:35:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-02T17:33:26.000Z"
+    },
+    {
+      "id": 5,
+      "title": "We’re Living in the Age of the Imperial CEO",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3N0ZlF1dzhaZkYzV0RpanUyVDczaDFGWWh2dDJFbldQclhJSmdWUFNYaThpLTdQUkc0UGluZVQ1aXJmZ1FYblBWNVgyd1BsY0dfVmVPa0drRGlaZzV6THVNX3NDWmozVWhqM0pVd3pyOHd4RFNNM3BFcjdyUWRXcXhwT1FzampSYkgw?oc=5",
+      "source": "Anthropic · via WSJ",
+      "date": "2026-11-02T17:29:19.000Z"
+    },
+    {
+      "id": 6,
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "source": "Wired",
+      "date": "2026-11-02T17:29:17.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Q1 FY 2027: Copilot Consumption Expands the AI Business",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcGNYV21ZcjZRVkhyeFAwdGZpbGR3N2ZsVVdVXzRmZHhOLV9uWUNUdWx5TjdrMzNoYjlhU29yR2NtQkRFcG8yZ0Y4bGgzVEl3WFE1ZEZPaGF4ekw3TVN4X2RYVHlpUGxkRS14TDNGTHZQd2NhTGhuSmZyUmo2YzN1LUtkUFBidnBpRWFzOWxCTmgzTnZNZ0dCVUhrV1FSc3Ni?oc=5",
+      "source": "Microsoft AI · via The Futurum Group",
+      "date": "2026-11-02T17:26:15.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Hoy en Action la powerbank perfecta para llevarla en el bolsillo: es ideal para viajes o festivales y está disponible en varios colores",
+      "url": "https://www.xataka.com/seleccion/hoy-action-powerbank-perfecta-para-llevarla-bolsillo-ideal-para-viajes-festivales-esta-disponible-varios-colores",
+      "source": "Xataka",
+      "date": "2026-11-02T17:15:26.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Gemini could be poking through your emails - here's how to stop it",
+      "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+      "source": "Engadget",
+      "date": "2026-11-02T17:15:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "The HomeView-like tabletop robot could cost over $1,000, reports The Information.﻿ www.theverge.com/tech/1024496...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzdst4epei24",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-02T17:08:32.283Z"
+    },
+    {
+      "id": 11,
+      "title": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source": "The Verge",
+      "date": "2026-11-02T17:06:10.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "Launch HN",
+      "date": "2026-11-02T17:05:25.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement violates its usage policy (Bruno Ferreira/Tom's Hardware)",
+      "url": "https://www.techmeme.com/261102/p31#a261102p31",
+      "source": "Techmeme",
+      "date": "2026-11-02T17:05:05.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "AI coding and open-source CRM: the Salesforce replacement test",
+      "url": "https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2",
+      "source": "dev.to · IA · via Nikoloz Turazashvili (@axrisi)",
+      "date": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Mistral AI chief warns of US, Chinese AI export controls",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR09RZnFJQ0hxcFNhSmRCYU1ha19rTTUyLUlVNjFHQVdYa2k0RDNLdjhiOXp2U1JkRWczYnVLRm5hU0xhXzRueVgxaE1tUUhtU0hlMTRiaHVQcTRGRzlfS09aa2NueWVVRVRtYkNoNHdRRloxeHZ3YUlnN0VkeWFPLVd6aW1xUEk3UUE?oc=5",
+      "source": "Mistral AI · via Yahoo",
+      "date": "2026-11-02T16:48:44.000Z"
+    },
+    {
+      "id": 18,
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&#038;T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source": "TechCrunch",
+      "date": "2026-11-02T16:44:48.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
+      "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+      "source": "The Register",
+      "date": "2026-11-02T16:44:30.000Z"
+    },
+    {
+      "id": 20,
+      "title": "42AI comes out of stealth with $62.5M and a world model that can &#8216;predict human behavior&#8217;",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-02T16:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Grok Bot users accuse xAI of an \"indirect rug pull\" after usage cuts, Musk blames unsustainable costs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcl9peUtFR3dla1dGQ3RGN0l5c3RlTHhKVjhyZEVOZHJMLXhpUDk4X1JPWjNsd3pKSjFDWjBUbVRtQVdSbVFvRkZmMlZsV3ZmLW8wSE9LM25wVGFtQXU0Q01yb25KT012N3JCUHdjYUt5SURrNEF3cmVxTjJ3WG9lOHBsS2VQeThTb1VwRGp3?oc=5",
+      "source": "xAI · via TechSpot",
+      "date": "2026-11-02T16:03:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORnpxWDlxeTRERWNWYXM4N1B3N0tsWVlDTHFhQzRjTmNrbUVKOGpSUUpNWEIxUHVLYWNkbGNjWU41Qm1Lclh2MkttVTctMUFzMWtfRUpjZkhnQ0ZHa3VKazB2QUVKS0d4alNaRnNQdW5ZM1hPUHJtam1IX1JySnhQbWFnM1VUV2hrWlhjczZrY3lFVFlrVTI5dzZ0b1pYYkkwVjBBR3NicTMyMmlaY3VoRWdPRHBDX21OLVpfRmJrOVMwblNEZjV0eFNaU1F1cU1ZRVltWkdxcjh1eHNjZUlnbmFVRWJNRnB2cE13X2hKNFNSODBsSUtmcGFsb21nbHFxSGQtamdRVTVLNGFUbUZRMXQ0QVZhSHRvSW9qeFZ2NVpJRzhOWEJFV1VMd25iZw?oc=5",
+      "source": "a16z · via Morningstar",
+      "date": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Will artificial intelligence make caddies a thing of the past?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVdMdXp4SjZETnhDSzItM3RnRHlDUE01ZHZleXlDdWZQaVNVcEZOUTNxVWZ6aUIxSlppZUwweXU2bjI2TzVLcXB4UzhWZWI2R3BqZ1VXVVhyQTY2cHJnZFhsNVNxN25SQ3M2LWUtY05QNkJQM3ZUOENCSjBYVmpTTTg1LTViRXkzWmUwejBZSkkzOVl2Tnc?oc=5",
+      "source": "Google News · IA · via Yahoo Sports",
+      "date": "2026-11-02T15:43:14.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "date": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "The world has a new plan to save nature, but it still needs the money",
+      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "source": "Ars Technica",
+      "date": "2026-11-02T14:56:52.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "source": "Import AI",
+      "date": "2026-11-02T14:30:54.000Z"
+    },
+    {
+      "id": 27,
+      "title": "How AI data centers could find a regulation-free haven at the end of the world",
+      "url": "https://www.fastcompany.com/91634037/how-ai-could-find-regulation-free-haven-end-world?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-02T14:05:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "Simon Willison",
+      "date": "2026-11-02T13:31:26.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+      "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+      "source": "Sifted",
+      "date": "2026-11-02T12:04:11.000Z"
+    },
+    {
+      "id": 30,
+      "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC&#8217;s Record Funding Year",
+      "url": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
+      "source": "Crunchbase News",
+      "date": "2026-11-02T12:00:28.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Numerosos proyectos de inteligencia artificial y tecnología digital participaron en la final del concurso de startups Hung Yen.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rQ2tOLWswVW4xdUpKdVRRX3JFWmg2Sm1hdzFjUE9ibU9ZZV9JLXc3LXh4NDNTYVgtT25rb1ZYYXhjdVNXd2g2WUstazhyYWxwUjZN?oc=5",
+      "source": "Google News · Tecnología (ES) · via شبكة تواصل الإخبارية",
+      "date": "2026-11-02T11:12:48.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Help",
+      "url": "https://www.producthunt.com/products/help-381",
+      "source": "Product Hunt",
+      "date": "2026-11-02T07:05:48.000Z"
+    },
+    {
+      "id": 33,
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+      "url": "https://arxiv.org/abs/2610.40726",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-02T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

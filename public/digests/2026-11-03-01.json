@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-03-01",
+  "generatedAt": "2026-11-03T01:55:58.445Z",
+  "periodStart": "2026-11-01T01:55:58.445Z",
+  "periodEnd": "2026-11-03T01:55:58.445Z",
+  "title": "Titulares del 3 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "LiquidAI/LFM3-1.7B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Anthropic clamps down on Claude’s AI video game clones",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Raising the quality of insights in agentic analytics",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+          "sources": [
+            35
+          ]
+        },
+        {
+          "text": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Cohere Targets CAD $7 Billion Series E Funding to Accelerate Sovereign AI",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "The SEC Should Block Anthropic’s IPO to Protect the Public",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Microsoft Bearish On Ripple? Copilot AI Predicts a Huge XRP Crash Looms",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "360 ADVANCED SERVES AS INDEPENDENT ASSESSOR FOR THE FIRST FEDRAMP® 20X CLASS C CERTIFICATION",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "xAI Introduces Data Bot to Bring Shared Analytics Skills to Grok Bot",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Tutor Intelligence raises $75M Series B from a16z for robot workforce",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC&#8217;s Record Funding Year",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Help",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Apple's quarter is not perfect. But with enough to like, we raised our price target",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Binance sufrió el mayor robo de criptomonedas de la historia, pero el verdadero examen llegó después: la confianza",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Greenda: IA alemana contra plagas en cítricos valencianos",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "In the age of AI, paper ballots are more important than ever",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Are We Moving Too Fast? Takeaways from the SJSU Responsible Innovation in AI Conference",
+          "sources": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "This Chinese Android phone brand has launched a Harry Potter collab",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "llm 0.37",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "John Ternus says Apple is seeing ‘unprecedented’ memory pricing. www.theverge.com/tech/1024915...",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "DevRel Didn't Die, Its Audience Changed",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-03T01:55:59.214Z"
+    },
+    {
+      "id": 2,
+      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T01:49:52.000Z"
+    },
+    {
+      "id": 3,
+      "title": "This Chinese Android phone brand has launched a Harry Potter collab",
+      "url": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/",
+      "source": "Engadget",
+      "date": "2026-11-03T01:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+      "url": "https://www.techmeme.com/261102/p48#a261102p48",
+      "source": "Techmeme",
+      "date": "2026-11-03T01:20:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Tutor Intelligence raises $75M Series B from a16z for robot workforce",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanoxNFNBSGxRdmxTMUJWWFFNN3pFN2RlcHllUEJRQjNaVEt5VWM1MGxwYjVmTFUyS2hMYmF2UmRGdjduM2lkb04wdEhUOFlEREhtMDdwY1Rub2tOTllQT25uRjBKeVRsZVE3Nmo1cDRvUmRYNEhVQm5HejdYR3RyTENpVjExS09ZNEZMYWhoTG50bWFvS2g3WVBNYldvMkpjaUlDVA?oc=5",
+      "source": "a16z · via Dealroom",
+      "date": "2026-11-03T01:12:51.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Apple's quarter is not perfect. But with enough to like, we raised our price target",
+      "url": "https://www.cnbc.com/investingclub/2026/11/02/apples-quarter-is-not-perfect-but-with-enough-to-like-we-raised-our-price-target.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-03T00:55:36.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-03T00:35:52.000Z"
+    },
+    {
+      "id": 8,
+      "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVNSQVUzUFl2ZHdCNlAtOGQtRTVmekF0NUU4cDlHYlFTYkw3U1lPYUpRVmVGQ3hzWnFqcUVEdkV3dlNpWVJoWERHRFgzQVBJXzVjUTZIcUgyMTF1MG5ZZGlHaE52MXhXTEsxQmRxUDhvVkplSUd3MG5FRVUyeGtPczlqZWthYnZDY3NZcmVtUjVKUnZVUjUyNWQ5dFE1UzFNczVyNXQ4V0RGb0JTc214bkotWnRTMXZvbFV0d2o1VjdJOEpXc1hZ?oc=5",
+      "source": "Google News · IA · via The Guardian",
+      "date": "2026-11-03T00:03:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Cohere Targets CAD $7 Billion Series E Funding to Accelerate Sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbnhfcmhTbDI0aVhRLVNwVEowcU5GZDhuaHh2UlZGMGduR1VEQVFEQk1tb29ZQ0VzaXRhTVU3TnNNLVN4ZVZ5SVdtWVVULXNZY2N2ano5VjZxVW1EaWZUeEY1LVV0bHVxQnVsRk9rU0dMUk4xRzAwMUJralVPM0lRT1dtMnBOUGloNThreExyTWZNRW96WTdMTGc2YVpmaUlOOEJka3B1dTd0UzZ1SjhsRGFUTE9TQnFRMlFDUFdJZi1TLWxXMHBZRnZYeUVJUQ?oc=5",
+      "source": "Cohere · via The Fast Mode",
+      "date": "2026-11-02T23:59:43.000Z"
+    },
+    {
+      "id": 10,
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-02T23:49:30.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-02T23:39:34.000Z"
+    },
+    {
+      "id": 12,
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "source": "Ars Technica",
+      "date": "2026-11-02T23:30:16.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
+      "source": "The Register",
+      "date": "2026-11-02T23:25:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Are We Moving Too Fast? Takeaways from the SJSU Responsible Innovation in AI Conference",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1gzczVxdzBhRjhBd0VnZ3BnUlh5RzBLX0xmRXZVc2xoQmJPZ1pyLWtkN0R0azRLMUpVTWRoTnRDV3c3d3JNR3NFTTBQZ1VNeWp5VFU3WDlGV0NoUGt5V09xZHc2b1BlUEdOamtOcEpmdktBd0c3d0Z3aHd4NDJfNE1Fak13Q0pKOGp5cFZiY1BLOXN6TmVpYnVxQllnNmdCaTBkcHRESmo2NFJVU2VXTVRfb2p0anh4eTdreEYxbXI4UQ?oc=5",
+      "source": "Google News · Eventos tech · via SJSU Blogs",
+      "date": "2026-11-02T23:20:54.000Z"
+    },
+    {
+      "id": 15,
+      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+      "source": "Wired",
+      "date": "2026-11-02T23:17:27.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "source": "Latent Space",
+      "date": "2026-11-02T23:01:02.000Z"
+    },
+    {
+      "id": 17,
+      "title": "John Ternus says Apple is seeing ‘unprecedented’ memory pricing. www.theverge.com/tech/1024915...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzegebhdpa2y",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-02T22:58:08.920Z"
+    },
+    {
+      "id": 18,
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "source": "The Verge",
+      "date": "2026-11-02T22:56:11.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Binance sufrió el mayor robo de criptomonedas de la historia, pero el verdadero examen llegó después: la confianza",
+      "url": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
+      "source": "Xataka",
+      "date": "2026-11-02T22:55:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The SEC Should Block Anthropic’s IPO to Protect the Public",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRSZXZPWWpiNW5fZnliSVdEdzliYXhQSU90TTNKOWNpczRRbXcxNjBxYW5yS0o3Um5Cdy15Uk1oRkpZcGdHbm5ZWDNnX0ctaXBZM21KRFl4T3hsYWZVVGgtbDdEeUU0M2d0MjRza0JoVTdURzQ5dTBiQ1VmQ09rYVBLUXl6QkUxbXc?oc=5",
+      "source": "Anthropic · via Tech Policy Press",
+      "date": "2026-11-02T22:32:40.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Microsoft Bearish On Ripple? Copilot AI Predicts a Huge XRP Crash Looms",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xdVJ0dkZXdDZRRzh6VFFvbTByMXh2R3g2c0E4bUpIeW1uMDlJRlNUcG9TY2NCZkwxV1VDaXdSczJhZTZ2MnlqazV2cmk2c0VNS1lWa3VJY2JWcnNGOUcwcmtNQ2VZTExjZGFXQnBuc2o4eml2djU0NGcwMVEzZw?oc=5",
+      "source": "Microsoft AI · via Cryptonews",
+      "date": "2026-11-02T22:31:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "DevRel Didn't Die, Its Audience Changed",
+      "url": "https://dev.to/debs_obrien/devrel-didnt-die-its-audience-changed-586g",
+      "source": "dev.to · IA · via Debbie O'Brien",
+      "date": "2026-11-02T22:15:45.000Z"
+    },
+    {
+      "id": 23,
+      "title": "360 ADVANCED SERVES AS INDEPENDENT ASSESSOR FOR THE FIRST FEDRAMP® 20X CLASS C CERTIFICATION",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc1QtaFozSWdjNjYxcW5tQktmVnRCanNNUkhUVHpISXNSWjVydVZ1V3B0SmFScVc0NUJfcjlGN3Z1QXVyRF9lOXMxSExkZEhMTUJGdE5EUEI5dWhSSzROd2M0TDV3d0M0MTZ2NFl2NE5HcmVhcVVRM0d4OUlacTN5M3dnRmFfZjRDR0hvRkxDMGduNkdGci1SQTR0MU02VTMzVmRzWkVzenVZWDF3X2VDVkhrSTZpV3VYb0NHMGJxUERWajhVZkJfZjZKWVU0S184ZDVuaXlmeUd4TkhNbmM0VWVmdnNfdGs?oc=5",
+      "source": "Perplexity · via Morningstar",
+      "date": "2026-11-02T20:30:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
+      "url": "https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos/",
+      "source": "Hipertextual",
+      "date": "2026-11-02T20:23:57.000Z"
+    },
+    {
+      "id": 25,
+      "title": "xAI Introduces Data Bot to Bring Shared Analytics Skills to Grok Bot",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdlZPUHpoNlNIdHRiZUc0VDhyeW5XbFhMVWdfcUJaYzl3SVAzd0lULU05Q2ppQy1QNThjNWZLTjdYcUMtNzdMVlBJLWxhRGt6ekNVdzB1ZWJXZlhCQjZmVkRUbEtVSGtKWkRQVkdhRU1oa0lfQ2tUcXFWWTVZbmtRLWhmNHVMX2xoRFB2aHNPT2pBRzRi?oc=5",
+      "source": "xAI · via Unite.AI",
+      "date": "2026-11-02T20:01:05.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Greenda: IA alemana contra plagas en cítricos valencianos",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFZYOGFRR0c5SllkQjFhSlhDOGl6clUzaGxCMDh4OFhHSFh2Um84bnJCYmJMRm5QLWNwVFdFUGxKUjZ2VjJOT2ZfazhTRTV1ZXYwNEJZb1ItZVdCejhQTkJmUlExc0hnb1lFLWN2cFp5QnktY0RIY0k2QUQxWGpzcmhYMF9xSWhIbTI2elNualVFSHc?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-02T19:09:30.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge AI",
+      "date": "2026-11-02T18:56:02.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "Launch HN",
+      "date": "2026-11-02T17:05:25.000Z"
+    },
+    {
+      "id": 29,
+      "title": "In the age of AI, paper ballots are more important than ever",
+      "url": "https://www.fastcompany.com/91633247/in-the-age-of-ai-paper-ballots-are-more-important-than-ever?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-02T17:03:50.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-02T17:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "source": "Import AI",
+      "date": "2026-11-02T14:30:54.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+      "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+      "source": "Sifted",
+      "date": "2026-11-02T12:04:11.000Z"
+    },
+    {
+      "id": 33,
+      "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC&#8217;s Record Funding Year",
+      "url": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
+      "source": "Crunchbase News",
+      "date": "2026-11-02T12:00:28.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Help",
+      "url": "https://www.producthunt.com/products/help-381",
+      "source": "Product Hunt",
+      "date": "2026-11-02T07:05:48.000Z"
+    },
+    {
+      "id": 35,
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping",
+      "url": "https://arxiv.org/abs/2610.40726",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-02T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

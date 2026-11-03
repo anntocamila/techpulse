@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-03-15",
+  "generatedAt": "2026-11-03T15:39:52.550Z",
+  "periodStart": "2026-11-01T15:39:52.550Z",
+  "periodEnd": "2026-11-03T15:39:52.550Z",
+  "title": "Titulares del 3 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "LiquidAI/LFM3-1.7B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Apple is all in on AI — its own and everyone else&#8217;s",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Perplexity defends AI agent in Amazon lawsuit over shopping access",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Is Europe in a ‘complete trap’ without frontier AI?",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Ottawa is spending $1.6 billion on AI startup Cohere — and your pension fund may already be invested in it",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Clarivate Plans Microsoft Copilot Integration for Trademark Research",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Heimstaden is changing residential real estate management with AI",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Andreessen Horowitz leads Netris' $15M Series A for GPU network automation",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Lovable apps expose sensitive user data, researchers find",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "NEXUPIRA",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Apple restricts dating apps and AI companions to users 18 and up",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Si acabas de empezar en el gimnasio, esta es la respuesta que buscas: cuánto tarda el músculo en crecer",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Tu TV box con Android podría traer malware de fábrica: Google desactiva una puerta trasera en millones de dispositivos",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "AI wearables want to remember everything. What happens when we can’t forget?",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Por qué la segunda oleada de ‘hackeos’ a las neveras en supermercados avisa de los riesgos que vienen",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI Hospitality Summit 2027: What Hotel Leaders Need to Know",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Pokémon bakeoff reveals best JavaScript frameworks for AI",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Here's Why You Shouldn't Use AI to Vote",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "What's the meaning of the \"C\" on your USB-C ports?",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AI was mentioned 45 times on the quarterly earnings call. www.theverge.com/ai-artificia...",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Finding my thing",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Rack Before You Remember",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-03T15:39:53.484Z"
+    },
+    {
+      "id": 2,
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T15:38:27.000Z"
+    },
+    {
+      "id": 3,
+      "title": "AI was mentioned 45 times on the quarterly earnings call. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzg62apcl323",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-03T15:34:42.296Z"
+    },
+    {
+      "id": 4,
+      "title": "Si acabas de empezar en el gimnasio, esta es la respuesta que buscas: cuánto tarda el músculo en crecer",
+      "url": "https://www.xataka.com/medicina-y-salud/trampa-primeras-semanas-gimnasio-megaestudio-revela-cuanto-tardamos-realmente-ganar-masa-muscular",
+      "source": "Xataka",
+      "date": "2026-11-03T15:31:26.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge AI",
+      "date": "2026-11-03T15:24:51.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
+      "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-03T15:15:13.000Z"
+    },
+    {
+      "id": 7,
+      "title": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
+      "url": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
+      "source": "The Verge",
+      "date": "2026-11-03T15:15:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVktPNXdLRUQwWjZNeWo2b1hLSW1pVklVcktucUpZVG5PWGtmQVQ0ZWdwMkppemxtMlhNUDdIT2xxQl9VZXF6STNiT3YydW42Mnk1WDlIeFQ2S0I5N1Y3aTZDeVJHTlA0ZHZjVlhHTkNXaFgxRTJYNlctUWFpRnQ4UkhzTE5TalNLNndoSnNVZTNMeXJ6QzJRRGYwQ3puNGluWWpFWk5nNWxRcGhfZzBsVm5RdGszY2FnMWJHYmR0c1lSdVNLMl9tZGxlOHc?oc=5",
+      "source": "Google News · IA · via Business Wire",
+      "date": "2026-11-03T15:14:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Pokémon bakeoff reveals best JavaScript frameworks for AI",
+      "url": "https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249",
+      "source": "The Register",
+      "date": "2026-11-03T14:51:35.000Z"
+    },
+    {
+      "id": 10,
+      "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261103/p17#a261103p17",
+      "source": "Techmeme",
+      "date": "2026-11-03T14:50:01.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "source": "Wired",
+      "date": "2026-11-03T14:45:08.000Z"
+    },
+    {
+      "id": 12,
+      "title": "What's the meaning of the \"C\" on your USB-C ports?",
+      "url": "https://www.engadget.com/2303753/usb-c-port-letter-c-meaning/",
+      "source": "Engadget",
+      "date": "2026-11-03T14:45:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "AI Hospitality Summit 2027: What Hotel Leaders Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzB0UVN3ZGVZTkJhRUxFdDZoWVI1amc3Q254MHduU2hRcEhmZExxQ3E1VjlFVFJFR3FiQnotcTQ4ZTFnYjVNZFZ3TzV4V1hBVTZNVTUxLUFzNHBmdGNrWWswVkUxVndORUgwTWd5TWkxSjduRzh3ZHpnZE5tM3dXdzFGbGl4QQ?oc=5",
+      "source": "Google News · Eventos tech · via Asian Hospitality",
+      "date": "2026-11-03T14:42:59.000Z"
+    },
+    {
+      "id": 14,
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-03T14:30:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Finding my thing",
+      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
+      "source": "Ben's Bites",
+      "date": "2026-11-03T14:03:32.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Andreessen Horowitz leads Netris' $15M Series A for GPU network automation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVBvLWhmTGtxRVQtcG9wbGNxZlFpRzVZVXA0RVk0VlFaSTctWXVObHd6cF92TlkzZFdNTUlQbDRSVXpyUEd3NnB3Q01VZ1lCWmhGYnV6MzhDT2ZpU1ZiOElVMkhMZmgtQWZHOXRrcmRFQ1VveVVaUWRvbkNjM1VoZzBTa2ZZc2VXYzZEMkxkb3hTWTByeHZWXy1Ed3N4TFY4aWVZM0pWMFl0LUVh?oc=5",
+      "source": "a16z · via Dealroom",
+      "date": "2026-11-03T14:03:05.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Tu TV box con Android podría traer malware de fábrica: Google desactiva una puerta trasera en millones de dispositivos",
+      "url": "https://hipertextual.com/seguridad/tv-box-android-videostrong-malware-botnet/",
+      "source": "Hipertextual",
+      "date": "2026-11-03T14:00:54.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "source": "Ars Technica",
+      "date": "2026-11-03T14:00:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Anthropic Touts Claude’s Chip Design Skills to IPO Investors",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnpwS0FzRk9KWUhPNC1rT3JnNWdLN1NhTWM0VU5zWHkyZEo5NVR1dXJhTWdVY2R0ZGEwcVhDTGZ3TkR5SGRIemoyenlCUU1TV2xMTzNBa0xtZDJSb1hGeUVqVlhBVmJNRVFkVS1qb21LdmtqOUxmWEtVOEgwd3JnRnNJMHJIQXdfYndBMUpjZWNPaGRwSW55ZWJsdEk?oc=5",
+      "source": "Anthropic · via The Information",
+      "date": "2026-11-03T14:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Rack Before You Remember",
+      "url": "https://dev.to/kenwalger/rack-before-you-remember-2jl3",
+      "source": "dev.to · IA · via Ken W Alger",
+      "date": "2026-11-03T13:53:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Perplexity defends AI agent in Amazon lawsuit over shopping access",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQTdtR3BWaWhjY2VNLUFLTHR4RXNPcldzcEtienFMNUpGSTlOTFBDUmpLSGgtYnVaZGtER21IaUJQamZCM2RRUWNXd3J3NDZ6V29SekJnczNPMlA1ZE1wa19CYThkbkYydmJxM3VpQUN3aENwbUtv?oc=5",
+      "source": "Perplexity · via Crypto Briefing",
+      "date": "2026-11-03T13:34:20.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Is Europe in a ‘complete trap’ without frontier AI?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXNnYVZSZG9wUVVCNVc1Z1lGNXlWV2pPcXl3bDE0cGpGakdkWXNPWDFLVFJtVGZZa1UzZVdpbmNtZ2ZleXg1dmdsc1MyQjcyQkdITFBkMXpkMG1UamJ0WUtOTFNiWEthUE1YTFV1TTNkdE1ETHZ0cHRsZm9HY1pUdGtVN3V1WXpRTzRXMEI0NVRkU041aXJlaFJUU3RWM1E?oc=5",
+      "source": "Mistral AI · via Techzine Global",
+      "date": "2026-11-03T13:22:32.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Lovable apps expose sensitive user data, researchers find",
+      "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
+      "source": "Sifted",
+      "date": "2026-11-03T13:20:44.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-03T13:10:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+      "url": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+      "source": "Crunchbase News",
+      "date": "2026-11-03T12:00:44.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Ottawa is spending $1.6 billion on AI startup Cohere — and your pension fund may already be invested in it",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVNiUFN1cDRRNElNYUpYQ0pfdE1rdmx3a3ltTThIQm9PamRuZ3lfQkQxbDNNeERTQ3BnMElFMmZ5SmlsMDh6X013ZGhjWWEzRko5dC1zTW9EQXNEdF9uUzVoYWs2U0NTTWxmNmpoeHZSdXRNeGJEdndFcTR0bGk2QTBR?oc=5",
+      "source": "Cohere · via Yahoo! Finance Canada",
+      "date": "2026-11-03T12:00:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Clarivate Plans Microsoft Copilot Integration for Trademark Research",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXMtamdEelpoRWlnNURSOUw1MWtzcHpER05MU1BfUW5Nc3VZWFdDUk5FdWR4cGlkYVk0UlM4NlVWUngxTmdvbE5GZm0yaTdpX1NOdS14SGpGUTdfNHBvUFhQMFg1ZUhUQVU1YzFOTDR3WjJQOFMzVXp0Sno3LVp6WVNtNVVHbmNnOTZ1UC1reG1aRUh5akRWWGdwS2ZWRlN4QVNmY0p5Yw?oc=5",
+      "source": "Microsoft AI · via Redmond Channel Partner",
+      "date": "2026-11-03T11:03:45.000Z"
+    },
+    {
+      "id": 28,
+      "title": "AI wearables want to remember everything. What happens when we can’t forget?",
+      "url": "https://www.fastcompany.com/91634248/ai-wearables-want-to-remember-everything-what-happens-when-we-cant-forget?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-03T10:12:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-03T08:01:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "date": "2026-11-03T08:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "NEXUPIRA",
+      "url": "https://www.producthunt.com/products/nexupira",
+      "source": "Product Hunt",
+      "date": "2026-11-03T06:48:10.000Z"
+    },
+    {
+      "id": 32,
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "source": "Latent Space",
+      "date": "2026-11-03T05:35:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "source": "Simon Willison",
+      "date": "2026-11-03T05:32:25.000Z"
+    },
+    {
+      "id": 34,
+      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+      "url": "https://arxiv.org/abs/2611.00159",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-03T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+      "url": "https://arxiv.org/abs/2611.00172",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-03T05:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "Por qué la segunda oleada de ‘hackeos’ a las neveras en supermercados avisa de los riesgos que vienen",
+      "url": "https://elpais.com/tecnologia/2026-11-03/por-que-la-segunda-oleada-de-hackeos-a-las-neveras-avisa-de-lo-que-viene.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-03T04:30:01.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

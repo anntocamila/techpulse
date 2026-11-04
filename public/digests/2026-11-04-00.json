@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-04-00",
+  "generatedAt": "2026-11-04T00:18:21.479Z",
+  "periodStart": "2026-11-02T00:18:21.479Z",
+  "periodEnd": "2026-11-04T00:18:21.479Z",
+  "title": "Titulares del 4 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "LiquidAI/LFM3-1.7B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Google researchers are fighting the company to tell the world what they know about AI",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Please stop asking me when the AI bubble will pop",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+          "sources": [
+            35
+          ]
+        },
+        {
+          "text": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic is working on a system to prove AI models’ identity",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Microsoft Copilot Harness Preview Keeps Tool Approval Policy With Microsoft",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "John Ivison: ‘Red flags all over’ Carney government’s buy-in of AI company Cohere",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "EU leaders to debate AI sovereignty and safety at informal summit in Dublin",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "StateBench: Testing how language models track state changes over long documents",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Learn the rules: The hacker mindset",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "The State of Longevity",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "La IA atrae más inversión en startups latinoamericanas, pero el capital ya no garantiza el crecimiento",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Lovable apps expose sensitive user data, researchers find",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Google responds to political backlash over removing search from schools that ban AI",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Windows 11 recibe una mejora que promete salvar a millones de computadoras antiguas",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Anthropic is working on a system to prove AI models&#8217; identity",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Óscar Puente anuncia su dimisión como ministro de Transportes",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "La startup Sycai Medical desarrollará el piloto hospitalario del programa ACCIÓN que impulsan AstraZeneca, Wayra y Kunsen",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "AI wearables want to remember everything. What happens when we can’t forget?",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Industry Analyst Jeff Kagan Gave Opening Keynote in Panel Discussion at Summit of Things 2026",
+          "sources": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Your desktop's front USB ports may be slowing down every device you plug into them",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "North Korean fake job interview led to $6.3B Binance heist",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "I’m getting some real mixed messages here, boys! www.theverge.com/ai-artificia...",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Finding my thing",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-04T00:18:22.231Z"
+    },
+    {
+      "id": 2,
+      "title": "Google researchers are fighting the company to tell the world what they know about AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
+      "source": "Google News · IA · via The Washington Post",
+      "date": "2026-11-04T00:15:42.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-04T00:10:07.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
+      "url": "https://www.techmeme.com/261103/p41#a261103p41",
+      "source": "Techmeme",
+      "date": "2026-11-04T00:00:50.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Your desktop's front USB ports may be slowing down every device you plug into them",
+      "url": "https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/",
+      "source": "Engadget",
+      "date": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "I’m getting some real mixed messages here, boys! www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzgz5wxdc52m",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-03T23:39:57.054Z"
+    },
+    {
+      "id": 7,
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge AI",
+      "date": "2026-11-03T23:37:45.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Windows 11 recibe una mejora que promete salvar a millones de computadoras antiguas",
+      "url": "https://hipertextual.com/software/windows-11-mejora-rendimiento-pcs-8-gb-ram/",
+      "source": "Hipertextual",
+      "date": "2026-11-03T23:37:41.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "source": "The Verge",
+      "date": "2026-11-03T22:59:36.000Z"
+    },
+    {
+      "id": 10,
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "source": "Wired",
+      "date": "2026-11-03T22:44:01.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
+      "source": "Anthropic · via TechCrunch",
+      "date": "2026-11-03T22:41:03.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T22:41:03.000Z"
+    },
+    {
+      "id": 13,
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "source": "Ars Technica",
+      "date": "2026-11-03T22:39:37.000Z"
+    },
+    {
+      "id": 14,
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+      "source": "dev.to · IA · via Noah Brinker",
+      "date": "2026-11-03T22:28:08.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Industry Analyst Jeff Kagan Gave Opening Keynote in Panel Discussion at Summit of Things 2026",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOFBTSlQxelRzQ1hmaVhMeVo1Q1Z6SVAtSmRkRUdrLXBLcG5ya1BJTVFWeHhac2hqSjFjRkNTTG95ZjAwZ2pWVWNNUV9DX2N2N0RLQURvVDFoRERwZ2J6M1E5RThNTEF3UmZER1g4VVdLLTQ4NnZ4V0h0N0dmSVljandHZnBqVGZYby1vUkR1QTFzZzFENGJISXRELVZhVko4VWlGZFNqWmtvNGN3MDdTeWhMRGIyTXpXNzFzMHRKaWxOYlJpLUd0QnZQSWdUb0F5MWR3SzExREtzRWdxMS1ZaHl1M0xkOFYtX2hV?oc=5",
+      "source": "Google News · Eventos tech · via The Des Moines Register",
+      "date": "2026-11-03T22:11:09.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Microsoft Copilot Harness Preview Keeps Tool Approval Policy With Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmIxeUN3TzgtZFFKWkl6ZS1MNnZYWTZzcnpaMkMzUDhFZTFIMlZGaFh3SUlpalRIc3Y3b1hGOGJNWThCVHBua3BIUEVOYjMxNWJPR1dNZlF3NE1RX0xRbjJwbmVVdkRycTVuR0VzZlk5ZjdhVE5DRXFSdlBmMF9JOWpoNXpVdzVWbnhsLWxNOWxUb2NWMVRjd3JHWHdPTU96MFhNd2h0QWVmTDBzQWxN?oc=5",
+      "source": "Microsoft AI · via The Futurum Group",
+      "date": "2026-11-03T22:10:14.000Z"
+    },
+    {
+      "id": 17,
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "source": "The Register",
+      "date": "2026-11-03T22:04:45.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-03T21:43:08.000Z"
+    },
+    {
+      "id": 19,
+      "title": "John Ivison: ‘Red flags all over’ Carney government’s buy-in of AI company Cohere",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84aGpNVl85djVlMmdzZE9yTXBoSm8xc29hVlhSTm1rc2dYbTJaMElUT0J3eU9HZ25EM3h4bGxWclNnUUtySFhLOFY0Uk84STVMZVRnbzFUVDY5S2liTUJWaDF6WVlraEZrckRydFFJdnFmUTczT01wc0h2MEE?oc=5",
+      "source": "Cohere · via National Post",
+      "date": "2026-11-03T21:24:08.000Z"
+    },
+    {
+      "id": 20,
+      "title": "EU leaders to debate AI sovereignty and safety at informal summit in Dublin",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW1keUd3RDQybnVjWmlQbEdZQms2cU5ua3FwQ3Z4MDg0aWJsUDdDallqY1cwdERVamxXQXhoOFpzVi1mVzktMlJTeWlqdzIybkVweVAzZnkzUklkRHJraE9SLUhBdS10Y0FJVHpodkFFSlFIanlOTlZCYXZZRkc0emRpYS1zNkhzazlxa2M4QUpORG5PVmVVRUdVMXMtX182OGh6Q01jSGlLUUl6SDRZSVd5Yld3eXh0dDBZS1pzc3ptbWhOMXFMeHBMa3lJZkE2Q3RsS0V4dmliQQ?oc=5",
+      "source": "Mistral AI · via INSIGHT EU MONITORING",
+      "date": "2026-11-03T20:58:26.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Óscar Puente anuncia su dimisión como ministro de Transportes",
+      "url": "https://www.xataka.com/movilidad/oscar-puente-anuncia-su-dimision-como-ministro-transportes",
+      "source": "Xataka",
+      "date": "2026-11-03T20:41:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The State of Longevity",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtWjRRRUtid0JQZGFWa09vM2Iwdi1mOExLYkxUd1E2YVlLUHlwakpSTzUxSWdaUUU5b1YyaG9XQjNtWWJqWG1BTm1YandtQmN3QVE?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-03T20:26:15.000Z"
+    },
+    {
+      "id": 23,
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-03T19:34:43.000Z"
+    },
+    {
+      "id": 24,
+      "title": "La IA atrae más inversión en startups latinoamericanas, pero el capital ya no garantiza el crecimiento",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3Y2cVNXZGNiQXdOLXAxeXZ0WDNvd3dpZ1dQTDc4MkdSRHBiNEZ5eUZnSFA2NkRuVmdPTWRjMXJwZkw1SmZLRW1kQlk4UzdvaUdOOENPNklsUk1HaGt5dE5QeGxKUjRnZklMcm1WMkgxQ1E5TU8xbU0zdkdfeThMdkxXdDNuOE00YklWeE9mdDlCMnotWExCM292NEhWQ2t1WEV1d1IwYXhZMk44VWdWSDR1Wkh1QmtHaG5pT3pXTWdKSFFTZEN3YWVQMnFIMmtvcl95RG9OSjl4dlE?oc=5",
+      "source": "Startups LatAm · via Entrepreneur en Espanol",
+      "date": "2026-11-03T18:16:49.000Z"
+    },
+    {
+      "id": 25,
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-03T17:15:21.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Learn the rules: The hacker mindset",
+      "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "source": "Microsoft Research",
+      "date": "2026-11-03T17:14:38.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Simon Willison",
+      "date": "2026-11-03T16:29:48.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Finding my thing",
+      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
+      "source": "Ben's Bites",
+      "date": "2026-11-03T14:03:32.000Z"
+    },
+    {
+      "id": 29,
+      "title": "La startup Sycai Medical desarrollará el piloto hospitalario del programa ACCIÓN que impulsan AstraZeneca, Wayra y Kunsen",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWUtoUXRvYTBCZEVZQ1hsVzBtTkxZSHFteFRpR3dMXzRZOTlWY1JLRTZUc1o3a0pIZHVhZmNUU3NLUHB4TE5uYmtacjRLWW5mdDZqTmI4NWFhQ1NqYndIeUdwRDhRNHVlX1lfcVVXVlR4MDFrOWdUQ0p0YnVwTFVweHpkeGYxU1haSUo1TzUxeXYtd3huSWZfQ25jR0xVSU1KREdpU0xsaHBvS1Rjc3FYN19VSUhNNGJYVHdlWXJhSmNmSkNRcElWdlVyd1JQVW9CZlpldkdWRXVfdVVRS3RjMDg0Z0VJRm1lbDlr?oc=5",
+      "source": "Google News · Tecnología (ES) · via Sevilla Buenas Noticias",
+      "date": "2026-11-03T13:34:02.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Lovable apps expose sensitive user data, researchers find",
+      "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
+      "source": "Sifted",
+      "date": "2026-11-03T13:20:44.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Download: controlling AI agents and &#8220;Super Intelligence&#8221; loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-03T13:10:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+      "url": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+      "source": "Crunchbase News",
+      "date": "2026-11-03T12:00:44.000Z"
+    },
+    {
+      "id": 33,
+      "title": "AI wearables want to remember everything. What happens when we can’t forget?",
+      "url": "https://www.fastcompany.com/91634248/ai-wearables-want-to-remember-everything-what-happens-when-we-cant-forget?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-03T10:12:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "source": "Latent Space",
+      "date": "2026-11-03T05:35:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+      "url": "https://arxiv.org/abs/2611.00159",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-03T05:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+      "url": "https://arxiv.org/abs/2611.00172",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-03T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

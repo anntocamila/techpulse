@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-11-05-15",
+    "generatedAt": "2026-11-05T15:58:02.983Z",
+    "title": "Titulares del 5 de noviembre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-11-05-00",
     "generatedAt": "2026-11-05T00:40:20.851Z",
     "title": "Titulares del 5 de noviembre",
@@ -350,12 +356,6 @@
   {
     "id": "2026-10-06-23",
     "generatedAt": "2026-10-06T23:28:56.732Z",
-    "title": "Titulares del 6 de octubre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-10-06-14",
-    "generatedAt": "2026-10-06T14:37:57.630Z",
     "title": "Titulares del 6 de octubre",
     "generator": "headlines"
   }

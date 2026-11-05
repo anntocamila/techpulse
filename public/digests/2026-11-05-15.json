@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-05-15",
+  "generatedAt": "2026-11-05T15:58:02.983Z",
+  "periodStart": "2026-11-03T15:58:02.983Z",
+  "periodEnd": "2026-11-05T15:58:02.983Z",
+  "title": "Titulares del 5 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "moonshotai/Kimi-K3.1-Pro",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Expedia CEO says AI agents aren't changing booking habits — yet",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "The hidden supply chain costs of the AI boom",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Discourse Analysis of Legislative Bill Discussions",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Perplexity: AI Answer Engine Tops US$750m Run-Rate",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "The IPO Market Is Open For Anthropic. Not For Everyone Else.",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Copilot is coming to Windows 11's new Search UI later this year, but Microsoft promises it'll be entirely optional this time",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Why an AI bubble burst could expose European automakers with weak partners",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Inside the race to build European hardware without China",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Flock Drone Chief Sidhu Quits for a16z, Alpha Still in Early Access",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "CC Auto Review",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Bluesky hit peak usage for the year on Election Night",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Democratic sweep puts crypto on defensive in Washington",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "La IA ya está amenazando los cartuchos de Nintendo",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Duro revés judicial para &#8216;The Pitt&#8217; por parecerse demasiado a &#8216;ER&#8217;",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Bluesky was right all along and will accept your apology any time",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Bill Gates: la IA, la tecnología más peligrosa jamás creada",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Port Announces PortCon - the First AI Software Factory Summit",
+          "sources": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Area Man Feels Joy Online for First Time in Years",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Memory makers mint megabucks while buyers beg for mercy",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "WhatsApp will let you invite friends to events who aren’t on the app",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "WhatsApp is taking on Partiful with expanded Events feature",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "You can also manage your WhatsApp RSVPs through a new Events Home. www.theverge.com/tech/1027412...",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Plan Stamping, for Software",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Craft and taste",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "[AINews] It's Swapping Season",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "How big is the open model economy today?",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-05T15:58:03.793Z"
+    },
+    {
+      "id": 2,
+      "title": "Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261105/p32#a261105p32",
+      "source": "Techmeme",
+      "date": "2026-11-05T15:45:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Bluesky hit peak usage for the year on Election Night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "source": "TechCrunch",
+      "date": "2026-11-05T15:44:58.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Democratic sweep puts crypto on defensive in Washington",
+      "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-05T15:43:08.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Perplexity: AI Answer Engine Tops US$750m Run-Rate",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGQzMmVpa3hMUWU5alRONks1RDRORUhRMmp1WFJKT2NfcThMY0s0eWYwOEctUkRRMTl1WGUxNG1aTHhhRGt3SlhkREM3NTU5RWZWUkxvWnlZRkZYcnNPdjV1a3N4NVRPY1NkY1cyTUxvdi1WVjh2bFZ6dHVFX1pYcU1GUQ?oc=5",
+      "source": "Perplexity · via AI Magazine",
+      "date": "2026-11-05T15:39:43.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Area Man Feels Joy Online for First Time in Years",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+      "source": "Wired",
+      "date": "2026-11-05T15:38:07.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Port Announces PortCon - the First AI Software Factory Summit",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1kwZUlwbUNnZGlXbkJIMUZlNTJzLW9vLXZ4TGtNOVZpemcwYVlTRWhEVjVtRl9yeFBBb1dPZ3hHNFYtY1ZCM1FmaE5YUmpuQmRzbVNMUjgyMEFnWktETGNPbDd4VUZ1VmVXQ2tVTjhiSEN1M1l6WHpFeEFCTjh3V3lhamo2ZFVDYmV6VnZzUXkzd2dZc3M0aWtzOA?oc=5",
+      "source": "Google News · Eventos tech · via Yahoo Finance",
+      "date": "2026-11-05T15:38:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZUxjRGJ5S3V3ZXpCcGpSLXdkZGU4NFE4VXRUakgtbkt6UHlnZ3lQT2k2M2VZRTEyUGZVVGc1VXlwZEJpR2tJVXF0YV9pRUtNd0M1bWN5Mi1KMVUwUXpUeGxVUWhOV041Z0FHRFl1OXVBaEt4N1I4S9IBfkFVX3lxTE9DNEZYVVN2WXJWdFhtWXlzQUlBcW1yZHF5c2h4QkdXT19BVGRzYllFMWhfUnhzOFZja192bDVfV1lTWDFWTS1OZXR5eExGWHF2cG1kVFNjWjFEMGhxcDNLSk5qY2hFNkUydERiRDI3R28zUUIwbm4tRFF6ZFd3dw?oc=5",
+      "source": "Google News · IA · via CNBC",
+      "date": "2026-11-05T15:34:55.000Z"
+    },
+    {
+      "id": 9,
+      "title": "La IA ya está amenazando los cartuchos de Nintendo",
+      "url": "https://www.xataka.com/componentes/ia-esta-amenazando-cartuchos-nintendo",
+      "source": "Xataka",
+      "date": "2026-11-05T15:33:04.000Z"
+    },
+    {
+      "id": 10,
+      "title": "The IPO Market Is Open For Anthropic. Not For Everyone Else.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUl9Idk9HS21XSzJpc0NwdVlmSXU1X0xlZnZVMWlWY2c4eGVFMGJpNGVMSl81Y1djWUVvZl81RkFpUXh4aFZCRnVxel8yckF1cjhKZmJhc2tvSWlDVmtiZWtsZW1CeHJVX2Z3S0FyMER0TFZxaGFPWS1PNjZnam1SWG1uMzAtOTNyc0RWcUI1d1pxOXN2MGFvVWRPTQ?oc=5",
+      "source": "Anthropic · via WSJ",
+      "date": "2026-11-05T15:31:40.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Duro revés judicial para &#8216;The Pitt&#8217; por parecerse demasiado a &#8216;ER&#8217;",
+      "url": "https://hipertextual.com/cine-television/duro-reves-judicial-para-the-pitt-por-parecerse-demasiado-a-er/",
+      "source": "Hipertextual",
+      "date": "2026-11-05T15:24:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "You can also manage your WhatsApp RSVPs through a new Events Home. www.theverge.com/tech/1027412...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzl6b73lah2y",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-05T15:21:53.970Z"
+    },
+    {
+      "id": 13,
+      "title": "Memory makers mint megabucks while buyers beg for mercy",
+      "url": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+      "source": "The Register",
+      "date": "2026-11-05T15:07:34.000Z"
+    },
+    {
+      "id": 14,
+      "title": "The hidden supply chain costs of the AI boom",
+      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "source": "The Verge AI",
+      "date": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "WhatsApp will let you invite friends to events who aren’t on the app",
+      "url": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+      "source": "The Verge",
+      "date": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "WhatsApp is taking on Partiful with expanded Events feature",
+      "url": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
+      "source": "Engadget",
+      "date": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Hamed Karimi wins ECML PKDD Test-of-Time Award",
+      "url": "https://www.amazon.science/blog/hamed-karimi-wins-ecml-pkdd-test-of-time-award",
+      "source": "Amazon Science",
+      "date": "2026-11-05T14:57:23.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Inside the race to build European hardware without China",
+      "url": "https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/",
+      "source": "Sifted",
+      "date": "2026-11-05T14:56:22.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Plan Stamping, for Software",
+      "url": "https://dev.to/kenwalger/plan-stamping-for-software-4ein",
+      "source": "dev.to · IA · via Ken W Alger",
+      "date": "2026-11-05T14:54:25.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Craft and taste",
+      "url": "https://www.bensbites.com/p/craft-and-taste",
+      "source": "Ben's Bites",
+      "date": "2026-11-05T14:02:12.000Z"
+    },
+    {
+      "id": 21,
+      "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+      "source": "NVIDIA",
+      "date": "2026-11-05T14:00:34.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
+      "url": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/",
+      "source": "Crunchbase News",
+      "date": "2026-11-05T14:00:20.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Copilot is coming to Windows 11's new Search UI later this year, but Microsoft promises it'll be entirely optional this time",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcmdzV0ZESldwWmpEUFRrbjBvNE00WW9vZWM5LU9Ublo5TnhvN3dETW9YRWZVRjZZcHJUU094TWV1QmVUaGlBVGI3bTh2LXNsLURkQUN5Y1lJSGRrRlc0QXhRVU1rZWdKN2FCS040MFBCUzZkdHF4WExrQXBCRkVtMkFPZHRhTzRLczNWRmctQXR0Vm5OTjhLa3AyY0d1eTNnNU8wZWUwamVXeFFjNmJJd3B4UGFoblhMV3lyVUJGZF9tTERjVDJPUWZsTW1EZzRsNFJnWHdGMjdOdXRPNGxyS1dqMTFZb3htRlFkQ0FQaHBJOFMtOTBV?oc=5",
+      "source": "Microsoft AI · via Windows Central",
+      "date": "2026-11-05T13:11:43.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-05T13:10:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+      "source": "Ars Technica",
+      "date": "2026-11-05T13:00:56.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Flock Drone Chief Sidhu Quits for a16z, Alpha Still in Early Access",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW9ZdGNEckMyVWJ6N1FwMjNUZFJuRWpXNHN2c2Z5SU5IRE04NTVwdUxPdkVhVzd6UExzUFNqckRscEE1UUZuOEl6b0h1VGcxcFZiMGh3d0ZkUGNPelZEcWdacV9pNGx6cWo2QkZ2VFk3Q05zaHBEOFlnZnRDWm9Jeg?oc=5",
+      "source": "a16z · via DroneXL",
+      "date": "2026-11-05T11:32:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Bluesky was right all along and will accept your apology any time",
+      "url": "https://www.fastcompany.com/91635647/bluesky-was-right-all-along-and-will-accept-your-apology-any-time?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-05T11:04:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Why an AI bubble burst could expose European automakers with weak partners",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHRtMDhZYi1nUlJOOVVvekROY212RnVEMDlkWnhxc3FWZEpEcjhieWdIYW1udkMxaFRHa2dfRnNOZ2JwWjRzQ0VmWHV3ZzY1UXdkUklvMzQwZ01vRGVJbl9MMzhYYUN3YTFHNUs3TnNHVVFxNnhoRUlIS1pobzhSWlU3Z0pJLWtLUVdQQjlvTQ?oc=5",
+      "source": "Mistral AI · via Automotive News",
+      "date": "2026-11-05T10:45:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Bill Gates: la IA, la tecnología más peligrosa jamás creada",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDBfVzhXeDRuQk1PcVVOMFpqMHh0ekQ5Z1ZneUlGQTk5blhnUl9wYzgzbmhWa0RjTFZUeVhGbXFneFZjMlFzamppcFZpSm5vNHhPeEpDdVVkTU4waVZXWEdqOElYQ2g1REMxQzFyd2J6M3hPQjZscUFBbXU2WmowN1daa0UzTjJJbnk4UnVfSlk2UQ?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-05T10:33:41.000Z"
+    },
+    {
+      "id": 30,
+      "title": "[AINews] It's Swapping Season",
+      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+      "source": "Latent Space",
+      "date": "2026-11-05T06:24:09.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Discourse Analysis of Legislative Bill Discussions",
+      "url": "https://arxiv.org/abs/2611.05381",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-05T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "CC Auto Review",
+      "url": "https://www.producthunt.com/products/cc-auto-review",
+      "source": "Product Hunt",
+      "date": "2026-11-05T04:54:13.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-04T22:13:16.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Launch HN",
+      "date": "2026-11-04T17:31:53.000Z"
+    },
+    {
+      "id": 36,
+      "title": "How big is the open model economy today?",
+      "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "source": "Interconnects",
+      "date": "2026-11-04T16:35:44.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-04-15",
-  "generatedAt": "2026-11-04T15:53:10.671Z",
-  "periodStart": "2026-11-02T15:53:10.671Z",
-  "periodEnd": "2026-11-04T15:53:10.671Z",
-  "title": "Titulares del 4 de noviembre",
+  "id": "2026-11-05-00",
+  "generatedAt": "2026-11-05T00:40:20.851Z",
+  "periodStart": "2026-11-03T00:40:20.851Z",
+  "periodEnd": "2026-11-05T00:40:20.851Z",
+  "title": "Titulares del 5 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -13,39 +13,39 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "text": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
           "sources": [
             1
           ]
         },
         {
-          "text": "New Research Tests Whether AI Models Know Their Own Thoughts",
+          "text": "Qualcomm is betting big on data centers as smartphone sales sink",
           "sources": [
-            4
+            19
           ]
         },
         {
-          "text": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
+          "text": "Arm Holdings Sales Climb 27% on AI Demand",
           "sources": [
-            15
+            23
           ]
         },
         {
-          "text": "The Download: blended meat, restored sight, and the agentic web",
+          "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
           "sources": [
-            21
+            27
           ]
         },
         {
           "text": "Alignment Faking Depends on the Value, Not Just the Model",
           "sources": [
-            31
+            35
           ]
         },
         {
           "text": "Rethinking Next-Visit Diagnosis Prediction Beyond Aggregate Metrics: Retrieval--Memory Multi-Agent Adjudication",
           "sources": [
-            32
+            36
           ]
         }
       ]
@@ -57,37 +57,37 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Demo Django 133-Agen Mistral Large 4: Apa yang Dibuktikannya",
+          "text": "Mistral Says Mistral Large 4 Coordinated 133 Agents in Django Security Demo",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Cohere Details Canadian Investment in AI Research and Infrastructure",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
           "sources": [
             16
           ]
         },
         {
-          "text": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "text": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
           "sources": [
-            17
+            21
           ]
         },
         {
-          "text": "Health Plan Unlocks More Than $10M in Savings in Six Months Using Cohere Health's AI-Powered Pre-Payment Review",
-          "sources": [
-            20
-          ]
-        },
-        {
-          "text": "Microsoft Copilot AI Predicts a Wild Ethereum Run Over Q4",
-          "sources": [
-            24
-          ]
-        },
-        {
-          "text": "Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows",
-          "sources": [
-            27
-          ]
-        },
-        {
-          "text": "Top 10 Best AI Research Sites In 2026",
+          "text": "Agile Deliberation: How AI helps humans define the gray areas",
           "sources": [
             29
           ]
@@ -101,39 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Ai姨 Says a16z-Linked Entity Sent $15.02 Million in HYPE to Exchanges",
+          "text": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
           "sources": [
-            10
+            20
           ]
         },
         {
-          "text": "Sequoia to close London office, cut Europe team",
+          "text": "Is Private Equity Cooked?",
           "sources": [
-            18
+            24
           ]
         },
         {
-          "text": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-          "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+          "text": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
           "sources": [
             25
           ]
         },
         {
-          "text": "Rungle",
+          "text": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
           "sources": [
             30
           ]
         },
         {
-          "text": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "text": "Sequoia hits rewind, undoing 20 years of expansion",
           "sources": [
-            34
+            31
+          ]
+        },
+        {
+          "text": "Starling Bank CEO to step down after just two years, reports say",
+          "sources": [
+            32
           ]
         }
       ]
@@ -145,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Premios Xataka Verisure 2026: estos son los finalistas",
+          "text": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
           "sources": [
-            3
+            4
           ]
         },
         {
-          "text": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+          "text": "Lectra, tecnológica de moda, mapea 5 usos de IA",
           "sources": [
-            8
+            5
           ]
         },
         {
-          "text": "Sigue abierto el plazo para el programa de aceleración de startups basadas en tecnologías de vanguardia",
+          "text": "Tencent acaba de lanzar una nueva IA. Lo interesante no es solo lo que sabe hacer, sino lo que ha decidido no enseñarle",
           "sources": [
-            11
+            14
           ]
         },
         {
-          "text": "Titan OS raises $46 million to expand its smart TV OS internationally",
+          "text": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
           "sources": [
-            12
+            18
           ]
         },
         {
-          "text": "AliExpress calienta motores para el 11/11: recompensas por comprar, entrega al día siguiente y los mejores descuentos del año",
-          "sources": [
-            13
-          ]
-        },
-        {
-          "text": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
+          "text": "Un ciberataque altera los bancos de sangre en Francia y enciende las alarmas en Europa",
           "sources": [
             22
+          ]
+        },
+        {
+          "text": "Elon Musk spent nearly $500 million on the midterms. It bought him almost nothing",
+          "sources": [
+            28
           ]
         }
       ]
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Argonne’s AI STEM Education Summit focuses on preparing a super intelligence-enabled future with humans in the lead | Newswise",
+          "text": "Arsic, Guglieri Headed to ITA Conference Masters",
           "sources": [
-            19
+            7
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff (Yueqi Yang/The Information)",
+          "text": "X says its updated web app is way faster",
           "sources": [
-            2
+            3
           ]
         },
         {
-          "text": "Not even $200 million could help Elon Musk buy Texas",
+          "text": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
           "sources": [
             6
           ]
         },
         {
-          "text": "Election Deniers Not Contesting Their Massive Losses",
-          "sources": [
-            7
-          ]
-        },
-        {
-          "text": "Americans overwhelmingly voted against data centers in the midterms",
+          "text": "Building AI factories at enterprise scale",
           "sources": [
             9
           ]
         },
         {
-          "text": "HP Inc hires former GSK boss as CEO",
+          "text": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
           "sources": [
-            14
+            11
           ]
         },
         {
-          "text": "AI is forcing us to pay off 40 years of technical debt",
+          "text": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
           "sources": [
-            26
+            13
+          ]
+        },
+        {
+          "text": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "sources": [
+            17
           ]
         }
       ]
@@ -247,33 +247,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Elon Musk's wall of money fell to the blue tsunami. www.theverge.com/policy/10263...",
+          "text": "X is moving signed-in users to its new web app one country at a time, but it’s already using the rewrite for X’s logged-out web experienc…",
           "sources": [
-            5
+            2
           ]
         },
         {
-          "text": "Your Agent Logs What It Did. It Has No Record of What It Meant To Do.",
+          "text": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
           "sources": [
-            28
+            8
           ]
         },
         {
-          "text": "The frontier labs launch election war rooms",
+          "text": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "How big is the open model economy today?",
           "sources": [
             33
           ]
         },
         {
-          "text": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "text": "datasette-llm 0.1a10",
           "sources": [
-            35
+            34
           ]
         },
         {
-          "text": "Finding my thing",
+          "text": "The frontier labs launch election war rooms",
           "sources": [
-            36
+            37
           ]
         }
       ]
@@ -282,255 +288,262 @@
   "sources": [
     {
       "id": 1,
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-04T15:53:11.536Z"
+      "date": "2026-11-05T00:40:21.961Z"
     },
     {
       "id": 2,
-      "title": "Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff (Yueqi Yang/The Information)",
-      "url": "https://www.techmeme.com/261104/p37#a261104p37",
-      "source": "Techmeme",
-      "date": "2026-11-04T15:50:02.000Z"
+      "title": "X is moving signed-in users to its new web app one country at a time, but it’s already using the rewrite for X’s logged-out web experienc…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzjm7px3kb2u",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-05T00:26:17.734Z"
     },
     {
       "id": 3,
-      "title": "Premios Xataka Verisure 2026: estos son los finalistas",
-      "url": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-estos-finalistas",
-      "source": "Xataka",
-      "date": "2026-11-04T15:47:47.000Z"
+      "title": "X says its updated web app is way faster",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "source": "The Verge",
+      "date": "2026-11-05T00:25:12.000Z"
     },
     {
       "id": 4,
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0ZJLU1xVUtkYUYzT1JLZEFQYjNQbXJ6Sm0ybE9zRkt4bDFYU1hQRUJfcm5zcllnWlM0a2VvYW8temxEdmFXNmhUWXF3bmhzV3ZFa1hzTGExbUs2MUV4aFJReFc1NVIwZlZsZXZNOF9BQWYyQzdQa3VFWm41VmFCanZCTGxEMFZxLV9WNmJvQ1otVjNlVUlhWWtGZzRCU3E0OE93?oc=5",
-      "source": "Google News · IA · via Quanta Magazine",
-      "date": "2026-11-04T15:36:19.000Z"
+      "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+      "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-05T00:24:57.000Z"
     },
     {
       "id": 5,
-      "title": "Elon Musk's wall of money fell to the blue tsunami. www.theverge.com/policy/10263...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mziolzawfy2y",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-04T15:36:17.464Z"
+      "title": "Lectra, tecnológica de moda, mapea 5 usos de IA",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzQ1RDFpUWNTTk9hZTJIODNBczBLYmRwRURJUmdYaEtLNGxYWG5UTWtEYVVZa2NmNkJNV1hkZzctZWxkNG5nS01xUVdZZ1pKM0luY2FZMVgwaHNqOHNGcGI1LU9RRW8xbEdrVXZ3bW1oYURlbW9LbXZBUWRSWlZKc01R?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-05T00:18:33.000Z"
     },
     {
       "id": 6,
-      "title": "Not even $200 million could help Elon Musk buy Texas",
-      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
-      "source": "The Verge",
-      "date": "2026-11-04T15:33:59.000Z"
+      "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
+      "url": "https://www.techmeme.com/261104/p56#a261104p56",
+      "source": "Techmeme",
+      "date": "2026-11-05T00:15:03.000Z"
     },
     {
       "id": 7,
-      "title": "Election Deniers Not Contesting Their Massive Losses",
-      "url": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-      "source": "Wired",
-      "date": "2026-11-04T15:30:18.000Z"
+      "title": "Arsic, Guglieri Headed to ITA Conference Masters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaExRYkR6ZFBNTi14dkFVLXN0ZGp0N0VOdGV3X0hYVGRlQ0JIU0p5c09BZC03UkxpMHlFZkJQdldLT2JHUzlralNiRTVNR3pMVjZkZmJlNkZZdDExcW1majhfUGQ1VUllb3dtVkJHdmhnZW5rTlY1dWZmX00xSU80eFhtYnJKbnRFSi1TeFBoaUJ2RFFCMFdRa09vb3c?oc=5",
+      "source": "Google News · Eventos tech · via Texas Tech Red Raiders",
+      "date": "2026-11-05T00:12:34.000Z"
     },
     {
       "id": 8,
-      "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-04T15:29:01.000Z"
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-11-05T00:02:44.000Z"
     },
     {
       "id": 9,
-      "title": "Americans overwhelmingly voted against data centers in the midterms",
-      "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/",
-      "source": "Engadget",
-      "date": "2026-11-04T15:28:52.000Z"
+      "title": "Building AI factories at enterprise scale",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
+      "source": "The Register",
+      "date": "2026-11-05T00:01:00.000Z"
     },
     {
       "id": 10,
-      "title": "Ai姨 Says a16z-Linked Entity Sent $15.02 Million in HYPE to Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92T0VqeThZeXNGYmMxWnNndkNSRVhjOXJ2NFNIa2NxTkdqcHhJeWl6ZWdwM2p3T3JSUGx1ZjdFODI0LUJTanQzNE1ObDQxeFpVb0xaYzJ1Ni0yQQ?oc=5",
-      "source": "a16z · via www.tokenpost.com",
-      "date": "2026-11-04T15:28:11.000Z"
+      "title": "Mistral Says Mistral Large 4 Coordinated 133 Agents in Django Security Demo",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Lcmw2SU1EbE9YSmE2dzdBYmFoRmFBcVJidVItcXJVb3ZKRktBSWZwQlhZRVdQTTRqSkFWRENDR2Y3T0JtTEVIWVBIS2RCbndVVmFNb0NPNTZHdjQ?oc=5",
+      "source": "Mistral AI · via www.tokenpost.com",
+      "date": "2026-11-04T23:28:10.000Z"
     },
     {
       "id": 11,
-      "title": "Sigue abierto el plazo para el programa de aceleración de startups basadas en tecnologías de vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0h1Ui1Td1pLTEdFZjhtNDYzZVI2Y1VPcC1xNVFaUWpjWU55aVZybDdOUm5ualNSQVRRTldxZTNtelpybm5fMm5TQm1pUG9HdGhkUC01SzBFeXdUd2ROWTROVzJpNy1nZFJoaExhUmMzUkVfaWdLRE5MUWV3S0hTWGcxaHVqZXkySVVNUHpMbHM4M09sUmcyaEpMci1fS2d2aE42TDNCa0hucFp4OXVFSjFtdllqWjBqbVdYX1VmVS12b09idVhpSHIyQ2ktZnZUazNJZjUwakk4RnNneHlORU5lTS1wQdIB6wFBVV95cUxNay1ybGpRa0tPNDZSenJScEtvZWdxWThWRmtTcmNfZl9JYVhzTVpZRlhZajJodGczQzhYZW1qNm9McG9yMnFqS2JxNTVVLTdnUXY1aGRubnFaanhhWVZwa2FKWnUxOHE5NlhNMC1HZnFVQl9QUTRENG9udDkwN3B5cHpTSU1mdFlXdEtEYmxVbkRtZVQ5SjduLWJsX0ZBOVoyZV9KOU5FVUp6ZXB3cWI3OU9WVEc2WjktaWgzMlhWUTRZNVRoNXdBWGRERjY1OENhc0p3aE5fLWtrdkxTRUhRendqdEVTSVhuMlJV?oc=5",
-      "source": "Google News · Tecnología (ES) · via Teleprensa",
-      "date": "2026-11-04T15:27:31.000Z"
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "source": "Wired",
+      "date": "2026-11-04T23:13:14.000Z"
     },
     {
       "id": 12,
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "source": "TechCrunch",
-      "date": "2026-11-04T15:00:00.000Z"
+      "title": "Microsoft Delays Default Copilot Usage-Based Billing Again, Citing Partner Feedback",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWxLbTMxellNWldlam81cWNtYURuY1BwZV85Zko5RVJiRFQ5SFJjcjVETHRNdEFBWlN0NGRpUktZdEEwWGdCT0Zwb05kMlpUWk5yTi04aWhKQmNyb1FJSmhNdmtjemU5UVlRUlU0UUc0dEdUcXU2b0E3bDNob3dMUnp6RG1uTXNybXF1RmtRWWJ2blNMRkZVUXRFZlZhZG1CN0tET2V0TjQ3b1d1TGtLdWZFUHM?oc=5",
+      "source": "Microsoft AI · via CRN",
+      "date": "2026-11-04T23:04:00.000Z"
     },
     {
       "id": 13,
-      "title": "AliExpress calienta motores para el 11/11: recompensas por comprar, entrega al día siguiente y los mejores descuentos del año",
-      "url": "https://hipertextual.com/ofertas-descuentos/11-11-aliexpress/",
-      "source": "Hipertextual",
-      "date": "2026-11-04T14:59:47.000Z"
+      "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+      "url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+      "source": "Engadget",
+      "date": "2026-11-04T22:55:57.000Z"
     },
     {
       "id": 14,
-      "title": "HP Inc hires former GSK boss as CEO",
-      "url": "https://www.theregister.com/personal-tech/2026/11/04/hp-inc-hires-former-gsk-boss-as-ceo/5307588",
-      "source": "The Register",
-      "date": "2026-11-04T14:50:00.000Z"
+      "title": "Tencent acaba de lanzar una nueva IA. Lo interesante no es solo lo que sabe hacer, sino lo que ha decidido no enseñarle",
+      "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
+      "source": "Xataka",
+      "date": "2026-11-04T22:55:00.000Z"
     },
     {
       "id": 15,
-      "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "source": "The Verge AI",
-      "date": "2026-11-04T14:46:01.000Z"
+      "title": "Cohere Details Canadian Investment in AI Research and Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGpFelhrME9qRVlUaGwwTlpBOHpsYlRCSHZjTnVoVS1kdTdfX0tEdDNyc3Q1d0x4dExDNVJ4bXBvelc0amR5T2pWblBXX2Z3bWxjUWdWV3ZUbjN5aThhY1hVdGxObWZYV0QtcWhnLXFxQmlOYy1YTWY5UUVtQ3hab1pnQm5BODhQUDVuSUNZeGJ3eGJGSmFQWkV6NFVtOWpVMC1vbm9BNmtyOHpGd1NfLQ?oc=5",
+      "source": "Cohere · via HPCwire",
+      "date": "2026-11-04T22:52:30.000Z"
     },
     {
       "id": 16,
-      "title": "Demo Django 133-Agen Mistral Large 4: Apa yang Dibuktikannya",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBySnVUZnNiYjJxVkdWYzJYQVNwOEFhVDJFenFfZGl3a1NETFFsWTluUEFSN3QxQjlocHRUbGk5RzJwVGxZcENtSVo4ZTVURlp6VU9PNmN6cE1kcUZMRVJQd1hmSU1ZbEd6dWVsS0dkeGxRVWlaV3dCNFRwQQ?oc=5",
-      "source": "Mistral AI · via OrcaRouter",
-      "date": "2026-11-04T14:37:58.000Z"
+      "title": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zSW5kdFVUNkRvRU1obnVOOHRKNjY1Q053UHlWMmJ2M0hUdXhzWkJIem5yTTlIZy1XYkNDTXJ3Yk9KRUdDRTUzc3JXcnl6YmVMVXk3S2MxcEI4ZDhFamZCUVZDcEZWODFXcjhVX3FMWkM?oc=5",
+      "source": "Anthropic · via The New Stack",
+      "date": "2026-11-04T22:51:08.000Z"
     },
     {
       "id": 17,
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "date": "2026-11-04T14:30:00.000Z"
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "Ars Technica",
+      "date": "2026-11-04T22:47:51.000Z"
     },
     {
       "id": 18,
-      "title": "Sequoia to close London office, cut Europe team",
-      "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
-      "source": "Sifted",
-      "date": "2026-11-04T14:22:35.000Z"
+      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch",
+      "date": "2026-11-04T22:45:09.000Z"
     },
     {
       "id": 19,
-      "title": "Argonne’s AI STEM Education Summit focuses on preparing a super intelligence-enabled future with humans in the lead | Newswise",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM1dWTU5sVmhEeWtkdVdPMlpKNXNjRXhFZ093WWwycUtiWVFvMkxrUEk4VGR2LVFTWUU3NndCMHV0MnRFM0pWQjh5OEZ6Q0IzUFEyVFd0S0l1Y2JVQTFqbWtQWDVNYnI4MFNsNDBONVVVcWI1T014ZlhTaEVIcjVJS2lFMFc5enB1S2wwc2FDYnNNd2IweUpROUxfSXQ5TU1pYUJfT2dsMlNaU2VOUldFamdub0xUTVZzN1ktMDVXT08xU0pQN0VTWklsc21pUndTZDVFSG9TNkR5YnYzNncxZ19Ya9IB4wFBVV95cUxOM1dWTU5sVmhEeWtkdVdPMlpKNXNjRXhFZ093WWwycUtiWVFvMkxrUEk4VGR2LVFTWUU3NndCMHV0MnRFM0pWQjh5OEZ6Q0IzUFEyVFd0S0l1Y2JVQTFqbWtQWDVNYnI4MFNsNDBONVVVcWI1T014ZlhTaEVIcjVJS2lFMFc5enB1S2wwc2FDYnNNd2IweUpROUxfSXQ5TU1pYUJfT2dsMlNaU2VOUldFamdub0xUTVZzN1ktMDVXT08xU0pQN0VTWklsc21pUndTZDVFSG9TNkR5YnYzNncxZ19Yaw?oc=5",
-      "source": "Google News · Eventos tech · via Newswise",
-      "date": "2026-11-04T14:15:00.000Z"
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge AI",
+      "date": "2026-11-04T22:42:15.000Z"
     },
     {
       "id": 20,
-      "title": "Health Plan Unlocks More Than $10M in Savings in Six Months Using Cohere Health's AI-Powered Pre-Payment Review",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVJqTmJ6Tmp3Mzd2a0FHelJzVmNodkdvYktPMXNiQ1FMZFhhUnFfQk1SRWZZSnlsaExURFB6WVVNeUFpSk1qZEV1X0h2bWFTb2g4OWduTGotUTVlVG5BYmw0b29lM0k2bUgxTFZ2dGtoTE1hbFBjcUNXRV84WFBOSEt0UEFlbzA1QUJlNUE3Z24yemxOY3pFbmpjUS1qOEdmc0s5dHZva3FlYnBMZEQzRllHcUxIQnQzZ0V0NHRIeU9qUS1hMmRQcnBYYlpjRGgwV1o2UWVTMEdaQUt4WTgxUG01ektuU0ZWUzlkU091RWlVMEJZbWktaA?oc=5",
-      "source": "Cohere · via PR Newswire",
-      "date": "2026-11-04T14:00:00.000Z"
+      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-04T22:13:16.000Z"
     },
     {
       "id": 21,
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-04T13:10:00.000Z"
+      "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-04T22:00:17.000Z"
     },
     {
       "id": 22,
-      "title": "El Gobierno francés admite que varios bancos de sangre también han sido objetivo de ciberataques",
-      "url": "https://elpais.com/tecnologia/2026-11-04/el-gobierno-frances-admite-que-varios-bancos-de-sangre-tambien-han-sido-objetivo-de-ciberataques.html",
-      "source": "El País Tecnología",
-      "date": "2026-11-04T13:04:44.000Z"
+      "title": "Un ciberataque altera los bancos de sangre en Francia y enciende las alarmas en Europa",
+      "url": "https://hipertextual.com/seguridad/ciberataque-refrigeracion-sangre-francia/",
+      "source": "Hipertextual",
+      "date": "2026-11-04T21:35:00.000Z"
     },
     {
       "id": 23,
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "source": "TechCrunch Startups",
-      "date": "2026-11-04T13:00:00.000Z"
+      "title": "Arm Holdings Sales Climb 27% on AI Demand",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "source": "Google News · IA · via WSJ",
+      "date": "2026-11-04T21:20:00.000Z"
     },
     {
       "id": 24,
-      "title": "Microsoft Copilot AI Predicts a Wild Ethereum Run Over Q4",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNTZ2hkb1ZRX3JkNUFBWEphSE1oWGE3MmNJMGhQQ0hPUGxOdFlIbFVieXBxdDR0cklrQ3hiZVZvU1gwbUw4Mzg0TDhUNmNCdVBHRWpESmpLMk0xejVWTS16cnl0YkRRQ2QtV0JBcVBwQThQWWNSczhIQk1lWVB4dW82eXNQMzJJNkd1alFPZzhtUzFQLWN5R210Zw?oc=5",
-      "source": "Microsoft AI · via 99Bitcoins",
-      "date": "2026-11-04T12:10:09.000Z"
+      "title": "Is Private Equity Cooked?",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZWkRab0VKbGF2cWRreVpMMkQ5QldTcHp2STZBX3lUamJtQjdxN0ZZTUdTbGVPdXVWc0NHV3FqLWRqb2JWVE14b041VWNZLS1oQjV4QQ?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-04T20:26:15.000Z"
     },
     {
       "id": 25,
-      "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
-      "url": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+      "title": "Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States",
+      "url": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
       "source": "Crunchbase News",
-      "date": "2026-11-04T12:00:14.000Z"
+      "date": "2026-11-04T19:47:54.000Z"
     },
     {
       "id": 26,
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "Hacker News",
-      "date": "2026-11-04T11:52:17.000Z"
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "source": "Latent Space",
+      "date": "2026-11-04T19:17:30.000Z"
     },
     {
       "id": 27,
-      "title": "Dario Amodei wants 'a country of geniuses in a data center.' Realizing that vision requires risky financial mechanics, Anthropic's IPO filing shows",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5",
-      "source": "Anthropic · via Fortune",
-      "date": "2026-11-04T11:22:00.000Z"
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-04T18:50:55.000Z"
     },
     {
       "id": 28,
-      "title": "Your Agent Logs What It Did. It Has No Record of What It Meant To Do.",
-      "url": "https://dev.to/mickyarun/your-agent-logs-what-it-did-it-has-no-record-of-what-it-meant-to-do-1il7",
-      "source": "dev.to · IA · via arun rajkumar",
-      "date": "2026-11-04T09:54:55.000Z"
+      "title": "Elon Musk spent nearly $500 million on the midterms. It bought him almost nothing",
+      "url": "https://www.fastcompany.com/91634243/elon-musk-spent-nearly-500-million-on-the-midterms-it-bought-him-almost-nothing?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-04T18:26:01.000Z"
     },
     {
       "id": 29,
-      "title": "Top 10 Best AI Research Sites In 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5feC03UXk2anJmQ3BBcFVpUkpPaHByM2dtLURoTUFNVThqNVphQkZ6Y3dPMzZXN1VuUmY4UWdWRFVwUUVEVUo2UG1yMk1IWXBsUk1XSUFJa2hOYnhMLXVyQWh3?oc=5",
-      "source": "Perplexity · via Nubia Magazine!",
-      "date": "2026-11-04T09:36:00.000Z"
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+      "source": "Google Research",
+      "date": "2026-11-04T18:07:05.000Z"
     },
     {
       "id": 30,
-      "title": "Rungle",
-      "url": "https://www.producthunt.com/products/rungle",
-      "source": "Product Hunt",
-      "date": "2026-11-04T06:09:49.000Z"
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Launch HN",
+      "date": "2026-11-04T17:31:53.000Z"
     },
     {
       "id": 31,
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-04T17:11:15.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Starling Bank CEO to step down after just two years, reports say",
+      "url": "https://sifted.eu/articles/starling-bank-ceo-raman-bhatia-quits-reports/",
+      "source": "Sifted",
+      "date": "2026-11-04T17:06:13.000Z"
+    },
+    {
+      "id": 33,
+      "title": "How big is the open model economy today?",
+      "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "source": "Interconnects",
+      "date": "2026-11-04T16:35:44.000Z"
+    },
+    {
+      "id": 34,
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-04T15:26:02.000Z"
+    },
+    {
+      "id": 35,
       "title": "Alignment Faking Depends on the Value, Not Just the Model",
       "url": "https://arxiv.org/abs/2611.03650",
       "source": "arXiv cs.AI",
       "date": "2026-11-04T05:00:00.000Z"
     },
     {
-      "id": 32,
+      "id": 36,
       "title": "Rethinking Next-Visit Diagnosis Prediction Beyond Aggregate Metrics: Retrieval--Memory Multi-Agent Adjudication",
       "url": "https://arxiv.org/abs/2611.03826",
       "source": "arXiv cs.CL",
       "date": "2026-11-04T05:00:00.000Z"
     },
     {
-      "id": 33,
+      "id": 37,
       "title": "The frontier labs launch election war rooms",
       "url": "https://www.platformer.news/election-war-room-midterms-deepfakes/",
       "source": "Platformer",
       "date": "2026-11-04T01:34:20.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch Venture",
-      "date": "2026-11-03T21:43:08.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Simon Willison",
-      "date": "2026-11-03T16:29:48.000Z"
-    },
-    {
-      "id": 36,
-      "title": "Finding my thing",
-      "url": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
-      "source": "Ben's Bites",
-      "date": "2026-11-03T14:03:32.000Z"
     }
   ],
   "stats": {

@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-06-23",
+  "generatedAt": "2026-11-06T23:53:06.533Z",
+  "periodStart": "2026-11-04T23:53:06.533Z",
+  "periodEnd": "2026-11-06T23:53:06.533Z",
+  "title": "Titulares del 6 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "burner22/numbat",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "BMO Turns to Agentic AI to Resolve Card Issues",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Discourse Analysis of Legislative Bill Discussions",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "‘It’s Not a God’: Canada’s First AI Billionaires Dismiss Doomsday Scenarios",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Copilot is coming to the reworked Windows 11 search box, but Microsoft claims it will be an 'opt-in' feature",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Project EVE: Claude plays MMORPGs",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "'The 2010s Aren't Coming Back': a16z Sounds Alarm On Private Equity's Buyout Business",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "How a Blue Wave midterm might reshape the AI industry",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Sequoia is leaving London. Should Europe be worried?",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Cloptima",
+          "sources": [
+            35
+          ]
+        },
+        {
+          "text": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Algunos sistemas Linux permiten entrar sin conocer la contraseña: el fallo llevaba una década escondido",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Why is the world’s best streaming film library stuck with one of the worst streaming apps?",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Wellesley’s off-campus AI summit draws over 100 alumnae, yet only eight students",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Apple says the App Store has over 100K apps built for the iPhone Duo and \"thousands of optimized apps are being added to the store each day\" (Jay Peters/The Verge)",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "The Cybertruck’s Death Is Actually Great News for EVs",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Agents reveal secrets when offered to team up with each other",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "AI is dramatically accelerating AI research",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿ www.theverge.com/ai-artif…",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Quoting Nilay Patel",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "The AI backlash needs a plan",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "burner22/numbat",
+      "url": "https://huggingface.co/burner22/numbat",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-06T23:53:07.111Z"
+    },
+    {
+      "id": 2,
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-11-06T23:51:03.000Z"
+    },
+    {
+      "id": 3,
+      "title": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿ www.theverge.com/ai-artif…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzokyjocc42v",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-06T23:47:41.128Z"
+    },
+    {
+      "id": 4,
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI",
+      "date": "2026-11-06T23:46:18.000Z"
+    },
+    {
+      "id": 5,
+      "title": "BMO Turns to Agentic AI to Resolve Card Issues",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkk0bjFsdFdNR3NuZVd6ZW9handHNVVlYjhuMUhyZ2ZoVGkxQmYxWFpjcWktTlhtUnJ2b1BtQzgxZzhvbnU4aU9wUGxlSzNQZFFDLUhnYzlzc2VaVFpka09BeFV3b3J4SjlzeEhLQ0xVZGZySFNfdHBGZk9uZ01Ca19IdzduUENNV2tWR1BENG9udDl6TVBmR0R6a2FWUDZDUnFlcjU1Zw?oc=5",
+      "source": "Google News · IA · via PYMNTS.com",
+      "date": "2026-11-06T23:26:15.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Apple says the App Store has over 100K apps built for the iPhone Duo and \"thousands of optimized apps are being added to the store each day\" (Jay Peters/The Verge)",
+      "url": "https://www.techmeme.com/261106/p26#a261106p26",
+      "source": "Techmeme",
+      "date": "2026-11-06T23:20:01.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+      "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-06T23:13:10.000Z"
+    },
+    {
+      "id": 8,
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T22:53:46.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "source": "The Verge",
+      "date": "2026-11-06T22:45:43.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Algunos sistemas Linux permiten entrar sin conocer la contraseña: el fallo llevaba una década escondido",
+      "url": "https://www.xataka.com/seguridad/algunos-sistemas-linux-permiten-entrar-conocer-contrasena-fallo-llevaba-decada-escondido",
+      "source": "Xataka",
+      "date": "2026-11-06T22:34:25.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+      "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+      "source": "Wired",
+      "date": "2026-11-06T22:31:15.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-06T22:20:20.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Wellesley’s off-campus AI summit draws over 100 alumnae, yet only eight students",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3JxMHRMOTZHTEdyWHk2TnNkZmc1dlV6T2kwd01vM1hxOWcza3ZKeEt4OWU5ejZ5bDE4djFyaFQ2RkN3NVg3eWlfeFMxRU94NkNpZkJiN1ZsWjRGNUFhZU5oN255NjlKLVkxd0JQNXF0TEFPMVNnb240MmNscWVKN1RxQW4zYUx5QktxaDFuN0hfcmhUUWtnQ2xSaWRzdENxSUxoVVpXSlJDei0xNkhMTHVHTzJYbEFIVkhyS1AtWEJtQVJoTzhOSS0yN0lHZw?oc=5",
+      "source": "Google News · Eventos tech · via The Wellesley News",
+      "date": "2026-11-06T22:14:12.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Windows 11 27H2: la gran actualización con la que Microsoft quiere reinventar Windows en 2027",
+      "url": "https://hipertextual.com/software/windows-11-27h2-actualizacion-2027-novedades/",
+      "source": "Hipertextual",
+      "date": "2026-11-06T22:09:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "‘It’s Not a God’: Canada’s First AI Billionaires Dismiss Doomsday Scenarios",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGRNVUNaS1VBQ19tZ3NvbnVKUmhPZ2R3UzBMRGw4aGhJMG41T2l1Qkh5d2RrRDJDOWVZaEo1RnNaUXZLaVpLNy1lejd6OTc5OXZOTVN5amZfZE1HRkV0QXlYZVlRaXliODY2ZWVSakFoWUN4dnVtYVp4VlBhYXVYNjFIdzM5R0NwRC1wM25VMXdneWJVN1JqWFA5ci0wTkFHN0dtMFZQV2lKMnAxb2sxMUpkcnFTQkhwWFJIY0UxTDhnWWFBR0E?oc=5",
+      "source": "Cohere · via Bloomberg.com",
+      "date": "2026-11-06T21:45:52.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Agents reveal secrets when offered to team up with each other",
+      "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+      "source": "The Register",
+      "date": "2026-11-06T21:39:23.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Copilot is coming to the reworked Windows 11 search box, but Microsoft claims it will be an 'opt-in' feature",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGxfTXljY3ZwV3lmWG96SDZVb2F4RTJOQjdXWUZYNWxCRGl6R2Rsa3ZqV25oZGxaYXNHaWtlRmFLRTgyNm1YaGhTVTNVUEpTLWVjeDN5VFN2UzlIb09fOWh2dndWZnZmTUVhN0RMbnFfSmJuV203X0J0SE1RMEVleU1iNmtiT0pvcnprMG5mckZWNGpDMkZZUTljY2ttT2pmT3loYzJGRy1KWDZ5WGxvYXlYS1RXd01VMXR5Vm9iUVFaemdvRjZhd25fdGFRRjhOUmpVRGpGMjJTRTRjbHJlVzhzVVd0alQ1S1E?oc=5",
+      "source": "Microsoft AI · via TweakTown",
+      "date": "2026-11-06T21:15:03.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "source": "Ars Technica",
+      "date": "2026-11-06T20:56:41.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Project EVE: Claude plays MMORPGs",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
+      "source": "Anthropic · via Anthropic",
+      "date": "2026-11-06T20:52:05.000Z"
+    },
+    {
+      "id": 20,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News",
+      "date": "2026-11-06T20:27:23.000Z"
+    },
+    {
+      "id": 21,
+      "title": "'The 2010s Aren't Coming Back': a16z Sounds Alarm On Private Equity's Buyout Business",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbm9ieFNWeUlwZEdJOHBUSWg2S0xHcGVVUTJCLU1FOEVLMjk1NlpHVFBBS21rcWpCS2FHcUphTGRSUDFEYVcxb0lGSllGYS1pQ3Z6WThtV1ZBLV8xRHlvNFQ1N3FYWUF6NzFmbm1MakhSMEJvUW9rNzlKOENBQ0s5c1ExMTlnQy1aMWNoR2VVRHBmaGFSUkxSMVNTNjM5eUJuUFhTNWNNWUtLN1BUemlIelU4MVpTdTZCRUZSSnRVR3BvUlFpaU42ZlAwWTlsbmJoLWZfaE5KNTNydTlrdVk1bjlB?oc=5",
+      "source": "a16z · via Benzinga",
+      "date": "2026-11-06T19:49:18.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+      "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+      "source": "Crunchbase News",
+      "date": "2026-11-06T19:29:06.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Why is the world’s best streaming film library stuck with one of the worst streaming apps?",
+      "url": "https://www.fastcompany.com/91636805/why-is-the-worlds-best-streaming-film-library-stuck-with-one-of-the-worst-streaming-apps?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-06T18:37:22.000Z"
+    },
+    {
+      "id": 24,
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-06T18:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "source": "Simon Willison",
+      "date": "2026-11-06T17:13:12.000Z"
+    },
+    {
+      "id": 26,
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "source": "NVIDIA",
+      "date": "2026-11-06T16:00:35.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "source": "Latent Space",
+      "date": "2026-11-06T15:10:53.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Un ciberataque expone los datos médicos y financieros de casi un quinto de la población de Moldavia",
+      "url": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-06T14:40:09.000Z"
+    },
+    {
+      "id": 29,
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-06T14:00:48.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Sequoia is leaving London. Should Europe be worried?",
+      "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+      "source": "Sifted",
+      "date": "2026-11-06T13:36:15.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-06T13:10:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Discourse Analysis of Legislative Bill Discussions",
+      "url": "https://arxiv.org/abs/2611.05381",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "The AI backlash needs a plan",
+      "url": "https://www.platformer.news/thursday-newsletter-7/",
+      "source": "Platformer",
+      "date": "2026-11-06T01:01:17.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Cloptima",
+      "url": "https://www.producthunt.com/products/cloptima",
+      "source": "Product Hunt",
+      "date": "2026-11-05T23:40:34.000Z"
+    },
+    {
+      "id": 36,
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-05T18:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

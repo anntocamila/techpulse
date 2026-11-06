@@ -1,8 +1,8 @@
 {
-  "id": "2026-11-06-00",
-  "generatedAt": "2026-11-06T00:38:38.421Z",
-  "periodStart": "2026-11-04T00:38:38.421Z",
-  "periodEnd": "2026-11-06T00:38:38.421Z",
+  "id": "2026-11-06-15",
+  "generatedAt": "2026-11-06T15:30:14.324Z",
+  "periodStart": "2026-11-04T15:30:14.324Z",
+  "periodEnd": "2026-11-06T15:30:14.324Z",
   "title": "Titulares del 6 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -19,33 +19,33 @@
           ]
         },
         {
-          "text": "OpenAI is stepping back from NDAs for data center projects",
-          "sources": [
-            2
-          ]
-        },
-        {
-          "text": "How to use AI and ChatGPT to avoid falling victim to fraud or scams",
+          "text": "US tech stocks edge up after AI slowdown fears hit value of firms - live updates",
           "sources": [
             4
           ]
         },
         {
-          "text": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "text": "Amazon will let you text Alexa your shopping list",
           "sources": [
-            32
+            19
           ]
         },
         {
-          "text": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+          "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
           "sources": [
-            35
+            22
+          ]
+        },
+        {
+          "text": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+          "sources": [
+            30
           ]
         },
         {
           "text": "Discourse Analysis of Legislative Bill Discussions",
           "sources": [
-            36
+            31
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Perplexity launches its own take on AI agents for work",
-          "sources": [
-            12
-          ]
-        },
-        {
-          "text": "Open Models Crowd the Top as Kimi and Mistral Match the Frontier",
-          "sources": [
-            14
-          ]
-        },
-        {
-          "text": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
+          "text": "Microsoft Learns Its Lesson With Copilot Being Shoved Down The User’s Throat; Promises Optional Addition In Windows 11 Search UI",
           "sources": [
             16
           ]
         },
         {
-          "text": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+          "text": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Anthropic Might Have to Reduce IPO Target. This Analyst Says It Will Go Ahead.",
           "sources": [
             18
           ]
         },
         {
-          "text": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+          "text": "Cohere to Acquire AISLE to Advance Cyber-Resilient Sovereign AI",
           "sources": [
-            22
+            23
           ]
         },
         {
-          "text": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "text": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks",
           "sources": [
-            23
+            27
+          ]
+        },
+        {
+          "text": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+          "sources": [
+            29
           ]
         }
       ]
@@ -101,39 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "a16z-Linked Wallets Deposit 233,000 HYPE to Exchanges Since October 30",
+          "text": "Sequoia is leaving London. Should Europe be worried?",
           "sources": [
-            24
+            21
           ]
         },
         {
-          "text": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+          "text": "AI cuts cyberattack costs, putting slow-patching schools, hospitals and small firms at risk",
           "sources": [
             25
           ]
         },
         {
-          "text": "Harbinger raises $240M after expanding into defense",
+          "text": "How To Challenge A Monopoly In The AI Age",
           "sources": [
             26
           ]
         },
         {
-          "text": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+          "text": "crystl",
           "sources": [
-            28
+            32
           ]
         },
         {
-          "text": "Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy",
+          "text": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
           "sources": [
-            29
+            34
           ]
         },
         {
-          "text": "Inside the race to build European hardware without China",
+          "text": "Harbinger raises $240M after expanding into defense",
           "sources": [
-            30
+            35
           ]
         }
       ]
@@ -145,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-          "sources": [
-            6
-          ]
-        },
-        {
-          "text": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+          "text": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
           "sources": [
             8
           ]
         },
         {
-          "text": "La Junta Electoral autoriza el uso de MiDNI para identificarse al votar en las elecciones generales del 29 de noviembre",
+          "text": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
           "sources": [
-            11
+            10
           ]
         },
         {
-          "text": "Xbox rediseña su app para PC, que ahora es más simple y hasta un 60 % más rápida",
+          "text": "Un ciberataque expone los datos médicos y financieros de casi un cuarto de la población de Moldavia",
           "sources": [
-            19
+            12
           ]
         },
         {
-          "text": "The midterms weren’t the rebuke of AI money many expected",
+          "text": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
           "sources": [
-            21
+            15
           ]
         },
         {
-          "text": "Bill Gates: la IA, la tecnología más peligrosa jamás creada",
+          "text": "This $749 device turns seawater into drinking water",
           "sources": [
-            33
+            20
+          ]
+        },
+        {
+          "text": "Calienta el Black Friday: tres teléfonos top con su precio histórico más bajo",
+          "sources": [
+            24
           ]
         }
       ]
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Up.Summit puts next-generation aviation and space technology on display at KSC",
+          "text": "Jeff Bloomfield Named Opening Keynote Speaker for 25th Annual AMI Conference",
           "sources": [
-            17
+            11
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Meta indefinitely pauses its new commercial terms, which critics say would let it scrape sites of business users, after publisher outcry and court injunctions (Nieman Lab)",
+          "text": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
           "sources": [
-            3
+            2
           ]
         },
         {
-          "text": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "text": "DoJ's 'Super Intelligence Task Force' up and running",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "A Stranger Things prequel series is coming to Netflix in 2028",
           "sources": [
             7
           ]
         },
         {
-          "text": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "text": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages (Qianer Liu/The Information)",
           "sources": [
             9
           ]
         },
         {
-          "text": "6 Best VPN Services (2026), Tested and Reviewed",
-          "sources": [
-            10
-          ]
-        },
-        {
-          "text": "Claude Code sends your email address to websites",
+          "text": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
           "sources": [
             13
           ]
         },
         {
-          "text": "Blue Origin's New Glenn launch delay will continue into 2027",
+          "text": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
           "sources": [
-            15
+            14
           ]
         }
       ]
@@ -247,33 +247,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The travel company is planning an “AI-native” trip-planning experience that’s set to roll out next year. www.theverge.com/tech/1028412...",
+          "text": "iOS’s keyboard won’t suggest or swipe-type a lengthy list of insults and political phrases.﻿ www.theverge.com/tech/1028663...",
           "sources": [
-            5
+            3
           ]
         },
         {
-          "text": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+          "text": "Controlling Biology - Fabian Theis, Helmholtz Munich",
           "sources": [
-            20
+            6
+          ]
+        },
+        {
+          "text": "Using Evil Spirits To Cast Out Evil Spirits!",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "The AI backlash needs a plan",
+          "sources": [
+            33
           ]
         },
         {
           "text": "Quoting Paul Ford",
           "sources": [
-            27
-          ]
-        },
-        {
-          "text": "Craft and taste",
-          "sources": [
-            31
-          ]
-        },
-        {
-          "text": "[AINews] It's Swapping Season",
-          "sources": [
-            34
+            36
           ]
         }
       ]
@@ -285,252 +285,252 @@
       "title": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-06T00:38:39.248Z"
+      "date": "2026-11-06T15:30:15.107Z"
     },
     {
       "id": 2,
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge AI",
-      "date": "2026-11-06T00:37:56.000Z"
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-06T15:27:09.000Z"
     },
     {
       "id": 3,
-      "title": "Meta indefinitely pauses its new commercial terms, which critics say would let it scrape sites of business users, after publisher outcry and court injunctions (Nieman Lab)",
-      "url": "https://www.techmeme.com/261105/p63#a261105p63",
-      "source": "Techmeme",
-      "date": "2026-11-06T00:35:06.000Z"
+      "title": "iOS’s keyboard won’t suggest or swipe-type a lengthy list of insults and political phrases.﻿ www.theverge.com/tech/1028663...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mznowpfs7l2c",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-06T15:25:35.222Z"
     },
     {
       "id": 4,
-      "title": "How to use AI and ChatGPT to avoid falling victim to fraud or scams",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSm9xbFRtbFRMM1FRd0dVdU1zQ05VYW9lYm1ESFFRUWxMYXVocWVvTXZDSVJYeUh6cmJOMlR3bjdZWVVSNjdjcWE5REM2MDVsSU15OWxTZzFId3U4bzBNbXdWRFFseXZGTzAxNk83ZlpNSDhIdHh2VjU3amZCcEVIOHFjWEV2OTJvTGdWM2FB0gGTAUFVX3lxTE5aZVJDU08wNFdhdFpXTDM0U19kb1hVekFESHVYdDUzSE5OcUVCeFI2WFozbzcxeUtPZTlLTnBZNW91V2ZxLTJmVmZxOTdoY25HWERJMDJSZUlhbzREWkZMb18zRFB5OVNqR0h5TUZJVXlsUWo0TVI3SmVqRjM2TVcwUkhteUVQMUpMMUJobURpSDlJRQ?oc=5",
-      "source": "Google News · IA · via ABC7 New York",
-      "date": "2026-11-06T00:20:39.000Z"
+      "title": "US tech stocks edge up after AI slowdown fears hit value of firms - live updates",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5",
+      "source": "Google News · IA · via BBC",
+      "date": "2026-11-06T15:25:17.000Z"
     },
     {
       "id": 5,
-      "title": "The travel company is planning an “AI-native” trip-planning experience that’s set to roll out next year. www.theverge.com/tech/1028412...",
-      "url": "https://bsky.app/profile/theverge.com/post/3mzm3pr56s22h",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-06T00:09:02.225Z"
+      "title": "DoJ's 'Super Intelligence Task Force' up and running",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
+      "source": "The Register",
+      "date": "2026-11-06T15:15:00.000Z"
     },
     {
       "id": 6,
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "source": "TechCrunch",
-      "date": "2026-11-06T00:07:18.000Z"
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "source": "Latent Space",
+      "date": "2026-11-06T15:10:53.000Z"
     },
     {
       "id": 7,
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-      "source": "The Verge",
-      "date": "2026-11-05T23:45:10.000Z"
+      "title": "A Stranger Things prequel series is coming to Netflix in 2028",
+      "url": "https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/",
+      "source": "Engadget",
+      "date": "2026-11-06T15:09:52.000Z"
     },
     {
       "id": 8,
-      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
       "source": "CNBC Tech",
-      "date": "2026-11-05T23:39:32.000Z"
+      "date": "2026-11-06T15:06:11.000Z"
     },
     {
       "id": 9,
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "source": "Ars Technica",
-      "date": "2026-11-05T23:09:36.000Z"
+      "title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages (Qianer Liu/The Information)",
+      "url": "https://www.techmeme.com/261106/p13#a261106p13",
+      "source": "Techmeme",
+      "date": "2026-11-06T15:05:48.000Z"
     },
     {
       "id": 10,
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "url": "https://www.wired.com/gallery/best-vpn/",
-      "source": "Wired",
-      "date": "2026-11-05T23:00:00.000Z"
+      "title": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
+      "source": "Xataka",
+      "date": "2026-11-06T15:01:11.000Z"
     },
     {
       "id": 11,
-      "title": "La Junta Electoral autoriza el uso de MiDNI para identificarse al votar en las elecciones generales del 29 de noviembre",
-      "url": "https://www.xataka.com/aplicaciones/junta-electoral-autoriza-uso-midni-para-identificarse-al-votar-elecciones-generales-29-noviembre",
-      "source": "Xataka",
-      "date": "2026-11-05T22:59:00.000Z"
+      "title": "Jeff Bloomfield Named Opening Keynote Speaker for 25th Annual AMI Conference",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkh4MTRyUE1zZmlBQ3VVeFlWdEpfVTdidWYyQjlmXzVaMVZPQkU5RVNzbGQ2TnRTbFJGbUZFT0ZaZjBWeTVIVnBub2JpdE83NVU5TG5PanRwN1BYdHkxVkVfdDdmdnIwMzVhUWdTV0NnM3lnS1VSbXI1TldNSWs0MzFtUEIwRjJjWjNxQnd2WVprMEhhUktURUJzNWNGQUxMUFZmWUxBdFRUQk8tbTJZX19RcU16Mm1peHhTSW5R?oc=5",
+      "source": "Google News · Eventos tech · via Boating Industry",
+      "date": "2026-11-06T15:00:15.000Z"
     },
     {
       "id": 12,
-      "title": "Perplexity launches its own take on AI agents for work",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmpjbUlKRk5NNS1ocHJHQkVMNklPamFtSzNjUjhEWWItYndXYk1UbWdjUlB1NXFzc3NQX1Q0MVJnVm95TkZtYUUyZTFCUVA3WjZ1M19MMGNZQ09EeEFuTGZMd3JvV0xWaEl1dnh5Z0lYOTg3MkZhMnVsRnlWMFdoQ0lNMzlvZ1Bka1k0UHdxYUFxSHp3cEZhMmJFNA?oc=5",
-      "source": "Perplexity · via The Verge",
-      "date": "2026-11-05T22:26:50.000Z"
+      "title": "Un ciberataque expone los datos médicos y financieros de casi un cuarto de la población de Moldavia",
+      "url": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-06T14:40:09.000Z"
     },
     {
       "id": 13,
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "Hacker News",
-      "date": "2026-11-05T22:17:15.000Z"
+      "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "source": "Wired",
+      "date": "2026-11-06T14:20:59.000Z"
     },
     {
       "id": 14,
-      "title": "Open Models Crowd the Top as Kimi and Mistral Match the Frontier",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3d0TXRuQW90MU5STmRpelFyLXZ3TDkwZDVQR0w4X0tPbG91NW05cDA1S25ZTGRzZVRjNnBIc3RPUmxqT3doenlVNFRtUGVfaFF2X29FVm42bjBqWFY5b0pqNW9LcUh5V2RKRXR1VFZRMHp0NlRmVDZBU3dvSC1qZGk5cnhzQXd4dlZYMi1NNkJGQUZnb0lLQjRmZGRJR0twSkNFU19ManN6NlRPeG82TGNDcHFfajlxb0VHSGhTQQ?oc=5",
-      "source": "Mistral AI · via PYMNTS.com",
-      "date": "2026-11-05T22:17:02.000Z"
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "date": "2026-11-06T14:13:32.000Z"
     },
     {
       "id": 15,
-      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-      "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
-      "source": "Engadget",
-      "date": "2026-11-05T22:10:09.000Z"
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T14:10:00.000Z"
     },
     {
       "id": 16,
-      "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
-      "source": "Anthropic · via AP News",
-      "date": "2026-11-05T21:50:00.000Z"
+      "title": "Microsoft Learns Its Lesson With Copilot Being Shoved Down The User’s Throat; Promises Optional Addition In Windows 11 Search UI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWlORzZ3VDZlQzJPaUNNSnBFSjZYOWNpNXM4MkIxVUVxTmJ5ZF9SWHo4b2hxYm1GNnBzekRfWVV2Q19wQ2l6blJDTDZRWmRwdG1HNnZ5WllfM19Hc0tzSk1pLXR3a3ZFU3ItQl9oTDFTWXhPcmRBeDk5YTIxNFhzeXk5VXRGLTJCd3Q5bThFdVN1d2UxMkFj0gGcAUFVX3lxTFBEZjF5RTltLXdYczRDN0VLWFpYT2hNWGhrZzhyTnN6RFFsMTFvX3llcUdwNjZveTZJQ3o4b0hiUnczMUpQcjBJUDZhQ0d3NGc3bkZHa2NYcEFRQ2J0XzdqSHV5V1FQZDlOWlItUTB1UVpmdjg0RkIyTGs2M1JTckswcmNXQnNpRGlHbGRCcDRkbDg2VzF4RkdXN2tCdA?oc=5",
+      "source": "Microsoft AI · via Wccftech",
+      "date": "2026-11-06T14:02:01.000Z"
     },
     {
       "id": 17,
-      "title": "Up.Summit puts next-generation aviation and space technology on display at KSC",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXVRM1pkOGxHbkE2RmgxLVhNOWlpNDBuaUdYdnFJMDdmYkFaQzVxbmt2ZTQ2MlRlWWQzaFY3RTZWVjl5eHdiMlMyTHYyVzFCdnc2MFduNnJ5Z3JPdldseFA3dVlmLWhFZHF5b3FwaFlWbGxSVkRBN2RQczBvT0FYQnZqcE11cmVnQ0NxSnJWZElLOUEtaXNkc3dZYjFYUENEX1JZSVVmRnN0R2puY09RTmtjakRzRk9LbFFFbXhPRHk5bHZVR2VxZmlLdnFKN2owbEdTRV9B?oc=5",
-      "source": "Google News · Eventos tech · via Florida Today",
-      "date": "2026-11-05T21:34:55.000Z"
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-06T14:00:48.000Z"
     },
     {
       "id": 18,
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakk5alY5V0pIS1JHY2VxWmp2UDg0VURLNm5FRkwwV0w5clpEOTZlTTA5QjgwaVh0RUZ3N1NjYXpwbldTc3pRalBBaUlGZWhIaEx2OFh6c0lPQW95SHNSVkQ4NFB0amx0MWRBRkNZb1ROZm9vNE51dXh1V3I5VTVXN2tYTFhFN3pjTElqNXQzaHg0TnRGLXpvOFpobS1kZUhRbEN3bmpaajJnN0Y2bnlIU1R4Yw?oc=5",
-      "source": "Microsoft AI · via BleepingComputer",
-      "date": "2026-11-05T21:30:30.000Z"
+      "title": "Anthropic Might Have to Reduce IPO Target. This Analyst Says It Will Go Ahead.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjN0Q2VUc0x0dDdEN3VLSWlkT2UwdmM4WXduMlJKZlBoNTN5V2kxcHA3VFA4dlV4MnVDMTBTVm5UOE9YYzllTElFcTZILUpkdEV0bUdfOVpiNFk0QmNmUzh6ZV9FemdFUlY3aGNTVzdVSG9RUUhFMWtVTnkxWFZlN2hR?oc=5",
+      "source": "Anthropic · via Barron's",
+      "date": "2026-11-06T14:00:00.000Z"
     },
     {
       "id": 19,
-      "title": "Xbox rediseña su app para PC, que ahora es más simple y hasta un 60 % más rápida",
-      "url": "https://hipertextual.com/videojuegos/nueva-app-xbox-pc/",
-      "source": "Hipertextual",
-      "date": "2026-11-05T21:20:40.000Z"
+      "title": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge AI",
+      "date": "2026-11-06T14:00:00.000Z"
     },
     {
       "id": 20,
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-      "source": "dev.to · IA · via Jem",
-      "date": "2026-11-05T21:12:11.000Z"
+      "title": "This $749 device turns seawater into drinking water",
+      "url": "https://www.fastcompany.com/91636647/this-749-device-turns-seawater-into-drinking-water?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-06T14:00:00.000Z"
     },
     {
       "id": 21,
-      "title": "The midterms weren’t the rebuke of AI money many expected",
-      "url": "https://www.fastcompany.com/91634768/the-midterms-werent-the-rebuke-of-ai-money-many-expected?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-05T20:31:50.000Z"
+      "title": "Sequoia is leaving London. Should Europe be worried?",
+      "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+      "source": "Sifted",
+      "date": "2026-11-06T13:36:15.000Z"
     },
     {
       "id": 22,
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "source": "NVIDIA",
-      "date": "2026-11-05T20:00:41.000Z"
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-06T13:10:00.000Z"
     },
     {
       "id": 23,
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "date": "2026-11-05T19:35:16.000Z"
+      "title": "Cohere to Acquire AISLE to Advance Cyber-Resilient Sovereign AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzY2R1ktOFdtWFRGLUR5cGZnSEdSaEdWLU1ZVEgxNWdSWXVsY3E4c2d3YWhicFZOMUFjc0JqZWswZzdkWU5NSXJGSmRhSnlvR3U3SmJTeEZtQ0dUcjlkanNwdU83YWwyVUN3ZWM3ZlFlaHdvSlFBOW9EQTB1YzF1VFlDcllQQU1ySjN6ZnRGV3ZGXzZHaXVNcVJlZGV2UnNGWkh1VUpfYjBjdXdfQ0E?oc=5",
+      "source": "Cohere · via StorageNewsletter",
+      "date": "2026-11-06T13:07:05.000Z"
     },
     {
       "id": 24,
-      "title": "a16z-Linked Wallets Deposit 233,000 HYPE to Exchanges Since October 30",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kTjZaTFFadWkwZjhYOTBmR1NWZTJjTTN1WkY0MWxveElkYzJTX3k2VVM4dF85dVU2alc3djFmRDJzT05tLXJjWnY3NG01WFI3MEVmS2FJWQ?oc=5",
-      "source": "a16z · via Cryptonews.net",
-      "date": "2026-11-05T19:11:51.000Z"
+      "title": "Calienta el Black Friday: tres teléfonos top con su precio histórico más bajo",
+      "url": "https://hipertextual.com/ofertas-descuentos/telefonos-pc-componentes/",
+      "source": "Hipertextual",
+      "date": "2026-11-06T12:48:44.000Z"
     },
     {
       "id": 25,
+      "title": "AI cuts cyberattack costs, putting slow-patching schools, hospitals and small firms at risk",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13enk3T0ctaHd4cXhGRkhKYkhIcmVrTU51OGZPMmttR2JhdnF4Q2lfWnBVUGZnTHRrUkIxOGlMeVdQV3VCcmZDV0pQMWJMZmJQeTYwVDRQSFU?oc=5",
+      "source": "a16z · via www.tokenpost.com",
+      "date": "2026-11-06T12:22:01.000Z"
+    },
+    {
+      "id": 26,
+      "title": "How To Challenge A Monopoly In The AI Age",
+      "url": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+      "source": "Crunchbase News",
+      "date": "2026-11-06T12:00:08.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ3RhTEhOTEpkWGJvSENsR3ZGXzRMNUFGRURhTy11a3JTdHRuN0Z1X3I1MmdXNUp1ZGJ3VUM4dS1GSDZDUnczWHN4QnM1aEQ4Z0xHQU5ZQVdxT1B1ZFJqZDNGQ1o1M2hVQjEyRDNhdUs1VVgwcldwR2NWSzJ5ejNNbzNqX19DaVE4Znh2Z3lVYURiVVk3WHZpZi1Nal9fbzRiSG1YM0JJRQ?oc=5",
+      "source": "Perplexity · via Yahoo Tech",
+      "date": "2026-11-06T11:18:59.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Using Evil Spirits To Cast Out Evil Spirits!",
+      "url": "https://dev.to/wiseai/using-evil-spirits-to-cast-out-evil-spirits-4jjg",
+      "source": "dev.to · IA · via Mahmoud 🦀",
+      "date": "2026-11-06T11:11:37.000Z"
+    },
+    {
+      "id": 29,
+      "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm1rN0dhNG5aaDhDRVRyQVpMaXVROE8wbUFRVUJLZnYwaUQwZF9jMGtfX0doQjVZM3JaRFZHd2FSNFRvODVIUy1TeXJ3d09OZEZPMDB6cEE0eWhHdDNGa3FTRWRCRkhjaERjTnhudVNMTDV6RmdBX0ZqOTNjbDZFblljUE9INGpzN05KSV81YzdHTlVFS1lKeExydFBaaHVLV0pzR2tyQTBSbHV5SUF3VEY3STZHX0gzZzM1S1VYOWtpSEZsRXhKWjl3YzhQQUpy?oc=5",
+      "source": "xAI · via Reuters",
+      "date": "2026-11-06T07:46:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Discourse Analysis of Legislative Bill Discussions",
+      "url": "https://arxiv.org/abs/2611.05381",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "crystl",
+      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "source": "Product Hunt",
+      "date": "2026-11-06T02:44:33.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The AI backlash needs a plan",
+      "url": "https://www.platformer.news/thursday-newsletter-7/",
+      "source": "Platformer",
+      "date": "2026-11-06T01:01:17.000Z"
+    },
+    {
+      "id": 34,
       "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
       "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
       "source": "TechCrunch Venture",
       "date": "2026-11-05T18:00:00.000Z"
     },
     {
-      "id": 26,
+      "id": 35,
       "title": "Harbinger raises $240M after expanding into defense",
       "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
       "source": "TechCrunch Startups",
       "date": "2026-11-05T17:52:44.000Z"
     },
     {
-      "id": 27,
+      "id": 36,
       "title": "Quoting Paul Ford",
       "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "source": "Simon Willison",
       "date": "2026-11-05T17:34:03.000Z"
-    },
-    {
-      "id": 28,
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet",
-      "source": "Launch HN",
-      "date": "2026-11-05T17:17:42.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy",
-      "url": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
-      "source": "Crunchbase News",
-      "date": "2026-11-05T16:00:40.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Inside the race to build European hardware without China",
-      "url": "https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/",
-      "source": "Sifted",
-      "date": "2026-11-05T14:56:22.000Z"
-    },
-    {
-      "id": 31,
-      "title": "Craft and taste",
-      "url": "https://www.bensbites.com/p/craft-and-taste",
-      "source": "Ben's Bites",
-      "date": "2026-11-05T14:02:12.000Z"
-    },
-    {
-      "id": 32,
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-05T13:10:00.000Z"
-    },
-    {
-      "id": 33,
-      "title": "Bill Gates: la IA, la tecnología más peligrosa jamás creada",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDBfVzhXeDRuQk1PcVVOMFpqMHh0ekQ5Z1ZneUlGQTk5blhnUl9wYzgzbmhWa0RjTFZUeVhGbXFneFZjMlFzamppcFZpSm5vNHhPeEpDdVVkTU4waVZXWEdqOElYQ2g1REMxQzFyd2J6M3hPQjZscUFBbXU2WmowN1daa0UzTjJJbnk4UnVfSlk2UQ?oc=5",
-      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
-      "date": "2026-11-05T10:33:41.000Z"
-    },
-    {
-      "id": 34,
-      "title": "[AINews] It's Swapping Season",
-      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
-      "source": "Latent Space",
-      "date": "2026-11-05T06:24:09.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "url": "https://arxiv.org/abs/2611.05390",
-      "source": "arXiv cs.AI",
-      "date": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "id": 36,
-      "title": "Discourse Analysis of Legislative Bill Discussions",
-      "url": "https://arxiv.org/abs/2611.05381",
-      "source": "arXiv cs.CL",
-      "date": "2026-11-05T05:00:00.000Z"
     }
   ],
   "stats": {

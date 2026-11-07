@@ -1,0 +1,516 @@
+{
+  "id": "2026-11-07-23",
+  "generatedAt": "2026-11-07T23:17:16.864Z",
+  "periodStart": "2026-11-05T23:17:16.864Z",
+  "periodEnd": "2026-11-07T23:17:16.864Z",
+  "title": "Titulares del 7 de noviembre",
+  "subtitle": "205 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "moonshotai/Kimi-K3.1-Pro",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Americans are anxious about the AI boom going bust",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mistral Adds Managed Agents and Apps to Its Studio Platform",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "OpenAI Offers New Senior Engineers 2.6x Microsoft’s Pay",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "xAI's Grok 4.20 wins live trading showdown, edging out OpenAI and Google entries",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Cohere's Nouha Dziri says cheap-worker AI coding teams match frontier results at 70% lower cost",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Sequoia shutting down its Scouts program marks the end of an era",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Trace by Context.dev",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Defense in Depth, Rebuilt for Machine Speed",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "How a Blue Wave midterm might reshape the AI industry",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Sequoia is leaving London. Should Europe be worried?",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "El misterioso motivo por el que los avanzadísimos retretes japoneses no han triunfado en el resto del mundo",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Ni Windows ni SteamOS: este Linux es el sistema favorito de los jugadores de Steam",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "5 tips for getting the most out of AI",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Honolulu summit focuses on building AI-ready workforce for Hawaiʻi",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "What discs can a PlayStation 5 play?",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "What I run on my $10 USD OpenStick homelab",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "What started as a test to understand how sun exposure was aging my skin took a turn that I wasn’t expecting. www.theverge.com/tech/102323…",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "[AINews] Anthropic IPO: Whither Now?",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Quoting Nilay Patel",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "The AI backlash needs a plan",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-07T23:17:17.461Z"
+    },
+    {
+      "id": 2,
+      "title": "What discs can a PlayStation 5 play?",
+      "url": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
+      "source": "Engadget",
+      "date": "2026-11-07T23:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
+      "url": "https://www.techmeme.com/261107/p16#a261107p16",
+      "source": "Techmeme",
+      "date": "2026-11-07T22:45:01.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Americans are anxious about the AI boom going bust",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+      "source": "Google News · IA · via The Washington Post",
+      "date": "2026-11-07T22:32:25.000Z"
+    },
+    {
+      "id": 5,
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch",
+      "date": "2026-11-07T22:07:22.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-07T22:01:17.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Mistral Adds Managed Agents and Apps to Its Studio Platform",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHlWQXZ1U2o4alN1UjU4Nmc3c0k4QnU3WkhsNVFVTERFbXdaTGFETnI1SHlwdWxPcEs0MF9WSFE1c1hFNXM4SjdhdHBwS19OVk1EX2d6alQ4ZWU1T3pDQXpUSUJmNk1IbXpFYzF6X0hwS1MteVBsaXRyUm1tVHQwVnRSLTFDX0RjYWxYT21KTzg?oc=5",
+      "source": "Mistral AI · via FourWeekMBA",
+      "date": "2026-11-07T21:36:06.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-11-07T21:34:26.000Z"
+    },
+    {
+      "id": 9,
+      "title": "OpenAI Offers New Senior Engineers 2.6x Microsoft’s Pay",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVJYNTlJZnFwT0Q2NmdFS3VOaktCUUc2UEFRY1pGNWZDNHFROF9PV3RLbk8tekFlYmFQdmRXNElfbG52QURIOEIwTkt3SC1VN0ZsaUtWOGlmUC1EejgxREhIY25NSUhVcXdSNzdFdU0zLWNnRjl2SktlMFd1YzFpUlJ3NTBaSVFrYnc?oc=5",
+      "source": "Microsoft AI · via FourWeekMBA",
+      "date": "2026-11-07T20:42:23.000Z"
+    },
+    {
+      "id": 10,
+      "title": "El misterioso motivo por el que los avanzadísimos retretes japoneses no han triunfado en el resto del mundo",
+      "url": "https://www.xataka.com/internet-of-things/misterioso-motivo-que-avanzadisimos-retretes-japoneses-no-han-triunfado-resto-mundo",
+      "source": "Xataka",
+      "date": "2026-11-07T20:31:07.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5",
+      "source": "Anthropic · via Axios",
+      "date": "2026-11-07T20:09:02.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Ni Windows ni SteamOS: este Linux es el sistema favorito de los jugadores de Steam",
+      "url": "https://hipertextual.com/videojuegos/cachyos-supera-steamos-linux-steam-encuesta-hardware/",
+      "source": "Hipertextual",
+      "date": "2026-11-07T19:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Honolulu summit focuses on building AI-ready workforce for Hawaiʻi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmowTzZNSW1jYnZUd0EtMGNmWnJfVmE4dkRWTUJvNEVWaE93M3hxZ2hmdl9VcG1VMEhYNUxyallyeVo3M3BlZm9lNzR2UGFOSDNmdTNERjRoNG1tX1AtUDFTWU1mT04yNWVsZ0R3UVBnYWRUUVE1VHJPRkQ5MklmSXYydzlfLVhfZEJlRWVWVjV1by13bVVKeXlMd1pua0M4TjRoMV9n?oc=5",
+      "source": "Google News · Eventos tech · via Maui Now",
+      "date": "2026-11-07T19:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "date": "2026-11-07T18:12:12.000Z"
+    },
+    {
+      "id": 15,
+      "title": "xAI's Grok 4.20 wins live trading showdown, edging out OpenAI and Google entries",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hYUm9LaktUd2xnR3hTZE5hNmZTZ3FjcE1OVUdQQVA4Vm8weW0xUWc5MzVoRXgwanFTZ2hpOG15cnl0eG44aE9wVGtMZHVkYjVVcndtN013WFJXSFJ6T2NsUG4xdHZxQVZLZWY2eUlWQjltb2pjWDZjRVZrb0IxWnhzTTFJN1MxNkhLNi03S3NTZw?oc=5",
+      "source": "xAI · via Briefs Finance",
+      "date": "2026-11-07T17:45:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "What started as a test to understand how sun exposure was aging my skin took a turn that I wasn’t expecting. www.theverge.com/tech/102323…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzqex4noia2z",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-07T17:04:50.841Z"
+    },
+    {
+      "id": 17,
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "source": "The Verge",
+      "date": "2026-11-07T17:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge AI",
+      "date": "2026-11-07T15:50:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "source": "The Register",
+      "date": "2026-11-07T15:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "source": "Wired",
+      "date": "2026-11-07T13:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "5 tips for getting the most out of AI",
+      "url": "https://www.fastcompany.com/91636817/5-ways-to-use-ai-to-actually-make-your-life-easier?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-07T11:00:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Cohere's Nouha Dziri says cheap-worker AI coding teams match frontier results at 70% lower cost",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mRnZDcnlzRlNuVDZDOVdINWROMVZ2ZE01dVMwQV9JLXIwaVFKbGtkSDhLaXhSSkFfY3VLNzV4TXdOYk9LbEk5T0JOU09XNTA1VUM2ODA3c3dwQWM?oc=5",
+      "source": "Cohere · via BigGo Finance",
+      "date": "2026-11-07T10:08:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-07T05:01:54.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+      "url": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-07T04:30:01.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Trace by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt",
+      "date": "2026-11-07T04:05:08.000Z"
+    },
+    {
+      "id": 26,
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "source": "Latent Space",
+      "date": "2026-11-07T03:04:53.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-06T22:20:20.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Defense in Depth, Rebuilt for Machine Speed",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZUJqVXVvVmZuVlROaXBGTW5ramdBZ0JRamhMNU1CSWlHeC12TzVETFFuSDh5SmhTcVpJSDNGVzVERzlPdDVzM2packdOVExvZjFmRW5NckttVV8xY3BPdlU4TER4U1JlTjNVOA?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-06T20:42:48.000Z"
+    },
+    {
+      "id": 29,
+      "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+      "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+      "source": "Crunchbase News",
+      "date": "2026-11-06T19:29:06.000Z"
+    },
+    {
+      "id": 30,
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-06T18:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "source": "Simon Willison",
+      "date": "2026-11-06T17:13:12.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Sequoia is leaving London. Should Europe be worried?",
+      "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+      "source": "Sifted",
+      "date": "2026-11-06T13:36:15.000Z"
+    },
+    {
+      "id": 33,
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-06T13:10:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "The AI backlash needs a plan",
+      "url": "https://www.platformer.news/thursday-newsletter-7/",
+      "source": "Platformer",
+      "date": "2026-11-06T01:01:17.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 205,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

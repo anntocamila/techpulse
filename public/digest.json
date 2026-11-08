@@ -1,10 +1,10 @@
 {
-  "id": "2026-11-08-14",
-  "generatedAt": "2026-11-08T14:40:03.044Z",
-  "periodStart": "2026-11-06T14:40:03.044Z",
-  "periodEnd": "2026-11-08T14:40:03.044Z",
+  "id": "2026-11-08-23",
+  "generatedAt": "2026-11-08T23:20:00.938Z",
+  "periodStart": "2026-11-06T23:20:00.938Z",
+  "periodEnd": "2026-11-08T23:20:00.938Z",
   "title": "Titulares del 8 de noviembre",
-  "subtitle": "188 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "subtitle": "162 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "text": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+          "text": "Hong Kong records nearly 18% rise in ransomware cases amid drop in tech crime",
           "sources": [
-            4
+            3
           ]
         },
         {
-          "text": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+          "text": "Here’s the full text of Jensen Huang’s memo to Nvidia",
           "sources": [
-            24
+            7
           ]
         }
       ]
@@ -39,19 +39,25 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "AI is now building AI: METR finds Anthropic developing models twice as fast",
+          "text": "Perplexity AI Predicts the CPI Data Drop on November 10",
           "sources": [
-            6
+            2
+          ]
+        },
+        {
+          "text": "Anthropic IPO to Test AI Industry's Financial Viability",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Google and Microsoft among those signing up to OpenAI's plan for a new website crawling standard — including opting-out of internet scraping",
+          "sources": [
+            20
           ]
         },
         {
           "text": "Macron-backed AI giant targets British defence work",
-          "sources": [
-            7
-          ]
-        },
-        {
-          "text": "OpenAI Offers New Senior Engineers 2.6x Microsoft’s Pay",
           "sources": [
             21
           ]
@@ -59,19 +65,7 @@
         {
           "text": "xAI's Grok 4.20 wins live trading showdown, edging out OpenAI and Google entries",
           "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Cohere's Nouha Dziri says cheap-worker AI coding teams match frontier results at 70% lower cost",
-          "sources": [
-            25
-          ]
-        },
-        {
-          "text": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-          "sources": [
-            28
+            27
           ]
         }
       ]
@@ -83,33 +77,21 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Agent Clan",
+          "text": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
           "sources": [
-            22
+            16
           ]
         },
         {
-          "text": "Sequoia shutting down its Scouts program marks the end of an era",
+          "text": "Agent Clan",
           "sources": [
             26
           ]
         },
         {
-          "text": "Defense in Depth, Rebuilt for Machine Speed",
+          "text": "AI security links live vulnerability protection with permanent code fixes",
           "sources": [
-            29
-          ]
-        },
-        {
-          "text": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-          "sources": [
-            30
-          ]
-        },
-        {
-          "text": "How a Blue Wave midterm might reshape the AI industry",
-          "sources": [
-            31
+            28
           ]
         }
       ]
@@ -121,39 +103,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "España ya genera el 56% de su electricidad con renovables, pero la AIE señala el gran problema que todavía no ha resuelto",
-          "sources": [
-            2
-          ]
-        },
-        {
-          "text": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-          "sources": [
-            5
-          ]
-        },
-        {
-          "text": "Los personajes más detestados del cine y la televisión reciente (y no son los que piensas)",
+          "text": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
           "sources": [
             8
           ]
         },
         {
+          "text": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Apps to distract you from the endless cycle of doomscrolling",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "El iPod no ha muerto: esta aplicación convierte tu móvil, PC y Mac en el mítico reproductor de Apple",
+          "sources": [
+            17
+          ]
+        },
+        {
           "text": "Enterprise AI is waiting for its Transformer moment",
           "sources": [
-            10
+            22
           ]
         },
         {
           "text": "Conferencia Africana de Startups prevista en Argel constituye \"el mayor evento tecnológico\" de África",
           "sources": [
-            18
-          ]
-        },
-        {
-          "text": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
-          "sources": [
-            19
+            25
           ]
         }
       ]
@@ -165,9 +147,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Pi Network is Going Big on AI as Token Price Remains Near Record Lows",
+          "text": "Web Summit 2026 opens in Lisbon with AI, robotics and Europe’s digital future in the spotlight",
           "sources": [
-            12
+            19
           ]
         }
       ]
@@ -179,39 +161,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The pros and cons of buying refurbished laptops",
+          "text": "What is the Slate Telematics Module and what can it be used for?",
           "sources": [
-            3
+            4
           ]
         },
         {
-          "text": "There’s no slowing down media’s pivot-to-video 2.0",
+          "text": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
           "sources": [
-            11
+            6
           ]
         },
         {
-          "text": "Physicists listened to electrical noise to crack a superconductor mystery",
+          "text": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
           "sources": [
-            13
+            10
           ]
         },
         {
-          "text": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-          "sources": [
-            14
-          ]
-        },
-        {
-          "text": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+          "text": "Nvidia Board of Directors Is Investigating Jensen Huang",
           "sources": [
             15
           ]
         },
         {
-          "text": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
+          "text": "Physicists listened to electrical noise to crack a superconductor mystery",
           "sources": [
-            16
+            23
+          ]
+        },
+        {
+          "text": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+          "sources": [
+            24
           ]
         }
       ]
@@ -223,27 +205,27 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "I eulogized the Cybertruck, a dumb, ugly vehicle that came to symbolize a dumb, ugly political movement www.theverge.com/transportati...",
+          "text": "In the memo Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. www.theverge.com/ai-artificia...",
           "sources": [
-            9
+            5
           ]
         },
         {
-          "text": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
+          "text": "parse_number() as a SQLite extension: C vs Rust",
           "sources": [
-            17
+            11
           ]
         },
         {
-          "text": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+          "text": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
           "sources": [
-            20
+            13
           ]
         },
         {
-          "text": "[AINews] Anthropic IPO: Whither Now?",
+          "text": "How much does it cost to run a text game with LLMs",
           "sources": [
-            27
+            18
           ]
         }
       ]
@@ -255,221 +237,200 @@
       "title": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-08T14:40:03.828Z"
+      "date": "2026-11-08T23:20:01.583Z"
     },
     {
       "id": 2,
-      "title": "España ya genera el 56% de su electricidad con renovables, pero la AIE señala el gran problema que todavía no ha resuelto",
-      "url": "https://www.xataka.com/energia/espana-genera-56-su-electricidad-renovables-aie-senala-gran-problema-que-todavia-no-ha-resuelto",
-      "source": "Xataka",
-      "date": "2026-11-08T14:31:06.000Z"
+      "title": "Perplexity AI Predicts the CPI Data Drop on November 10",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9STEZ0c0JPMTc4VVk2X3AtZ3JWOXhoSkFfZk9WNFBIakRXNFVYQjFaY0REdDEtUDFsY2VqdnNUaE9zY2cxZDNJWXhxcHgxalF3bmFfZUFqQ21QTWhxZlFERDVmOC1zTllyblhrMFpMc1ZqQmttVW9uWkRn?oc=5",
+      "source": "Perplexity · via Tokenist",
+      "date": "2026-11-08T23:04:56.000Z"
     },
     {
       "id": 3,
-      "title": "The pros and cons of buying refurbished laptops",
-      "url": "https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons/",
-      "source": "Engadget",
-      "date": "2026-11-08T14:30:00.000Z"
+      "title": "Hong Kong records nearly 18% rise in ransomware cases amid drop in tech crime",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelotcV93WDlSdlU2ZEJmNExxcmlMNnZ5RzB4SVhET2hHcWRjN1ZBaC1ncEpFT0QxRUJCSjRnaXliRGZkaU9iS0tzb3BnQ3lMdXhucnhjVjU2Q2pNUmMxel82SGx6N1piZnVXM1I4aFVJQTFnNWd0TjhBdHJveGxUUk9ENkdtTnQtYUF1clRvOTlwSFlUei1McHlMeVJ2emxwMFJsYTh6ZjgySVBMYjVOdWMtWW13TjJBS1l5ZmdIMmJyR1JrQzVSNkR0TGw1Vlh1bkHSAdIBQVVfeXFMTlJYRFRTUXpJblppVmd6SWJQZGlWRC1wYi1OQWk0dXpodEV2U1JvQjdRaGtIa1pvLUhzaGYyYUhUVUpLRVdkY21qd3VsVGRQX3pEakM3dmFSVVl0aHFMRTEtYmVNbzFmR0FJLV9oYmVQNnZIM3pmX0Jvb0FjMXExVzJiU1Z6MXU2VElaOHJHcVFjUU5NeW1jRk1MNkd6QVpSc2paVHZhSVBnQ1A1WFlaTmVMbnpaRVpmM2s4NjV4R0RhZ3Z6dXJEaGRFLTJuaFhxckVn?oc=5",
+      "source": "Google News · IA · via South China Morning Post",
+      "date": "2026-11-08T23:00:43.000Z"
     },
     {
       "id": 4,
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5",
-      "source": "Google News · IA · via CNBC",
-      "date": "2026-11-08T14:14:11.000Z"
+      "title": "What is the Slate Telematics Module and what can it be used for?",
+      "url": "https://www.engadget.com/2309298/what-is-slate-telematic-module-uses/",
+      "source": "Engadget",
+      "date": "2026-11-08T23:00:00.000Z"
     },
     {
       "id": 5,
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-08T14:14:11.000Z"
+      "title": "In the memo Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3mztj4jurve2d",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-08T22:57:26.791Z"
     },
     {
       "id": 6,
-      "title": "AI is now building AI: METR finds Anthropic developing models twice as fast",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEhOUlZ3SG9GTmpKcDdYOVZNdUQzc29WMkYwRGI3eFRxQzJCSEhyQ2FTZ0Rxby1FSTloWnI5VE83cWhORG55WXY1S2tJRDQzZkR2clNMN1NGUldEdWFqOFU0UHJhai04Y0k5Qk85ckNfaEw0V3ZYQkFYb2pBbExQYVZNRDdkWjZKa1RaWm0tR01QVFJ3Yko5RG1Ram9pWVgxb0R5T1JUNEtHWXF3?oc=5",
-      "source": "Anthropic · via Dealroom",
-      "date": "2026-11-08T14:11:33.000Z"
+      "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+      "url": "https://www.techmeme.com/261108/p16#a261108p16",
+      "source": "Techmeme",
+      "date": "2026-11-08T22:55:01.000Z"
     },
     {
       "id": 7,
-      "title": "Macron-backed AI giant targets British defence work",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaFdyWlprT242UXRQX1hNNDk2b1FhQ1JpMHNpY3ozWmxIZDUyMVFadzBSZ0dlZi1kX194OW5rcnZWc2tKak1Qa0J5bjBSX2k4S3BOdV93azZodEFlMzR0Z0FjWFpZVm1sN0hCR1ZtOXU1SGtiQldTTEg5VHdkTjg?oc=5",
-      "source": "Mistral AI · via AOL.com",
-      "date": "2026-11-08T14:02:00.000Z"
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge AI",
+      "date": "2026-11-08T22:54:50.000Z"
     },
     {
       "id": 8,
-      "title": "Los personajes más detestados del cine y la televisión reciente (y no son los que piensas)",
-      "url": "https://hipertextual.com/cine-television/los-personajes-mas-detestados-del-cine-y-la-television-reciente-y-no-son-los-que-piensas/",
-      "source": "Hipertextual",
-      "date": "2026-11-08T14:00:00.000Z"
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-08T22:53:57.000Z"
     },
     {
       "id": 9,
-      "title": "I eulogized the Cybertruck, a dumb, ugly vehicle that came to symbolize a dumb, ugly political movement www.theverge.com/transportati...",
-      "url": "https://bsky.app/profile/andyjayhawk.bsky.social/post/3mzsigvbngs2l",
-      "source": "The Verge en Bluesky · via Andrew J. Hawkins",
-      "date": "2026-11-08T13:12:42.221Z"
+      "title": "\"Debo una disculpa a mi familia\": Jensen Huang confiesa su infidelidad mientras Nvidia investiga un posible espionaje chino",
+      "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino",
+      "source": "Xataka",
+      "date": "2026-11-08T22:46:00.000Z"
     },
     {
       "id": 10,
+      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+      "source": "The Verge",
+      "date": "2026-11-08T22:37:22.000Z"
+    },
+    {
+      "id": 11,
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "source": "Simon Willison",
+      "date": "2026-11-08T22:26:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+      "source": "TechCrunch",
+      "date": "2026-11-08T22:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://latent.space/p/cs146s/",
+      "source": "Latent Space",
+      "date": "2026-11-08T21:41:44.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Anthropic IPO to Test AI Industry's Financial Viability",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTJDUU11OHd3c1RRWWRaVEtYdWxCdlNCWGVMMUxiM1BLLXEzM1AyOHJyS2JlRGM2VG1DcGdzR1laV21seHBYaVRuSS13ZmNoY2xjSzVnUnVLXzl1QVdlRm44V1o5LXd6eDRGblZFZDZXWFVPRlpFdDlQN1h6MWZIaEhiWmd5aXBESng1MThuRTVlVU03VzBhQ3FKSQ?oc=5",
+      "source": "Anthropic · via BankInfoSecurity",
+      "date": "2026-11-08T20:40:07.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "source": "Hacker News",
+      "date": "2026-11-08T20:26:43.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-08T19:51:30.000Z"
+    },
+    {
+      "id": 17,
+      "title": "El iPod no ha muerto: esta aplicación convierte tu móvil, PC y Mac en el mítico reproductor de Apple",
+      "url": "https://hipertextual.com/guias/ipod-apple-app-reproductor-musica-classipod/",
+      "source": "Hipertextual",
+      "date": "2026-11-08T19:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "How much does it cost to run a text game with LLMs",
+      "url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7",
+      "source": "dev.to · IA · via Aliaksei Zelianouski",
+      "date": "2026-11-08T18:46:19.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Web Summit 2026 opens in Lisbon with AI, robotics and Europe’s digital future in the spotlight",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDZkVlhsanc2cGVqU2JSTFFNN0kzOHJKelJwWVYtZ0hmVTgzVVFseS1NWklOWEFTbXR2LWxzMFNCTld3WnZPTEp1RU5YeHNLRXhJYjg0NUFqcTFDZjBxcW5DejRBY1FsdjZBUGQ1RzFHb1pNRUozUkZGMWt4aFJJUUNxWWNpc2VtN1Z4SV8wOFYtbFlIbVpwMUR1QV9IYVVuVV9ieWNzSW4xQzlwMklOTE1mYzBiYUpiR0ZydE9PU2wwTkltTXBkcVlINWI0SDJKMFEyRA?oc=5",
+      "source": "Google News · Eventos tech · via Essential Business",
+      "date": "2026-11-08T17:34:11.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Google and Microsoft among those signing up to OpenAI's plan for a new website crawling standard — including opting-out of internet scraping",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd29saUJrSjhXOHFscWJhSVBHbkVVNTdSOUZiV3lUalRBOHdfdTVCdHBRcHNkenMtSjI2cHNuUzgzVnFOdWxQYlVyR3ZodnlwNjBRalhhWS1wQlBTUC1WYzJDUF9vNUpubmJCNzJvaEljS3o1dDlCaTdTX0pHTHlrakRPMWZST3czUGFONERqeGRyLTFld2tRMnRMU1J2NzJzb2dsdHdzZzZtUHk0U3N4ajhyWWpLZHJEMkpxdW8xODlRSHJHNHNQeGFHSlM5RldHdzlqaG1aQzhCeEJSajRYQjgtTlIwaW9RcHRKYkl1ZlQ5VGhqUGh1cDVSOA?oc=5",
+      "source": "Microsoft AI · via TechRadar",
+      "date": "2026-11-08T17:05:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Macron-backed AI giant targets British defence work",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3BBQmZkc0RRa3p6eVdCdC1EbWdubnV5Tk51V1ZmSVAwSUFhX0hjdXk5dHR1bXNPck5aSThTZTdGdUNScW5DME1CMUtEdzhKZldNQW9ReVBjWFF4cjBDRjhIYnlTVUUxVHk3M2c3eDJXZjJZOTRlQUUzODJNUFVFQmJWQ0hmaUZkallyZjYyWlNmcEF1VE8tQXl6WmIyYTRwUHc?oc=5",
+      "source": "Mistral AI · via The Telegraph",
+      "date": "2026-11-08T14:02:00.000Z"
+    },
+    {
+      "id": 22,
       "title": "Enterprise AI is waiting for its Transformer moment",
       "url": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Tech",
       "date": "2026-11-08T13:00:00.000Z"
     },
     {
-      "id": 11,
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-      "source": "The Verge",
-      "date": "2026-11-08T13:00:00.000Z"
-    },
-    {
-      "id": 12,
-      "title": "Pi Network is Going Big on AI as Token Price Remains Near Record Lows",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSTZxTUVRMkJ2anhWZXNYVG9MNW9EYS1CNmM1UzNlcW1tYVNfWW5RenFuYlZnQVpmT2VFamZmRWpaRFJTaUQtVEVrSnR2U3Atb3FJU1EySWFCeEk0aHVsU1FsRjBKUk9CUDlpRw?oc=5",
-      "source": "Google News · Eventos tech · via BeInCrypto",
-      "date": "2026-11-08T12:30:44.000Z"
-    },
-    {
-      "id": 13,
+      "id": 23,
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
       "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
       "source": "Ars Technica",
       "date": "2026-11-08T12:15:31.000Z"
     },
     {
-      "id": 14,
+      "id": 24,
       "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
       "url": "https://www.wired.com/gallery/best-computer-speakers/",
       "source": "Wired",
       "date": "2026-11-08T12:00:00.000Z"
     },
     {
-      "id": 15,
-      "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
-      "url": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
-      "source": "The Register",
-      "date": "2026-11-08T11:19:00.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
-      "url": "https://www.techmeme.com/261108/p7#a261108p7",
-      "source": "Techmeme",
-      "date": "2026-11-08T11:00:01.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Don't Write More Prompts. Install These 10 Trending 'Skills' Instead",
-      "url": "https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc",
-      "source": "dev.to · IA · via Taqui",
-      "date": "2026-11-08T07:41:18.000Z"
-    },
-    {
-      "id": 18,
+      "id": 25,
       "title": "Conferencia Africana de Startups prevista en Argel constituye \"el mayor evento tecnológico\" de África",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUEkyOTZvUzBwSVdoM0FzZjJWODZzRnhqTmJFT0xfSXFmbEI5a0Y2bFZUc2xlenJXODVLMnp0Unc5Z1RKNXFCeUdTWmpxY3dLQkI0X3VDMGdHcVFzQUtxaE96QW1zazh5My1XNXpxbkpVS2w1TkRySms3VVZvaFhYWHU3QWNhOUNDZHBqUkJVYlplSGZ3by1Ea1A0V0lGd3hINWN3ZDBuY3M4b0Q3RTFHekNZZ1VMTWsyZVpjQkF4X0dIQWhxMEVJemVCZjJpd1VxRndub2xVeHlpRmV2dHFJX0Mza3l6dVVrdHdpVG9SWWs?oc=5",
       "source": "Google News · Tecnología (ES) · via وكالة الأنباء الجزائرية",
       "date": "2026-11-08T07:10:00.000Z"
     },
     {
-      "id": 19,
-      "title": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
-      "url": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
-      "source": "El País Tecnología",
-      "date": "2026-11-08T04:30:01.000Z"
-    },
-    {
-      "id": 20,
-      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-      "source": "Simon Willison",
-      "date": "2026-11-07T23:57:46.000Z"
-    },
-    {
-      "id": 21,
-      "title": "OpenAI Offers New Senior Engineers 2.6x Microsoft’s Pay",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVJYNTlJZnFwT0Q2NmdFS3VOaktCUUc2UEFRY1pGNWZDNHFROF9PV3RLbk8tekFlYmFQdmRXNElfbG52QURIOEIwTkt3SC1VN0ZsaUtWOGlmUC1EejgxREhIY25NSUhVcXdSNzdFdU0zLWNnRjl2SktlMFd1YzFpUlJ3NTBaSVFrYnc?oc=5",
-      "source": "Microsoft AI · via FourWeekMBA",
-      "date": "2026-11-07T20:42:23.000Z"
-    },
-    {
-      "id": 22,
+      "id": 26,
       "title": "Agent Clan",
       "url": "https://www.producthunt.com/products/agent-clan",
       "source": "Product Hunt",
       "date": "2026-11-07T17:52:26.000Z"
     },
     {
-      "id": 23,
+      "id": 27,
       "title": "xAI's Grok 4.20 wins live trading showdown, edging out OpenAI and Google entries",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3hYUm9LaktUd2xnR3hTZE5hNmZTZ3FjcE1OVUdQQVA4Vm8weW0xUWc5MzVoRXgwanFTZ2hpOG15cnl0eG44aE9wVGtMZHVkYjVVcndtN013WFJXSFJ6T2NsUG4xdHZxQVZLZWY2eUlWQjltb2pjWDZjRVZrb0IxWnhzTTFJN1MxNkhLNi03S3NTZw?oc=5",
       "source": "xAI · via Briefs Finance",
       "date": "2026-11-07T17:45:00.000Z"
     },
     {
-      "id": 24,
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "source": "The Verge AI",
-      "date": "2026-11-07T15:50:00.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Cohere's Nouha Dziri says cheap-worker AI coding teams match frontier results at 70% lower cost",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mRnZDcnlzRlNuVDZDOVdINWROMVZ2ZE01dVMwQV9JLXIwaVFKbGtkSDhLaXhSSkFfY3VLNzV4TXdOYk9LbEk5T0JOU09XNTA1VUM2ODA3c3dwQWM?oc=5",
-      "source": "Cohere · via BigGo Finance",
-      "date": "2026-11-07T10:08:00.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "source": "TechCrunch Venture",
-      "date": "2026-11-07T05:01:54.000Z"
-    },
-    {
-      "id": 27,
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "source": "Latent Space",
-      "date": "2026-11-07T03:04:53.000Z"
-    },
-    {
       "id": 28,
-      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-06T22:20:20.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Defense in Depth, Rebuilt for Machine Speed",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZUJqVXVvVmZuVlROaXBGTW5ramdBZ0JRamhMNU1CSWlHeC12TzVETFFuSDh5SmhTcVpJSDNGVzVERzlPdDVzM2packdOVExvZjFmRW5NckttVV8xY3BPdlU4TER4U1JlTjNVOA?oc=5",
-      "source": "a16z · via Andreessen Horowitz",
-      "date": "2026-11-06T20:42:48.000Z"
-    },
-    {
-      "id": 30,
-      "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
-      "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
-      "source": "Crunchbase News",
-      "date": "2026-11-06T19:29:06.000Z"
-    },
-    {
-      "id": 31,
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch Startups",
-      "date": "2026-11-06T18:00:00.000Z"
+      "title": "AI security links live vulnerability protection with permanent code fixes",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMm5pT3ZRbGlCM1RQOVBFUVBiSDVpMlZiUmlPWWxXV0h5cE01WWplX0RNQ3VNZ0RtWTVURDBmbERyemgtWFgwaFpld0xxVG9heHFOcnNQbFVHZXc?oc=5",
+      "source": "a16z · via TOKENPOST",
+      "date": "2026-11-07T12:23:13.000Z"
     }
   ],
   "stats": {
-    "posts": 188,
+    "posts": 162,
     "sourcesOk": 61,
     "sourcesFailed": 2
   },

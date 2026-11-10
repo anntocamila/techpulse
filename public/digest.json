@@ -1,10 +1,10 @@
 {
-  "id": "2026-11-09-18",
-  "generatedAt": "2026-11-09T18:03:44.467Z",
-  "periodStart": "2026-11-07T18:03:44.467Z",
-  "periodEnd": "2026-11-09T18:03:44.467Z",
-  "title": "Titulares del 9 de noviembre",
-  "subtitle": "219 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "id": "2026-11-10-02",
+  "generatedAt": "2026-11-10T02:28:10.294Z",
+  "periodStart": "2026-11-08T02:28:10.294Z",
+  "periodEnd": "2026-11-10T02:28:10.294Z",
+  "title": "Titulares del 10 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,33 +19,33 @@
           ]
         },
         {
-          "text": "The future of AI hinges on… Jensen Huang’s sex life?",
+          "text": "Anthropic Still Plans to Go Public as Soon as Next Week: Report",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
           "sources": [
             8
           ]
         },
         {
-          "text": "Microsoft AI Chief Mustafa Suleyman: Agents Could Deserve Rights if Evidence Emerges",
+          "text": "The backlash about data centers might really just be about electricity",
           "sources": [
-            11
-          ]
-        },
-        {
-          "text": "Nancy Pelosi’s replacement is ready to regulate AI",
-          "sources": [
-            16
+            24
           ]
         },
         {
           "text": "Enhancing Academic Advisement with Case-Based Reasoning",
           "sources": [
-            30
+            34
           ]
         },
         {
           "text": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
           "sources": [
-            31
+            35
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue",
+          "text": "10 Generative AI Companies to Know",
           "sources": [
-            10
+            14
           ]
         },
         {
-          "text": "Chasing New Frontiers: We See Anthropic as Well Placed to Capture Value in an AI World",
+          "text": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
           "sources": [
-            13
+            19
           ]
         },
         {
-          "text": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "text": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move",
           "sources": [
-            24
+            21
           ]
         },
         {
-          "text": "Microsoft Pulls the Plug on Copilot for Smart TVs",
+          "text": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
           "sources": [
-            25
+            22
           ]
         },
         {
-          "text": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+          "text": "Exploring the world's languages with Language Explorer",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
           "sources": [
             26
-          ]
-        },
-        {
-          "text": "Perplexity AI Predicts the CPI Data Drop on November 10",
-          "sources": [
-            34
           ]
         }
       ]
@@ -101,33 +101,33 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Monzo in talks to raise up to £500m, reports say",
+          "text": "Katherine M. Boyle, General Partner, Andreessen Horowitz, Elected to FedEx Board of Directors",
           "sources": [
-            19
+            20
           ]
         },
         {
-          "text": "Caviar Co-Founder’s New Sports AI App Snapp Is Now on Android",
+          "text": "AI hardware startup Nominal triples valuation to $3B in 8 months",
           "sources": [
-            22
+            25
+          ]
+        },
+        {
+          "text": "Monzo in talks to raise up to £500m, reports say",
+          "sources": [
+            30
           ]
         },
         {
           "text": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
           "sources": [
-            29
+            33
           ]
         },
         {
           "text": "GitHub New PR Overview",
           "sources": [
-            33
-          ]
-        },
-        {
-          "text": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-          "sources": [
-            35
+            36
           ]
         }
       ]
@@ -139,39 +139,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Meta releases Muse Ember, a new lightweight model for agent execution",
+          "text": "Anthropic reportedly plans to move forward with IPO plans",
           "sources": [
-            2
+            5
           ]
         },
         {
-          "text": "De unos 320 millones de viajes y pedidos de Uber en la semana de Halloween, solo cuatro viajes y 500 pedidos de Uber Eats vinieron de agentes de IA",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
-          "sources": [
-            6
-          ]
-        },
-        {
-          "text": "Disney tiene un plan para que tus películas favoritas se hagan más rápido gracias a la IA",
+          "text": "Samsung prepara una revolución en sus Galaxy más baratos: la pantalla se verá mejor que nunca",
           "sources": [
             9
           ]
         },
         {
-          "text": "This tiny government division charged with AI safety is now reporting to the White House. Experts are concerned",
+          "text": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
           "sources": [
-            17
+            12
+          ]
+        },
+        {
+          "text": "El escándalo de espionaje que rodea al CEO de Nvidia acaba de dar otro giro: Trump dice que el FBI ya lo investiga",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The Jensen Huang spy scandal is becoming a White House problem",
+          "sources": [
+            18
           ]
         },
         {
           "text": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
           "sources": [
-            28
+            32
           ]
         }
       ]
@@ -183,9 +183,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Annual tech summit in Edinburg gathers educators to discuss safe AI use in schools",
+          "text": "Texas Tech women's basketball hosts Lamar | Photos",
           "sources": [
-            12
+            3
           ]
         }
       ]
@@ -197,39 +197,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "The reason your laptop can get hot after extended use",
+          "text": "Filing: Anthropic now aims to raise up to $69.3B in its IPO (Echo Wang/Reuters)",
           "sources": [
-            5
+            2
           ]
         },
         {
-          "text": "James Gunn is out as DC movie leader",
+          "text": "Every senior with an Apple Watch should set up these 5 health alerts",
           "sources": [
-            7
+            4
           ]
         },
         {
-          "text": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco (Andrew J. Hawkins/The Verge)",
+          "text": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "France blames Iran for supermarket hack meltdowns",
           "sources": [
             15
           ]
         },
         {
-          "text": "Machine learning researchers build a better world model",
+          "text": "DCU shake-up: James Gunn and Peter Safran out post-merger",
           "sources": [
-            18
+            16
           ]
         },
         {
-          "text": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "text": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
           "sources": [
-            21
-          ]
-        },
-        {
-          "text": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-          "sources": [
-            23
+            17
           ]
         }
       ]
@@ -241,33 +241,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "After taking over DC Studios in 2022, James Gunn and Peter Safran are going to be replaced by a former Marvel exec. www.theverge.com/ente…",
+          "text": "man, there's no one better than @lopatto.bsky.social. www.theverge.com/ai-artificia...",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+          "text": "llm-anthropic 0.31",
           "sources": [
-            14
+            11
           ]
         },
         {
-          "text": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
-          "sources": [
-            20
-          ]
-        },
-        {
-          "text": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+          "text": "Fable 5.2 and Jagged AGI",
           "sources": [
             27
           ]
         },
         {
-          "text": "The Web Is More Than Enough, by Paul Ford",
+          "text": "Top 7 Best Agent Gateways",
           "sources": [
-            32
+            28
+          ]
+        },
+        {
+          "text": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+          "sources": [
+            31
           ]
         }
       ]
@@ -279,251 +285,258 @@
       "title": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-09T18:03:45.312Z"
+      "date": "2026-11-10T02:28:11.357Z"
     },
     {
       "id": 2,
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "source": "TechCrunch",
-      "date": "2026-11-09T18:00:00.000Z"
+      "title": "Filing: Anthropic now aims to raise up to $69.3B in its IPO (Echo Wang/Reuters)",
+      "url": "https://www.techmeme.com/261109/p48#a261109p48",
+      "source": "Techmeme",
+      "date": "2026-11-10T01:41:39.000Z"
     },
     {
       "id": 3,
-      "title": "After taking over DC Studios in 2022, James Gunn and Peter Safran are going to be replaced by a former Marvel exec. www.theverge.com/ente…",
-      "url": "https://bsky.app/profile/theverge.com/post/3mzvigpt5v52z",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-09T17:50:33.994Z"
+      "title": "Texas Tech women's basketball hosts Lamar | Photos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOWp5LVRYSW5ESWNfdWZPeS1GUExRRHFINUxOUk1felpmT1BGczVDcE9uV2tWZG5qMFJFcWE2eGJ3RjJSc0YwY2ZhcF9BVlo1dDNPTnEySWo1d3A5NVkwS0ZwdGhST0ZiMm0zU2JUMVMzQjdENGQtU25peEwxTjlEWFp1cmdXMkZ6Y3hvR0lxcm81d25VaXRuMzNaZnFtRGZ4c3F3QWFVOHBqLXh5eFVMRmdUcWtjY3BpUFdWaEQ5YlBLU3JCREFFOHk0a3o0Q3A5S2MxODlYQ3RQVnlU?oc=5",
+      "source": "Google News · Eventos tech · via Lubbock Avalanche-Journal",
+      "date": "2026-11-10T01:35:00.000Z"
     },
     {
       "id": 4,
-      "title": "De unos 320 millones de viajes y pedidos de Uber en la semana de Halloween, solo cuatro viajes y 500 pedidos de Uber Eats vinieron de agentes de IA",
-      "url": "https://www.xataka.com/robotica-e-ia/unos-320-millones-viajes-pedidos-uber-semana-halloween-solo-cuatro-viajes-500-pedidos-uber-eats-vinieron-agentes-ia",
-      "source": "Xataka",
-      "date": "2026-11-09T17:45:06.000Z"
+      "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "source": "Engadget",
+      "date": "2026-11-10T01:30:00.000Z"
     },
     {
       "id": 5,
-      "title": "The reason your laptop can get hot after extended use",
-      "url": "https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/",
-      "source": "Engadget",
-      "date": "2026-11-09T17:45:00.000Z"
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T01:27:12.000Z"
     },
     {
       "id": 6,
-      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-09T17:44:58.000Z"
+      "title": "Anthropic Still Plans to Go Public as Soon as Next Week: Report",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUW5jUEJQcTJlaE9wXzNZdkZ0UHROcHBDeEJCZE5aS3FBeE12RU93aUdINWNSMUdwQWU1Qi16UnNPd2RWS3FsVnhYTlJYN0p1bmJDZVB4cGdwV0RTRWw1NE9PUG1BT2xCTTFWZTFJbjYwOXNGZ2wxX1BhWThOWThLdFVxQW5JaXZzRzR6SnVzRW1Yd2lmT3VVcg?oc=5",
+      "source": "Google News · IA · via Gizmodo",
+      "date": "2026-11-10T01:21:05.000Z"
     },
     {
       "id": 7,
-      "title": "James Gunn is out as DC movie leader",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "source": "The Verge",
-      "date": "2026-11-09T17:39:57.000Z"
+      "title": "man, there's no one better than @lopatto.bsky.social. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/elongreen.bsky.social/post/3mzwbc43y7k2x",
+      "source": "The Verge en Bluesky · via Elon Green",
+      "date": "2026-11-10T01:15:24.366Z"
     },
     {
       "id": 8,
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "source": "The Verge AI",
-      "date": "2026-11-09T17:36:08.000Z"
+      "date": "2026-11-10T00:28:49.000Z"
     },
     {
       "id": 9,
-      "title": "Disney tiene un plan para que tus películas favoritas se hagan más rápido gracias a la IA",
-      "url": "https://hipertextual.com/inteligencia-artificial/disney-adobe-alianza-herramientas-ia/",
+      "title": "Samsung prepara una revolución en sus Galaxy más baratos: la pantalla se verá mejor que nunca",
+      "url": "https://hipertextual.com/mobile/samsung-oled-galaxy-baratos-fin-lcd/",
       "source": "Hipertextual",
-      "date": "2026-11-09T17:35:40.000Z"
+      "date": "2026-11-10T00:21:27.000Z"
     },
     {
       "id": 10,
-      "title": "Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0xzbkZDSktlNl9LTFZWNENQTXgxT0gtVEVNclBXMmVTVnFuVU9BeTBwc3h0UWtXU3RkTzF2dUVzQmF5UXFzS1BDQWlmZHBMbzVhakZfRTZYSExTcEJqVjhFTWlwYkRyNFFxME82WmJLQ21jSHFfenFBc0RFemJ5VHMxMVhSYXY5SkRDRkQxRzcxano1OWZpUDFKQXhkMUhGQ0ZjbU0zNEt2OXRDTzQxcnhlRzMwV1Z3WFF3?oc=5",
-      "source": "Cohere · via WSJ",
-      "date": "2026-11-09T17:34:31.000Z"
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "source": "Wired",
+      "date": "2026-11-10T00:18:19.000Z"
     },
     {
       "id": 11,
-      "title": "Microsoft AI Chief Mustafa Suleyman: Agents Could Deserve Rights if Evidence Emerges",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTGRkRHlWUk5qS2hLZVkwUXkwdzljQnNfeEZ5Zm82eDVSUDZLOUktdW5PTjNyYXlZZVF4RnU3NVVFVWx3akxFaTdJNURWOHVyd2hqaTRteXhfYTBKSEQxNkFKcnRHUHdkTXdqc085S291eGV6cktXYlNfaWlzdGJLNjR6Nm1ZTXhIS0VDNUFIODNycHZ5c3k0SmVVNW5Mb25Mc08tT094VnR0UlRsbmRXN3J0bGFoZFNrRWpZOVRHQTlKNkZBWksxVXh6Um5ySlhLNjJEb1VEbWU?oc=5",
-      "source": "Google News · IA · via PYMNTS.com",
-      "date": "2026-11-09T17:32:04.000Z"
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "Simon Willison",
+      "date": "2026-11-09T23:58:46.000Z"
     },
     {
       "id": 12,
-      "title": "Annual tech summit in Edinburg gathers educators to discuss safe AI use in schools",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1dzSzhhekx1d0Y1SlVDVWRiUTRUZTZ4STJKSF9KY2pVT3pNaFFUSGoxVTJuV1gwRnpYUnQxQ1F1R3FhQXBGZHA0cVlDeGNLQ1JGTWpFWE1hcnBfVGRtSV9hel85OUUyMEZvWGc0WW1lOFp0MFdMbE9WNnRoVkozYjNseTVtTVphc1Q3WGNQcVhaVUJLNVVTdDJ5eFFVQWhpS3lOUVJHbzBldnNnZXc?oc=5",
-      "source": "Google News · Eventos tech · via KRGV",
-      "date": "2026-11-09T17:26:45.000Z"
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-09T23:54:21.000Z"
     },
     {
       "id": 13,
-      "title": "Chasing New Frontiers: We See Anthropic as Well Placed to Capture Value in an AI World",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVQwbWlFRVhIaEk0SUZVa3FsRWVaOVZ2OWlTbG9JT1pzMVJhMFFDOTdlOU1vUUFzdm41czhnbE5iYjNmalJ4U0VzNFFSa3RxR1ZaR0tSdFYxSDFwenZjRmM1ZTdjQVVhWTZUMFFqdGRxU0VhZnBYZ0VSdDQxSlQ2X1laNTBtS09PY2JKblVudTJsb0E4VEtjNGRsaGxqdU50RXctRmc2VlZqSDI3S1BxV3B1emMzaV82Q01vSg?oc=5",
-      "source": "Anthropic · via Morningstar",
-      "date": "2026-11-09T17:16:10.000Z"
+      "title": "El escándalo de espionaje que rodea al CEO de Nvidia acaba de dar otro giro: Trump dice que el FBI ya lo investiga",
+      "url": "https://www.xataka.com/empresas-y-economia/escandalo-espionaje-que-rodea-al-ceo-nvidia-acaba-dar-otro-giro-trump-dice-que-fbi-investiga",
+      "source": "Xataka",
+      "date": "2026-11-09T23:52:00.000Z"
     },
     {
       "id": 14,
+      "title": "10 Generative AI Companies to Know",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fRklnSktTQ01LY2F4WEFoUVpySjJsekk4YnJjMkl6aWdEY084OTB5eWd4WHBLVlhlN1h3RWNsWmNvTXhWMFM4eHF3blhrelEyWGJqUWp2YXh2OXRTVUpuT2JMVjU4N0U?oc=5",
+      "source": "Mistral AI · via Built In",
+      "date": "2026-11-09T22:55:19.000Z"
+    },
+    {
+      "id": 15,
+      "title": "France blames Iran for supermarket hack meltdowns",
+      "url": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+      "source": "The Register",
+      "date": "2026-11-09T22:45:21.000Z"
+    },
+    {
+      "id": 16,
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "source": "Ars Technica",
+      "date": "2026-11-09T21:55:35.000Z"
+    },
+    {
+      "id": 17,
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-09T21:43:41.000Z"
+    },
+    {
+      "id": 18,
+      "title": "The Jensen Huang spy scandal is becoming a White House problem",
+      "url": "https://www.fastcompany.com/91638546/the-jensen-huang-spy-scandal-is-becoming-a-white-house-problem?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-09T21:42:07.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
+      "source": "Anthropic · via Mashable",
+      "date": "2026-11-09T21:37:54.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Katherine M. Boyle, General Partner, Andreessen Horowitz, Elected to FedEx Board of Directors",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVRJQTRKMFdPbEZLV2dRb1RzMng3XzViNlhEZUh0WUZCRXVDZEgtUFpWdzU4NnZvaE1KOVUyZkhJSGhVRGFnWTZtUmxRNGc4THNLa3dqYWs5S0R5RldDMVdVN3FDUU5UYld0Vi02NGI1bF9kbEh3WU4ydnZaOTU4QWhnX3V4NExyUDZFcG9PdzVQalFmZEVjaC1FRkUyNWU1bXgtV2RCZ0d3OHdLYzE3cXlheExtcE0?oc=5",
+      "source": "a16z · via FedEx newsroom",
+      "date": "2026-11-09T21:17:38.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Aravind Sviniras Perplexity AI Predicts a Mega-Bullish XRP Price Move",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU03dlpySjRfZ0JhMmY2TkItcXVWaXBDcUZnRmFySGZ5UnBsdmhQLVpHWFYweVMyOWR6S1FaY0VVdi1ndTJ6amdTSU1FRm0wNXM4c2RTeWZIdnBpOVJldjk0UldPWjVuMGlManc1aDF2djRtbG13Y3FBSFNyT2JqNVBXYy1ib294NURvTnRB?oc=5",
+      "source": "Perplexity · via Cryptonews",
+      "date": "2026-11-09T21:01:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWWNFOFd0N3h2b2JYX1BieDNLN3psRHFNQXp3Y2hiRzNUc2hnOUliaXMyMVBhSGNKZ2ZDUjVMWmI4dHdmbGh6NWx2Y0haUkFZOTVQdV9HSDFaMDQwVU44d2xsaklKU2JfOExfTVlmd0JaUGlmNFlyM2pycUNOTUZCZl90cURMem5VSzNZSFFwdWpTcGVNMUhTMmd0OXM1U0t6dk9vNkZaN2tIRERsWmc?oc=5",
+      "source": "Microsoft AI · via www.crn.com",
+      "date": "2026-11-09T20:45:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Exploring the world's languages with Language Explorer",
+      "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "source": "Google Research",
+      "date": "2026-11-09T20:29:39.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-09T19:35:33.000Z"
+    },
+    {
+      "id": 25,
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-09T19:21:46.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-09T19:09:32.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Fable 5.2 and Jagged AGI",
+      "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "source": "One Useful Thing",
+      "date": "2026-11-09T19:04:26.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Top 7 Best Agent Gateways",
+      "url": "https://dev.to/varshithvhegde/top-7-best-agent-gateways-lhi",
+      "source": "dev.to · IA · via Varshith V Hegde",
+      "date": "2026-11-09T18:08:21.000Z"
+    },
+    {
+      "id": 29,
       "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
       "url": "https://latent.space/p/handshake/",
       "source": "Latent Space",
       "date": "2026-11-09T17:15:53.000Z"
     },
     {
-      "id": 15,
-      "title": "Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco (Andrew J. Hawkins/The Verge)",
-      "url": "https://www.techmeme.com/261109/p34#a261109p34",
-      "source": "Techmeme",
-      "date": "2026-11-09T17:15:14.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-09T17:05:43.000Z"
-    },
-    {
-      "id": 17,
-      "title": "This tiny government division charged with AI safety is now reporting to the White House. Experts are concerned",
-      "url": "https://www.fastcompany.com/91638485/this-tiny-government-division-charged-ai-safety-now-reporting-white-house-experts-concerned?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-09T17:00:00.000Z"
-    },
-    {
-      "id": 18,
-      "title": "Machine learning researchers build a better world model",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/09/machine-learning-researchers-build-a-better-world-model/5308301",
-      "source": "The Register",
-      "date": "2026-11-09T17:00:00.000Z"
-    },
-    {
-      "id": 19,
+      "id": 30,
       "title": "Monzo in talks to raise up to £500m, reports say",
       "url": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/",
       "source": "Sifted",
       "date": "2026-11-09T16:56:48.000Z"
     },
     {
-      "id": 20,
-      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
-      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
-      "source": "dev.to · IA · via Ben Halpern",
-      "date": "2026-11-09T16:12:25.000Z"
-    },
-    {
-      "id": 21,
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "Hacker News",
-      "date": "2026-11-09T16:00:45.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Caviar Co-Founder’s New Sports AI App Snapp Is Now on Android",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZW13S3IwR2oyS3hDTjJSS1BiS3RNdVIxU21lMUk1ZlgyTXRsQ3d5M2RWT2hoTHI0OUFIbUFKNlpBb3JoSWVGRnNQT1hXNXlWeTJ4RmNrWnBjMWZJRENNQWNhMUFGd29VYUdJbG0yTk1ON1ZyTWtjb2tvMzhqMUIzUHhVTU8?oc=5",
-      "source": "a16z · via Android Headlines",
-      "date": "2026-11-09T15:49:38.000Z"
-    },
-    {
-      "id": 23,
-      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-      "source": "Ars Technica",
-      "date": "2026-11-09T15:39:21.000Z"
-    },
-    {
-      "id": 24,
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face Blog",
-      "date": "2026-11-09T15:05:57.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Microsoft Pulls the Plug on Copilot for Smart TVs",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkRQOHRqU3JLdlh2YVdoWGlRRGRNRE52Vk0zM2VNYnN2cHM4RWhIM3FwMm9HOHJBaFY2SF9KQ3VYQnY1cGI0cmdfRHIwT2V5YmJkaEdZYnNiVmo4U21MbGlMSTRSUndqVUJFRjF1MjFNWFFLZGtTelVQOUhqVnpnTEM3U3g3NmI4d0g5MXBBRGhEbXB2UjdTTTRudDhUUDlSMjEwSHFZT0hiMVdDWmRORXptdw?oc=5",
-      "source": "Microsoft AI · via Alpha Audio",
-      "date": "2026-11-09T15:00:50.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-      "source": "NVIDIA",
-      "date": "2026-11-09T14:00:01.000Z"
-    },
-    {
-      "id": 27,
+      "id": 31,
       "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
       "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
       "source": "Import AI",
       "date": "2026-11-09T13:31:34.000Z"
     },
     {
-      "id": 28,
+      "id": 32,
       "title": "El ‘hacker’ fantasma de Kim Jong-un: Park Jin-hyok y las conexiones exteriores del cibercrimen norcoreano",
       "url": "https://elpais.com/tecnologia/2026-11-09/el-hacker-fantasma-de-kim-jong-un-park-jin-hyok-y-las-conexiones-exteriores-del-cibercrimen-norcoreano.html",
       "source": "El País Tecnología",
       "date": "2026-11-09T12:07:30.000Z"
     },
     {
-      "id": 29,
+      "id": 33,
       "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
       "url": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
       "source": "Crunchbase News",
       "date": "2026-11-09T12:00:51.000Z"
     },
     {
-      "id": 30,
+      "id": 34,
       "title": "Enhancing Academic Advisement with Case-Based Reasoning",
       "url": "https://arxiv.org/abs/2611.08572",
       "source": "arXiv cs.AI",
       "date": "2026-11-09T05:00:00.000Z"
     },
     {
-      "id": 31,
+      "id": 35,
       "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
       "url": "https://arxiv.org/abs/2611.08639",
       "source": "arXiv cs.CL",
       "date": "2026-11-09T05:00:00.000Z"
     },
     {
-      "id": 32,
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-      "source": "Simon Willison",
-      "date": "2026-11-09T04:32:33.000Z"
-    },
-    {
-      "id": 33,
+      "id": 36,
       "title": "GitHub New PR Overview",
       "url": "https://www.producthunt.com/products/github",
       "source": "Product Hunt",
       "date": "2026-11-09T03:34:44.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Perplexity AI Predicts the CPI Data Drop on November 10",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9STEZ0c0JPMTc4VVk2X3AtZ3JWOXhoSkFfZk9WNFBIakRXNFVYQjFaY0REdDEtUDFsY2VqdnNUaE9zY2cxZDNJWXhxcHgxalF3bmFfZUFqQ21QTWhxZlFERDVmOC1zTllyblhrMFpMc1ZqQmttVW9uWkRn?oc=5",
-      "source": "Perplexity · via Tokenist",
-      "date": "2026-11-08T23:04:27.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "source": "TechCrunch Venture",
-      "date": "2026-11-08T19:51:30.000Z"
     }
   ],
   "stats": {
-    "posts": 219,
-    "sourcesOk": 62,
-    "sourcesFailed": 1
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
   },
   "generator": "headlines"
 }

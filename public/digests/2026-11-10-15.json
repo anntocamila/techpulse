@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-10-15",
+  "generatedAt": "2026-11-10T15:58:05.847Z",
+  "periodStart": "2026-11-08T15:58:05.847Z",
+  "periodEnd": "2026-11-10T15:58:05.847Z",
+  "title": "Titulares del 10 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "speridlabs/idol",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Chicago Public Schools blocks generative AI on student account as Google threatens to block search access",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Anthropic targets $1.4 trillion IPO",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "BIBIMBAP: A Benchmark for Instructional BIM-Based Automated Programming",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Connection Helps Organizations Turn Microsoft Copilot into Measurable Business Value",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "OpenAI, Anthropic and Microsoft sign Macron's Paris Call pledging fail-safe shutdowns for frontier AI, with eight countries",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Don't Want Your Data Used for AI Training? Here's How to Opt Out Across Apps and Devices",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Jensen Huang pulls out of ElevenLabs Summit amid controversy",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "MuJoCo 4",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "America Can Build Again. Here’s How",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Liquidación de teles LG en el outlet oficial de la marca: descuentos de hasta el 58% en modelos OLED y QNED",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Las ventas de &#8216;GTA 6&#8217; han sido más bestiales de lo que Take-Two esperaba: «Los números hablarán por sí solos»",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Blockbuster video game ‘Grand Theft Auto VI’ is almost here. What makes this latest chapter different",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "‘What must remain human?’ Dartmouth AI conference opens without a clear answer",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ember’s latest self-heating 14-ounce mug is $50 off",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Why does your phone keep switching between Wi-Fi and mobile data?",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Fireworks AI gets burned twice as customer data exposure widens",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items (Mia Sato/The Verge)",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Kitchen Gear From Our Place Is Steeply Discounted",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "A great deal on a dishwasher-safe mug that stays hot. We also found discounts on Blu-rays and self-coiling USB-C cables. www.theverge.com…",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "How I got seduced",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "A Word List Tied the Model",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Show HN: Simstim – local call transcription on Mac into .md files",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-10T15:58:06.660Z"
+    },
+    {
+      "id": 2,
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "date": "2026-11-10T15:54:08.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Chicago Public Schools blocks generative AI on student account as Google threatens to block search access",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk54R2J0eGdnYTk4U2I0aVk3V2RPYy00Y1kxYU54b2FlcWFET0NQUTRFUF90LXNtTDNzSDVhdVJFYmNqc1ZFcC0wSE9YUVVaaExxRW9iNTZ2ZEFyN0hsNWVYSUdrQUE3WTg4ZlB2VS1TWW5raFQtd2w1ZmczRGVGTUxpT1pMaE4ydTh5U2dhVU45WmJHRFVodFFMbE9rYm5ORE5wOQ?oc=5",
+      "source": "Google News · IA · via CBS News",
+      "date": "2026-11-10T15:52:56.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Liquidación de teles LG en el outlet oficial de la marca: descuentos de hasta el 58% en modelos OLED y QNED",
+      "url": "https://www.xataka.com/seleccion/liquidacion-teles-lg-outlet-oficial-marca-descuentos-58-modelos-oled-qned",
+      "source": "Xataka",
+      "date": "2026-11-10T15:51:48.000Z"
+    },
+    {
+      "id": 5,
+      "title": "A great deal on a dishwasher-safe mug that stays hot. We also found discounts on Blu-rays and self-coiling USB-C cables. www.theverge.com…",
+      "url": "https://bsky.app/profile/theverge.com/post/3mzxs3blw732h",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-10T15:48:27.054Z"
+    },
+    {
+      "id": 6,
+      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
+      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-10T15:47:18.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Why does your phone keep switching between Wi-Fi and mobile data?",
+      "url": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+      "source": "Engadget",
+      "date": "2026-11-10T15:45:00.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-10T15:42:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "How I got seduced",
+      "url": "https://www.bensbites.com/p/how-i-got-seduced",
+      "source": "Ben's Bites",
+      "date": "2026-11-10T15:35:49.000Z"
+    },
+    {
+      "id": 10,
+      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+      "source": "Anthropic · via Reuters",
+      "date": "2026-11-10T15:32:44.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Fireworks AI gets burned twice as customer data exposure widens",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722",
+      "source": "The Register",
+      "date": "2026-11-10T15:28:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items (Mia Sato/The Verge)",
+      "url": "https://www.techmeme.com/261110/p26#a261110p26",
+      "source": "Techmeme",
+      "date": "2026-11-10T15:25:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "‘What must remain human?’ Dartmouth AI conference opens without a clear answer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGdicnZKT2JaNjdhTVROaWN0dnFOZkQzdFRzdlZJYmtIX21FQklYc1pscGpGdGdxb0s1WTdtdEJORHRrYTNSWEdEREdwd1pxX3cxY19uNVlnRXc1bGgtOVFnSkU5Z0ZtYzYycVZhQ0pKUUpEUk5UbDNqc0FraVQ2ZzVmOWVUN2c1Ml8xUlFLMzdMRkdYV05uVU1qd3VDdw?oc=5",
+      "source": "Google News · Eventos tech · via NH Business Review",
+      "date": "2026-11-10T15:24:32.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Las ventas de &#8216;GTA 6&#8217; han sido más bestiales de lo que Take-Two esperaba: «Los números hablarán por sí solos»",
+      "url": "https://hipertextual.com/videojuegos/ventas-gta-6-expectativas-mas-altas-take-two/",
+      "source": "Hipertextual",
+      "date": "2026-11-10T15:17:11.000Z"
+    },
+    {
+      "id": 15,
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "date": "2026-11-10T15:00:39.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Connection Helps Organizations Turn Microsoft Copilot into Measurable Business Value",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVHFSMW9IZXFPMmZzOXU1QkpyQlRWLXZQeVRCQkM2SFBrTU95bFUtelVUbTBNdWNMLUtvOG5kNWs1bVYtUDJzTjhLSTNTX0ZENUJqVXlnczFsRkJBTTBPMklURGFtWWJuXzRSTzlkb1B2Tk45eHJOQ3hic1VzV1AxQm5ISWtFQmpXcjNSejExSGVUNGw4RnlKQzBKNmJSemNCLUQ5NzNwSGx2M1RVdFRrS3EzY0VEN0MwVHNXWnZpd2FITzEyaVhrZmZNY2VMeGZ6b3gyejh5WXI?oc=5",
+      "source": "Microsoft AI · via Business Wire",
+      "date": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Blockbuster video game ‘Grand Theft Auto VI’ is almost here. What makes this latest chapter different",
+      "url": "https://www.fastcompany.com/91639311/blockbuster-video-game-grand-theft-auto-vi-almost-here-what-makes-latest-chapter-different?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
+      "source": "Wired",
+      "date": "2026-11-10T15:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "A Word List Tied the Model",
+      "url": "https://dev.to/kenwalger/a-word-list-tied-the-model-213o",
+      "source": "dev.to · IA · via Ken W Alger",
+      "date": "2026-11-10T14:16:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge AI",
+      "date": "2026-11-10T14:06:54.000Z"
+    },
+    {
+      "id": 22,
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI",
+      "date": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "OpenAI, Anthropic and Microsoft sign Macron's Paris Call pledging fail-safe shutdowns for frontier AI, with eight countries",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1J1c1BNRnFjRHNWUTlpS2l4R3RLMUZhM2ROX1hUMENiQlNqeHJsU1lFQmtsZnMtVDlGQXN3eGFiY3NINVpsbkRHVEpZUExCMGdMMmhmT0d4WFIwRVFLc3VjN1ZwZjNJMl8ySXp6UHUyaGpxR1huZ0hpTDFVVEhwNkUwMzNmXzB6YXc1WUxJdlhEMGNwbEZ3Rk92MzhuWC1VdGp6YmFNQTZIeFZRbngwRXRoSUpCTlV3VUdQVzQtOXZwMDlBVHBZcHdOUVJVcEFqOE1wUW9QcmE?oc=5",
+      "source": "Mistral AI · via MLQ.ai",
+      "date": "2026-11-10T13:59:30.000Z"
+    },
+    {
+      "id": 25,
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-10T13:10:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Show HN: Simstim – local call transcription on Mac into .md files",
+      "url": "https://github.com/pgrekovich/simstim",
+      "source": "Hacker News · IA",
+      "date": "2026-11-10T12:56:17.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Don't Want Your Data Used for AI Training? Here's How to Opt Out Across Apps and Devices",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEM4VUtRZUN2aU1pN0FYNEJzWmREU3BYVVpEYkNJbGlFZkhsZUYwWFlSX3JQLTNCcDd5emxtcjR3M0NLZnZjNEJGcm5wUTBhOEVqWVF1aGl0cmdoVDJ6Uk9tZjhHOXdqdC1CSDZtQVA1MHBhS0hYYzVOekkxaU41WmVVVVN2MjNPcDJnVTRISHNOVDk1R2JobnVGS0tyQ2FYQUh0RUJuNUNldVlRYVB1M0RB?oc=5",
+      "source": "Perplexity · via Digital Information World",
+      "date": "2026-11-10T12:25:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid controversy",
+      "url": "https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/",
+      "source": "Sifted",
+      "date": "2026-11-10T12:12:02.000Z"
+    },
+    {
+      "id": 29,
+      "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
+      "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+      "source": "Crunchbase News",
+      "date": "2026-11-10T12:00:34.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison",
+      "date": "2026-11-10T07:28:21.000Z"
+    },
+    {
+      "id": 31,
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "source": "Latent Space",
+      "date": "2026-11-10T06:34:44.000Z"
+    },
+    {
+      "id": 32,
+      "title": "MuJoCo 4",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "date": "2026-11-10T06:23:09.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+      "url": "https://arxiv.org/abs/2611.10045",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "BIBIMBAP: A Benchmark for Instructional BIM-Based Automated Programming",
+      "url": "https://arxiv.org/abs/2611.09933",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+      "url": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-10T04:30:01.000Z"
+    },
+    {
+      "id": 36,
+      "title": "America Can Build Again. Here’s How",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kN1ZaSnNqaWtYN2dRM2MwaDBkUllaSk1yVE1sYlB6SE4tbFUwR1B3OXNBVmQyelQ0emNuUVpRVkZZOFY3T0pxanJsNTVXdElrb1JFLXdscjJXejRYQkNMRQ?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-10T01:00:05.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

@@ -1,8 +1,8 @@
 {
-  "id": "2026-11-11-00",
-  "generatedAt": "2026-11-11T00:20:28.176Z",
-  "periodStart": "2026-11-09T00:20:28.176Z",
-  "periodEnd": "2026-11-11T00:20:28.176Z",
+  "id": "2026-11-11-15",
+  "generatedAt": "2026-11-11T15:43:37.186Z",
+  "periodStart": "2026-11-09T15:43:37.186Z",
+  "periodEnd": "2026-11-11T15:43:37.186Z",
   "title": "Titulares del 11 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -13,39 +13,39 @@
       "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "text": "speridlabs/idol",
           "sources": [
-            1
+            2
           ]
         },
         {
-          "text": "Nvidia’s spy scandal threatens America’s AI edge",
+          "text": "Trust the \"Super Intelligence\" for mission-critical operations",
           "sources": [
-            7
+            6
           ]
         },
         {
-          "text": "The US is winning the AI race. Jensen Huang could have blown it",
+          "text": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
           "sources": [
-            24
+            17
           ]
         },
         {
-          "text": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+          "text": "The Download: preserving minds and weighing open AI risks",
           "sources": [
-            32
+            25
           ]
         },
         {
-          "text": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+          "text": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference",
           "sources": [
             34
-          ]
-        },
-        {
-          "text": "BIBIMBAP: A Benchmark for Instructional BIM-Based Automated Programming",
-          "sources": [
-            35
           ]
         }
       ]
@@ -57,37 +57,37 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "text": "Gilbert + Tobin rethinks the business of law with AI",
           "sources": [
-            15
+            1
           ]
         },
         {
-          "text": "Perplexity AI Predicts a Parabolic Rally for NEAR Crypto: Is a Triple-Digit Move Possible After CPI?",
+          "text": "Microsoft Bet Big on OpenAI. Anthropic’s Profit Lead Raises Questions.",
           "sources": [
-            19
+            14
           ]
         },
         {
-          "text": "Gemini Intelligence: New features, on more devices",
+          "text": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
           "sources": [
-            25
+            16
           ]
         },
         {
-          "text": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
+          "text": "How Cohere’s AI Chief Is Trying To Keep Governments And Enterprises Secure",
           "sources": [
-            27
+            21
           ]
         },
         {
-          "text": "Why an ex-Cohere leader doesn’t want you to call his new law firm “AI-native”",
+          "text": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
           "sources": [
-            28
+            24
           ]
         },
         {
-          "text": "OpenAI Built a Kill Switch That Can Stop Its AI Models Within 35 Seconds",
+          "text": "Mistral Would Rather Pay a Copyright Tax Than Prove a Negative",
           "sources": [
             29
           ]
@@ -101,37 +101,37 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+          "text": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
           "sources": [
-            14
+            23
           ]
         },
         {
-          "text": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-          "sources": [
-            17
-          ]
-        },
-        {
-          "text": "Investing in General Translation",
-          "sources": [
-            20
-          ]
-        },
-        {
-          "text": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+          "text": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
           "sources": [
             26
           ]
         },
         {
-          "text": "Mistral pushes back on new AI copyright proposals, sparking outcry from creatives",
+          "text": "White & Case advises Andreessen Horowitz and Google Ventures as shareholders on Oura’s acquisition of Counsel Health",
           "sources": [
-            30
+            28
           ]
         },
         {
-          "text": "AppuBot",
+          "text": "bonds chat",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+          "sources": [
+            36
+          ]
+        },
+        {
+          "text": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
           "sources": [
             37
           ]
@@ -145,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Starlink Mini 2 es oficial: batería intercambiable, Wi‑Fi 6 y conexión satelital en segundos",
+          "text": "Disney+ confirma la fecha de estreno de &#8216;Avengers Endgame: Encore&#8217;, con nuevo final y conexión con &#8216;Doomsday&#8217;",
           "sources": [
-            3
+            4
           ]
         },
         {
-          "text": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+          "text": "La UE quiere prohibir los patrones oscuros de la web. Lo curioso es que también ha empezado a regular los que todavía no existen",
           "sources": [
-            5
+            7
           ]
         },
         {
-          "text": "Yes, government officials confirm, the Jensen Huang scandal is really, really bad",
+          "text": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
           "sources": [
-            13
+            11
           ]
         },
         {
-          "text": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "text": "Siri co-founder backs Helix for its voice ID tech",
           "sources": [
-            16
+            15
           ]
         },
         {
-          "text": "España llega tarde al DAB+ pero llega: el estándar digital de radio que Europa lleva usando una década empieza su despliegue",
+          "text": "Zoom lanza AI Launchpad con 150.000 dólares para startups",
           "sources": [
-            23
+            18
           ]
         },
         {
-          "text": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
+          "text": "Democrats are back. So is economist Stephanie Kelton’s big idea",
           "sources": [
-            36
+            27
           ]
         }
       ]
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "MACHINA Summit",
+          "text": "Tallinn Digital Summit’s first afternoon finds Europe slow where AI agents are fast",
           "sources": [
-            10
+            3
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+          "text": "Apple's touchscreen MacBook Pro does not like to be taken apart",
           "sources": [
-            2
+            5
           ]
         },
         {
-          "text": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "Seagate's new hybrid drive raises some old questions",
-          "sources": [
-            6
-          ]
-        },
-        {
-          "text": "Best Early Amazon Black Friday Deals (2026)",
+          "text": "Sharge’s eye-catching MacBook charger is over 25 percent off",
           "sources": [
             9
           ]
         },
         {
-          "text": "The VR Disney Plus app on Meta Quest now has 3D movies",
+          "text": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
           "sources": [
             12
           ]
         },
         {
-          "text": "To thwart reverse engineering by agents, dev proposes blinding them",
+          "text": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
           "sources": [
-            18
+            19
+          ]
+        },
+        {
+          "text": "Google DeepMind just mathematically verified key parts of Signal",
+          "sources": [
+            22
           ]
         }
       ]
@@ -247,39 +247,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+          "text": "We also found discounts on a buildable Warthog from Halo, a Mac Mini competitor from Lenovo, and a DJI gimbal. www.theverge.com/gadgets/1…",
           "sources": [
             8
           ]
         },
         {
-          "text": "With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments…",
+          "text": "Anthropic's IPO roadshow video",
           "sources": [
-            11
+            13
           ]
         },
         {
-          "text": "llm-gemini 0.36",
+          "text": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
           "sources": [
-            21
+            20
           ]
         },
         {
-          "text": "Designing for Agents — Zeno Rocha, Resend",
+          "text": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
           "sources": [
-            22
+            30
           ]
         },
         {
-          "text": "How I got seduced",
+          "text": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
           "sources": [
             31
           ]
         },
         {
-          "text": "Show HN: Simstim – local call transcription on Mac into .md files",
+          "text": "Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler",
           "sources": [
-            33
+            35
           ]
         }
       ]
@@ -288,262 +288,262 @@
   "sources": [
     {
       "id": 1,
-      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "source": "Hugging Face · Modelos",
-      "date": "2026-11-11T00:20:28.863Z"
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "date": "2026-11-12T00:00:00.000Z"
     },
     {
       "id": 2,
-      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-      "source": "Engadget",
-      "date": "2026-11-11T00:03:54.000Z"
+      "title": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-11T15:43:38.026Z"
     },
     {
       "id": 3,
-      "title": "Starlink Mini 2 es oficial: batería intercambiable, Wi‑Fi 6 y conexión satelital en segundos",
-      "url": "https://hipertextual.com/tecnologia/starlink-mini-2-bateria-integrada-wifi-6/",
-      "source": "Hipertextual",
-      "date": "2026-11-11T00:02:10.000Z"
+      "title": "Tallinn Digital Summit’s first afternoon finds Europe slow where AI agents are fast",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwU0xwV2QxeC1PSG1lYVJVMnI0RjZGQ2lwb1pjdmpCNnpxdnlLZ3YzTV9OaXZhcVl0alBrNWhRM0lqWG1zc0pXZW9xU2d4Z3ZfNVp1SFo1d2RMWkdxT1FReXEtQ1JzZGQ2elVrM3ZEbjBQaVhFV2JtRmdTTmRYUQ?oc=5",
+      "source": "Google News · Eventos tech · via JD Supra",
+      "date": "2026-11-11T15:39:54.000Z"
     },
     {
       "id": 4,
-      "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
-      "url": "https://www.techmeme.com/261110/p58#a261110p58",
-      "source": "Techmeme",
-      "date": "2026-11-11T00:00:53.000Z"
+      "title": "Disney+ confirma la fecha de estreno de &#8216;Avengers Endgame: Encore&#8217;, con nuevo final y conexión con &#8216;Doomsday&#8217;",
+      "url": "https://hipertextual.com/cine-television/avengers-endgame-encore-llega-a-disney-esta-misma-semana/",
+      "source": "Hipertextual",
+      "date": "2026-11-11T15:37:20.000Z"
     },
     {
       "id": 5,
-      "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-10T23:46:35.000Z"
+      "title": "Apple's touchscreen MacBook Pro does not like to be taken apart",
+      "url": "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110",
+      "source": "The Register",
+      "date": "2026-11-11T15:34:00.000Z"
     },
     {
       "id": 6,
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "source": "Ars Technica",
-      "date": "2026-11-10T23:30:56.000Z"
+      "title": "Trust the \"Super Intelligence\" for mission-critical operations",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1NmSTVYcjRZU2IwRmwyMk1wZE5qUkRXV0UxLXVfMy1oZVBiY3R0czJGbmlDMVI0ZzFKejNoY3JYUlJpRklBUXNSbzNJMTNMR3R5WGFQbFRwZXpqTFc3YjJUZU41WnlzSEdlVW1XcGdZQjF3QjBqQ3A5c0x2YnNmM1k4ZURXWXhFUVRIVl94NFVFREhiT19KbjF2M1FoQQ?oc=5",
+      "source": "Google News · IA · via Breaking Defense",
+      "date": "2026-11-11T15:33:45.000Z"
     },
     {
       "id": 7,
-      "title": "Nvidia’s spy scandal threatens America’s AI edge",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5",
-      "source": "Google News · IA · via Politico",
-      "date": "2026-11-10T23:14:00.000Z"
+      "title": "La UE quiere prohibir los patrones oscuros de la web. Lo curioso es que también ha empezado a regular los que todavía no existen",
+      "url": "https://www.xataka.com/legislacion-y-derechos/ue-quiere-prohibir-patrones-oscuros-web-curioso-que-tambien-ha-empezado-a-regular-que-todavia-no-existen",
+      "source": "Xataka",
+      "date": "2026-11-11T15:31:48.000Z"
     },
     {
       "id": 8,
-      "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
-      "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
-      "source": "dev.to · IA · via Alicia Marianne Gonçalves",
-      "date": "2026-11-10T22:52:28.000Z"
+      "title": "We also found discounts on a buildable Warthog from Halo, a Mac Mini competitor from Lenovo, and a DJI gimbal. www.theverge.com/gadgets/1…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n22blvxjq52r",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-11T15:31:30.856Z"
     },
     {
       "id": 9,
-      "title": "Best Early Amazon Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "source": "Wired",
-      "date": "2026-11-10T22:42:06.000Z"
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-11T15:30:00.000Z"
     },
     {
       "id": 10,
-      "title": "MACHINA Summit",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hYzJ0c2tNb3hGTlZTSTZXeUpKaGNIZnpEVjdibkNwR1RjTEpNYVhDdFZGY01DaGJYUmIyTmZzQ01STlM0R05aNU4teGVBc3BwUnFoa2tFZw?oc=5",
-      "source": "Google News · Eventos tech · via AI Magazine",
-      "date": "2026-11-10T22:24:35.000Z"
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired",
+      "date": "2026-11-11T15:30:00.000Z"
     },
     {
       "id": 11,
-      "title": "With the updated Disney Plus Quest app, you’ll be able to stream more than 60 3D movies and watch films in immersive virtual environments…",
-      "url": "https://bsky.app/profile/theverge.com/post/3mzyh2latnu2j",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-10T22:03:51.735Z"
+      "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-11T15:28:29.000Z"
     },
     {
       "id": 12,
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "source": "The Verge",
-      "date": "2026-11-10T22:00:00.000Z"
+      "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
+      "url": "https://www.techmeme.com/261111/p33#a261111p33",
+      "source": "Techmeme",
+      "date": "2026-11-11T15:21:00.000Z"
     },
     {
       "id": 13,
-      "title": "Yes, government officials confirm, the Jensen Huang scandal is really, really bad",
-      "url": "https://www.fastcompany.com/91639399/yes-government-officials-confirm-the-jensen-huang-scandal-is-really-really-bad?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-10T21:44:56.000Z"
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "source": "Simon Willison",
+      "date": "2026-11-11T15:11:59.000Z"
     },
     {
       "id": 14,
+      "title": "Microsoft Bet Big on OpenAI. Anthropic’s Profit Lead Raises Questions.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmxQN1VFeUZSVzdzNUQ3c09YSTNGRkVDeUZEcXNUVWZjaXVuM2FkanZlajVWN0E4Ym5tMXE4NlV5VHhiUG9IMk5yTnpCcmd5QXJRNU9nVjdidnZ1bnVsR0pOLWpadl96UHhVYW1kVWR5bjNBejBhM09Cb2pwX296T08tYTBPd2E2?oc=5",
+      "source": "Microsoft AI · via Barron's",
+      "date": "2026-11-11T15:08:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "source": "TechCrunch",
+      "date": "2026-11-11T15:02:47.000Z"
+    },
+    {
+      "id": 16,
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
+      "date": "2026-11-11T15:00:15.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge AI",
+      "date": "2026-11-11T15:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Zoom lanza AI Launchpad con 150.000 dólares para startups",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3VpNnV3eG1JOUdaY3NqVmlvX01mdm5NNVkyNFZoeGliTEEwMmlPSW1aQ0g2ZzhaRWNnX0c0OVFCZnZyZThsVXN3Ql9mRVhXRG9fOGdFZGpsNWFzRDFkbFZJM2xQdXpQMTd2SkRBRi1qV1F4WE5wQWFfbkl3bzE5UU9PU0RBV1E?oc=5",
+      "source": "Google News · Tecnología (ES) · via La Ecuación Digital",
+      "date": "2026-11-11T14:41:10.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
+      "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+      "source": "Engadget",
+      "date": "2026-11-11T14:29:03.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+      "source": "Last Week in AI",
+      "date": "2026-11-11T14:21:42.000Z"
+    },
+    {
+      "id": 21,
+      "title": "How Cohere’s AI Chief Is Trying To Keep Governments And Enterprises Secure",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlVvTlBnTmhrRTc3TUVUd1Jqckp3WW8xLTF5NF95clV4MW1IZTVQblY3a2Z1cHJwbXpHYkIwUFFUSnI2V2RZOXZvR2NPaUpleF9SVHZLMVM0dWtNUW5YaXhqUTdYSHZINVVWeHhGSlU0ZTZyY1FMWk8tanVEckRKSXE4cG10TmhOT3lLQWFJQUlzNFVQT0hWRkNzMVdxUlpSS3FRbEZYM1Y0X3FvOTJQOENYMlNZR25hbjBEX3hvUXBLLWtpZlE?oc=5",
+      "source": "Cohere · via Forbes",
+      "date": "2026-11-11T14:16:47.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T14:08:57.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+      "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+      "source": "Sifted",
+      "date": "2026-11-11T13:40:55.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2JLM2NpM2tmaXR1MTJvb0VXczItSHBOaTdacGVsSDRPRzBHbWJYLTk4ZWY3enJISGdreml2aElvRk5oYm9UbWsxRWRxcnVCc0xobHJtYW1tSzhwRmhZUWE3Vmt2MlNTSTVuVS1hUzlTLVBQaFMyQ2hpS24yWlNOM0czR2Y?oc=5",
+      "source": "Anthropic · via The New York Times",
+      "date": "2026-11-11T13:40:36.000Z"
+    },
+    {
+      "id": 25,
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-11T13:10:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
+      "url": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+      "source": "Crunchbase News",
+      "date": "2026-11-11T13:00:04.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Democrats are back. So is economist Stephanie Kelton’s big idea",
+      "url": "https://www.fastcompany.com/91638593/stephanie-kelton-modern-monetary-theory?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-11T13:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "White & Case advises Andreessen Horowitz and Google Ventures as shareholders on Oura’s acquisition of Counsel Health",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVp4Yy01TUhkdERoSW5FM05BbHlzT3NRVE1KY2JFampSeXJfSDZzcjg0TzNnRUlSU2tDNVRKVllRU0c1Tzg4WndlN3VBSU9HMkY2bW56M0kwOV9Uc010VXBnUGNrbDBTeVdlNlZ2VnZoeFBLVjR0MmpNX3o4U2NYaXlob2pOY0trelhyVWNzU2Fta1llX0hnaUdNVkdJOUhXcWFfOWFMTEd6N05DVTdJa0h3TkVMVFVtOEk0RW9qSQ?oc=5",
+      "source": "a16z · via White & Case LLP",
+      "date": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Mistral Would Rather Pay a Copyright Tax Than Prove a Negative",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yRjE2dG1INTI4ZlFlQThxXzJnd3hmNzF5RDVaM2VOYnlwZTBRVnVDLVZmN2MtMnVpVkpXbWRkZTh0ZXlfbFIxZWRKenFyaFdoWnFjN1daZVFoSF9ZWnI4VkdKMWNwb3BTZVJmMUNMUDgxb1dQQnNFNUozTQ?oc=5",
+      "source": "Mistral AI · via Business Model Analyst",
+      "date": "2026-11-11T11:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "source": "Latent Space",
+      "date": "2026-11-11T09:34:28.000Z"
+    },
+    {
+      "id": 31,
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+      "source": "dev.to · IA · via xulingfeng",
+      "date": "2026-11-11T08:35:15.000Z"
+    },
+    {
+      "id": 32,
+      "title": "bonds chat",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "Product Hunt",
+      "date": "2026-11-11T05:07:26.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference",
+      "url": "https://arxiv.org/abs/2611.12900",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler",
+      "url": "https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/",
+      "source": "Platformer",
+      "date": "2026-11-11T00:56:40.000Z"
+    },
+    {
+      "id": 36,
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch Startups",
       "date": "2026-11-10T21:08:52.000Z"
     },
     {
-      "id": 15,
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
-      "source": "Microsoft Research",
-      "date": "2026-11-10T20:52:56.000Z"
-    },
-    {
-      "id": 16,
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch",
-      "date": "2026-11-10T20:52:13.000Z"
-    },
-    {
-      "id": 17,
+      "id": 37,
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "source": "TechCrunch Venture",
       "date": "2026-11-10T20:47:05.000Z"
-    },
-    {
-      "id": 18,
-      "title": "To thwart reverse engineering by agents, dev proposes blinding them",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897",
-      "source": "The Register",
-      "date": "2026-11-10T20:35:11.000Z"
-    },
-    {
-      "id": 19,
-      "title": "Perplexity AI Predicts a Parabolic Rally for NEAR Crypto: Is a Triple-Digit Move Possible After CPI?",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0xReUI5S0hRNE1yTU9wYXJvUjBoZjcxS25iT2xVUFNKMUpaSzBycUpocTF5LVNvN2VqQnRQYTRMQ3J3d29jSFU1NnEzWXY3Q1BKRm9CZHVUckdzSnR6MThaQmVtQ1dzNHBONW12ei1rTVJXblRBTWlvUlpqS2pLOGk5NDRnUzNBeXk1cXJ3?oc=5",
-      "source": "Perplexity · via Cryptonews",
-      "date": "2026-11-10T20:29:00.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Investing in General Translation",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMHNxbmd5S0JRT2lpWk5PT3g3Y09rOG1xd0tLR255Mzh2bkp3eEZZclpVSWhvemJYb3dObUVZWHhsd1Zob0M4dDNrQ2pETEdRQ185SnM4T3RJTE1kRFlLU3N4QWR4RTdTQnhrdllOSkI?oc=5",
-      "source": "a16z · via Andreessen Horowitz",
-      "date": "2026-11-10T20:26:15.000Z"
-    },
-    {
-      "id": 21,
-      "title": "llm-gemini 0.36",
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-      "source": "Simon Willison",
-      "date": "2026-11-10T20:09:44.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "url": "https://latent.space/p/resend/",
-      "source": "Latent Space",
-      "date": "2026-11-10T20:05:17.000Z"
-    },
-    {
-      "id": 23,
-      "title": "España llega tarde al DAB+ pero llega: el estándar digital de radio que Europa lleva usando una década empieza su despliegue",
-      "url": "https://www.xataka.com/servicios/espana-llega-tarde-al-dab-llega-estandar-digital-radio-que-europa-lleva-usando-decada-empieza-su-despliegue",
-      "source": "Xataka",
-      "date": "2026-11-10T20:01:49.000Z"
-    },
-    {
-      "id": 24,
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "source": "The Verge AI",
-      "date": "2026-11-10T19:04:05.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "date": "2026-11-10T19:00:00.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-      "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-      "source": "Crunchbase News",
-      "date": "2026-11-10T18:51:25.000Z"
-    },
-    {
-      "id": 27,
-      "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
-      "source": "Anthropic · via Mashable",
-      "date": "2026-11-10T18:22:58.000Z"
-    },
-    {
-      "id": 28,
-      "title": "Why an ex-Cohere leader doesn’t want you to call his new law firm “AI-native”",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGd5c3h2eDhQRm5SeXFQcmcyWmE3MmNTbVJ1dDl1cldGZURrUUFpTENXLUJVSmxCQlg4WGNLdGZROHJGU3hyOEdHM3hnc3BJeEpnSzBMbkQ4SDByOXV5d0JNLUpfR1RTeHZwaFAxYVdQal9lU1pidGtxTlM1MEtRVlI3ZUZCOFl6WGZNeVZXemJ0RXYzN2RXT2JERQ?oc=5",
-      "source": "Cohere · via BetaKit",
-      "date": "2026-11-10T18:07:56.000Z"
-    },
-    {
-      "id": 29,
-      "title": "OpenAI Built a Kill Switch That Can Stop Its AI Models Within 35 Seconds",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0h2dU81ckdFRXNNZU9ucno4TzdSSmJtNGhFaE11ODNKQWNKcGk1VzVlcHlPNnhoeGdWaUFHREpydFlNZzNPQ3BJdnJhaGFpeHNpc3R0eXZRdV9NWjhxMVVaRl9xY1djaVJrckkyTVNrREF4NnB3UFQ5NGVjc0pSbEJFLXYtZDVpM0thV212ODZWN2NSbW83QlRQTFJoZHpLbjBhYUM1Z1BRNUR1VFdsZFNXWWltc0U?oc=5",
-      "source": "Microsoft AI · via 24/7 Wall St.",
-      "date": "2026-11-10T17:57:00.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Mistral pushes back on new AI copyright proposals, sparking outcry from creatives",
-      "url": "https://sifted.eu/articles/mistral-copyright-law-proposal/",
-      "source": "Sifted",
-      "date": "2026-11-10T17:04:26.000Z"
-    },
-    {
-      "id": 31,
-      "title": "How I got seduced",
-      "url": "https://www.bensbites.com/p/how-i-got-seduced",
-      "source": "Ben's Bites",
-      "date": "2026-11-10T15:35:49.000Z"
-    },
-    {
-      "id": 32,
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-10T13:10:00.000Z"
-    },
-    {
-      "id": 33,
-      "title": "Show HN: Simstim – local call transcription on Mac into .md files",
-      "url": "https://github.com/pgrekovich/simstim",
-      "source": "Hacker News · IA",
-      "date": "2026-11-10T12:56:17.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-      "url": "https://arxiv.org/abs/2611.10045",
-      "source": "arXiv cs.AI",
-      "date": "2026-11-10T05:00:00.000Z"
-    },
-    {
-      "id": 35,
-      "title": "BIBIMBAP: A Benchmark for Instructional BIM-Based Automated Programming",
-      "url": "https://arxiv.org/abs/2611.09933",
-      "source": "arXiv cs.CL",
-      "date": "2026-11-10T05:00:00.000Z"
-    },
-    {
-      "id": 36,
-      "title": "Así logró China engañar al empresario más poderoso de la IA con una operación de seducción",
-      "url": "https://elpais.com/tecnologia/2026-11-10/asi-logro-china-enganar-al-empresario-mas-poderoso-de-la-ia-con-una-operacion-de-seduccion.html",
-      "source": "El País Tecnología",
-      "date": "2026-11-10T04:30:01.000Z"
-    },
-    {
-      "id": 37,
-      "title": "AppuBot",
-      "url": "https://www.producthunt.com/products/appubot",
-      "source": "Product Hunt",
-      "date": "2026-11-10T04:16:01.000Z"
     }
   ],
   "stats": {

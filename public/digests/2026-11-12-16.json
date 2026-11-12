@@ -1,0 +1,529 @@
+{
+  "id": "2026-11-12-16",
+  "generatedAt": "2026-11-12T16:28:42.866Z",
+  "periodStart": "2026-11-10T16:28:42.866Z",
+  "periodEnd": "2026-11-12T16:28:42.866Z",
+  "title": "Titulares del 12 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "What Jensen Huang leaving Nvidia means for AI",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "I reviewed the Apple HomeView, ask me anything",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "The Download: COP31’s climate challenge and the quest for immortality",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How a new AI model could help crushed rock fight climate change",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Perplexity AI sued over undisclosed usage caps on paid subscription features",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "xAI’s 52-Day Grok Gap: Anthropic Shipped 4 Claude Models",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Holiday Extras is rethinking what it can build with Codex",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why is Northzone betting on scouts as Sequoia walks away?",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Norwest pushes deeper into AI with new $4B fund",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Illinois crypto tax challenge draws backing from Andreessen Horowitz, DeFi Education Fund",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Hoy for Mac",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Ascenso y caída de Jensen Huang: de llevar a NVIDIA a la cima a renunciar entre infidelidades y una presunta espía",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Cecotec reinventa su freidora de aire estrella: la nueva Cecofry&Crunch cocina más rápido ocupando menos sitio en la encimera",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "An expert in corporate espionage on Nvidia CEO Jensen Huang’s entanglement with foreign intelligence",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "InproInnova 2026: Sevilla acoge 11 startups de IA",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Tech volleyball faces Utah on back of 20 consecutive conference defeats",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers (Connie Loizos/TechCrunch)",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "United Airlines wants you to check in, not your chatbot",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "A power bank that can quickly charge three gadgets is just $49",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Pre-orders for some Apple Home Collection devices will open November 13",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The HomeView nails everything I want from a smart display.",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "AI is getting better. Here is my plan to stay ahead.",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "To the man with AI, everything looks like a task",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "[AINews] D-Day (Decision Models Day)",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Gemini Decisions API",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-12T16:28:43.888Z"
+    },
+    {
+      "id": 2,
+      "title": "Ascenso y caída de Jensen Huang: de llevar a NVIDIA a la cima a renunciar entre infidelidades y una presunta espía",
+      "url": "https://hipertextual.com/economia-empresas/ascenso-y-caida-jensen-huang-nvidia/",
+      "source": "Hipertextual",
+      "date": "2026-11-12T16:28:36.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
+      "url": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-12T16:20:47.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers (Connie Loizos/TechCrunch)",
+      "url": "https://www.techmeme.com/261112/p40#a261112p40",
+      "source": "Techmeme",
+      "date": "2026-11-12T16:20:01.000Z"
+    },
+    {
+      "id": 5,
+      "title": "The HomeView nails everything I want from a smart display.",
+      "url": "https://bsky.app/profile/theverge.com/post/3n24umsrcxs2x",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-12T16:17:23.203Z"
+    },
+    {
+      "id": 6,
+      "title": "Cecotec reinventa su freidora de aire estrella: la nueva Cecofry&Crunch cocina más rápido ocupando menos sitio en la encimera",
+      "url": "https://www.xataka.com/seleccion/cecotec-reinventa-su-freidora-aire-estrella-nueva-cecofry-crunch-cocina-rapido-ocupando-sitio-encimera",
+      "source": "Xataka",
+      "date": "2026-11-12T16:15:26.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T16:12:44.000Z"
+    },
+    {
+      "id": 8,
+      "title": "How a new AI model could help crushed rock fight climate change",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWFZcGp2ejhwSk82VDlCUkFYemJQbW1Vc0tRcEtnZjlPVUk0SjdtdWozZzNYUm44VFdhTGJ0VFA0RlBrRlpPWXM1YW80XzljOWNmMWpyRFhOZUhGMElBZFQxZzc1ZEdVODl6NjFLNXUzX0JZUG02ajJVS3lRbFVhbnllQkxCbjhldXA1VXdRaVFSZlNJVjJfekRMUEVILWRFRUl4M2sybzJuOEtaUDRB?oc=5",
+      "source": "Microsoft AI · via Microsoft Source",
+      "date": "2026-11-12T16:06:11.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Perplexity AI sued over undisclosed usage caps on paid subscription features",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY256QV83NXJIbkptX25yb2dPdldqUHU2YXVBYmJPZWNJalktSkhjdkI0aEdBbkY3b0dJakU3V1l5SEo5WGxxVkxtZ2NPY28tbXZSbGFzU0pPWXQ1N3M3c2ZlSUd4T0Y0dGRIMG5wQlZXNEhhdDYwQ2lrWmhYbU5uY3NVbVZaQ19abzF6WTYxbVEzdldyOFBQa2VLam84bzlYNFJ2ZS1UdlY0ZTE4dkYtbm5HSEpnWlhaaXZQQXp2UHlQbnhHcDU5SkZPLTg0SGxyaUYzQg?oc=5",
+      "source": "Perplexity · via Top Class Actions",
+      "date": "2026-11-12T16:04:58.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+      "source": "Wired",
+      "date": "2026-11-12T15:58:21.000Z"
+    },
+    {
+      "id": 11,
+      "title": "An expert in corporate espionage on Nvidia CEO Jensen Huang’s entanglement with foreign intelligence",
+      "url": "https://www.fastcompany.com/91640982/an-expert-in-corporate-espionage-on-the-nvidia-ceo-jensen-huangs-entanglement-with-foreign-intelligence?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-12T15:45:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "United Airlines wants you to check in, not your chatbot",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
+      "source": "The Register",
+      "date": "2026-11-12T15:37:00.000Z"
+    },
+    {
+      "id": 13,
+      "title": "AI is getting better. Here is my plan to stay ahead.",
+      "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+      "source": "dev.to · IA · via Julien Avezou",
+      "date": "2026-11-12T15:35:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "A power bank that can quickly charge three gadgets is just $49",
+      "url": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-12T15:19:58.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Why is Northzone betting on scouts as Sequoia walks away?",
+      "url": "https://sifted.eu/articles/sifted-podcast-northzone-northstars/",
+      "source": "Sifted",
+      "date": "2026-11-12T15:18:29.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-12T15:18:14.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Pre-orders for some Apple Home Collection devices will open November 13",
+      "url": "https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/",
+      "source": "Engadget",
+      "date": "2026-11-12T15:16:55.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Illinois crypto tax challenge draws backing from Andreessen Horowitz, DeFi Education Fund",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakNEbFZ3OTB6QktQMkd6T3VQZWp0U1NlZWVVT2dKcmpWUm5tWjBEcmZsNnZRQ1FMQWl6NENubkZ0ZG9WT3Zmc1RXbFh4OVpqZVd4WnRWVXNqS1ZaZ25IZ0k1aGFwRTd3eGJFaERYWXhWSnVUTUJtdVE5X1RXWDMwM3l1QUVxS182anphZjhxWDhWa0I4X0RiZQ?oc=5",
+      "source": "a16z · via Traders Union",
+      "date": "2026-11-12T15:10:49.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Tech volleyball faces Utah on back of 20 consecutive conference defeats",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEtwUU1iUl9XSWZFUS1pTl9DZUMxNmFRV3gyVVRtSm44UTRCd3pkZmpoek5KYmZReEVvT09qejBDU1puUlowRlVlS0ZsanpoSzBZSFRkcXRTRHpXajYtUUNMa1N0dUd5ZVNRY0Q4bXBaWEZocVBPQVE0ekpMa1BVVS1GUlpXTVlkR1BQbkRjS0x0RlRtcHJVbHZ5R1RmX0tNa1NsYk12YjctOEZmNWpVN25tNW95OGE5RXc?oc=5",
+      "source": "Google News · Eventos tech · via The Daily Toreador",
+      "date": "2026-11-12T15:04:14.000Z"
+    },
+    {
+      "id": 20,
+      "title": "What Jensen Huang leaving Nvidia means for AI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmJBdUxCTmFMc1YzNXl4LUVoRE40dDlJMVFzZFlOOWVJZllndmxjUzU1VGVTcDU1NEZBeVNsSE5OY0c1bTkyWGRYRTQ4SmJhcFVGc08zd1JkTEplcFJ5YjAxMmpEbDJ1MUtoaUJidWZCd0E3MUFMZHpDOHI5Y2szQ0J0Q2tCY195Rk1zc3l2akpkdTRfOFNVQ3czRGR5ZDlTVVBMM1dCVjNoNDFmOVFyYi1adw?oc=5",
+      "source": "Google News · IA · via Scientific American",
+      "date": "2026-11-12T15:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T14:50:17.000Z"
+    },
+    {
+      "id": 22,
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "source": "The Verge AI",
+      "date": "2026-11-12T14:10:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "To the man with AI, everything looks like a task",
+      "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
+      "source": "Ben's Bites",
+      "date": "2026-11-12T14:03:11.000Z"
+    },
+    {
+      "id": 24,
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "source": "NVIDIA",
+      "date": "2026-11-12T14:00:59.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-12T13:26:25.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5",
+      "source": "Anthropic · via CBC",
+      "date": "2026-11-12T13:16:18.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-12T13:10:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "InproInnova 2026: Sevilla acoge 11 startups de IA",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVk1Hd1JBTTJrSk9LUjBXUjBHSWtmZFo0RmZGTER1TDkzak9xM0dZb3Vja2lmNEJ0YXdRQTdkMTR1Q1dGX3JzS1dMMjZ5NmZ0Szl6QWE4cUlYV0FnQVkzN0ItX1haUzZBUEZQLTNmRU5ySFgwVWdnUWFnX1dsYm9sQTZJWF9yZw?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-12T12:09:34.000Z"
+    },
+    {
+      "id": 29,
+      "title": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
+      "url": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
+      "source": "Crunchbase News",
+      "date": "2026-11-12T12:00:44.000Z"
+    },
+    {
+      "id": 30,
+      "title": "xAI’s 52-Day Grok Gap: Anthropic Shipped 4 Claude Models",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWFvakRSeVBKdnBVeU5wSWZQbHF3ZFBOMURZSFJVOUxyVkxZXzVQdU9FQ3VVM203U0FQNjFRdlVvWFFFd2Jxb1oxUjFCdmNSelZCLVJfVGVUWXVMNThoV3JKYlh1b0NvODc3VnY3QTZoWWJMWmNrU3NPem4xNF9zR1MzMUxWMVY0NkE?oc=5",
+      "source": "xAI · via FourWeekMBA",
+      "date": "2026-11-12T11:34:57.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "date": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Hoy for Mac",
+      "url": "https://www.producthunt.com/products/hoy-for-mac",
+      "source": "Product Hunt",
+      "date": "2026-11-12T06:29:56.000Z"
+    },
+    {
+      "id": 33,
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "source": "Latent Space",
+      "date": "2026-11-12T05:26:54.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "source": "Simon Willison",
+      "date": "2026-11-11T22:03:25.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+      "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+      "source": "Last Week in AI",
+      "date": "2026-11-11T14:21:42.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

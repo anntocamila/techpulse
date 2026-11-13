@@ -1,0 +1,516 @@
+{
+  "id": "2026-11-13-00",
+  "generatedAt": "2026-11-13T00:49:28.832Z",
+  "periodStart": "2026-11-11T00:49:28.832Z",
+  "periodEnd": "2026-11-13T00:49:28.832Z",
+  "title": "Titulares del 13 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Google’s new Gemini model is better at understanding complicated questions",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "United Airlines blocks AI agents from booking flights",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Kiro adds xAI’s Grok 4.7 to its AI coding platform",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Microsoft Research Focus – Edition #98",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "a16z Introduces \"B2A Economy\" Thesis: AI Agents Are Replacing Humans as the Internet's Primary Users",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Jensen Huang’s Nvidia exit shakes European tech",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Norwest pushes deeper into AI with new $4B fund",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Hoy for Mac",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "How the effects of Jensen Huang’s ouster are spiraling out through the economy",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Google lanza Gemini 4 Hydrogen y lo integra con su buscador para dar respuestas más completas e inteligentes",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Una catedral finlandesa suena cada día con el eco de estallidos de radio de hace miles de millones de años",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "InproInnova 2026: Sevilla acoge 11 startups de IA",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Chime to Participate in UBS Global Technology and AI Conference",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Donald Trump really wants Tim Cook to run Nvidia",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Xbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease. www.theverge.com/news/1032431...",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "llm-gemini 0.37",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "To the man with AI, everything looks like a task",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "[AINews] D-Day (Decision Models Day)",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-13T00:49:29.527Z"
+    },
+    {
+      "id": 2,
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "date": "2026-11-13T00:46:07.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
+      "url": "https://www.techmeme.com/261112/p66#a261112p66",
+      "source": "Techmeme",
+      "date": "2026-11-13T00:35:01.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Xbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease. www.theverge.com/news/1032431...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n25pcnrqfy2x",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-13T00:14:51.887Z"
+    },
+    {
+      "id": 5,
+      "title": "a16z Introduces \"B2A Economy\" Thesis: AI Agents Are Replacing Humans as the Internet's Primary Users",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQW9TcXdxWDhBWk15UVpjVXdRUkYyX3IwR0ptZVpGUXhMNkp1X2hwbnJESFJwVTdZaENiakRzOTQ1RHM1cWFoUUlQY0JDVEFIeElXcDExR0prNnZUZHFXNVdXVTlYOW1Na3hyb3BWMHBHSzNEOEE?oc=5",
+      "source": "a16z · via BigGo Finance",
+      "date": "2026-11-13T00:05:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUEtbE82eDZxeC1ubkhOcFFPUFhLQUNMdXdKbDlVTGtDbmFfakxXd2hpVmJZTEw1UFdOaThfNTdtcUhXWTU4TWgtUnF3RkowN0xRNlM5SW9ZOFhvMUpZaUFPQXNJOHh5bzlSMHk0QmhTNTNXWkgwVGVsVTlDbE5fMnhDQXJndU5hOG9FUl9GaEtreTVkWENOUnhpMVIyNUpTMndwQ3gxd08yNUN0aVVnem9sc3owcUdweFE?oc=5",
+      "source": "Microsoft AI · via BleepingComputer",
+      "date": "2026-11-12T23:58:27.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "source": "Wired",
+      "date": "2026-11-12T23:54:58.000Z"
+    },
+    {
+      "id": 8,
+      "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
+      "source": "The Register",
+      "date": "2026-11-12T23:51:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+      "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-12T23:45:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+      "url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
+      "source": "Engadget",
+      "date": "2026-11-12T23:32:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
+      "source": "Anthropic · via CBS News",
+      "date": "2026-11-12T23:25:23.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Kiro adds xAI’s Grok 4.7 to its AI coding platform",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTEV2NFdFeVcwQ0RXalNma3BKbDQtNDNIMHZhYi02ZnNHUlhObEkzbnE1RVcxSWREb1VoWEtwejFoak9KQ0FPNVZJMWwwWXVWa0t1cEp4aTl6dElnLVloMTdtUFpzOFdV?oc=5",
+      "source": "xAI · via Crypto Briefing",
+      "date": "2026-11-12T23:06:47.000Z"
+    },
+    {
+      "id": 13,
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T22:59:51.000Z"
+    },
+    {
+      "id": 14,
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "source": "Simon Willison",
+      "date": "2026-11-12T22:55:19.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch",
+      "date": "2026-11-12T22:42:51.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "date": "2026-11-12T21:55:32.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft Research Focus – Edition #98",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "source": "Microsoft Research",
+      "date": "2026-11-12T21:31:57.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Chime to Participate in UBS Global Technology and AI Conference",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnNGXzNEU29vLTlmMTltTF9Eb2VoZVJjalFacS15dUVEeFhhQW40bUZOZl9aUGlrQWpNdjRXN3Q0V3BiR3dGaDl2Mlo3aG9NQ1NzNWUxY1hyTVpHb0ZvZ2FpeFh3b05qMEJlYXhBb0pFdHN1Mi1NMnFMNmtVZUZSMzNlTG9uZ05waUh1WF9sTGI0VUdnZVdjM0NGeWpyVHI2R01UMldQTUxoQQ?oc=5",
+      "source": "Google News · Eventos tech · via Quantisnow",
+      "date": "2026-11-12T21:22:10.000Z"
+    },
+    {
+      "id": 19,
+      "title": "How the effects of Jensen Huang’s ouster are spiraling out through the economy",
+      "url": "https://www.fastcompany.com/91641320/why-jensen-huangs-ouster-is-more-than-just-nvidias-problem?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-12T21:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Google lanza Gemini 4 Hydrogen y lo integra con su buscador para dar respuestas más completas e inteligentes",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-hydrogen-y-lo-integra-con-su-buscador-web/",
+      "source": "Hipertextual",
+      "date": "2026-11-12T20:50:51.000Z"
+    },
+    {
+      "id": 21,
+      "title": "United Airlines blocks AI agents from booking flights",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
+      "source": "Google News · IA · via The Washington Post",
+      "date": "2026-11-12T20:30:00.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-12T20:16:24.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Una catedral finlandesa suena cada día con el eco de estallidos de radio de hace miles de millones de años",
+      "url": "https://www.xataka.com/espacio/catedral-finlandesa-suena-cada-dia-eco-estallidos-radio-hace-miles-millones-anos",
+      "source": "Xataka",
+      "date": "2026-11-12T20:01:23.000Z"
+    },
+    {
+      "id": 24,
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI",
+      "date": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-12T19:11:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-12T19:07:35.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Jensen Huang’s Nvidia exit shakes European tech",
+      "url": "https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/",
+      "source": "Sifted",
+      "date": "2026-11-12T17:19:55.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+      "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
+      "source": "dev.to · IA · via 𝗝𝗼𝗵𝗻",
+      "date": "2026-11-12T16:30:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-12T15:18:14.000Z"
+    },
+    {
+      "id": 30,
+      "title": "To the man with AI, everything looks like a task",
+      "url": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
+      "source": "Ben's Bites",
+      "date": "2026-11-12T14:03:11.000Z"
+    },
+    {
+      "id": 31,
+      "title": "InproInnova 2026: Sevilla acoge 11 startups de IA",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVk1Hd1JBTTJrSk9LUjBXUjBHSWtmZFo0RmZGTER1TDkzak9xM0dZb3Vja2lmNEJ0YXdRQTdkMTR1Q1dGX3JzS1dMMjZ5NmZ0Szl6QWE4cUlYV0FnQVkzN0ItX1haUzZBUEZQLTNmRU5ySFgwVWdnUWFnX1dsYm9sQTZJWF9yZw?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-12T12:09:34.000Z"
+    },
+    {
+      "id": 32,
+      "title": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
+      "url": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
+      "source": "Crunchbase News",
+      "date": "2026-11-12T12:00:44.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Hoy for Mac",
+      "url": "https://www.producthunt.com/products/hoy-for-mac",
+      "source": "Product Hunt",
+      "date": "2026-11-12T06:29:56.000Z"
+    },
+    {
+      "id": 34,
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "source": "Latent Space",
+      "date": "2026-11-12T05:26:54.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

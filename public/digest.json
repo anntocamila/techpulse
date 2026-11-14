@@ -1,8 +1,8 @@
 {
-  "id": "2026-11-14-14",
-  "generatedAt": "2026-11-14T14:40:36.793Z",
-  "periodStart": "2026-11-12T14:40:36.793Z",
-  "periodEnd": "2026-11-14T14:40:36.793Z",
+  "id": "2026-11-14-23",
+  "generatedAt": "2026-11-14T23:32:46.760Z",
+  "periodStart": "2026-11-12T23:32:46.760Z",
+  "periodEnd": "2026-11-14T23:32:46.760Z",
   "title": "Titulares del 14 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "text": "South Africa's Ramaphosa heads to US for AI visit",
+          "text": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
           "sources": [
-            10
+            13
           ]
         },
         {
-          "text": "Jensen Huang and the decline of the visionary showman founder CEO",
+          "text": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
           "sources": [
-            15
+            19
           ]
         },
         {
@@ -45,39 +45,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Anthropic’s S-1 Says Natural Gas, Not Chips, Is AI’s Biggest Bottleneck. Here’s the Stock That Sells the Engines.",
+          "text": "Perplexity Decider v1.3 & Flash Open Weights",
           "sources": [
-            18
+            4
           ]
         },
         {
-          "text": "Cohere buys AI code review startup Cubic as acquisition spree continues",
+          "text": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
           "sources": [
-            21
+            15
           ]
         },
         {
-          "text": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+          "text": "Cohere acquires AISLE and cubic to strengthen its cybersecurity with AI",
           "sources": [
-            24
-          ]
-        },
-        {
-          "text": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
-          "sources": [
-            28
-          ]
-        },
-        {
-          "text": "Advancing science & engineering with Antigravity’s /teamwork",
-          "sources": [
-            30
+            16
           ]
         },
         {
           "text": "The Microsoft outage didn’t lose your email — here’s what it does mean for you",
           "sources": [
-            32
+            20
+          ]
+        },
+        {
+          "text": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "sources": [
+            30
           ]
         }
       ]
@@ -89,27 +89,27 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Top 30 pharma companies reach $5 trillion in market value, rivaling big software",
+          "text": "A16z, Paradigm and Uniswap back the suit against Illinois' 0.2% crypto tax",
           "sources": [
-            13
+            17
           ]
         },
         {
           "text": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
           "sources": [
-            27
+            29
           ]
         },
         {
           "text": "Thunder",
           "sources": [
-            29
+            31
           ]
         },
         {
           "text": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
           "sources": [
-            31
+            32
           ]
         },
         {
@@ -127,39 +127,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "De hacer el cabra en YouTube a entrevistar al presidente del Gobierno de España: la evolución de Jordi Wild",
+          "text": "SpaceX catches upper stage of Starship rocket in historic first",
           "sources": [
-            2
+            3
           ]
         },
         {
-          "text": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+          "text": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
           "sources": [
-            7
+            10
           ]
         },
         {
-          "text": "Fue uno de los estrenos más controvertidos del año pasado y ahora la puedes ver en Movistar+",
+          "text": "El Schlörwagen, el superaerodinámico y peligrosísimo coche alemán que intentó revolucionar el mundo en 1939",
           "sources": [
-            8
+            12
           ]
         },
         {
-          "text": "A cyberattack forces you to pull the plug. Can your business keep running?",
+          "text": "Si te gusta ‘La Casa de Papel’, esta nueva serie de atracos es para ti",
           "sources": [
-            9
+            14
+          ]
+        },
+        {
+          "text": "The FAA’s IT troubles are far bigger then AI",
+          "sources": [
+            18
           ]
         },
         {
           "text": "Aysén busca convertirse en un polo tecnológico para atraer inversiones, startups e inteligencia artificial",
           "sources": [
-            20
-          ]
-        },
-        {
-          "text": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "sources": [
-            26
+            25
           ]
         }
       ]
@@ -171,9 +171,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Governor-elect Byron Donalds joins ed-tech conference in Hollywood as artificial intelligence gains ground across state",
+          "text": "Editorial | Shenzhen summit puts AI, trade and security in focus",
           "sources": [
-            22
+            2
           ]
         }
       ]
@@ -185,39 +185,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "How Marco Rubio helped topple Jensen Huang; source: Rubio used a CIA report about Alice Huang to write his own, recasting CIA reporting in more assertive terms (Washington Post)",
-          "sources": [
-            3
-          ]
-        },
-        {
-          "text": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+          "text": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
           "sources": [
             5
           ]
         },
         {
-          "text": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
+          "text": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
           "sources": [
-            6
+            7
           ]
         },
         {
-          "text": "Beware the New AI-Fueled Ransomware Boom",
+          "text": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "SpaceX Catches the Starship to end Flight 15",
           "sources": [
             11
           ]
         },
         {
-          "text": "James Webb telescope finds ice older than the star it orbits",
+          "text": "Beware the New AI-Fueled Ransomware Boom",
           "sources": [
-            14
+            21
           ]
         },
         {
-          "text": "Microsoft's school email bill gives rivals something to smile about",
+          "text": "James Webb telescope finds ice older than the star it orbits",
           "sources": [
-            16
+            23
           ]
         }
       ]
@@ -229,39 +229,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Look past the $29,990 sticker price and the math — and regulatory risk — gets messy fast. www.theverge.com/transportati...",
+          "text": "Which Model Should You Use? Frontier, Hosted or Local? It Depends.",
           "sources": [
-            4
+            6
+          ]
+        },
+        {
+          "text": "SpaceX captured Starship using the arms of ‘Mechazilla’ its launch and catch tower for the first time. www.theverge.com/science/1033...",
+          "sources": [
+            8
           ]
         },
         {
           "text": "Open-source AI without Jensen",
           "sources": [
-            12
+            22
           ]
         },
         {
           "text": "[AINews] The No AI Slop Manifesto",
           "sources": [
-            17
-          ]
-        },
-        {
-          "text": "10 Lines to Give Your Coding Agent Before It Touches Your Repo",
-          "sources": [
-            19
+            24
           ]
         },
         {
           "text": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
           "sources": [
-            23
+            26
           ]
         },
         {
           "text": "datasette-cluster-map 0.19",
           "sources": [
-            25
+            28
           ]
         }
       ]
@@ -273,224 +273,224 @@
       "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-14T14:40:37.976Z"
+      "date": "2026-11-14T23:32:47.541Z"
     },
     {
       "id": 2,
-      "title": "De hacer el cabra en YouTube a entrevistar al presidente del Gobierno de España: la evolución de Jordi Wild",
-      "url": "https://www.xataka.com/magnet/hacer-cabra-youtube-a-entrevistar-al-presidente-gobierno-espana-evolucion-jordi-wild",
-      "source": "Xataka",
-      "date": "2026-11-14T14:31:24.000Z"
+      "title": "Editorial | Shenzhen summit puts AI, trade and security in focus",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnUxajVfLTVoNUNDME5paDFGZGxjUjVITmpHOGtIWnhtc2RyS0UySWVsX0hFM2pMSEg4UUpsVjNjSjVJVmtwMURJU3JFVmlNTmNHYUdpeUpkcTF6VXJud1hIcDMzNVptWEN5ZXpkZlJCOGxlVDlUS25VU0p3VXpMYVBadWplUGgzV0JISzJsMFFSZ3JpR0dKZHpET2psOEJfWTRj0gGjAUFVX3lxTE8wUWNSU0REclh5VEdyZ3dPalN4Zld2czIxN1g1ZE5xc01Obmlkcmt4T21TX2F4RHpsYjdHRi1MWVVOVGpBdW1tZFBkblBmRnpyWnFpTEQ5WXprVmFyV2tmck56V2dmYU11VFZPRXRZWUdnRTFaMmhTZS1uSVF3ZVYtTWFoeXZQWmNGMEItSWNtY2kydV9NNnM2V1BYckZEeGJvbVU?oc=5",
+      "source": "Google News · Eventos tech · via South China Morning Post",
+      "date": "2026-11-14T23:15:10.000Z"
     },
     {
       "id": 3,
-      "title": "How Marco Rubio helped topple Jensen Huang; source: Rubio used a CIA report about Alice Huang to write his own, recasting CIA reporting in more assertive terms (Washington Post)",
-      "url": "https://www.techmeme.com/261114/p10#a261114p10",
-      "source": "Techmeme",
-      "date": "2026-11-14T14:30:23.000Z"
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-14T23:10:14.000Z"
     },
     {
       "id": 4,
-      "title": "Look past the $29,990 sticker price and the math — and regulatory risk — gets messy fast. www.theverge.com/transportati...",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2bp3jt7cs2s",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-14T14:21:32.011Z"
+      "title": "Perplexity Decider v1.3 & Flash Open Weights",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczFGQTg4NzRZWEpfOFZ3c2hWNTIzbEVIbWhjQjJGaTJSTlZ2TUpoc05nSENmX1pvbHhHMHV1bzE2aDJmMkdDbnFmMkJQUWtBLWp4RUE1bEZvak9EemNhSFpZdEdSV1RZTzUyejl0OXV1SURESXpvc2x4ZDN3R1hndExQM3Q?oc=5",
+      "source": "Perplexity · via CASRAI",
+      "date": "2026-11-14T23:03:23.000Z"
     },
     {
       "id": 5,
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "source": "The Verge",
-      "date": "2026-11-14T14:18:36.000Z"
+      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+      "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "source": "Engadget",
+      "date": "2026-11-14T23:00:00.000Z"
     },
     {
       "id": 6,
-      "title": "Samsung is taking a page out of Pixel's playbook with One UI 9.5",
-      "url": "https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/",
-      "source": "Engadget",
-      "date": "2026-11-14T14:15:00.000Z"
+      "title": "Which Model Should You Use? Frontier, Hosted or Local? It Depends.",
+      "url": "https://dev.to/gde/which-model-should-you-use-frontier-hosted-or-local-it-depends-2n45",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-14T22:05:33.000Z"
     },
     {
       "id": 7,
-      "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-14T14:00:01.000Z"
+      "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "url": "https://www.techmeme.com/261114/p20#a261114p20",
+      "source": "Techmeme",
+      "date": "2026-11-14T22:05:01.000Z"
     },
     {
       "id": 8,
-      "title": "Fue uno de los estrenos más controvertidos del año pasado y ahora la puedes ver en Movistar+",
-      "url": "https://hipertextual.com/cine-television/fue-uno-de-los-estrenos-mas-controvertidos-del-ano-pasado-y-ahora-la-puedes-ver-en-movistar/",
-      "source": "Hipertextual",
-      "date": "2026-11-14T14:00:00.000Z"
+      "title": "SpaceX captured Starship using the arms of ‘Mechazilla’ its launch and catch tower for the first time. www.theverge.com/science/1033...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2chxbbfye2g",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-14T21:46:32.247Z"
     },
     {
       "id": 9,
-      "title": "A cyberattack forces you to pull the plug. Can your business keep running?",
-      "url": "https://www.fastcompany.com/91640272/a-cyberattack-forces-you-to-pull-the-plug-can-your-business-keep-running-technology-cyberattacks?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-14T13:47:11.000Z"
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "date": "2026-11-14T21:44:44.000Z"
     },
     {
       "id": 10,
-      "title": "South Africa's Ramaphosa heads to US for AI visit",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kV2s2YWdKVEJBQUZPV2dqb2owczB2X1RSUHdzWkhsdlZjRktaRHA3dlVkZm5DbVRsNUlMaUxFLXBJSTB5Z3I0czRMZVhPRkhOZEQxSGFSSWJkdFdhSEJCR1kyemtjLWhVcFdpZHpLeDNlcGc4QWczUFU0RTlaZw?oc=5",
-      "source": "Google News · IA · via Yahoo News Singapore",
-      "date": "2026-11-14T13:13:49.000Z"
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "date": "2026-11-14T21:41:22.000Z"
     },
     {
       "id": 11,
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "source": "Hacker News",
+      "date": "2026-11-14T21:22:24.000Z"
+    },
+    {
+      "id": 12,
+      "title": "El Schlörwagen, el superaerodinámico y peligrosísimo coche alemán que intentó revolucionar el mundo en 1939",
+      "url": "https://www.xataka.com/movilidad/schlorwagen-superaerodinamico-peligrosisimo-coche-aleman-que-intento-revolucionar-mundo-1939",
+      "source": "Xataka",
+      "date": "2026-11-14T20:01:21.000Z"
+    },
+    {
+      "id": 13,
+      "title": "AI Agent Can’t Explain Why It Randomly Ordered its Human Meat Proxy an Absurd Number of Eggs",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2F0bGpoYmJFOWdyQWg0OW0ySlZ5MkZSanBJbUdqS05yYWFQdGlLNnBYWEhqYkFUdTVPbWpnVnZDRHlyTEttczM4aDZOclNnWUFNTU9MTlFpSllQUWRXMGV3b3VwME5YZm5ENWFSZ3hyZzM4RGFKQTRsSFI5LVNENFl3?oc=5",
+      "source": "Google News · IA · via Futurism",
+      "date": "2026-11-14T19:03:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Si te gusta ‘La Casa de Papel’, esta nueva serie de atracos es para ti",
+      "url": "https://hipertextual.com/cine-television/si-te-gusta-la-casa-de-papel-esta-nueva-serie-de-atracos-es-para-ti/",
+      "source": "Hipertextual",
+      "date": "2026-11-14T19:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+      "source": "Anthropic · via Yahoo Finance",
+      "date": "2026-11-14T18:56:19.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Cohere acquires AISLE and cubic to strengthen its cybersecurity with AI",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVBzaGtFdGRaUWR4OE8xOEF0cVpoM0ZPZlplZ0I3X3g1S3Y1U015YWNPdS1YVURtYVhYNy1JX2dFTGM3d1lUeVdBV1JuT3cwM0QyY1lxc21RYUVrVS1HZnpTc3VPeHNqS29oWnloZWpVT093UWZRM2F2VzloV0M3S2Z1REpsQmpvZVc0UjFLMnI3aDlLOXVodU5RVmpNcXpuLVBFNGtDMXdOUzI3LUhB?oc=5",
+      "source": "Cohere · via Foro3D",
+      "date": "2026-11-14T17:26:11.000Z"
+    },
+    {
+      "id": 17,
+      "title": "A16z, Paradigm and Uniswap back the suit against Illinois' 0.2% crypto tax",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenBnUmxtNFRoQUhTU1NIOXZmMUtYS1pldjVURHY2TjNseHVMSjMzdUtjbjJoWTE0NDNVN194ZmVRZmpxTFZBWWU2ZHVMSHBIYmxpU3VqVERFUC0wUWU4RGd3VTctdmw3QkoyREJrNFdQS3czcXpFc1NOR1Frc0huRXB4OVY4UGxyLXlDM2VJRjYzQjJwM0JQLVh5Y09tMjQ?oc=5",
+      "source": "a16z · via Startup Fortune",
+      "date": "2026-11-14T16:10:17.000Z"
+    },
+    {
+      "id": 18,
+      "title": "The FAA’s IT troubles are far bigger then AI",
+      "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-14T15:22:59.000Z"
+    },
+    {
+      "id": 19,
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI",
+      "date": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0U5d29Od01qNm5mUGY0WU5hdTN5eTV1M3ZxMUNiMXhzWGZtZWdlOExJZ1ZCLURsTGwxQ1p4OFBRX3hyZGNQN2Jfd2FGRUl6UG1kMzBDYjVTU2J1WnQ3QzdadzQ3ZU9zaEdPUG1XbUhNdmkyc1ktNVVsVW5XUjJBTGpUb3RsbVdaRkpvYVliQl9JWHhrU1Jab0hwVmhGOEZNbFY3NWFyME42bjVpNFZZSXZJS2FwM2ZGZVdzTjI1bUM?oc=5",
+      "source": "Microsoft AI · via Yahoo Finance",
+      "date": "2026-11-14T13:38:58.000Z"
+    },
+    {
+      "id": 21,
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "source": "Wired",
       "date": "2026-11-14T13:00:00.000Z"
     },
     {
-      "id": 12,
+      "id": 22,
       "title": "Open-source AI without Jensen",
       "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
       "source": "Interconnects",
       "date": "2026-11-14T12:23:15.000Z"
     },
     {
-      "id": 13,
-      "title": "Top 30 pharma companies reach $5 trillion in market value, rivaling big software",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TenJDakdfRkNPUU0tRWRia0RjVHdXYi1HczQ2VFZaaHZPYVlNYjV2Q1l1d1lQa3VtQjMzN2FmX0dzWUczT0d4N0ZFLWhWamxaVVp3M0RfSmI?oc=5",
-      "source": "a16z · via www.tokenpost.com",
-      "date": "2026-11-14T12:20:36.000Z"
-    },
-    {
-      "id": 14,
+      "id": 23,
       "title": "James Webb telescope finds ice older than the star it orbits",
       "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
       "source": "Ars Technica",
       "date": "2026-11-14T12:15:48.000Z"
     },
     {
-      "id": 15,
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "source": "The Verge AI",
-      "date": "2026-11-14T12:00:00.000Z"
-    },
-    {
-      "id": 16,
-      "title": "Microsoft's school email bill gives rivals something to smile about",
-      "url": "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296",
-      "source": "The Register",
-      "date": "2026-11-14T10:27:00.000Z"
-    },
-    {
-      "id": 17,
+      "id": 24,
       "title": "[AINews] The No AI Slop Manifesto",
       "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
       "source": "Latent Space",
       "date": "2026-11-14T08:31:02.000Z"
     },
     {
-      "id": 18,
-      "title": "Anthropic’s S-1 Says Natural Gas, Not Chips, Is AI’s Biggest Bottleneck. Here’s the Stock That Sells the Engines.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEd6OGtKR1FCMXVWY20zVW1RdUNYTlNSbGpqQzZ2LTQwZVh5S3JzZG12TWZjMHA0NWtrOVRzd1F2YTRLSDc1RlNJZ0VTLXBmUDZ6MUZIZjNKLW1yTW0xc3JWNFpCNDNfQ0RweHhpWVVyWjFIV293Q2F2UkQzeldDMlhsbkpESFhERGpMU1NR?oc=5",
-      "source": "Anthropic · via Yahoo Finance",
-      "date": "2026-11-14T07:51:00.000Z"
-    },
-    {
-      "id": 19,
-      "title": "10 Lines to Give Your Coding Agent Before It Touches Your Repo",
-      "url": "https://dev.to/debashish_ghosal/10-lines-to-give-your-coding-agent-before-it-touches-your-repo-2ab9",
-      "source": "dev.to · IA · via Debashish Ghosal",
-      "date": "2026-11-14T07:00:00.000Z"
-    },
-    {
-      "id": 20,
+      "id": 25,
       "title": "Aysén busca convertirse en un polo tecnológico para atraer inversiones, startups e inteligencia artificial",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0gyQ1NGY0FWY1kxQTgtV0FWeWNRdXFzSlpqQVRqdmEtUVBMUFI4dzJqa1pLZ2NIdUZtemE2SHZrc2RpMzZQanVoUE45RTJIVFF4S3A3cy1Uc0RYS0lBUWxjWDE1d1h3TXRlelBnWWxxWjFiWjJjWnE0QmpPdUlUTnNURk9wZVhyZGktRWN3U3ZaUUduTk9kc3JUMzI2X1NaZ0FOSGR4QWVLM1NyWlh2TE9vQ2JGa2hkUXN6a2MwcHhyek9WVTNya0IzeWI2ZFk?oc=5",
       "source": "Google News · Tecnología (ES) · via https://zonazero.cl/",
       "date": "2026-11-14T05:04:37.000Z"
     },
     {
-      "id": 21,
-      "title": "Cohere buys AI code review startup Cubic as acquisition spree continues",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0VYTV8yd00tYkdyYUtKeURaazhVUDN1ZEVHTS1IVi1za3hORW0xYmt6R2VHUDA4dHNvMU9CemkwV3Z1OENmLVpvc0hjQ0ZfcEhfUERDNm13SmpjUm1LRkpSYk9mN1VRQ3BsMWdmX1VEb1hfcWVCQlF1NzlKWExwUndTRkpUaE1FMF9maG90RXVkc2RSY1hv?oc=5",
-      "source": "Cohere · via BetaKit",
-      "date": "2026-11-14T02:28:06.000Z"
-    },
-    {
-      "id": 22,
-      "title": "Governor-elect Byron Donalds joins ed-tech conference in Hollywood as artificial intelligence gains ground across state",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLRE9EYnAzWFZoZm9YS0M5M2drWllJOHpQemI5TnVKb0c1SjJfN3N1anNnRHk3dDNPUUpBc2VwQUZtTUVjUmc0V2cxZzZBSDJURzBvWEZGZ0VLcWVSTjJfVmp6a0k1YWtXZFRtNG84QjhjTVBZX2xsSnB2ejNlZw?oc=5",
-      "source": "Google News · Eventos tech · via WSVN",
-      "date": "2026-11-14T00:20:29.000Z"
-    },
-    {
-      "id": 23,
+      "id": 26,
       "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
       "url": "https://news.ycombinator.com/item?id=50491841",
       "source": "Hacker News · IA",
       "date": "2026-11-13T23:50:03.000Z"
     },
     {
-      "id": 24,
+      "id": 27,
       "title": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWhKcVRRbjc2T3ZCLXgxbDZSRlJKS181T3h6ZWgyWkVRQ3FmbER2MUZaMkRSZHRQa2otMm5qV1ZWNGt5TTZabTNjUnBMYWoyZHIwY0VXNVIwMFNZazVLUW9zRGRoZ096NlVtUGljNHJhRkxGQWpIbkhDenZxVTd6Uk52OTFUaHd1ZkZN?oc=5",
       "source": "xAI · via FourWeekMBA",
       "date": "2026-11-13T23:06:53.000Z"
     },
     {
-      "id": 25,
+      "id": 28,
       "title": "datasette-cluster-map 0.19",
       "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
       "source": "Simon Willison",
       "date": "2026-11-13T23:02:45.000Z"
     },
     {
-      "id": 26,
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "source": "TechCrunch",
-      "date": "2026-11-13T23:00:00.000Z"
-    },
-    {
-      "id": 27,
+      "id": 29,
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch Startups",
       "date": "2026-11-13T22:43:00.000Z"
     },
     {
-      "id": 28,
+      "id": 30,
       "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
       "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
       "source": "NVIDIA Developer",
       "date": "2026-11-13T22:13:51.000Z"
     },
     {
-      "id": 29,
+      "id": 31,
       "title": "Thunder",
       "url": "https://www.producthunt.com/products/thunder-3",
       "source": "Product Hunt",
       "date": "2026-11-13T21:27:29.000Z"
     },
     {
-      "id": 30,
-      "title": "Advancing science & engineering with Antigravity’s /teamwork",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "source": "Google Research",
-      "date": "2026-11-13T20:47:18.000Z"
-    },
-    {
-      "id": 31,
+      "id": 32,
       "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
       "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
       "source": "Crunchbase News",
       "date": "2026-11-13T20:32:55.000Z"
-    },
-    {
-      "id": 32,
-      "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenFENG44c2tIRWlsR1FZSkxRMnRGOTZnZHZNRF9TbDBSeDlqS3phbU9xQlN3MkhoWkdFVnIxUGY3Ymw4cnlPeDRBVlkwQXcxdjZLblJuQmpneHYwbElQZE0zcncwR0ZrV1pKZVgwREU0ODQ1UVdLRm1RVGZuMlA0ZHBKOVlfNXp5X0M0dUp4eWJDVkphTEFRZFJpWXBmQ2hUc0dXbElSQVpvamk5NG9wb3dLdUtJZERXX2hzcVRrM2JJWDJfTEdPQnFvYmQwNkZG?oc=5",
-      "source": "Microsoft AI · via Yahoo Finance",
-      "date": "2026-11-13T19:01:21.000Z"
     },
     {
       "id": 33,

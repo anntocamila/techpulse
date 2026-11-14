@@ -1,0 +1,529 @@
+{
+  "id": "2026-11-14-00",
+  "generatedAt": "2026-11-14T00:35:08.647Z",
+  "periodStart": "2026-11-12T00:35:08.647Z",
+  "periodEnd": "2026-11-14T00:35:08.647Z",
+  "title": "Titulares del 14 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MiniMaxAI/MiniMax-H3-Image",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "FAA investigating whether new AI technology contributed to nationwide ground stop",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Amazon has a plan to index the world’s online shopping data",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Cohere Buys Code Reviewer Cubic, Its Fourth Deal of 2026",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Advancing science & engineering with Antigravity’s /teamwork",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Mistral's Mensch Urges EU Speed, Bolder Financing To Lead AI Race",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Zus Health Raises $33M to Make Healthcare More Connected",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Inside Samsung’s year of European deal making",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "StockRip",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Aysén busca convertirse en un polo tecnológico para atraer inversiones, startups e inteligencia artificial",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "El USB del espacio: Europa crea un conector universal para reparar satélites en órbita en lugar de tirarlos",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Jensen Huang’s resignation from Nvidia won’t end his problems with Congress",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Forbes CIO Summit spotlights need for 'human in the flow' with AI",
+          "sources": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "FAA ground stop shuts down flights nationwide",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "FAA orders third nationwide ground stop in its history",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "All US flights grounded by FAA",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Best Early Black Friday AirPods Deals (2026)",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Benchmarking the Gemini Decisions API",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "datasette-cluster-map 0.19",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Jensen Huang and the end of the ‘lol nothing matters’ era of American politics",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-14T00:35:09.579Z"
+    },
+    {
+      "id": 2,
+      "title": "FAA investigating whether new AI technology contributed to nationwide ground stop",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNkJEVTBNRmc4TkFaTXJDemRaS1hDZWJoOTkwT1dONmZDa2h4Mk1XeEk5V0xHaGh4RWp5MW1QVjNBU0VkX2kwSGVnWEZGLTlRSGxxUlhCS0JUalZnNmdtTWdrY3dHQXJfRHViaEtjcVA0QVdMM1lNOXRIRTFyNmx1dWlMX3RMNWZLei1Idm5iTEE2anBVQkk0RTAzYzlnQllXWXZRYURKQ2ZWVUJGTk9FMWpIQTZNYWNXWWpCOHh1cVk?oc=5",
+      "source": "Google News · IA · via News4JAX",
+      "date": "2026-11-14T00:32:16.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
+      "url": "https://www.techmeme.com/261113/p35#a261113p35",
+      "source": "Techmeme",
+      "date": "2026-11-13T23:55:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-13T23:54:36.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "url": "https://news.ycombinator.com/item?id=50491841",
+      "source": "Hacker News · IA",
+      "date": "2026-11-13T23:50:03.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "date": "2026-11-13T23:49:11.000Z"
+    },
+    {
+      "id": 7,
+      "title": "FAA ground stop shuts down flights nationwide",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "date": "2026-11-13T23:47:27.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Benchmarking the Gemini Decisions API",
+      "url": "https://dev.to/gde/benchmarking-the-gemini-decisions-api-l31",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-13T23:45:04.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "source": "Anthropic · via The New York Times",
+      "date": "2026-11-13T23:20:10.000Z"
+    },
+    {
+      "id": 10,
+      "title": "FAA orders third nationwide ground stop in its history",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T23:17:38.000Z"
+    },
+    {
+      "id": 11,
+      "title": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWhKcVRRbjc2T3ZCLXgxbDZSRlJKS181T3h6ZWgyWkVRQ3FmbER2MUZaMkRSZHRQa2otMm5qV1ZWNGt5TTZabTNjUnBMYWoyZHIwY0VXNVIwMFNZazVLUW9zRGRoZ096NlVtUGljNHJhRkxGQWpIbkhDenZxVTd6Uk52OTFUaHd1ZkZN?oc=5",
+      "source": "xAI · via FourWeekMBA",
+      "date": "2026-11-13T23:03:45.000Z"
+    },
+    {
+      "id": 12,
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison",
+      "date": "2026-11-13T23:02:45.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Aysén busca convertirse en un polo tecnológico para atraer inversiones, startups e inteligencia artificial",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0gyQ1NGY0FWY1kxQTgtV0FWeWNRdXFzSlpqQVRqdmEtUVBMUFI4dzJqa1pLZ2NIdUZtemE2SHZrc2RpMzZQanVoUE45RTJIVFF4S3A3cy1Uc0RYS0lBUWxjWDE1d1h3TXRlelBnWWxxWjFiWjJjWnE0QmpPdUlUTnNURk9wZVhyZGktRWN3U3ZaUUduTk9kc3JUMzI2X1NaZ0FOSGR4QWVLM1NyWlh2TE9vQ2JGa2hkUXN6a2MwcHhyek9WVTNya0IzeWI2ZFk?oc=5",
+      "source": "Google News · Tecnología (ES) · via https://zonazero.cl/",
+      "date": "2026-11-13T23:01:19.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "source": "TechCrunch",
+      "date": "2026-11-13T23:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+      "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+      "source": "Engadget",
+      "date": "2026-11-13T22:50:13.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-13T22:43:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "All US flights grounded by FAA",
+      "url": "https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912",
+      "source": "The Register",
+      "date": "2026-11-13T22:42:28.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Best Early Black Friday AirPods Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+      "source": "Wired",
+      "date": "2026-11-13T22:30:29.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Zus Health Raises $33M to Make Healthcare More Connected",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUm02Vk5lcUNxaExJcVZyblN4VVhGS3dhcldlUGY5TnJEMHozSmxnSVh5dEVuSDdhU3htdTAzLTFDS05WVDFYemtsdUJ5Nmc5b1RpWlhybHhsaGhrcEg1RldicE9UdFJzdnFJbWtQdk1HblVmY2xkY2dURjZ4QVdUVy1IX1RORGxUTGZHYzZKRlJBUQ?oc=5",
+      "source": "a16z · via MedCity News",
+      "date": "2026-11-13T22:17:27.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-13T22:13:51.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Cohere Buys Code Reviewer Cubic, Its Fourth Deal of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnczbkFkdGRfV2Y0THg5WTI2bmRIMVVuT21hRE1DMHc2a1VqR1hsRmJiQzVoUl95RTJkekJxaHhKeUNkdm53alQ2aXNtUFB1NTFKSDFWU08yMjFrUzdhRnlWUHVSWHlwbWx6bHdULTZPbzRmeE5oS2hkUEUzZHhlUEZvM3d2UDc5X244?oc=5",
+      "source": "Cohere · via FourWeekMBA",
+      "date": "2026-11-13T21:36:53.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/",
+      "source": "Hipertextual",
+      "date": "2026-11-13T21:21:28.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Forbes CIO Summit spotlights need for 'human in the flow' with AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFNMYjd6XzRCUThhWk13Z2FtNldJZlRkbzZZMi11WU5wTGtVNnZQWThOcEp6UDJxN3dTUlZHSDFRTFBrTVp0Y1RoR1hHb2NjeEZSZlNBSlR5cExrV2JRbVpjdko5UEczb0hQUTM4TmI2WmRfNk1lRkdjVWthWnRJcV9pcU5kbW9iX1lQZ3JkWU5vUFRWY254WDlHVWZNeE5CUmtQbmxhRnZ5LVZVZFE?oc=5",
+      "source": "Google News · Eventos tech · via Information Week",
+      "date": "2026-11-13T20:49:53.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "Google Research",
+      "date": "2026-11-13T20:47:18.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Mistral's Mensch Urges EU Speed, Bolder Financing To Lead AI Race",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU0hKS0hKcElnX2hJbEd0b3V4M1Fya2Z1MV9za2ZubUlaN0UydmNtRE1mRUdBSEgwd0dod3pFV3h0M0hfVFFUMVZaNGx5a2I2WUdJMHlySnZqRXpWTllia2tGSXU3dGxWZ1Z6MVpOMjdZMmdXWXBmZkdVcVBIUmlfa2RULVdWMXVMVkN1Z0h5c1V4bUhCVThSczRoT2IzckYzdDc1M1oyUmpBSElpLXZNWDZxREpNNC1WTUlOY21UZ0dibXlLX0xuaG80RDY3WTF4b0lzRzY5TUtqbTEtM2hNSlFCLWxLbmZxbF9R?oc=5",
+      "source": "Mistral AI · via Forbes Middle East",
+      "date": "2026-11-13T20:41:51.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+      "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+      "source": "Crunchbase News",
+      "date": "2026-11-13T20:32:55.000Z"
+    },
+    {
+      "id": 27,
+      "title": "El USB del espacio: Europa crea un conector universal para reparar satélites en órbita en lugar de tirarlos",
+      "url": "https://www.xataka.com/espacio/usb-espacio-europa-crea-conector-universal-para-reparar-satelites-orbita-lugar-tirarlos",
+      "source": "Xataka",
+      "date": "2026-11-13T20:01:21.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Jensen Huang’s resignation from Nvidia won’t end his problems with Congress",
+      "url": "https://www.fastcompany.com/91642370/jensen-huangs-resignation-from-nvidia-wont-end-his-problems-with-congress?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-13T19:07:05.000Z"
+    },
+    {
+      "id": 29,
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-13T13:10:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Inside Samsung’s year of European deal making",
+      "url": "https://sifted.eu/articles/samsung-european-tech/",
+      "source": "Sifted",
+      "date": "2026-11-13T11:00:39.000Z"
+    },
+    {
+      "id": 31,
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "source": "Latent Space",
+      "date": "2026-11-13T09:04:13.000Z"
+    },
+    {
+      "id": 32,
+      "title": "StockRip",
+      "url": "https://www.producthunt.com/products/stockrip",
+      "source": "Product Hunt",
+      "date": "2026-11-13T06:46:57.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Abstention Is Not Threshold Compliance: Stated Scoring Rules in Open Language Models",
+      "url": "https://arxiv.org/abs/2611.14661",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Jensen Huang and the end of the ‘lol nothing matters’ era of American politics",
+      "url": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/",
+      "source": "Platformer",
+      "date": "2026-11-13T01:43:23.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 62,
+    "sourcesFailed": 1
+  },
+  "generator": "headlines"
+}

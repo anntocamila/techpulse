@@ -1,0 +1,378 @@
+{
+  "id": "2026-11-15-23",
+  "generatedAt": "2026-11-15T23:39:48.293Z",
+  "periodStart": "2026-11-13T23:39:48.293Z",
+  "periodEnd": "2026-11-15T23:39:48.293Z",
+  "title": "Titulares del 15 de noviembre",
+  "subtitle": "130 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "sources": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "A step toward defining the Standard Model on a lattice",
+          "sources": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Starling founder Anne Boden plots new AI-powered bank",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Canvas by AgentGrid.io",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "\"Cualquier parecido con la realidad es pura coincidencia\": el disclaimer del cine que nos ganamos por culpa de Rasputín",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "El primer PC de Google: tan solo 40 GB, piezas de Lego y un algoritmo que lo cambiaría todo",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "AI is making software easier to build. Keeping it running is another story",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
+          "sources": [
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Why your Wi-Fi slows down when more devices connect",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+          "sources": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Armand Hammer’s latest album is among their best. www.theverge.com/entertainmen...",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "datasette-llm 0.1a11",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Open-source AI without Jensen",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "[AINews] The No AI Slop Manifesto",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-15T23:39:51.082Z"
+    },
+    {
+      "id": 2,
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Why your Wi-Fi slows down when more devices connect",
+      "url": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
+      "source": "Engadget",
+      "date": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "date": "2026-11-15T23:11:54.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+      "url": "https://www.techmeme.com/261115/p18#a261115p18",
+      "source": "Techmeme",
+      "date": "2026-11-15T23:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "date": "2026-11-15T22:00:01.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Armand Hammer’s latest album is among their best. www.theverge.com/entertainmen...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2eyp6b4xv23",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-15T21:51:33.305Z"
+    },
+    {
+      "id": 9,
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "source": "The Verge",
+      "date": "2026-11-15T21:49:22.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge AI",
+      "date": "2026-11-15T20:43:49.000Z"
+    },
+    {
+      "id": 11,
+      "title": "\"Cualquier parecido con la realidad es pura coincidencia\": el disclaimer del cine que nos ganamos por culpa de Rasputín",
+      "url": "https://www.xataka.com/cine-y-tv/cualquier-parecido-realidad-pura-coincidencia-disclaimer-cine-que-nos-ganamos-culpa-rasputin",
+      "source": "Xataka",
+      "date": "2026-11-15T20:01:20.000Z"
+    },
+    {
+      "id": 12,
+      "title": "How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon",
+      "url": "https://dev.to/necoz/how-i-made-a-markov-chain-model-from-scratch-in-c-during-a-global-online-teen-hackathon-3gd7",
+      "source": "dev.to · IA · via Tyler N",
+      "date": "2026-11-15T19:51:04.000Z"
+    },
+    {
+      "id": 13,
+      "title": "El primer PC de Google: tan solo 40 GB, piezas de Lego y un algoritmo que lo cambiaría todo",
+      "url": "https://hipertextual.com/tecnologia/primer-pc-de-google-piezas-juguetes-lego/",
+      "source": "Hipertextual",
+      "date": "2026-11-15T19:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T18:36:10.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-15T18:10:18.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Starling founder Anne Boden plots new AI-powered bank",
+      "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+      "source": "Sifted",
+      "date": "2026-11-15T16:33:09.000Z"
+    },
+    {
+      "id": 17,
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "source": "Wired",
+      "date": "2026-11-15T12:01:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "AI is making software easier to build. Keeping it running is another story",
+      "url": "https://www.fastcompany.com/91642024/ai-is-making-software-easier-to-build-keeping-it-running-is-another-story?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt",
+      "date": "2026-11-15T06:22:09.000Z"
+    },
+    {
+      "id": 20,
+      "title": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
+      "url": "https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-15T04:30:01.000Z"
+    },
+    {
+      "id": 21,
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-14T23:59:28.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "source": "Interconnects",
+      "date": "2026-11-14T12:23:15.000Z"
+    },
+    {
+      "id": 23,
+      "title": "[AINews] The No AI Slop Manifesto",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "source": "Latent Space",
+      "date": "2026-11-14T08:31:02.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "url": "https://news.ycombinator.com/item?id=50491841",
+      "source": "Hacker News · IA",
+      "date": "2026-11-13T23:50:03.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 130,
+    "sourcesOk": 49,
+    "sourcesFailed": 14
+  },
+  "generator": "headlines"
+}

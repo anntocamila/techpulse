@@ -1,0 +1,490 @@
+{
+  "id": "2026-11-15-15",
+  "generatedAt": "2026-11-15T15:09:24.063Z",
+  "periodStart": "2026-11-13T15:09:24.063Z",
+  "periodEnd": "2026-11-15T15:09:24.063Z",
+  "title": "Titulares del 15 de noviembre",
+  "subtitle": "200 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MiniMaxAI/MiniMax-H3-Image",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "An overview of Jensen Huang’s messy days",
+          "sources": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count?",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Only Anthropic Can Save The AI Trade Now",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Perplexity Teammates AI Agents Arrive on Mac — Behind a $200 Paywall",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Mistral AI IPO: Status, Valuation and What to Know",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Cohere Acquires AISLE and Cubic to Build Cyber Defense and Secure Coding Units",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Canvas by AgentGrid.io",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "a16z Says AI Will Make Pharma Even Bigger. Here’s What the Numbers Show",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "De 'GTA V' a 'GTA VI': 13 años, 4.700 empleados y una industria que sigue apartándose del camino de Rockstar",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "3 razones para ver la macabra y violenta ‘Victorian Psycho’",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "AI is making software easier to build. Keeping it running is another story",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Where was Nvidia&#8217;s security team?",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Advice For College Applicants From The National Admission Conference",
+          "sources": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How long will your NVIDIA GPU be supported?",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "How the world’s fires changed while humanity hit pause",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "LEO gets a birthday bash, 75 years after clocking in",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "On Version History: How a robot dog became a family member, but not exactly a huge hit. www.theverge.com/podcast/1033...",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Google Antigravity",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "datasette-llm 0.1a11",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Open-source AI without Jensen",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "[AINews] The No AI Slop Manifesto",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-15T15:09:25.288Z"
+    },
+    {
+      "id": 2,
+      "title": "De 'GTA V' a 'GTA VI': 13 años, 4.700 empleados y una industria que sigue apartándose del camino de Rockstar",
+      "url": "https://www.xataka.com/videojuegos/gta-v-a-gta-vi-13-anos-4-700-empleados-industria-que-sigue-apartandose-camino-rockstar",
+      "source": "Xataka",
+      "date": "2026-11-15T15:01:31.000Z"
+    },
+    {
+      "id": 3,
+      "title": "3 razones para ver la macabra y violenta ‘Victorian Psycho’",
+      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-la-macabra-y-violenta-victorian-psycho/",
+      "source": "Hipertextual",
+      "date": "2026-11-15T15:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "How long will your NVIDIA GPU be supported?",
+      "url": "https://www.engadget.com/2313688/how-long-nvidia-gpu-supported/",
+      "source": "Engadget",
+      "date": "2026-11-15T14:45:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Advice For College Applicants From The National Admission Conference",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzVXMDY2V3ktZE1kOWdsVlprOFY0TXNZa2ttS3pVbUdISmJqb3JDRUxxTHpLMDc2Zzh0ZDFPTkRyeWtZOVVDNXdKdUdOUVl0Qjl3em00aWN6R19PdTVRMklfUk5YY2VxY05QaWthV2tYSlBfX3E3NTJMX3JTa1dWMlVoNnNrUkhFa1JWWjJkbmFIT0VPQ1ZJQVB3OU0wb2lRZ1Y1cl9xc1hLSGdOSVlfUXpGZlhmdGx6d3ZndGhDaVRUUQ?oc=5",
+      "source": "Google News · Eventos tech · via Forbes",
+      "date": "2026-11-15T14:19:43.000Z"
+    },
+    {
+      "id": 6,
+      "title": "On Version History: How a robot dog became a family member, but not exactly a huge hit. www.theverge.com/podcast/1033...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2e6yolvfm2b",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-15T14:11:33.392Z"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNHJzWFJVdWN5THdobUlmWFdXd3V6YzNZSnFIaHJKODJpaGVwN2owcVZFV0R5cjV1dHoxSDBlclpqRlhDRkNxYUI5bm1OUVZqQm5HUzRuNVVUTWtMMWIxUXZMUVo4dURYVk5UQTBYb2hvUHlROHN3amZiRHh0YUpIV1E3N3UydW1hTEU3bzdSeFJRdXRGNUtJSlVR?oc=5",
+      "source": "Microsoft AI · via Yahoo Finance",
+      "date": "2026-11-15T14:03:01.000Z"
+    },
+    {
+      "id": 8,
+      "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-15T14:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV212VERNUTlDS3VueEZDd19WaG12V3FseS0ydmZITFhmWi1kcEpsQVVOSE43cXYyWWJUbllDUzltNGZyTWk1VWRzS2JnVE13bkNRamFTQ0hWMkZNY3NITHl6VmlUMk10cWFsODJrWGtGMjNLSEpsN3VuMzNwNi1UMEg3TEEyRkRSWi1rcTJMaHZvNFU3ODRwMFZxVmhIMzQxeFJLeHZtcGFQaWxSakZBblY0eHY2SkE2TF9TT21zYURrbDNEOWRtV1dVV29qSTBsQUEyeU91WDhwYTg4c01hdHFn?oc=5",
+      "source": "Google News · IA · via The Motley Fool",
+      "date": "2026-11-15T13:25:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Only Anthropic Can Save The AI Trade Now",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmQ0bmtkbzg1OUl4N09xLWk2UEhQcjZUdEI2Ym1HczBQTHBtYXZocjA3Vml6bTRvZmQzUVNfUmdqVFk4SC1RNGFWRlFycURxSEFjT09BSjFvcmVLeDlycEFsU28xcGhISWNTMF96Q2c0R1FEY1RHS3hvUUxmc21jWjYwNUJRaXIz?oc=5",
+      "source": "Anthropic · via Seeking Alpha",
+      "date": "2026-11-15T13:17:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge AI",
+      "date": "2026-11-15T13:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "How the world’s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "source": "Ars Technica",
+      "date": "2026-11-15T12:07:34.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+      "url": "https://www.techmeme.com/261115/p7#a261115p7",
+      "source": "Techmeme",
+      "date": "2026-11-15T12:02:16.000Z"
+    },
+    {
+      "id": 14,
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "url": "https://www.wired.com/story/best-paper-planners/",
+      "source": "Wired",
+      "date": "2026-11-15T12:01:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-15T12:00:01.000Z"
+    },
+    {
+      "id": 16,
+      "title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Google Antigravity",
+      "url": "https://dev.to/gde/how-i-built-an-8-skill-research-engineering-plugin-stdio-mcp-server-vector-comic-studio-for-lfb",
+      "source": "dev.to · IA · via Robina Mirbahar",
+      "date": "2026-11-15T11:20:10.000Z"
+    },
+    {
+      "id": 17,
+      "title": "AI is making software easier to build. Keeping it running is another story",
+      "url": "https://www.fastcompany.com/91642024/ai-is-making-software-easier-to-build-keeping-it-running-is-another-story?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "title": "LEO gets a birthday bash, 75 years after clocking in",
+      "url": "https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806",
+      "source": "The Register",
+      "date": "2026-11-15T09:03:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Perplexity Teammates AI Agents Arrive on Mac — Behind a $200 Paywall",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHpkWlpHY2VKTkpHVjZDdFZUd0NmWnRzTjRjV3lDVnpRaXEyWjlNOVNnaUJOWjY2X1pKWER2d0lpWS1RN21tbFQwTjJVaHRFZTVLSEE4di1sVDdCWmsySVZ1dkZPRk9MQUd3eV9ZQjRSRTh1a19QNVdzendtdXlsOTFhamRSV1FlWnhON09B?oc=5",
+      "source": "Perplexity · via OpenTools",
+      "date": "2026-11-15T08:26:23.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Canvas by AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "source": "Product Hunt",
+      "date": "2026-11-15T06:22:09.000Z"
+    },
+    {
+      "id": 21,
+      "title": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
+      "url": "https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-15T04:30:01.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Where was Nvidia&#8217;s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "id": 23,
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-14T23:59:28.000Z"
+    },
+    {
+      "id": 24,
+      "title": "a16z Says AI Will Make Pharma Even Bigger. Here’s What the Numbers Show",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qZ19HUzNkMThsWEVXTFAwdEp4UEoxMmM5a2NVOEs3elBNX1V6R3BTQ1JDY0NmS2JYT0JWZ1BrNGloR2JPY1hCLUR3VldMaVZYWUJj?oc=5",
+      "source": "a16z · via Wowtale",
+      "date": "2026-11-14T23:45:39.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Mistral AI IPO: Status, Valuation and What to Know",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94MmV2ak9KamtVTU5UZXIxRENvMTVhbDBtU0k0V2RyMV9DTDFEVFNEcWxWQWtsUVJzVktoV2J6cGlfNklKWlB5bi1jSXg3NVNDTkFOQWd1alFQcEswb1pmRjM0Mk5IeFdnVUo2eHNoNFllWC0zVmc?oc=5",
+      "source": "Mistral AI · via Admirals",
+      "date": "2026-11-14T23:15:51.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Cohere Acquires AISLE and Cubic to Build Cyber Defense and Secure Coding Units",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOV9DS1RNYm12b0RmQUNsblp6M3VtNFJVNmRrUl96Zm1JOFdHMnJWTlozMmxHamZMVHlNNU5BZ2pyM1d6RXQ2XzdfME9KeTB4RUl0UHhOd2VnMDZSZ0JtNVpCMENfckpiTWZFMTExUzlGekdWazMzaVJYMktFd1NfNnhzUXBnbktzRUNFbA?oc=5",
+      "source": "Cohere · via CASRAI",
+      "date": "2026-11-14T18:03:09.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "source": "Interconnects",
+      "date": "2026-11-14T12:23:15.000Z"
+    },
+    {
+      "id": 28,
+      "title": "[AINews] The No AI Slop Manifesto",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "source": "Latent Space",
+      "date": "2026-11-14T08:31:02.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "url": "https://news.ycombinator.com/item?id=50491841",
+      "source": "Hacker News · IA",
+      "date": "2026-11-13T23:50:03.000Z"
+    },
+    {
+      "id": 30,
+      "title": "xAI Grok Bot Joins Zoom Calls; Solo Price Is $200 a Month",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWhKcVRRbjc2T3ZCLXgxbDZSRlJKS181T3h6ZWgyWkVRQ3FmbER2MUZaMkRSZHRQa2otMm5qV1ZWNGt5TTZabTNjUnBMYWoyZHIwY0VXNVIwMFNZazVLUW9zRGRoZ096NlVtUGljNHJhRkxGQWpIbkhDenZxVTd6Uk52OTFUaHd1ZkZN?oc=5",
+      "source": "xAI · via FourWeekMBA",
+      "date": "2026-11-13T23:06:53.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-13T22:43:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+      "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+      "source": "Crunchbase News",
+      "date": "2026-11-13T20:32:55.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 200,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

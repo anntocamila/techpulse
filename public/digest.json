@@ -1,10 +1,10 @@
 {
-  "id": "2026-11-15-23",
-  "generatedAt": "2026-11-15T23:39:48.293Z",
-  "periodStart": "2026-11-13T23:39:48.293Z",
-  "periodEnd": "2026-11-15T23:39:48.293Z",
-  "title": "Titulares del 15 de noviembre",
-  "subtitle": "130 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "id": "2026-11-16-17",
+  "generatedAt": "2026-11-16T17:43:19.664Z",
+  "periodStart": "2026-11-14T17:43:19.664Z",
+  "periodEnd": "2026-11-16T17:43:19.664Z",
+  "title": "Titulares del 16 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,9 +19,33 @@
           ]
         },
         {
-          "text": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "text": "Trump administration moves to block China from indirect access to American AI technology",
           "sources": [
-            10
+            3
+          ]
+        },
+        {
+          "text": "Building trustworthy AI by fencing it in, not predicting it",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Tracing Knowledge and Reasoning in LLM",
+          "sources": [
+            33
           ]
         }
       ]
@@ -33,9 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "A step toward defining the Standard Model on a lattice",
+          "text": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
           "sources": [
-            6
+            10
+          ]
+        },
+        {
+          "text": "Broadening access to AI for scientists",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Can Europe's $24B Mistral Beat OpenAI With A Better Strategic Fit?",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Microsoft Data Shows Claude Is Stalling Against Copilot In Office- The Information",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+          "sources": [
+            25
           ]
         }
       ]
@@ -47,21 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-          "sources": [
-            2
-          ]
-        },
-        {
-          "text": "Starling founder Anne Boden plots new AI-powered bank",
-          "sources": [
-            16
-          ]
-        },
-        {
-          "text": "Canvas by AgentGrid.io",
+          "text": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
           "sources": [
             19
+          ]
+        },
+        {
+          "text": "Starling Bank CEO to step down at the end of the year",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "AI Could Make Pharma’s Drug Testing Bottleneck Worse",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "StateWeave",
+          "sources": [
+            35
           ]
         }
       ]
@@ -73,39 +145,53 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "text": "FBI says Artex AI open-source hacking tool used to breach networks in &#8216;under three hours&#8217;",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "El primer monitor 5K2K de 39 pulgadas del mundo también se suma al Black Friday con un descuentazo de 500 euros",
           "sources": [
             7
           ]
         },
         {
-          "text": "\"Cualquier parecido con la realidad es pura coincidencia\": el disclaimer del cine que nos ganamos por culpa de Rasputín",
+          "text": "Ahead of its IPO filing, Anthropic pledges to prioritize humanity’s benefit. Here’s how",
           "sources": [
-            11
+            9
           ]
         },
         {
-          "text": "El primer PC de Google: tan solo 40 GB, piezas de Lego y un algoritmo que lo cambiaría todo",
-          "sources": [
-            13
-          ]
-        },
-        {
-          "text": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+          "text": "Xbox revela nuevos detalles de Project Helix, que aspira a ser la «máquina de juegos definitiva»",
           "sources": [
             15
           ]
         },
         {
-          "text": "AI is making software easier to build. Keeping it running is another story",
+          "text": "La estafa de la tienda en línea falsa",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
           "sources": [
             18
-          ]
-        },
-        {
-          "text": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
-          "sources": [
-            20
           ]
         }
       ]
@@ -117,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Why your Wi-Fi slows down when more devices connect",
-          "sources": [
-            3
-          ]
-        },
-        {
-          "text": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+          "text": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
           "sources": [
             5
           ]
         },
         {
-          "text": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+          "text": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
           "sources": [
-            9
+            6
           ]
         },
         {
-          "text": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "text": "The simple and convenient Apple Maps feature every CarPlay user should know about",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
           "sources": [
             14
           ]
         },
         {
-          "text": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+          "text": "US now \"comfortable\" with children dying of measles as death toll hits 10",
           "sources": [
-            17
+            16
           ]
         }
       ]
@@ -161,39 +247,27 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Armand Hammer’s latest album is among their best. www.theverge.com/entertainmen...",
+          "text": "Plenty of deals to glam up your PS5, whether you want a new console cover, a headset, or a unique DualSense color. www.theverge.com/gadge…",
           "sources": [
-            8
+            13
           ]
         },
         {
-          "text": "How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon",
+          "text": "An MCP Tool Call Can Resolve and Still Fail",
           "sources": [
-            12
+            26
           ]
         },
         {
-          "text": "datasette-llm 0.1a11",
+          "text": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
           "sources": [
-            21
+            27
           ]
         },
         {
-          "text": "Open-source AI without Jensen",
+          "text": "datasette-maplibre 0.1a0",
           "sources": [
-            22
-          ]
-        },
-        {
-          "text": "[AINews] The No AI Slop Manifesto",
-          "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-          "sources": [
-            24
+            34
           ]
         }
       ]
@@ -205,174 +279,251 @@
       "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-15T23:39:51.082Z"
+      "date": "2026-11-16T17:43:20.578Z"
     },
     {
       "id": 2,
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "source": "TechCrunch Startups",
-      "date": "2026-11-15T23:30:00.000Z"
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in &#8216;under three hours&#8217;",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "source": "TechCrunch",
+      "date": "2026-11-16T17:36:43.000Z"
     },
     {
       "id": 3,
-      "title": "Why your Wi-Fi slows down when more devices connect",
-      "url": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
-      "source": "Engadget",
-      "date": "2026-11-15T23:30:00.000Z"
+      "title": "Trump administration moves to block China from indirect access to American AI technology",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3RueVVnVHFuWUxMXzBSU3VHRGFKUEpNSW9sT3VvQmxiRlBpRjVqZmFCLWpvY0tFQ2IzZDh5VTUtOG1pZU9ZMXZRVXBtSU5kajRHTzRPLTd6aFZ0LUc0Tld3Ym1DLVRxZzRhdGtYQVhYeVlHc2FIM0ltZWt3VGhrWkRGX3p2RWtXNW9sSU9paVJ0Ul9JN0ozOFFFRm05S1IxYl9PblZvV2wtRFRkenFtWmZFQVREM3dxakJNdTlfN3dZUQ?oc=5",
+      "source": "Google News · IA · via WRAL",
+      "date": "2026-11-16T17:35:43.000Z"
     },
     {
       "id": 4,
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-      "source": "Ars Technica",
-      "date": "2026-11-15T23:11:54.000Z"
+      "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-16T17:33:15.000Z"
     },
     {
       "id": 5,
-      "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
-      "url": "https://www.techmeme.com/261115/p18#a261115p18",
-      "source": "Techmeme",
-      "date": "2026-11-15T23:00:00.000Z"
+      "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+      "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
+      "source": "The Register",
+      "date": "2026-11-16T17:27:00.000Z"
     },
     {
       "id": 6,
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "date": "2026-11-15T22:00:01.000Z"
+      "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+      "url": "https://www.techmeme.com/261116/p36#a261116p36",
+      "source": "Techmeme",
+      "date": "2026-11-16T17:20:03.000Z"
     },
     {
       "id": 7,
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch",
-      "date": "2026-11-15T21:56:35.000Z"
+      "title": "El primer monitor 5K2K de 39 pulgadas del mundo también se suma al Black Friday con un descuentazo de 500 euros",
+      "url": "https://www.xataka.com/seleccion/primer-monitor-5k2k-39-pulgadas-mundo-tambien-se-suma-al-black-friday-descuentazo-500-euros",
+      "source": "Xataka",
+      "date": "2026-11-16T17:15:26.000Z"
     },
     {
       "id": 8,
-      "title": "Armand Hammer’s latest album is among their best. www.theverge.com/entertainmen...",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2eyp6b4xv23",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-15T21:51:33.305Z"
+      "title": "The simple and convenient Apple Maps feature every CarPlay user should know about",
+      "url": "https://www.engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users/",
+      "source": "Engadget",
+      "date": "2026-11-16T17:15:00.000Z"
     },
     {
       "id": 9,
-      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
-      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-      "source": "The Verge",
-      "date": "2026-11-15T21:49:22.000Z"
+      "title": "Ahead of its IPO filing, Anthropic pledges to prioritize humanity’s benefit. Here’s how",
+      "url": "https://www.fastcompany.com/91643002/ahead-ipo-filing-anthropic-pledges-prioritize-humanitys-benefit-heres-how?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-16T17:05:14.000Z"
     },
     {
       "id": 10,
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "source": "The Verge AI",
-      "date": "2026-11-15T20:43:49.000Z"
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "source": "Microsoft Research",
+      "date": "2026-11-16T17:01:35.000Z"
     },
     {
       "id": 11,
-      "title": "\"Cualquier parecido con la realidad es pura coincidencia\": el disclaimer del cine que nos ganamos por culpa de Rasputín",
-      "url": "https://www.xataka.com/cine-y-tv/cualquier-parecido-realidad-pura-coincidencia-disclaimer-cine-que-nos-ganamos-culpa-rasputin",
-      "source": "Xataka",
-      "date": "2026-11-15T20:01:20.000Z"
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "date": "2026-11-16T17:00:00.000Z"
     },
     {
       "id": 12,
-      "title": "How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon",
-      "url": "https://dev.to/necoz/how-i-made-a-markov-chain-model-from-scratch-in-c-during-a-global-online-teen-hackathon-3gd7",
-      "source": "dev.to · IA · via Tyler N",
-      "date": "2026-11-15T19:51:04.000Z"
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "source": "Wired",
+      "date": "2026-11-16T17:00:00.000Z"
     },
     {
       "id": 13,
-      "title": "El primer PC de Google: tan solo 40 GB, piezas de Lego y un algoritmo que lo cambiaría todo",
-      "url": "https://hipertextual.com/tecnologia/primer-pc-de-google-piezas-juguetes-lego/",
-      "source": "Hipertextual",
-      "date": "2026-11-15T19:00:00.000Z"
+      "title": "Plenty of deals to glam up your PS5, whether you want a new console cover, a headset, or a unique DualSense color. www.theverge.com/gadge…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2gyibpfau23",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-16T16:53:01.937Z"
     },
     {
       "id": 14,
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "source": "Hacker News",
-      "date": "2026-11-15T18:36:10.000Z"
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-16T16:48:01.000Z"
     },
     {
       "id": 15,
-      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-15T18:10:18.000Z"
+      "title": "Xbox revela nuevos detalles de Project Helix, que aspira a ser la «máquina de juegos definitiva»",
+      "url": "https://hipertextual.com/videojuegos/xbox-revela-nuevos-detalles-de-project-helix-que-aspira-a-ser-la-maquina-de-juegos-definitiva/",
+      "source": "Hipertextual",
+      "date": "2026-11-16T16:46:15.000Z"
     },
     {
       "id": 16,
-      "title": "Starling founder Anne Boden plots new AI-powered bank",
-      "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
-      "source": "Sifted",
-      "date": "2026-11-15T16:33:09.000Z"
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "source": "Ars Technica",
+      "date": "2026-11-16T16:39:29.000Z"
     },
     {
       "id": 17,
-      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
-      "url": "https://www.wired.com/story/best-paper-planners/",
-      "source": "Wired",
-      "date": "2026-11-15T12:01:00.000Z"
+      "title": "Can Europe's $24B Mistral Beat OpenAI With A Better Strategic Fit?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWVQNzJBSjRDcFBXblowMlR3LW4zeWNlM3o4SlFjWmRZLVZ1a3czdlB3cXBIUjhtVVBsVkZuVjNOakFNWUZxemtGUnJraC04c3BSNFVtSXNENmo4TXJvY2VXR0d0bVN5bDAtYi1TSkUzY3B4dmg1R3R2T0tPSTZfX25adEYyWEI4SVNscUduM3hFYzlKUEc5WkI3aEVqaHQ1al9RY3h4WU9aMUMybWR2WFpqMUo?oc=5",
+      "source": "Mistral AI · via Forbes",
+      "date": "2026-11-16T16:36:07.000Z"
     },
     {
       "id": 18,
-      "title": "AI is making software easier to build. Keeping it running is another story",
-      "url": "https://www.fastcompany.com/91642024/ai-is-making-software-easier-to-build-keeping-it-running-is-another-story?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-15T10:00:00.000Z"
+      "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY21ic3RGMEVRQllfQ2E0V2RpSnd2YXZ3VFRxVDNnQkhaeHh2SUJnVXJVRDJPQ2V0UTdTekFGRlRBNnhKOXIzSjRnRkFsUVc0TVVKYUtwcHNtMzFmMnEtT3MyTWZQS1NsY0dGQ2lVZmF3Vi1fM2ROME5lSER6WFR5N0lYVEdYUElERENzMHVBSDNCZVAyQ3d6NmNGd2huaDk2SWxtR0tEUUQ2bnQ5RnNjNTE2MnZ1Q3BtMlYwOVdRSktqMzBJQVhzazhR?oc=5",
+      "source": "Google News · Eventos tech · via PubAffairs Bruxelles",
+      "date": "2026-11-16T16:07:42.000Z"
     },
     {
       "id": 19,
-      "title": "Canvas by AgentGrid.io",
-      "url": "https://www.producthunt.com/products/agentgrid-io",
-      "source": "Product Hunt",
-      "date": "2026-11-15T06:22:09.000Z"
+      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-16T16:06:30.000Z"
     },
     {
       "id": 20,
-      "title": "TikTok tiene que cambiar: ante el abuso, no vale el silencio",
-      "url": "https://elpais.com/tecnologia/2026-11-15/tiktok-tiene-que-cambiar-ante-el-abuso-no-vale-el-silencio.html",
-      "source": "El País Tecnología",
-      "date": "2026-11-15T04:30:01.000Z"
+      "title": "Microsoft Data Shows Claude Is Stalling Against Copilot In Office- The Information",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY0ljOFMwdTQ5T2gyQzZzYUw3NVFodmJRekVzci1QcVFiLUVzMmZUX0tJZmJtd2hCbnVGZDlYby1TdXBEQzZuZFlmU3d6dW4yMlVzSDRxZF9WRi1jZWQ4WVJqVC1KSzJCMGlwY3BiMTlRTDVVd1N6dEFzWUpIY0lieXkySnh0d0hVSElCT3VRYl9KcHBHZjd0VGVOcTZlcEF2d1NuSUNvQVE5Z09samxMRXJhUmVrSHlmM25nZktXOXA5ekZ2OHNfTkZiQlZ3MGlyOEFXNUpBREo0bnE2YTJlVUgzSXhaQQ?oc=5",
+      "source": "Microsoft AI · via TradingView",
+      "date": "2026-11-16T16:04:33.000Z"
     },
     {
       "id": 21,
-      "title": "datasette-llm 0.1a11",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "source": "Simon Willison",
-      "date": "2026-11-14T23:59:28.000Z"
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-16T16:04:28.000Z"
     },
     {
       "id": 22,
-      "title": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "source": "Interconnects",
-      "date": "2026-11-14T12:23:15.000Z"
+      "title": "Starling Bank CEO to step down at the end of the year",
+      "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
+      "source": "Sifted",
+      "date": "2026-11-16T16:01:40.000Z"
     },
     {
       "id": 23,
-      "title": "[AINews] The No AI Slop Manifesto",
-      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-      "source": "Latent Space",
-      "date": "2026-11-14T08:31:02.000Z"
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "source": "NVIDIA",
+      "date": "2026-11-16T16:00:51.000Z"
     },
     {
       "id": 24,
-      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-      "url": "https://news.ycombinator.com/item?id=50491841",
-      "source": "Hacker News · IA",
-      "date": "2026-11-13T23:50:03.000Z"
+      "title": "La estafa de la tienda en línea falsa",
+      "url": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-11-16/la-estafa-de-la-tienda-en-linea-falsa.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-16T16:00:30.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+      "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-16T16:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
+      "source": "dev.to · IA · via Raju Dandigam",
+      "date": "2026-11-16T14:28:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "source": "Import AI",
+      "date": "2026-11-16T14:01:15.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge AI",
+      "date": "2026-11-16T14:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-16T12:30:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+      "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+      "source": "Crunchbase News",
+      "date": "2026-11-16T12:00:36.000Z"
+    },
+    {
+      "id": 31,
+      "title": "AI Could Make Pharma’s Drug Testing Bottleneck Worse",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3RwbjVkUklPNG9Rc3NkQTAxcFl1ZEFzMU0tem1JNzJSNnN0ZnZ3Q1RQZVRKelBORzZ2ZEktLUFYeEJvczdWU1A2RFNfXzZlS1lzUmpzUjF1X0ZVTUxRWmNRMFhCQzljY2RhZTRaU0lKMHJoVHVWSkdSbkgteXNlQ2tXcjc0X2xGdm9RMg?oc=5",
+      "source": "a16z · via AIM Media House",
+      "date": "2026-11-16T08:51:23.000Z"
+    },
+    {
+      "id": 32,
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Tracing Knowledge and Reasoning in LLM",
+      "url": "https://arxiv.org/abs/2611.17461",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "Simon Willison",
+      "date": "2026-11-15T23:58:36.000Z"
+    },
+    {
+      "id": 35,
+      "title": "StateWeave",
+      "url": "https://www.producthunt.com/products/stateweave",
+      "source": "Product Hunt",
+      "date": "2026-11-15T20:32:35.000Z"
     }
   ],
   "stats": {
-    "posts": 130,
-    "sourcesOk": 49,
-    "sourcesFailed": 14
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
   },
   "generator": "headlines"
 }

@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-11-17-17",
+    "generatedAt": "2026-11-17T17:15:39.440Z",
+    "title": "Titulares del 17 de noviembre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-11-17-02",
     "generatedAt": "2026-11-17T02:42:29.046Z",
     "title": "Titulares del 17 de noviembre",
@@ -350,12 +356,6 @@
   {
     "id": "2026-10-18-22",
     "generatedAt": "2026-10-18T22:07:04.292Z",
-    "title": "Titulares del 18 de octubre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-10-18-12",
-    "generatedAt": "2026-10-18T12:20:03.802Z",
     "title": "Titulares del 18 de octubre",
     "generator": "headlines"
   }

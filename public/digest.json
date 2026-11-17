@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-16-17",
-  "generatedAt": "2026-11-16T17:43:19.664Z",
-  "periodStart": "2026-11-14T17:43:19.664Z",
-  "periodEnd": "2026-11-16T17:43:19.664Z",
-  "title": "Titulares del 16 de noviembre",
+  "id": "2026-11-17-02",
+  "generatedAt": "2026-11-17T02:42:29.046Z",
+  "periodStart": "2026-11-15T02:42:29.046Z",
+  "periodEnd": "2026-11-17T02:42:29.046Z",
+  "title": "Titulares del 17 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -19,33 +19,33 @@
           ]
         },
         {
-          "text": "Trump administration moves to block China from indirect access to American AI technology",
+          "text": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
           "sources": [
             3
           ]
         },
         {
-          "text": "Building trustworthy AI by fencing it in, not predicting it",
+          "text": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
           "sources": [
-            21
+            16
           ]
         },
         {
-          "text": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+          "text": "The open-source movement wants Jensen Huang back",
           "sources": [
-            28
+            27
           ]
         },
         {
           "text": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
           "sources": [
-            32
+            34
           ]
         },
         {
           "text": "Tracing Knowledge and Reasoning in LLM",
           "sources": [
-            33
+            35
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+          "text": "Upstage teams up with Canada's Cohere for sovereign AI solutions",
           "sources": [
-            10
+            5
           ]
         },
         {
-          "text": "Broadening access to AI for scientists",
+          "text": "Microsoft Copilot AI Predicts a Huge TSLA Stock Boom",
           "sources": [
-            11
+            12
           ]
         },
         {
-          "text": "Can Europe's $24B Mistral Beat OpenAI With A Better Strategic Fit?",
+          "text": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
           "sources": [
             17
           ]
         },
         {
-          "text": "Microsoft Data Shows Claude Is Stalling Against Copilot In Office- The Information",
+          "text": "BlackLine Now Available on Anthropic’s Claude Marketplace",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
           "sources": [
             20
           ]
         },
         {
-          "text": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+          "text": "Perplexity Launches Frontier Research With 10,000+ GPUs",
           "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
-          "sources": [
-            25
+            26
           ]
         }
       ]
@@ -101,39 +101,33 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+          "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
           "sources": [
-            19
+            14
           ]
         },
         {
-          "text": "Starling Bank CEO to step down at the end of the year",
+          "text": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
           "sources": [
-            22
+            24
           ]
         },
         {
-          "text": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+          "text": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
           "sources": [
             29
           ]
         },
         {
-          "text": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+          "text": "Starling Bank CEO to step down at the end of the year",
           "sources": [
             30
           ]
         },
         {
-          "text": "AI Could Make Pharma’s Drug Testing Bottleneck Worse",
+          "text": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
           "sources": [
-            31
-          ]
-        },
-        {
-          "text": "StateWeave",
-          "sources": [
-            35
+            33
           ]
         }
       ]
@@ -145,39 +139,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "FBI says Artex AI open-source hacking tool used to breach networks in &#8216;under three hours&#8217;",
-          "sources": [
-            2
-          ]
-        },
-        {
-          "text": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "El primer monitor 5K2K de 39 pulgadas del mundo también se suma al Black Friday con un descuentazo de 500 euros",
-          "sources": [
-            7
-          ]
-        },
-        {
-          "text": "Ahead of its IPO filing, Anthropic pledges to prioritize humanity’s benefit. Here’s how",
+          "text": "Microsoft aclara uno de los mayores misterios de Windows cuando el rendimiento se desploma",
           "sources": [
             9
           ]
         },
         {
-          "text": "Xbox revela nuevos detalles de Project Helix, que aspira a ser la «máquina de juegos definitiva»",
+          "text": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
           "sources": [
             15
           ]
         },
         {
+          "text": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information&#8217;",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "The FAA’s ground stop has a simple culprit. Its causes may not",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+          "sources": [
+            25
+          ]
+        },
+        {
           "text": "La estafa de la tienda en línea falsa",
           "sources": [
-            24
+            31
           ]
         }
       ]
@@ -189,9 +183,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
+          "text": "Students tackle financial challenges at Gesa-supported AI hackathon",
           "sources": [
-            18
+            4
           ]
         }
       ]
@@ -203,39 +197,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+          "text": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
           "sources": [
-            5
+            2
           ]
         },
         {
-          "text": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+          "text": "Buying a used phone? Make sure to check the IMEI first",
           "sources": [
             6
           ]
         },
         {
-          "text": "The simple and convenient Apple Maps feature every CarPlay user should know about",
+          "text": "The 8 Best Movies to Stream Right Now (November 2026)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
           "sources": [
             8
           ]
         },
         {
-          "text": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+          "text": "Hacker behind 2022 GTA VI leaks pleads guilty",
           "sources": [
-            12
+            13
           ]
         },
         {
-          "text": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+          "text": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
           "sources": [
-            14
-          ]
-        },
-        {
-          "text": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-          "sources": [
-            16
+            18
           ]
         }
       ]
@@ -247,27 +241,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Plenty of deals to glam up your PS5, whether you want a new console cover, a headset, or a unique DualSense color. www.theverge.com/gadge…",
+          "text": "llm 0.37.3",
           "sources": [
-            13
+            10
           ]
         },
         {
-          "text": "An MCP Tool Call Can Resolve and Still Fail",
+          "text": "Arion Kurtaj leaked 90 videos of GTA VI years before its release. www.theverge.com/games/103508...",
           "sources": [
-            26
+            11
+          ]
+        },
+        {
+          "text": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+          "sources": [
+            28
           ]
         },
         {
           "text": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
           "sources": [
-            27
-          ]
-        },
-        {
-          "text": "datasette-maplibre 0.1a0",
-          "sources": [
-            34
+            32
           ]
         }
       ]
@@ -279,251 +279,251 @@
       "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-16T17:43:20.578Z"
+      "date": "2026-11-17T02:42:29.843Z"
     },
     {
       "id": 2,
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in &#8216;under three hours&#8217;",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "source": "TechCrunch",
-      "date": "2026-11-16T17:36:43.000Z"
+      "title": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
+      "url": "https://www.techmeme.com/261116/p49#a261116p49",
+      "source": "Techmeme",
+      "date": "2026-11-17T02:31:00.000Z"
     },
     {
       "id": 3,
-      "title": "Trump administration moves to block China from indirect access to American AI technology",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3RueVVnVHFuWUxMXzBSU3VHRGFKUEpNSW9sT3VvQmxiRlBpRjVqZmFCLWpvY0tFQ2IzZDh5VTUtOG1pZU9ZMXZRVXBtSU5kajRHTzRPLTd6aFZ0LUc0Tld3Ym1DLVRxZzRhdGtYQVhYeVlHc2FIM0ltZWt3VGhrWkRGX3p2RWtXNW9sSU9paVJ0Ul9JN0ozOFFFRm05S1IxYl9PblZvV2wtRFRkenFtWmZFQVREM3dxakJNdTlfN3dZUQ?oc=5",
-      "source": "Google News · IA · via WRAL",
-      "date": "2026-11-16T17:35:43.000Z"
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjc1cHlfV0Yzc2NhTVBZUGwwb0k2UzA4SVJaWjM2cURBU3BfSFI2dmxrbXpzb19La2V0TEZqTVYyM1JXdUhzQThWWjhuclJRM1hWR3M3SjBlY1BZbnhQQmREVks2VmZmRENPR3k4S1EzdjBJSXp6TktKcjZ1ZWVQaG1QbDh0S3k5YXc?oc=5",
+      "source": "Google News · IA · via Tech Xplore",
+      "date": "2026-11-17T02:20:04.000Z"
     },
     {
       "id": 4,
-      "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-16T17:33:15.000Z"
+      "title": "Students tackle financial challenges at Gesa-supported AI hackathon",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTllMFBqNFp6Ul91dVNnV2lZUnZPU002Tzk1VmF4b2dhbEc2VUpZTjI2cjFnbFhZSjRKbllicmpNeWhOdkM2NHdYdEUzekc0bzNrZ1N2VzA5UlZzcVZqUXJHVUIzRmJsajg3YjVnc2hxQzY0NVBEampFdHl6SU01VVZER1g4enM1RlVaanI1dHZ5dTNCa2FaVWxhZTBScUhaZms0VUY3QWh6U0stQTNMMWJqMnE?oc=5",
+      "source": "Google News · Eventos tech · via Tri-Cities Area Journal of Business",
+      "date": "2026-11-17T02:00:00.000Z"
     },
     {
       "id": 5,
-      "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
-      "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
-      "source": "The Register",
-      "date": "2026-11-16T17:27:00.000Z"
+      "title": "Upstage teams up with Canada's Cohere for sovereign AI solutions",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VRaGNpZUQxQ3F2V3k0M043YXVqb0M1aFE4S2s2Zlh3dkQybXlCZzV1ZXItdkxMQUpmVWhjYjFuREZPdlJ3SEM2X2czSDVuQ0JZZTBRZmJnbWswaDFtV2I1SDNEbkUzaUNqUERucXZpT1ZlMnFQdi0yWmZabUZ0a0JUMEREMG55bHdwNmdWRTY3YjhIR0xwRk83TjlqNURjTEpSV0FrcFFhWG56MkcxMFNtU1k1UTQ?oc=5",
+      "source": "Cohere · via Korea JoongAng Daily",
+      "date": "2026-11-17T01:59:26.000Z"
     },
     {
       "id": 6,
-      "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
-      "url": "https://www.techmeme.com/261116/p36#a261116p36",
-      "source": "Techmeme",
-      "date": "2026-11-16T17:20:03.000Z"
+      "title": "Buying a used phone? Make sure to check the IMEI first",
+      "url": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first/",
+      "source": "Engadget",
+      "date": "2026-11-17T01:30:00.000Z"
     },
     {
       "id": 7,
-      "title": "El primer monitor 5K2K de 39 pulgadas del mundo también se suma al Black Friday con un descuentazo de 500 euros",
-      "url": "https://www.xataka.com/seleccion/primer-monitor-5k2k-39-pulgadas-mundo-tambien-se-suma-al-black-friday-descuentazo-500-euros",
-      "source": "Xataka",
-      "date": "2026-11-16T17:15:26.000Z"
+      "title": "The 8 Best Movies to Stream Right Now (November 2026)",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "Wired",
+      "date": "2026-11-17T00:58:05.000Z"
     },
     {
       "id": 8,
-      "title": "The simple and convenient Apple Maps feature every CarPlay user should know about",
-      "url": "https://www.engadget.com/2314427/apple-maps-convenient-share-eta-feature-for-carplay-users/",
-      "source": "Engadget",
-      "date": "2026-11-16T17:15:00.000Z"
+      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
+      "url": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+      "source": "The Register",
+      "date": "2026-11-17T00:55:39.000Z"
     },
     {
       "id": 9,
-      "title": "Ahead of its IPO filing, Anthropic pledges to prioritize humanity’s benefit. Here’s how",
-      "url": "https://www.fastcompany.com/91643002/ahead-ipo-filing-anthropic-pledges-prioritize-humanitys-benefit-heres-how?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-16T17:05:14.000Z"
+      "title": "Microsoft aclara uno de los mayores misterios de Windows cuando el rendimiento se desploma",
+      "url": "https://hipertextual.com/software/microsoft-explica-administrador-tareas-no-acelera-windows/",
+      "source": "Hipertextual",
+      "date": "2026-11-17T00:03:39.000Z"
     },
     {
       "id": 10,
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-      "source": "Microsoft Research",
-      "date": "2026-11-16T17:01:35.000Z"
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-16T23:57:26.000Z"
     },
     {
       "id": 11,
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "date": "2026-11-16T17:00:00.000Z"
+      "title": "Arion Kurtaj leaked 90 videos of GTA VI years before its release. www.theverge.com/games/103508...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2hpdq4bbl27",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-16T23:42:05.226Z"
     },
     {
       "id": 12,
-      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
-      "source": "Wired",
-      "date": "2026-11-16T17:00:00.000Z"
+      "title": "Microsoft Copilot AI Predicts a Huge TSLA Stock Boom",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScjItcXN6eFUtRzNHWGlKOFMwZzlEVmpnT3ktelR4NzhacHN1M1d1MHNfTjRkT19XUzJLNjJVd3pDS3U5YkZGdHNiUGMyN2NJZXhKVHY3MmtfaFlid3ZoeWlUXy14TW9OSmZtZzFmWQ?oc=5",
+      "source": "Microsoft AI · via Tokenist",
+      "date": "2026-11-16T23:36:19.000Z"
     },
     {
       "id": 13,
-      "title": "Plenty of deals to glam up your PS5, whether you want a new console cover, a headset, or a unique DualSense color. www.theverge.com/gadge…",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2gyibpfau23",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-16T16:53:01.937Z"
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "source": "The Verge",
+      "date": "2026-11-16T23:35:58.000Z"
     },
     {
       "id": 14,
-      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-16T16:48:01.000Z"
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-16T23:32:32.000Z"
     },
     {
       "id": 15,
-      "title": "Xbox revela nuevos detalles de Project Helix, que aspira a ser la «máquina de juegos definitiva»",
-      "url": "https://hipertextual.com/videojuegos/xbox-revela-nuevos-detalles-de-project-helix-que-aspira-a-ser-la-maquina-de-juegos-definitiva/",
-      "source": "Hipertextual",
-      "date": "2026-11-16T16:46:15.000Z"
+      "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-16T23:23:47.000Z"
     },
     {
       "id": 16,
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "source": "Ars Technica",
-      "date": "2026-11-16T16:39:29.000Z"
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge AI",
+      "date": "2026-11-16T23:17:34.000Z"
     },
     {
       "id": 17,
-      "title": "Can Europe's $24B Mistral Beat OpenAI With A Better Strategic Fit?",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWVQNzJBSjRDcFBXblowMlR3LW4zeWNlM3o4SlFjWmRZLVZ1a3czdlB3cXBIUjhtVVBsVkZuVjNOakFNWUZxemtGUnJraC04c3BSNFVtSXNENmo4TXJvY2VXR0d0bVN5bDAtYi1TSkUzY3B4dmg1R3R2T0tPSTZfX25adEYyWEI4SVNscUduM3hFYzlKUEc5WkI3aEVqaHQ1al9RY3h4WU9aMUMybWR2WFpqMUo?oc=5",
-      "source": "Mistral AI · via Forbes",
-      "date": "2026-11-16T16:36:07.000Z"
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "source": "NVIDIA",
+      "date": "2026-11-16T23:00:05.000Z"
     },
     {
       "id": 18,
-      "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY21ic3RGMEVRQllfQ2E0V2RpSnd2YXZ3VFRxVDNnQkhaeHh2SUJnVXJVRDJPQ2V0UTdTekFGRlRBNnhKOXIzSjRnRkFsUVc0TVVKYUtwcHNtMzFmMnEtT3MyTWZQS1NsY0dGQ2lVZmF3Vi1fM2ROME5lSER6WFR5N0lYVEdYUElERENzMHVBSDNCZVAyQ3d6NmNGd2huaDk2SWxtR0tEUUQ2bnQ5RnNjNTE2MnZ1Q3BtMlYwOVdRSktqMzBJQVhzazhR?oc=5",
-      "source": "Google News · Eventos tech · via PubAffairs Bruxelles",
-      "date": "2026-11-16T16:07:42.000Z"
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "source": "Ars Technica",
+      "date": "2026-11-16T22:58:27.000Z"
     },
     {
       "id": 19,
-      "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+      "title": "BlackLine Now Available on Anthropic’s Claude Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc19JMnp5SEN4M2ktLTNWbG9JSGxqVC1BMjBXb0hiMmhjcjc0cXVBXzBqa2ZLVHdkLWIxczRzUDZsWlNUWGNpUHhTX2JhU2FyT2pkbU1WQlAwQUczU0trcm5hZXAxYTVkX1h5cTN6LXZINXhqdm1pV0ZiZlhveHY5Y0tUWlp3S2Z4ZldsQ3d5ZG9yT2Y5VWxEV2ZOQURLVTR6bm43MDJ6VXJlMXA2Ylkw?oc=5",
+      "source": "Anthropic · via CPA Practice Advisor",
+      "date": "2026-11-16T22:37:52.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-16T22:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information&#8217;",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "source": "TechCrunch",
+      "date": "2026-11-16T22:12:31.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The FAA’s ground stop has a simple culprit. Its causes may not",
+      "url": "https://www.fastcompany.com/91643272/the-faa-was-warned-about-its-telecom-upgrade?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-16T22:01:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "url": "https://latent.space/p/bfl/",
+      "source": "Latent Space",
+      "date": "2026-11-16T21:38:03.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "source": "Launch HN",
+      "date": "2026-11-16T20:29:48.000Z"
+    },
+    {
+      "id": 25,
+      "title": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+      "url": "https://www.xataka.com/magnet/guerra-ucrania-esta-teniendo-beneficiado-inesperado-mineria-ilegal-ambar",
+      "source": "Xataka",
+      "date": "2026-11-16T20:01:25.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Perplexity Launches Frontier Research With 10,000+ GPUs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX01pTXNxZGR2R2lfT3FQUEJFX1Y2MGw2QXJncHBycHdiZGxDcEFtUHgtNGRkSEpmNVRYeml4OWpqcjJzS0lxQTVPRTM0NEF4QmM1QUgyb3c4a0Zyd3o0YkpQdWFMVEx2N09vVXhxalY3YkJPTU5GUUVlekRPUE5wUTVqRmhvdWZD?oc=5",
+      "source": "Perplexity · via FourWeekMBA",
+      "date": "2026-11-16T19:12:54.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-16T18:38:47.000Z"
+    },
+    {
+      "id": 28,
+      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-16T17:56:57.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
       "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
       "source": "TechCrunch Venture",
       "date": "2026-11-16T16:06:30.000Z"
     },
     {
-      "id": 20,
-      "title": "Microsoft Data Shows Claude Is Stalling Against Copilot In Office- The Information",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY0ljOFMwdTQ5T2gyQzZzYUw3NVFodmJRekVzci1QcVFiLUVzMmZUX0tJZmJtd2hCbnVGZDlYby1TdXBEQzZuZFlmU3d6dW4yMlVzSDRxZF9WRi1jZWQ4WVJqVC1KSzJCMGlwY3BiMTlRTDVVd1N6dEFzWUpIY0lieXkySnh0d0hVSElCT3VRYl9KcHBHZjd0VGVOcTZlcEF2d1NuSUNvQVE5Z09samxMRXJhUmVrSHlmM25nZktXOXA5ekZ2OHNfTkZiQlZ3MGlyOEFXNUpBREo0bnE2YTJlVUgzSXhaQQ?oc=5",
-      "source": "Microsoft AI · via TradingView",
-      "date": "2026-11-16T16:04:33.000Z"
-    },
-    {
-      "id": 21,
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-16T16:04:28.000Z"
-    },
-    {
-      "id": 22,
+      "id": 30,
       "title": "Starling Bank CEO to step down at the end of the year",
       "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
       "source": "Sifted",
       "date": "2026-11-16T16:01:40.000Z"
     },
     {
-      "id": 23,
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-      "source": "NVIDIA",
-      "date": "2026-11-16T16:00:51.000Z"
-    },
-    {
-      "id": 24,
+      "id": 31,
       "title": "La estafa de la tienda en línea falsa",
       "url": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-11-16/la-estafa-de-la-tienda-en-linea-falsa.html",
       "source": "El País Tecnología",
       "date": "2026-11-16T16:00:30.000Z"
     },
     {
-      "id": 25,
-      "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
-      "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-16T16:00:00.000Z"
-    },
-    {
-      "id": 26,
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
-      "source": "dev.to · IA · via Raju Dandigam",
-      "date": "2026-11-16T14:28:00.000Z"
-    },
-    {
-      "id": 27,
+      "id": 32,
       "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
       "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
       "source": "Import AI",
       "date": "2026-11-16T14:01:15.000Z"
     },
     {
-      "id": 28,
-      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "source": "The Verge AI",
-      "date": "2026-11-16T14:00:00.000Z"
-    },
-    {
-      "id": 29,
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "source": "TechCrunch Startups",
-      "date": "2026-11-16T12:30:00.000Z"
-    },
-    {
-      "id": 30,
+      "id": 33,
       "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
       "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
       "source": "Crunchbase News",
       "date": "2026-11-16T12:00:36.000Z"
     },
     {
-      "id": 31,
-      "title": "AI Could Make Pharma’s Drug Testing Bottleneck Worse",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3RwbjVkUklPNG9Rc3NkQTAxcFl1ZEFzMU0tem1JNzJSNnN0ZnZ3Q1RQZVRKelBORzZ2ZEktLUFYeEJvczdWU1A2RFNfXzZlS1lzUmpzUjF1X0ZVTUxRWmNRMFhCQzljY2RhZTRaU0lKMHJoVHVWSkdSbkgteXNlQ2tXcjc0X2xGdm9RMg?oc=5",
-      "source": "a16z · via AIM Media House",
-      "date": "2026-11-16T08:51:23.000Z"
-    },
-    {
-      "id": 32,
+      "id": 34,
       "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
       "url": "https://arxiv.org/abs/2611.17338",
       "source": "arXiv cs.AI",
       "date": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": 33,
+      "id": 35,
       "title": "Tracing Knowledge and Reasoning in LLM",
       "url": "https://arxiv.org/abs/2611.17461",
       "source": "arXiv cs.CL",
       "date": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "id": 34,
-      "title": "datasette-maplibre 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "source": "Simon Willison",
-      "date": "2026-11-15T23:58:36.000Z"
-    },
-    {
-      "id": 35,
-      "title": "StateWeave",
-      "url": "https://www.producthunt.com/products/stateweave",
-      "source": "Product Hunt",
-      "date": "2026-11-15T20:32:35.000Z"
     }
   ],
   "stats": {
     "posts": 220,
-    "sourcesOk": 63,
-    "sourcesFailed": 0
+    "sourcesOk": 61,
+    "sourcesFailed": 2
   },
   "generator": "headlines"
 }

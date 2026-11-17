@@ -1,0 +1,529 @@
+{
+  "id": "2026-11-17-02",
+  "generatedAt": "2026-11-17T02:42:29.046Z",
+  "periodStart": "2026-11-15T02:42:29.046Z",
+  "periodEnd": "2026-11-17T02:42:29.046Z",
+  "title": "Titulares del 17 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "The open-source movement wants Jensen Huang back",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Tracing Knowledge and Reasoning in LLM",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Upstage teams up with Canada's Cohere for sovereign AI solutions",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Microsoft Copilot AI Predicts a Huge TSLA Stock Boom",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "BlackLine Now Available on Anthropic’s Claude Marketplace",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Perplexity Launches Frontier Research With 10,000+ GPUs",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Starling Bank CEO to step down at the end of the year",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft aclara uno de los mayores misterios de Windows cuando el rendimiento se desploma",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information&#8217;",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "The FAA’s ground stop has a simple culprit. Its causes may not",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "La estafa de la tienda en línea falsa",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Students tackle financial challenges at Gesa-supported AI hackathon",
+          "sources": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Buying a used phone? Make sure to check the IMEI first",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "The 8 Best Movies to Stream Right Now (November 2026)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "llm 0.37.3",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Arion Kurtaj leaked 90 videos of GTA VI years before its release. www.theverge.com/games/103508...",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-17T02:42:29.843Z"
+    },
+    {
+      "id": 2,
+      "title": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
+      "url": "https://www.techmeme.com/261116/p49#a261116p49",
+      "source": "Techmeme",
+      "date": "2026-11-17T02:31:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjc1cHlfV0Yzc2NhTVBZUGwwb0k2UzA4SVJaWjM2cURBU3BfSFI2dmxrbXpzb19La2V0TEZqTVYyM1JXdUhzQThWWjhuclJRM1hWR3M3SjBlY1BZbnhQQmREVks2VmZmRENPR3k4S1EzdjBJSXp6TktKcjZ1ZWVQaG1QbDh0S3k5YXc?oc=5",
+      "source": "Google News · IA · via Tech Xplore",
+      "date": "2026-11-17T02:20:04.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Students tackle financial challenges at Gesa-supported AI hackathon",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTllMFBqNFp6Ul91dVNnV2lZUnZPU002Tzk1VmF4b2dhbEc2VUpZTjI2cjFnbFhZSjRKbllicmpNeWhOdkM2NHdYdEUzekc0bzNrZ1N2VzA5UlZzcVZqUXJHVUIzRmJsajg3YjVnc2hxQzY0NVBEampFdHl6SU01VVZER1g4enM1RlVaanI1dHZ5dTNCa2FaVWxhZTBScUhaZms0VUY3QWh6U0stQTNMMWJqMnE?oc=5",
+      "source": "Google News · Eventos tech · via Tri-Cities Area Journal of Business",
+      "date": "2026-11-17T02:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Upstage teams up with Canada's Cohere for sovereign AI solutions",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VRaGNpZUQxQ3F2V3k0M043YXVqb0M1aFE4S2s2Zlh3dkQybXlCZzV1ZXItdkxMQUpmVWhjYjFuREZPdlJ3SEM2X2czSDVuQ0JZZTBRZmJnbWswaDFtV2I1SDNEbkUzaUNqUERucXZpT1ZlMnFQdi0yWmZabUZ0a0JUMEREMG55bHdwNmdWRTY3YjhIR0xwRk83TjlqNURjTEpSV0FrcFFhWG56MkcxMFNtU1k1UTQ?oc=5",
+      "source": "Cohere · via Korea JoongAng Daily",
+      "date": "2026-11-17T01:59:26.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Buying a used phone? Make sure to check the IMEI first",
+      "url": "https://www.engadget.com/2315183/buying-used-phone-check-imei-first/",
+      "source": "Engadget",
+      "date": "2026-11-17T01:30:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "The 8 Best Movies to Stream Right Now (November 2026)",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "Wired",
+      "date": "2026-11-17T00:58:05.000Z"
+    },
+    {
+      "id": 8,
+      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
+      "url": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+      "source": "The Register",
+      "date": "2026-11-17T00:55:39.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Microsoft aclara uno de los mayores misterios de Windows cuando el rendimiento se desploma",
+      "url": "https://hipertextual.com/software/microsoft-explica-administrador-tareas-no-acelera-windows/",
+      "source": "Hipertextual",
+      "date": "2026-11-17T00:03:39.000Z"
+    },
+    {
+      "id": 10,
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison",
+      "date": "2026-11-16T23:57:26.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Arion Kurtaj leaked 90 videos of GTA VI years before its release. www.theverge.com/games/103508...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2hpdq4bbl27",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-16T23:42:05.226Z"
+    },
+    {
+      "id": 12,
+      "title": "Microsoft Copilot AI Predicts a Huge TSLA Stock Boom",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScjItcXN6eFUtRzNHWGlKOFMwZzlEVmpnT3ktelR4NzhacHN1M1d1MHNfTjRkT19XUzJLNjJVd3pDS3U5YkZGdHNiUGMyN2NJZXhKVHY3MmtfaFlid3ZoeWlUXy14TW9OSmZtZzFmWQ?oc=5",
+      "source": "Microsoft AI · via Tokenist",
+      "date": "2026-11-16T23:36:19.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "source": "The Verge",
+      "date": "2026-11-16T23:35:58.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-16T23:32:32.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-16T23:23:47.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge AI",
+      "date": "2026-11-16T23:17:34.000Z"
+    },
+    {
+      "id": 17,
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "source": "NVIDIA",
+      "date": "2026-11-16T23:00:05.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "source": "Ars Technica",
+      "date": "2026-11-16T22:58:27.000Z"
+    },
+    {
+      "id": 19,
+      "title": "BlackLine Now Available on Anthropic’s Claude Marketplace",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc19JMnp5SEN4M2ktLTNWbG9JSGxqVC1BMjBXb0hiMmhjcjc0cXVBXzBqa2ZLVHdkLWIxczRzUDZsWlNUWGNpUHhTX2JhU2FyT2pkbU1WQlAwQUczU0trcm5hZXAxYTVkX1h5cTN6LXZINXhqdm1pV0ZiZlhveHY5Y0tUWlp3S2Z4ZldsQ3d5ZG9yT2Y5VWxEV2ZOQURLVTR6bm43MDJ6VXJlMXA2Ylkw?oc=5",
+      "source": "Anthropic · via CPA Practice Advisor",
+      "date": "2026-11-16T22:37:52.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-16T22:30:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Cyber giant Infoblox confirms security incident after hackers access &#8216;company information&#8217;",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "source": "TechCrunch",
+      "date": "2026-11-16T22:12:31.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The FAA’s ground stop has a simple culprit. Its causes may not",
+      "url": "https://www.fastcompany.com/91643272/the-faa-was-warned-about-its-telecom-upgrade?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-16T22:01:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "url": "https://latent.space/p/bfl/",
+      "source": "Latent Space",
+      "date": "2026-11-16T21:38:03.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "source": "Launch HN",
+      "date": "2026-11-16T20:29:48.000Z"
+    },
+    {
+      "id": 25,
+      "title": "La guerra de Ucrania está teniendo un beneficiado inesperado: la minería ilegal de ámbar",
+      "url": "https://www.xataka.com/magnet/guerra-ucrania-esta-teniendo-beneficiado-inesperado-mineria-ilegal-ambar",
+      "source": "Xataka",
+      "date": "2026-11-16T20:01:25.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Perplexity Launches Frontier Research With 10,000+ GPUs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX01pTXNxZGR2R2lfT3FQUEJFX1Y2MGw2QXJncHBycHdiZGxDcEFtUHgtNGRkSEpmNVRYeml4OWpqcjJzS0lxQTVPRTM0NEF4QmM1QUgyb3c4a0Zyd3o0YkpQdWFMVEx2N09vVXhxalY3YkJPTU5GUUVlekRPUE5wUTVqRmhvdWZD?oc=5",
+      "source": "Perplexity · via FourWeekMBA",
+      "date": "2026-11-16T19:12:54.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-16T18:38:47.000Z"
+    },
+    {
+      "id": 28,
+      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
+      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-16T17:56:57.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-16T16:06:30.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Starling Bank CEO to step down at the end of the year",
+      "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
+      "source": "Sifted",
+      "date": "2026-11-16T16:01:40.000Z"
+    },
+    {
+      "id": 31,
+      "title": "La estafa de la tienda en línea falsa",
+      "url": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-11-16/la-estafa-de-la-tienda-en-linea-falsa.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-16T16:00:30.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "source": "Import AI",
+      "date": "2026-11-16T14:01:15.000Z"
+    },
+    {
+      "id": 33,
+      "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+      "url": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+      "source": "Crunchbase News",
+      "date": "2026-11-16T12:00:36.000Z"
+    },
+    {
+      "id": 34,
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Tracing Knowledge and Reasoning in LLM",
+      "url": "https://arxiv.org/abs/2611.17461",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-16T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

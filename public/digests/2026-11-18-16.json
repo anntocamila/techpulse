@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-18-16",
+  "generatedAt": "2026-11-18T16:50:48.799Z",
+  "periodStart": "2026-11-16T16:50:48.799Z",
+  "periodEnd": "2026-11-18T16:50:48.799Z",
+  "title": "Titulares del 18 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "higurashi-ai/Haru-4B",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Hyundai Card and JPMorgan Test AI Agents’ Payments Abilities",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Remember the frontier AI pause? Chip companies don’t either",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "The AI Hype Index: AI is everywhere",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "CrisisBench: an evaluation suite for crisis counseling AI",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mistral launches Vibe desktop app for macOS and Windows",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "What's new for Genie in Microsoft: Copilot Cowork and Chat, Microsoft Teams, and Excel.",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The world embraced the AI boom. Now many are having regrets.",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "NVIDIA RTX Spark Compact Desktops Out Now",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How Payhawk raised $280m amid fintech downturn",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "What To Measure When ARR Isn&#8217;t Enough",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Human-written Launch HN posts get more upvotes than AI-generated ones",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "The $17 billion DoorDash-Instacart deal puts a spotlight on a16z and Silicon Valley’s rival-board problem",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "SoreQen Code",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Amazon lanzó un nuevo Kindle Colorsoft por 299,99 euros, pero este otro cuesta la mitad y es la compra inteligente este Black Friday",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry without Jensen&#8217;",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Confirmada la calificación por edades de &#8216;Avengers: Doomsday&#8217;: será la película más violenta de los Vengadores",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "‘We need to act now’: Senator plans AI hearings after tests discover these alarming national security risks",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "TikTok moviliza y Facebook polariza hacia la extrema derecha: así describen las redes nuestro voto",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Trump to project friendship with Xi as trade and tech rivalry deepens",
+          "sources": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "The wrong setting for AI cache can cost you a lot of cash",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ www.theverge.com/tech/1036494...",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Quoting Daniel Stenberg",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Retrieval Ran First. Was Its Result Actually Ready?",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Jensen wants to come back",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-18T16:50:49.528Z"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-18T16:49:57.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Amazon lanzó un nuevo Kindle Colorsoft por 299,99 euros, pero este otro cuesta la mitad y es la compra inteligente este Black Friday",
+      "url": "https://www.xataka.com/seleccion/amazon-lanzo-nuevo-kindle-colorsoft-299-99-euros-este-otro-cuesta-mitad-compra-inteligente-este-black-friday",
+      "source": "Xataka",
+      "date": "2026-11-18T16:45:12.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Mistral launches Vibe desktop app for macOS and Windows",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFJRdUFGZVNPZV9aN0tlR2xwenNsZkstT3RzcnNaR0ZuZXg5alRLQzQyLWZ0T2RpNDRPV2pxWFV3SlprWmRsbndWUUxkaW14QS1aVGpJMDdiMHZFczQ3VFZCLW1OTUFTZ2FfdzUzSXRpUWpzV0xDOHlYUUtwam1Tbko1QlgtU253Q0ttUkZWeHAwcHM?oc=5",
+      "source": "Mistral AI · via TestingCatalog AI News",
+      "date": "2026-11-18T16:42:32.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Hyundai Card and JPMorgan Test AI Agents’ Payments Abilities",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnA5YTdGN0EyYy00dGI1RWI4dy1la3pYV092S19IVmdlNjZzSHBDU0JleU42VTd0SVdkUUtkcVl0bkJWVkNHZlo5cTBpZ1BYZ0JTYVBPTlZfUEFwNzVHeTI4ajVid2Y0RlRxcmc4MnhKZEFObnVTUXI2S1hWZ3c1aFlsYmpWWF9scWVqWmp1d3hOLXdnc21pUXlHdTZOOFlaYWdBNnNSMEhmY2Q1SmZYbzctTC1iMEVG?oc=5",
+      "source": "Google News · IA · via PYMNTS.com",
+      "date": "2026-11-18T16:38:31.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Trump to project friendship with Xi as trade and tech rivalry deepens",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
+      "source": "Google News · Eventos tech · via The Washington Post",
+      "date": "2026-11-18T16:36:45.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "source": "Wired",
+      "date": "2026-11-18T16:35:24.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
+      "url": "https://www.techmeme.com/261118/p32#a261118p32",
+      "source": "Techmeme",
+      "date": "2026-11-18T16:25:01.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+      "source": "Ars Technica",
+      "date": "2026-11-18T16:24:34.000Z"
+    },
+    {
+      "id": 10,
+      "title": "The wrong setting for AI cache can cost you a lot of cash",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+      "source": "The Register",
+      "date": "2026-11-18T16:17:00.000Z"
+    },
+    {
+      "id": 11,
+      "title": "The Neo Smart Water Valve works with Shelly’s sensors to stop a leak in about 12 seconds.﻿ www.theverge.com/tech/1036494...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2lxd6dpf52y",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-18T16:15:35.613Z"
+    },
+    {
+      "id": 12,
+      "title": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry without Jensen&#8217;",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch",
+      "date": "2026-11-18T16:14:09.000Z"
+    },
+    {
+      "id": 13,
+      "title": "What's new for Genie in Microsoft: Copilot Cowork and Chat, Microsoft Teams, and Excel.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRThCdktTMmRCbzV5QWlfQ3dtdlFKRWNxdWxKTHh1SVJpMkRfcnk1MUNSVi1aTlpyZ1dDcWxWSVoxdV9hdW1jRDgxVV9Oa2ZNV1JfbjRwdG9FTDlLa3U2TjVrQ2JmUlNqaWw2UjFaTnlERnNzN2ZGdUZ3QnhEU2puUFFPZHdTUUdrM0RxVHJYY2l0c1Z2aHRwakZMUlBRUlZyOS1xUjBwbDEtRUk?oc=5",
+      "source": "Microsoft AI · via Databricks",
+      "date": "2026-11-18T16:11:49.000Z"
+    },
+    {
+      "id": 14,
+      "title": "The world embraced the AI boom. Now many are having regrets.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5",
+      "source": "Anthropic · via The Washington Post",
+      "date": "2026-11-18T16:01:50.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+      "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+      "source": "The Verge",
+      "date": "2026-11-18T16:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "date": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Confirmada la calificación por edades de &#8216;Avengers: Doomsday&#8217;: será la película más violenta de los Vengadores",
+      "url": "https://hipertextual.com/cine-television/confirmada-la-calificacion-por-edades-de-avengers-doomsday-sera-la-pelicula-mas-violenta-de-los-vengadores/",
+      "source": "Hipertextual",
+      "date": "2026-11-18T15:50:42.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "source": "The Verge AI",
+      "date": "2026-11-18T15:44:02.000Z"
+    },
+    {
+      "id": 19,
+      "title": "‘We need to act now’: Senator plans AI hearings after tests discover these alarming national security risks",
+      "url": "https://www.fastcompany.com/91644823/we-need-act-now-senator-plans-ai-hearings-after-tests-discover-alarming-national-security-risks?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-18T15:29:58.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
+      "url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2",
+      "source": "dev.to · IA · via Raju Dandigam",
+      "date": "2026-11-18T15:29:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "How Payhawk raised $280m amid fintech downturn",
+      "url": "https://sifted.eu/articles/payhawk-series-c/",
+      "source": "Sifted",
+      "date": "2026-11-18T15:03:22.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-18T15:00:23.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-18T15:00:00.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-18T14:42:44.000Z"
+    },
+    {
+      "id": 25,
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "source": "NVIDIA",
+      "date": "2026-11-18T14:00:31.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "source": "Hacker News",
+      "date": "2026-11-18T13:18:02.000Z"
+    },
+    {
+      "id": 27,
+      "title": "What To Measure When ARR Isn&#8217;t Enough",
+      "url": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
+      "source": "Crunchbase News",
+      "date": "2026-11-18T12:00:54.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-18T12:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "source": "Latent Space",
+      "date": "2026-11-18T10:19:04.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Human-written Launch HN posts get more upvotes than AI-generated ones",
+      "url": "https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts",
+      "source": "Launch HN",
+      "date": "2026-11-18T08:04:19.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The $17 billion DoorDash-Instacart deal puts a spotlight on a16z and Silicon Valley’s rival-board problem",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZhVno1cGhzMnBCckFZdC0ybFNkOHVXVkhZZkxQSXZkRHdWa3VZNk9nSTZWN3ppREx3ZzlLWldHT0VhdVVSX2tHcDltUFFfVi1uWlNpOTJiZ2p0UnJxckxTZFo4WUE0c18zeUlCM2ZicVUycGFsS2pqSjJMVzZnRENlTzliU1JxN0hiYkpJUUZYQW8?oc=5",
+      "source": "a16z · via Fortune",
+      "date": "2026-11-18T08:02:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+      "url": "https://arxiv.org/abs/2611.21622",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "TikTok moviliza y Facebook polariza hacia la extrema derecha: así describen las redes nuestro voto",
+      "url": "https://elpais.com/tecnologia/2026-11-18/tiktok-moviliza-y-facebook-polariza-hacia-la-extrema-derecha-asi-describen-las-redes-nuestro-voto.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-18T04:30:01.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Jensen wants to come back",
+      "url": "https://www.platformer.news/jensen-wants-to-come-back/",
+      "source": "Platformer",
+      "date": "2026-11-18T03:15:15.000Z"
+    },
+    {
+      "id": 36,
+      "title": "SoreQen Code",
+      "url": "https://www.producthunt.com/products/soreqen-code",
+      "source": "Product Hunt",
+      "date": "2026-11-18T03:14:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

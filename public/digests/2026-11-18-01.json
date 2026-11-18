@@ -1,0 +1,542 @@
+{
+  "id": "2026-11-18-01",
+  "generatedAt": "2026-11-18T01:58:34.224Z",
+  "periodStart": "2026-11-16T01:58:34.224Z",
+  "periodEnd": "2026-11-18T01:58:34.224Z",
+  "title": "Titulares del 18 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MiniMaxAI/MiniMax-H3-Image",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Cambridge Dictionary's word of the year is a response to AI fears",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Satya Nadella says he’s AGI-pilled now",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Roundtables: Inside the Quest for Cognitive Immortality",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Agents Cannot Hand Over What They Have Not Yet Understood",
+          "sources": [
+            35
+          ]
+        },
+        {
+          "text": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
+          "sources": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Microsoft puts Word, Excel and PowerPoint inside Copilot and calls it a new OS for work",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Cohere signs HCLTech as a sovereign AI integrator in Canada and Germany days after closing its AISLE acquisition",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Mistral Eyes Europe IPO; Anthropic at $80 Is ~45x Its Value",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Introducing GPT-6.2 Astra and Sol",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Stripe backer Atomico calls for Europe to own its success stories",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Investing in First Person Labs",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The Family cofounder sentenced to 16 months in prison",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "OpenAI bugging case defendant Alfozan set for trial in January",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Nvidia promises that revenue will keep soaring — for now",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Nvidia’s first earnings call without Jensen Huang had one message: It’s business as usual",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Chile firma acuerdo con OpenAI para capacitar a funcionarios públicos y apoyar startups",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Premios Xataka Verisure 2026: dónde comprar al mejor precio todos los dispositivos ganadores",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Por fin: WhatsApp tendrá almacenamiento propio para tus chats y será gratis",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Trump to project friendship with Xi as trade and tech rivalry deepens",
+          "sources": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M (Bloomberg)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Here's what you can do if your PC won't read an external hard drive",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Satya Nadella responded to a question about Claude Docs by… invoking Marx? Lots of ideas at a roundtable I attended today  www.theverge.c…",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "External sandboxes for coding agents",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Productiv-icky",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-18T01:58:34.921Z"
+    },
+    {
+      "id": 2,
+      "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M (Bloomberg)",
+      "url": "https://www.techmeme.com/261117/p67#a261117p67",
+      "source": "Techmeme",
+      "date": "2026-11-18T01:50:07.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Cambridge Dictionary's word of the year is a response to AI fears",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVJReV9LU1FqWDBIWElOTjFLU1JPODdlYjdUa2FfQUYwUm9PZWZhLXFCOElTWGVmbFhmQWFGSGhuZUZVOTBGdlA2Ym5sOHJ3V21kcVUtMEpnNlpPUlQ1YWZxRW9WWnpjeV9LTVpDV2c3Q3g2RXo1MjlIX21iRTY2NmY2a3hRc0xGUGE3ekhqNWVNcDR0dU91XzFhX3dROEU2ZzNOQkVKdzNfODJWYTlBRXN1a2lCYVV2MzZTT0ZyaS1wVmpLYlE?oc=5",
+      "source": "Google News · IA · via 10TV",
+      "date": "2026-11-18T01:50:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-18T01:44:21.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Trump to project friendship with Xi as trade and tech rivalry deepens",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmxLXzBiaWJPaTUwdzJfbXZJMmxYM1o3T3lHNllPNFFoSnRJWFo3dVUtUmtUNWdDU0tmWGFWQjI0Z0lMUlJ3dDh2WEp3cHE4cTZPNTZxcnVhdE0xdDgwTC05S3Jrakp4Ymczckd4bldZb2k2WlhGa0hlOHVTNFNMN3A4eThtbEM5aDFLQVBndkdacE9sQTRTZ01Sd2c0Zw?oc=5",
+      "source": "Google News · Eventos tech · via The Washington Post",
+      "date": "2026-11-18T01:39:04.000Z"
+    },
+    {
+      "id": 6,
+      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "url": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-18T01:31:37.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft puts Word, Excel and PowerPoint inside Copilot and calls it a new OS for work",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGZOeU1OalBKZHVwZWZEOFE5dXljXzROVUZoQ2xaUktxNFBES2RtYUVBcHRYNHRSVWtCUHVpZE90SFF5RV92NVlKcTJCdWZ5UE8yQXBTemY4NXZlTXd3aV9KSlZxWWV0NGJXZEpIQWJLTG5FY0ZyenBsSjZWS1pTNkd4RVQwZDRCNFRaY0w2SEdrcmkwS2NfWGxNcldMdHRJMEdUYjgxdE5SaVFCbFlCM3drT20?oc=5",
+      "source": "Microsoft AI · via Startup Fortune",
+      "date": "2026-11-18T01:03:01.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Here's what you can do if your PC won't read an external hard drive",
+      "url": "https://www.engadget.com/2315721/pc-wont-read-external-hard-drive-fixes/",
+      "source": "Engadget",
+      "date": "2026-11-18T01:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "source": "Wired",
+      "date": "2026-11-18T00:32:39.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Satya Nadella responded to a question about Claude Docs by… invoking Marx? Lots of ideas at a roundtable I attended today  www.theverge.c…",
+      "url": "https://bsky.app/profile/reckless.bsky.social/post/3n2kcktmsfs2r",
+      "source": "The Verge en Bluesky · via nilay patel",
+      "date": "2026-11-18T00:31:25.977Z"
+    },
+    {
+      "id": 11,
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica",
+      "date": "2026-11-18T00:27:29.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Cohere signs HCLTech as a sovereign AI integrator in Canada and Germany days after closing its AISLE acquisition",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMTVrS2V5SHBTZnhwUE1LX0ZlX0F5YTVwRW55UnVYUVNUaWp5dTBiaWZ4dEVmYmtFZjljbkRLMFlObHdOSHFrTmRZaUc0UjNIdk5JR3ZPdE9CMWNkNFRONmRuZzdLN1ZWRFkyeEpHWHQyV0JMWkJaMVhQYk1iMnJWczl6WVJIS0Fibkh2eVlXRy15RmVNX29LbklDZG12bFZmeDFWcTNKdk9XbXQ1WHFmZ0lyaHRVeGZjTlBzU3h4cGNvazdpbFgxdk1JSDFlZw?oc=5",
+      "source": "Cohere · via MLQ.ai",
+      "date": "2026-11-18T00:22:30.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "date": "2026-11-18T00:16:50.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-18T00:01:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+      "url": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+      "source": "The Register",
+      "date": "2026-11-17T23:41:31.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge AI",
+      "date": "2026-11-17T23:41:18.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Nvidia’s first earnings call without Jensen Huang had one message: It’s business as usual",
+      "url": "https://www.fastcompany.com/91644237/nvidia-q3-earnings-first-without-jensen-huang?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-17T23:26:48.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Chile firma acuerdo con OpenAI para capacitar a funcionarios públicos y apoyar startups",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzNlM0RSSlQ4c1BrY1ZyNkFNQmRtNGZhdWJmTmlPUmItanhWVVd0RGFQc2dqNmwtUXZLV3NUUFc2SnNPY0xMdjc4UjhvcWM5VUhwQ0xaU1d5VEhpY2tWa3RqanBKVmk4V2xRalE0VktLOExYa2paOTFaM0hhVFhvZENtOXIzckNyN1E1d2xuUQ?oc=5",
+      "source": "Google News · Tecnología (ES) · via Alerta Noticias Temuco.cl",
+      "date": "2026-11-17T23:23:22.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Mistral Eyes Europe IPO; Anthropic at $80 Is ~45x Its Value",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWRRTWpiMXc0NHd0b0lVZ05OSFJhNFRENEtTbjZjRHVWZDI1SVNIaHJySjFYMjZkbV96Z0Q4RGs0OHplYU9POWNSYmp6dDRjc2c3Q1d6NzMtTGZWUk1xYmhOS3R4dkNJT1VmeXFnd25jazNCTWZ4S1ZQRGFBWjR3OUpQdHpFV2MxdUZxZg?oc=5",
+      "source": "Mistral AI · via FourWeekMBA",
+      "date": "2026-11-17T22:52:30.000Z"
+    },
+    {
+      "id": 20,
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "source": "Simon Willison",
+      "date": "2026-11-17T22:52:29.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "source": "The Verge",
+      "date": "2026-11-17T22:38:41.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Premios Xataka Verisure 2026: dónde comprar al mejor precio todos los dispositivos ganadores",
+      "url": "https://www.xataka.com/seleccion/donde-comprar-barato-dispositivos-ganadores-premios-xataka-verisure-2026",
+      "source": "Xataka",
+      "date": "2026-11-17T22:31:23.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzVoTDBKTEpPYWdHVlhXOFdqd3Z2bUNtb3Vkbnp5NHlSMW1HOUR0d0VnWmtBVDdHQjdiUklzcE5kTWV2RllEcFRQVHZCWkp5b1hEVHc1bDFDZWtHQks4OGlWeE5oa0NxV0xpcnJha29OTldUTmVYNldkaHdSb1JFY19vSTFQYjlndDJidTQ2MTk0Nmd5Wkxyd0lVRWI4TW5wNXJRVkp0Sk1sWWs?oc=5",
+      "source": "Anthropic · via TechCrunch",
+      "date": "2026-11-17T22:29:05.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Por fin: WhatsApp tendrá almacenamiento propio para tus chats y será gratis",
+      "url": "https://hipertextual.com/mobile/whatsapp-almacenamiento-nube-chats-gratis/",
+      "source": "Hipertextual",
+      "date": "2026-11-17T21:39:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Investing in First Person Labs",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMUJ4bEZQajhHd1l5Tjk3amVrVk12V1oxT21lMmo0YTZ2US0wMlNJWXRRRFdndWdWQWxuNXdPbE9qdmt4Q2ZjVWdhZXJpUTFuRkRqWmFieFpVclZKLW03QW5DS2RjRnZiLVZOazFR?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-17T20:26:15.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "source": "Launch HN",
+      "date": "2026-11-17T19:01:43.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-17T18:46:47.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "date": "2026-11-17T17:45:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-17T17:30:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Thinking On or Off? Gemma 4 E2B on an 8 GB RTX 3050",
+      "url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e2b-on-an-8-gb-rtx-3050-30e0",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-17T17:13:33.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The Family cofounder sentenced to 16 months in prison",
+      "url": "https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/",
+      "source": "Sifted",
+      "date": "2026-11-17T15:40:45.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "url": "https://latent.space/p/cloudflare/",
+      "source": "Latent Space",
+      "date": "2026-11-17T15:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Productiv-icky",
+      "url": "https://www.bensbites.com/p/productiv-icky",
+      "source": "Ben's Bites",
+      "date": "2026-11-17T14:14:18.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+      "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+      "source": "Crunchbase News",
+      "date": "2026-11-17T14:00:18.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+      "url": "https://arxiv.org/abs/2611.18642",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-17T05:00:00.000Z"
+    },
+    {
+      "id": 36,
+      "title": "\"I Am Not a Kiddo!\": Quantifying Epistemic Infantilization in Large Language Models via Multi-Metric Bias Analysis",
+      "url": "https://arxiv.org/abs/2611.18583",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-17T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

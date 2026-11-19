@@ -1,0 +1,516 @@
+{
+  "id": "2026-11-19-01",
+  "generatedAt": "2026-11-19T01:35:25.680Z",
+  "periodStart": "2026-11-17T01:35:25.680Z",
+  "periodEnd": "2026-11-19T01:35:25.680Z",
+  "title": "Titulares del 19 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MiniMaxAI/MiniMax-H3-Image",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Advocate says 'rogue' AI terror armies aren’t happening, warns tools can be weaponized",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "The nation’s largest school districts consider ditching Google Search",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "The AI Hype Index: AI is everywhere",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+          "sources": [
+            33
+          ]
+        },
+        {
+          "text": "CrisisBench: an evaluation suite for crisis counseling AI",
+          "sources": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Introducing Gemini 4 Neon",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Mathematical proof, powered by AI. And no hallucinations!",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic Prices IPO Shares At $83, Above Range",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "How Toyota is betting on a future beyond cars",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "How Payhawk raised $280m amid fintech downturn",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Google lanza Gemini 4 Neon: más rápido, más barato y demoledor escribiendo código",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Why 2 Pinterest vets and a neurosurgeon are building a Reddit for doctors",
+          "sources": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit",
+          "sources": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "We need smart people who give a shit",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+          "sources": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Google is trying to force Gemini on schools, and they’re not thrilled. www.theverge.com/ai-artificia...",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Quoting Daniel Stenberg",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-19T01:35:26.467Z"
+    },
+    {
+      "id": 2,
+      "title": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)",
+      "url": "https://www.techmeme.com/261118/p53#a261118p53",
+      "source": "Techmeme",
+      "date": "2026-11-19T01:30:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Advocate says 'rogue' AI terror armies aren’t happening, warns tools can be weaponized",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkxHdUM3dU5qaEpqYkpncjVReXctdkNPRVZndWN0M3hRVEdnQl9JZS1HRWdIcDFiWDYtaWpqeWM5YV9EamFaZ3VReFplOVctd19wOWpIelhBdVdGTll3eFRabFltbWpCVkU1ekR1SHJrZEo2X3FscTV6MmVIeGMwcW5LejBISnU4U2JoWXlDOHhrT1FLaTNZUHVaZ1ljLW1YdnhUaDNrb0F2MlAxbndGdUNSX1BTTEQzV1lYM3E4RVRRVm1BMU1sV1oxSnVOOHZOOHV1dmd3?oc=5",
+      "source": "Google News · IA · via KATU",
+      "date": "2026-11-19T01:14:21.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-19T01:13:20.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-19T01:06:01.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T00:42:56.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5",
+      "source": "Anthropic · via The New York Times",
+      "date": "2026-11-19T00:41:26.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Google lanza Gemini 4 Neon: más rápido, más barato y demoledor escribiendo código",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-4-neon-ia-rapida-eficiente-google/",
+      "source": "Hipertextual",
+      "date": "2026-11-19T00:24:09.000Z"
+    },
+    {
+      "id": 9,
+      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "source": "Wired",
+      "date": "2026-11-19T00:23:15.000Z"
+    },
+    {
+      "id": 10,
+      "title": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "source": "Hacker News",
+      "date": "2026-11-18T23:53:49.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "source": "Ars Technica",
+      "date": "2026-11-18T23:25:04.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+      "url": "https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/",
+      "source": "Engadget",
+      "date": "2026-11-18T23:23:57.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Google is trying to force Gemini on schools, and they’re not thrilled. www.theverge.com/ai-artificia...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2mpaqhu5d2w",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-18T23:23:41.680Z"
+    },
+    {
+      "id": 14,
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge AI",
+      "date": "2026-11-18T23:18:35.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles",
+      "url": "https://www.xataka.com/seleccion/chollazo-nintendo-switch-2-antes-black-friday-2026-aqui-oferta-que-se-agotara-rapido-varios-descuentos-disponibles",
+      "source": "Xataka",
+      "date": "2026-11-18T23:10:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVFHTkQ1U0RMSTFiNTV3QVI0Zll5V3VmNVllWFo0OUZsSGdWNDhNc3VoX0dRd25OLW5HOTNUNmw4cHlZNklQaHJYT2U2QUM5eTVVYUhlcWkwc1ZYeFQzQUtnOXZWakRrN0ZlcjJuTk05TEJQQVRUU254clRfVkdjYmEzaUM3LUFKdXVyQW5GM0J1T1J6d0dUdC1NWG9iRnRM?oc=5",
+      "source": "Google News · Eventos tech · via The New York Times",
+      "date": "2026-11-18T22:30:34.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Anthropic Prices IPO Shares At $83, Above Range",
+      "url": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+      "source": "Crunchbase News",
+      "date": "2026-11-18T22:15:36.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "source": "The Verge",
+      "date": "2026-11-18T22:05:48.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemkxUWVqLW9QOVpSOUZxY0FoaVUwT1JlTklaZ1F4UUNoaThRX0EzaXFTYUhSemt0Y2RZY2JyU21JRlhrTktlNnJwOVR1ZE1zZlVudmhHVDJiaTN5MVNWcGNtVnI3YmtiaWM2MG01MVJyZ3R6bmhrZGI1WmVZd2tWMHl6ZVB4X3lrTWxHVDlHcVVPaXBuTXRhMkdNd28zTTRQOUoyZXNDMVJrWEJIdjBXczFqb1gzSWpDUkxXM0hB?oc=5",
+      "source": "a16z · via citybiz",
+      "date": "2026-11-18T21:46:29.000Z"
+    },
+    {
+      "id": 20,
+      "title": "How Toyota is betting on a future beyond cars",
+      "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-18T21:36:40.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "date": "2026-11-18T21:35:43.000Z"
+    },
+    {
+      "id": 22,
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-18T19:54:56.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXV4cTU5RmZrd3lGNGRVS2RXYUZFU1prYmhYQzhrSnNWdkRHWmF6N2RjT3RkTkVTb0ZpQWhnZ3hXc3c4S1RzUXdsWGRJMFlVQkloZmlhSWhQcjkwNVFfWGxqR3NtbHNmLWdzRTBMb1dCdFVhUlV2SnhYSUYwZTlZZ2dMRjJadm1McGtYS29PcHhNdG9XSGlOVDFHY1FacGRDOWFuamRFdnEyLTVaWl9F?oc=5",
+      "source": "Microsoft AI · via Bloomberg.com",
+      "date": "2026-11-18T19:35:30.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-18T19:29:41.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Why 2 Pinterest vets and a neurosurgeon are building a Reddit for doctors",
+      "url": "https://www.fastcompany.com/91637496/roon-reddit-pinterest-social-media-doctors?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-18T19:00:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Mathematical proof, powered by AI. And no hallucinations!",
+      "url": "https://www.amazon.science/blog/mathematical-proof-powered-by-ai-and-no-hallucinations",
+      "source": "Amazon Science",
+      "date": "2026-11-18T18:55:35.000Z"
+    },
+    {
+      "id": 27,
+      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVdWTzgtOGR1TVBFMkJVeEMzRFNKem5NUERwb2htaWVyZXZLeWY0WGJBV0l6dWRGaHREMFA3VkZ2RW9XUHpXamhmVDFlX21OM2Y1WkhZOVRlRWxUdFJORnJvU1QzdDNDaVRSUXhGb2JpMkZScTR5RkRBSElSMGFIdHd5UHNIM0l2WGF4Sjk5U0ZGLVcweGFnZktfR1VtWFRn?oc=5",
+      "source": "xAI · via WIRED",
+      "date": "2026-11-18T17:30:54.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "source": "Launch HN",
+      "date": "2026-11-18T17:26:28.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "date": "2026-11-18T15:58:27.000Z"
+    },
+    {
+      "id": 30,
+      "title": "How Payhawk raised $280m amid fintech downturn",
+      "url": "https://sifted.eu/articles/payhawk-series-c/",
+      "source": "Sifted",
+      "date": "2026-11-18T15:03:22.000Z"
+    },
+    {
+      "id": 31,
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-18T14:42:44.000Z"
+    },
+    {
+      "id": 32,
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "source": "Latent Space",
+      "date": "2026-11-18T10:19:04.000Z"
+    },
+    {
+      "id": 33,
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+      "url": "https://arxiv.org/abs/2611.21622",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-18T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

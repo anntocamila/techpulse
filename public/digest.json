@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-19-16",
-  "generatedAt": "2026-11-19T16:57:52.003Z",
-  "periodStart": "2026-11-17T16:57:52.003Z",
-  "periodEnd": "2026-11-19T16:57:52.003Z",
-  "title": "Titulares del 19 de noviembre",
+  "id": "2026-11-20-01",
+  "generatedAt": "2026-11-20T01:34:09.387Z",
+  "periodStart": "2026-11-18T01:34:09.387Z",
+  "periodEnd": "2026-11-20T01:34:09.387Z",
+  "title": "Titulares del 20 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -19,33 +19,33 @@
           ]
         },
         {
-          "text": "Anthropic starts trading on Wall Street",
+          "text": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
           "sources": [
-            7
+            3
           ]
         },
         {
-          "text": "Anthropic to Start Trading After Record-Setting IPO: Live Updates",
+          "text": "Apple is hiring engineers to build its own AI agent",
           "sources": [
-            8
+            14
           ]
         },
         {
           "text": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
           "sources": [
-            28
+            33
           ]
         },
         {
           "text": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
           "sources": [
-            33
+            35
           ]
         },
         {
           "text": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
           "sources": [
-            34
+            36
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Anthropic valued at over $2 trillion in Nasdaq debut",
+          "text": "Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut",
           "sources": [
-            6
+            9
           ]
         },
         {
-          "text": "Build Tool-Calling Parsers in Rust with AI Agents",
+          "text": "France's Data Transmission Tax Clears National Assembly by One Vote; Mistral AI Rejects Macron Ties",
           "sources": [
-            12
+            20
           ]
         },
         {
-          "text": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models",
+          "text": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
           "sources": [
-            17
+            21
           ]
         },
         {
-          "text": "I tried Perplexity as my Android assistant; it almost beat Gemini",
+          "text": "A game you cannot win unless you have a quantum computer",
           "sources": [
-            18
+            22
           ]
         },
         {
-          "text": "Muslim Author Sues xAI After Grok Removed Her Hijab",
+          "text": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
           "sources": [
-            19
+            23
           ]
         },
         {
-          "text": "Deutsche Telekom invests €100 million in French AI start-up Mistral",
+          "text": "Perplexity launches Multiagent, up to 16 AI agents working as one team",
           "sources": [
-            24
+            26
           ]
         }
       ]
@@ -101,39 +101,39 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+          "text": "Anthropic rival says companies can (mostly) skip the pricey models",
           "sources": [
-            11
+            8
           ]
         },
         {
-          "text": "Investors Target Pre-Founders With Early Support Programs",
+          "text": "a16z's Katherine Boyle: Anthropic IPO means a lot for American dynamism",
           "sources": [
-            20
+            16
           ]
         },
         {
-          "text": "Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe",
+          "text": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chinese factories",
           "sources": [
             27
           ]
         },
         {
-          "text": "Zentynel, fondo biotech con US$25M en 17 startups",
+          "text": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
           "sources": [
             29
           ]
         },
         {
-          "text": "The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities",
+          "text": "Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe",
           "sources": [
-            30
+            32
           ]
         },
         {
-          "text": "Gemini 4 Neon",
+          "text": "Zentynel, fondo biotech con US$25M en 17 startups",
           "sources": [
-            35
+            34
           ]
         }
       ]
@@ -145,39 +145,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "AMD falls on short-seller report of alleged China exposure",
+          "text": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Apple may be developing its own AI agent that runs your Mac",
           "sources": [
             4
           ]
         },
         {
-          "text": "OLED, QLED o Mini LED: da igual qué TV quieras, PcComponentes la tiene de oferta en su Black Friday",
+          "text": "Filtrado el Razr Flex, la respuesta de Motorola al Galaxy Z Fold 8 y el iPhone Duo",
           "sources": [
-            9
+            24
           ]
         },
         {
-          "text": "Ojo con el autoguardado de &#8216;GTA 6&#8217;: no es tan frecuente como crees y puedes perder tu progreso",
+          "text": "Sistemas Mesh, repetidores o routers WiFi 7: todos estos dispositivos de TP-Link están de Black Friday con hasta un 40 % de descuento",
           "sources": [
-            10
+            25
           ]
         },
         {
-          "text": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "text": "Anthropic’s IPO filing reveals a strategy to undercut its AI rivals",
           "sources": [
-            15
-          ]
-        },
-        {
-          "text": "What does the Anthropic IPO mean for your 401(k)?",
-          "sources": [
-            21
+            28
           ]
         },
         {
           "text": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
           "sources": [
-            22
+            30
           ]
         }
       ]
@@ -189,9 +189,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "AI Networking Summit NYC 2026 Wrap",
+          "text": "Catholic bishops conference in Baltimore tackles AI, immigration",
           "sources": [
-            16
+            6
           ]
         }
       ]
@@ -203,39 +203,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)",
+          "text": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
           "sources": [
-            2
+            5
           ]
         },
         {
-          "text": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+          "text": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
           "sources": [
-            13
+            10
           ]
         },
         {
-          "text": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
+          "text": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
           "sources": [
-            14
+            12
           ]
         },
         {
-          "text": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+          "text": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
           "sources": [
-            23
+            15
           ]
         },
         {
-          "text": "Mouse fight club might explain why we like to watch violent things",
+          "text": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
           "sources": [
-            26
+            17
           ]
         },
         {
-          "text": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+          "text": "Meta now sells 3D movies on Quest VR headsets",
           "sources": [
-            31
+            18
           ]
         }
       ]
@@ -247,33 +247,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+          "text": "What team-wide AI adoption actually takes",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "Anthropic is priced at $83 / per share. www.theverge.com/ai-artificia...",
+          "text": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
           "sources": [
-            5
+            11
+          ]
+        },
+        {
+          "text": "Apple’s job listing describes an AI agent that can browse the web, work across apps, and call services. www.theverge.com/tech/1038227...",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "PostgreSQL 19 Released",
+          "sources": [
+            19
           ]
         },
         {
           "text": "My wife thinks AI is a person",
           "sources": [
-            25
-          ]
-        },
-        {
-          "text": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
-          "sources": [
-            32
-          ]
-        },
-        {
-          "text": "llm-gemini 0.38",
-          "sources": [
-            36
+            31
           ]
         }
       ]
@@ -285,252 +285,252 @@
       "title": "higurashi-ai/Haru-4B",
       "url": "https://huggingface.co/higurashi-ai/Haru-4B",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-19T16:57:52.742Z"
+      "date": "2026-11-20T01:34:10.475Z"
     },
     {
       "id": 2,
-      "title": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)",
-      "url": "https://www.techmeme.com/261119/p40#a261119p40",
-      "source": "Techmeme",
-      "date": "2026-11-19T16:56:35.000Z"
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-20T01:33:16.000Z"
     },
     {
       "id": 3,
-      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
-      "url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh",
-      "source": "dev.to · IA · via MLH Team",
-      "date": "2026-11-19T16:55:26.000Z"
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
+      "source": "Google News · IA · via CNBC",
+      "date": "2026-11-20T01:07:00.000Z"
     },
     {
       "id": 4,
-      "title": "AMD falls on short-seller report of alleged China exposure",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-19T16:53:47.000Z"
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "date": "2026-11-20T00:56:01.000Z"
     },
     {
       "id": 5,
-      "title": "Anthropic is priced at $83 / per share. www.theverge.com/ai-artificia...",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2ojvdrm7d2w",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-19T16:53:12.105Z"
+      "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+      "url": "https://www.techmeme.com/261119/p56#a261119p56",
+      "source": "Techmeme",
+      "date": "2026-11-20T00:50:59.000Z"
     },
     {
       "id": 6,
-      "title": "Anthropic valued at over $2 trillion in Nasdaq debut",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-      "source": "Anthropic · via Reuters",
-      "date": "2026-11-19T16:52:48.000Z"
+      "title": "Catholic bishops conference in Baltimore tackles AI, immigration",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3lwcmxiaWU3ay1wZWFGSVZWTHVvQnpodWxIaXRvWVlzelF3T3RhMUtBUnUyUHJJYVJ4aDJnVkl3ZGVaTmI5YURZS09EM2N6eDNRUXBCUzRWTTk5ckxIQUZpWU05ZlUtRE1KVnR1MjFwSWdHRXZLeHRiamwtOTJkTDRVR1BjWHhaMk44U1ZsMGFXUQ?oc=5",
+      "source": "Google News · Eventos tech · via WBAL-TV",
+      "date": "2026-11-20T00:41:00.000Z"
     },
     {
       "id": 7,
-      "title": "Anthropic starts trading on Wall Street",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "source": "The Verge AI",
-      "date": "2026-11-19T16:52:01.000Z"
+      "title": "What team-wide AI adoption actually takes",
+      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh",
+      "source": "dev.to · IA · via Peter Kim Frank",
+      "date": "2026-11-20T00:36:25.000Z"
     },
     {
       "id": 8,
-      "title": "Anthropic to Start Trading After Record-Setting IPO: Live Updates",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bTR3Zzh2OENUSmxiYWhGSmF6QWh2Q2Jsbm5KZldsY0pEQUkteVNqVTFwSWVreVVwcEZ2bDdjbTRyeXNDNmRVMXF6NDNqckxnMHAyay05Ukh4enRNdG1jOXJoQVF5b01iWG10cWFFOHBsVWlWbVE?oc=5",
-      "source": "Google News · IA · via The New York Times",
-      "date": "2026-11-19T16:50:42.000Z"
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "source": "TechCrunch Venture",
+      "date": "2026-11-20T00:26:03.000Z"
     },
     {
       "id": 9,
-      "title": "OLED, QLED o Mini LED: da igual qué TV quieras, PcComponentes la tiene de oferta en su Black Friday",
-      "url": "https://www.xataka.com/seleccion/oled-qled-mini-led-da-igual-que-tv-quieras-pccomponentes-tiene-oferta-su-black-friday",
-      "source": "Xataka",
-      "date": "2026-11-19T16:45:16.000Z"
+      "title": "Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bTR3Zzh2OENUSmxiYWhGSmF6QWh2Q2Jsbm5KZldsY0pEQUkteVNqVTFwSWVreVVwcEZ2bDdjbTRyeXNDNmRVMXF6NDNqckxnMHAyay05Ukh4enRNdG1jOXJoQVF5b01iWG10cWFFOHBsVWlWbVE?oc=5",
+      "source": "Anthropic · via The New York Times",
+      "date": "2026-11-20T00:25:00.000Z"
     },
     {
       "id": 10,
-      "title": "Ojo con el autoguardado de &#8216;GTA 6&#8217;: no es tan frecuente como crees y puedes perder tu progreso",
-      "url": "https://hipertextual.com/videojuegos/ojo-guardado-automatico-gta-6/",
-      "source": "Hipertextual",
-      "date": "2026-11-19T16:44:26.000Z"
+      "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+      "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+      "source": "Engadget",
+      "date": "2026-11-20T00:03:22.000Z"
     },
     {
       "id": 11,
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "url": "https://latent.space/p/linear-scaling/",
+      "source": "Latent Space",
+      "date": "2026-11-19T23:58:21.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "source": "Wired",
+      "date": "2026-11-19T23:12:17.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Apple’s job listing describes an AI agent that can browse the web, work across apps, and call services. www.theverge.com/tech/1038227...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2p522e6ou2b",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-19T22:35:51.338Z"
+    },
+    {
+      "id": 14,
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge AI",
+      "date": "2026-11-19T22:31:41.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "source": "Ars Technica",
+      "date": "2026-11-19T22:16:37.000Z"
+    },
+    {
+      "id": 16,
+      "title": "a16z's Katherine Boyle: Anthropic IPO means a lot for American dynamism",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFRkcXlBbzFOT3h6TlVLOEdaeTF0NUg3QmlDVWhCajlrZjdud3VkZ2NOenQ4OFZMOGFvMWt6TXlOcjlFekV6YkNsQUhSY1pteU9HZVZBZHYwRzdsUHA5X2U4RWJOcUVrcDRocjZSTERLS2dic0o0ZVhPdEFzckw3eGlRcW9EVWJXMU4yOTVsN1liWktMYVp1TjBJZlA0VVlLVmV2dVhCXzNGMnZhZmtCcXd3?oc=5",
+      "source": "a16z · via CNBC",
+      "date": "2026-11-19T21:54:24.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+      "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+      "source": "The Register",
+      "date": "2026-11-19T21:12:33.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "source": "The Verge",
+      "date": "2026-11-19T21:12:06.000Z"
+    },
+    {
+      "id": 19,
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison",
+      "date": "2026-11-19T20:43:57.000Z"
+    },
+    {
+      "id": 20,
+      "title": "France's Data Transmission Tax Clears National Assembly by One Vote; Mistral AI Rejects Macron Ties",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sN1BVYmFjclN2d1pxblBNd3JrR3RxUmZhN21RNzV0NDU2RlVjZjBfMnNmMlJELVoxQU11bU9Xb3hxdjU2ZVJGcFd2cm45dnJKUW9Kd3A0M3d0azJnendGMUdNVGNIY01Ld3lEeHNsR0dVRnpwM2c?oc=5",
+      "source": "Mistral AI · via BigGo Finance",
+      "date": "2026-11-19T20:35:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-19T20:28:13.000Z"
+    },
+    {
+      "id": 22,
+      "title": "A game you cannot win unless you have a quantum computer",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "source": "Google Research",
+      "date": "2026-11-19T20:03:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "source": "NVIDIA",
+      "date": "2026-11-19T20:00:15.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Filtrado el Razr Flex, la respuesta de Motorola al Galaxy Z Fold 8 y el iPhone Duo",
+      "url": "https://hipertextual.com/mobile/filtrado-motorola-razr-flex-imagenes/",
+      "source": "Hipertextual",
+      "date": "2026-11-19T19:59:15.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Sistemas Mesh, repetidores o routers WiFi 7: todos estos dispositivos de TP-Link están de Black Friday con hasta un 40 % de descuento",
+      "url": "https://www.xataka.com/seleccion/sistemas-mesh-repetidores-routers-wifi-7-todos-estos-dispositivos-tp-link-estan-black-friday-40-descuento",
+      "source": "Xataka",
+      "date": "2026-11-19T19:46:25.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Perplexity launches Multiagent, up to 16 AI agents working as one team",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjJaR1N5Mk9DMjBuY1AwVmp1T0d5NkowcXMycFp6MnRuRlQ2aUdpRlB4dFp2ckVpOE1fVlBVMVVRR2RLemxBWnhYOS1qaGxFZGhuNnhkX2RkWk8xR3BtdFZqMGlnSi1xaGQxU3dzNUZMaWh0eGVqdHAxUHItUEFydzJ5MmsyOHllemNvR002QWlhUXFzLWVQcHRLOHVVNU9BRnU0?oc=5",
+      "source": "Perplexity · via Pasquale Pillitteri",
+      "date": "2026-11-19T18:56:03.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-19T17:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Anthropic’s IPO filing reveals a strategy to undercut its AI rivals",
+      "url": "https://www.fastcompany.com/91640634/anthropics-ipo-filing-reveals-a-strategy-to-undercut-its-ai-rivals?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-19T17:00:00.000Z"
+    },
+    {
+      "id": 29,
       "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
       "url": "https://github.com/onlook-dev/onlook/",
       "source": "Launch HN",
       "date": "2026-11-19T16:34:04.000Z"
     },
     {
-      "id": 12,
-      "title": "Build Tool-Calling Parsers in Rust with AI Agents",
-      "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-19T16:30:46.000Z"
-    },
-    {
-      "id": 13,
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "source": "The Verge",
-      "date": "2026-11-19T16:28:12.000Z"
-    },
-    {
-      "id": 14,
-      "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
-      "url": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
-      "source": "The Register",
-      "date": "2026-11-19T16:20:00.000Z"
-    },
-    {
-      "id": 15,
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T16:19:41.000Z"
-    },
-    {
-      "id": 16,
-      "title": "AI Networking Summit NYC 2026 Wrap",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzBpaTNYRG9ETDJieHdGdk5WUnFRcDlndXMxaTYxWXF4RHc0UkVaVk00RW1Od2Y3Yy1VejNhbTdGTE42Y0lmTHpza0JoemwybzJmY20yaDdUaXlyWEd2WUlnVUxqZVlLRmI1dk5ZbWItOVdYbkI3TFVUUkRLQUNJajlvSHhKcVN5UEM5MFpZN3ZGXzNE?oc=5",
-      "source": "Google News · Eventos tech · via The Detroit News",
-      "date": "2026-11-19T16:19:33.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5",
-      "source": "Microsoft AI · via CNET",
-      "date": "2026-11-19T16:10:00.000Z"
-    },
-    {
-      "id": 18,
-      "title": "I tried Perplexity as my Android assistant; it almost beat Gemini",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmlic1NNOE15Sko4NGl6YmRVd0hiVWV2QWFiRjFhTGdNcm02NHJYSWpNWllhT1pNYzJ3S1FTU1Z3Nm9NRlpxc1pQd2VpZm0tRmhlSzJZbkpNTzdzZDlRTkZaSzhtQUpBN2VVYnVVMC14MnlidkhJalFTZ2toUzNFSVZIWFdFSzY4Ul9wSDRuTFo?oc=5",
-      "source": "Perplexity · via Android Police",
-      "date": "2026-11-19T16:00:10.000Z"
-    },
-    {
-      "id": 19,
-      "title": "Muslim Author Sues xAI After Grok Removed Her Hijab",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5veG1iOFlZYUZ5TVpMaVdrbkZDOHI3Y1RGdTR3alF0RWFEZXFhY0M1aUpqd0dNYThONlZhR19lelZvLW5tUzJndnVsNi1GU1VxUHJjUTJsVzZ6RzV6Y1RWYW00Ykg3TnVSckFZV0ZXbXdJMjA?oc=5",
-      "source": "xAI · via Reclaim The Net",
-      "date": "2026-11-19T15:47:39.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Investors Target Pre-Founders With Early Support Programs",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEdwZVM4WjFndy1fTk5pTlJBZldycEtvdVpDN0w3UHVtTG1tdkxzLU1EbGlZWTFORWQ3bmJRTE5maU92azMtWGpISUt5VG90cTIweDFQZXV2NWpxNkhlYTVPOFVoOUVvUkFBLTVYZ2RpdnU1Q1NtaElkY1F4SGU5ejNPb1ZVTHJX?oc=5",
-      "source": "a16z · via 조선일보",
-      "date": "2026-11-19T15:35:33.000Z"
-    },
-    {
-      "id": 21,
-      "title": "What does the Anthropic IPO mean for your 401(k)?",
-      "url": "https://www.fastcompany.com/91644166/what-does-the-anthropic-ipo-mean-for-your-401k?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-19T15:26:40.000Z"
-    },
-    {
-      "id": 22,
+      "id": 30,
       "title": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
       "url": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
       "source": "El País Tecnología",
       "date": "2026-11-19T14:54:58.000Z"
     },
     {
-      "id": 23,
-      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
-      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
-      "source": "Engadget",
-      "date": "2026-11-19T14:30:00.000Z"
-    },
-    {
-      "id": 24,
-      "title": "Deutsche Telekom invests €100 million in French AI start-up Mistral",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTRpUE1oNHVrOHF4V29sZG4xVjMzQ283YUhMTzRvMUxxeGRRdU5PeE5fV0VOcFh6Zno4MFNvQWRIV2w4cW9LWUpzdUJrOGJCX1k0WTlwSHpOajZxR2Fsc3NUMXNzM3VKRTNKaHk2ZTdMZVc5MTNCa1d2VDlkb3B2NUlJbWQxam9PTkM5VjF3RWV0R0xqMWhlX19sMzRkbU1DbGc?oc=5",
-      "source": "Mistral AI · via Yahoo Finance",
-      "date": "2026-11-19T14:18:33.000Z"
-    },
-    {
-      "id": 25,
+      "id": 31,
       "title": "My wife thinks AI is a person",
       "url": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
       "source": "Ben's Bites",
       "date": "2026-11-19T14:08:21.000Z"
     },
     {
-      "id": 26,
-      "title": "Mouse fight club might explain why we like to watch violent things",
-      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-      "source": "Ars Technica",
-      "date": "2026-11-19T14:04:38.000Z"
-    },
-    {
-      "id": 27,
+      "id": 32,
       "title": "Is AI in a bubble? Menlo Ventures’ Deedy Das on Anthropic’s IPO and Europe",
       "url": "https://sifted.eu/articles/menlo-ventures-podcast/",
       "source": "Sifted",
       "date": "2026-11-19T13:55:11.000Z"
     },
     {
-      "id": 28,
+      "id": 33,
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "source": "MIT Technology Review",
       "date": "2026-11-19T13:10:00.000Z"
     },
     {
-      "id": 29,
+      "id": 34,
       "title": "Zentynel, fondo biotech con US$25M en 17 startups",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXRjb1ZZR0hBakxGeDl6dmNaZFdoV3BRNTNpcVF5dUQyaE1ZbnhjVEF3bF9NZkpUODZoSGd5eUs1MXQyXy1rQXMyUkJ5Q0dmVnltZmdYS2xVOHJfMjVxVVN4aXdoeTh6NV9DZkFVWDRmcTU5U2g5UWZMY0ZidEc5V1BCVGg?oc=5",
       "source": "Startups LatAm · via El Ecosistema Startup",
       "date": "2026-11-19T12:21:46.000Z"
     },
     {
-      "id": 30,
-      "title": "The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities",
-      "url": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
-      "source": "Crunchbase News",
-      "date": "2026-11-19T12:00:45.000Z"
-    },
-    {
-      "id": 31,
-      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
-      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
-      "source": "Wired",
-      "date": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "id": 32,
-      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-      "source": "Latent Space",
-      "date": "2026-11-19T07:07:43.000Z"
-    },
-    {
-      "id": 33,
+      "id": 35,
       "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
       "url": "https://arxiv.org/abs/2611.23322",
       "source": "arXiv cs.AI",
       "date": "2026-11-19T05:00:00.000Z"
     },
     {
-      "id": 34,
+      "id": 36,
       "title": "Prioritize, Don't Decide: What We Learned Auditing a Deployed Human-in-the-Loop CV Sorter",
       "url": "https://arxiv.org/abs/2611.23359",
       "source": "arXiv cs.CL",
       "date": "2026-11-19T05:00:00.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Gemini 4 Neon",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "source": "Product Hunt",
-      "date": "2026-11-19T02:32:38.000Z"
-    },
-    {
-      "id": 36,
-      "title": "llm-gemini 0.38",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "source": "Simon Willison",
-      "date": "2026-11-18T23:59:20.000Z"
     }
   ],
   "stats": {

@@ -1,10 +1,10 @@
 {
-  "id": "2026-11-22-00",
-  "generatedAt": "2026-11-22T00:00:01.230Z",
-  "periodStart": "2026-11-20T00:00:01.230Z",
-  "periodEnd": "2026-11-22T00:00:01.230Z",
+  "id": "2026-11-22-15",
+  "generatedAt": "2026-11-22T15:48:48.348Z",
+  "periodStart": "2026-11-20T15:48:48.348Z",
+  "periodEnd": "2026-11-22T15:48:48.348Z",
   "title": "Titulares del 22 de noviembre",
-  "subtitle": "217 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "subtitle": "196 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
       "topic": "IA",
@@ -19,15 +19,15 @@
           ]
         },
         {
-          "text": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+          "text": "Nvidia faces US accounting probe amid deepening turmoil",
           "sources": [
-            5
+            2
           ]
         },
         {
-          "text": "The UN fails to agree on rules regulating ‘killer robots’",
+          "text": "The vibe-coding revolution is coming to all the gadgets",
           "sources": [
-            12
+            13
           ]
         },
         {
@@ -45,33 +45,33 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Study Reveals Microsoft Copilot Offers Lowest AI Costs for Users",
+          "text": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
           "sources": [
-            13
+            10
           ]
         },
         {
-          "text": "AI stocks lose their shine as Anthropic debuts | CNN Business",
+          "text": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
           "sources": [
-            16
+            12
           ]
         },
         {
-          "text": "Llama 5: Is There Even a Llama 5? Release Date Rumors, Checked",
+          "text": "Deutsche Telekom Adds Rural 5G Coverage While Scaling Up Munich AI Capacity",
           "sources": [
-            22
+            17
           ]
         },
         {
-          "text": "Judge Pauses Discovery in Amazon v. Perplexity",
+          "text": "Microsoft puts OpenAI's GPT-6.2 Sol in Copilot worldwide as MAI models push in",
           "sources": [
-            25
+            21
           ]
         },
         {
           "text": "How Google Duplex evolved to also call businesses for you in Gemini",
           "sources": [
-            26
+            28
           ]
         },
         {
@@ -89,39 +89,33 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "A 24-year-old Korean's Silicon Valley gamble pays off with a16z backing",
+          "text": "oovi",
           "sources": [
             24
           ]
         },
         {
+          "text": "DHH on Local AI and Keeping the Frontier Labs Honest｜a16z",
+          "sources": [
+            25
+          ]
+        },
+        {
           "text": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
           "sources": [
-            27
+            29
           ]
         },
         {
           "text": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
           "sources": [
-            28
-          ]
-        },
-        {
-          "text": "WaitFeed",
-          "sources": [
-            29
+            30
           ]
         },
         {
           "text": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
           "sources": [
             33
-          ]
-        },
-        {
-          "text": "Anthropic rival says companies can (mostly) skip the pricey models",
-          "sources": [
-            35
           ]
         }
       ]
@@ -133,39 +127,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Even the fastest AI clusters can be held back by their release pipelines",
+          "text": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
           "sources": [
             3
           ]
         },
         {
-          "text": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "text": "Can a TV be too large? An investigation",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "De que va ‘Hermanastras’, la nueva película animada de Netflix",
           "sources": [
             9
           ]
         },
         {
-          "text": "En la India, una ciudad lleva décadas intentando vivir sin dinero, partidos políticos o religión: la utopía de Auroville",
+          "text": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
           "sources": [
-            10
+            18
           ]
         },
         {
-          "text": "Las películas y libros de la saga ‘Los Juegos del Hambre’, ordenados de peor a mejor",
-          "sources": [
-            14
-          ]
-        },
-        {
-          "text": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-          "sources": [
-            17
-          ]
-        },
-        {
-          "text": "Apple Intelligence, decoded: How to make sense of Apple’s confusing AI lineup",
+          "text": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
           "sources": [
             20
+          ]
+        },
+        {
+          "text": "Even the fastest AI clusters can be held back by their release pipelines",
+          "sources": [
+            23
           ]
         }
       ]
@@ -177,9 +171,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Georgia fan somehow crashes Georgia Tech press conference",
+          "text": "Editorial cartoons for Nov. 22, 2026: Tech meltdown, China summit, measles comeback",
           "sources": [
-            4
+            14
           ]
         }
       ]
@@ -191,37 +185,37 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Building your own mini PC is harder than you would think",
+          "text": "The most recognizable spam email type is way older than the internet",
           "sources": [
-            2
+            4
           ]
         },
         {
-          "text": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "text": "Protesters storm Meta offices in India",
           "sources": [
             6
           ]
         },
         {
-          "text": "Amazon is complaining about NYC Council on shipping labels, too",
+          "text": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
           "sources": [
-            8
+            7
           ]
         },
         {
-          "text": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+          "text": "GLP-1 drugs could have a surprisingly large environmental payoff",
           "sources": [
-            11
+            15
           ]
         },
         {
-          "text": "Lean verification of the Riemann Hypothesis",
+          "text": "8 Best Travel Adapters (2026): 20+ Models Tested",
           "sources": [
-            18
+            16
           ]
         },
         {
-          "text": "AWS got hit by an outage too. Here's why you didn't hear about it",
+          "text": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
           "sources": [
             19
           ]
@@ -235,39 +229,33 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Amazon is taking its accusations that the Council is driving up prices offline and onto your packages. www.theverge.com/tech/1039564...",
+          "text": "Members of the youth wing of the Congress party are demanding its leaders’ Instagram accounts be reinstated. www.theverge.com/tech/103973…",
           "sources": [
-            7
+            5
           ]
         },
         {
-          "text": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+          "text": "Build a Multilingual React Editor with Chrome’s Built-In AI",
           "sources": [
-            15
+            11
+          ]
+        },
+        {
+          "text": "Muru",
+          "sources": [
+            22
           ]
         },
         {
           "text": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
           "sources": [
-            21
+            26
           ]
         },
         {
           "text": "[AINews] Riemann Hypothesis proved...twice independently",
           "sources": [
-            23
-          ]
-        },
-        {
-          "text": "Quoting Ravi Vakil",
-          "sources": [
-            30
-          ]
-        },
-        {
-          "text": "Anthropic goes public",
-          "sources": [
-            34
+            27
           ]
         }
       ]
@@ -279,210 +267,210 @@
       "title": "thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-22T00:00:02.400Z"
+      "date": "2026-11-22T15:48:49.097Z"
     },
     {
       "id": 2,
-      "title": "Building your own mini PC is harder than you would think",
-      "url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
-      "source": "Engadget",
-      "date": "2026-11-21T23:30:00.000Z"
+      "title": "Nvidia faces US accounting probe amid deepening turmoil",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOck05c0F3QlZCdGM4bjlvV1RPeU0zS0JOZ3VpSU1NQXJ2NmxYUl9pOERCQlYtYWZqRmxIRmpBeGR3ZXl2MUtlX0ZsZ3RwU2FzUlp5cTM4V2U3UVhLNVlLRmhxU1dVMXJMQThObTlQUjJGZmpIMVhzejB1RG1aWlpYeDF0aGVDa21sTGc?oc=5",
+      "source": "Google News · IA · via Tech Xplore",
+      "date": "2026-11-22T15:40:01.000Z"
     },
     {
       "id": 3,
+      "title": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
+      "url": "https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina",
+      "source": "Xataka",
+      "date": "2026-11-22T15:32:20.000Z"
+    },
+    {
+      "id": 4,
+      "title": "The most recognizable spam email type is way older than the internet",
+      "url": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
+      "source": "Engadget",
+      "date": "2026-11-22T15:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Members of the youth wing of the Congress party are demanding its leaders’ Instagram accounts be reinstated. www.theverge.com/tech/103973…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2vvv4gib42w",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-22T15:16:27.621Z"
+    },
+    {
+      "id": 6,
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge",
+      "date": "2026-11-22T15:15:07.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+      "url": "https://www.techmeme.com/261122/p7#a261122p7",
+      "source": "Techmeme",
+      "date": "2026-11-22T15:00:34.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch",
+      "date": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "De que va ‘Hermanastras’, la nueva película animada de Netflix",
+      "url": "https://hipertextual.com/cine-television/de-que-va-hermanastras-la-nueva-pelicula-animada-de-netflix/",
+      "source": "Hipertextual",
+      "date": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1NEYkR0NzBjZFd2bmR3UG5BYjhwT2hyWjRQSlQybW5faWdhRTI2cVJYMml2Zm9YWnNtZUVRU0dZNmRGR0ZjemRscE12ajRoUEh5LWtkYXljZVJBcVIxcjR2c2owTjZtdHpxZ1NFUUpwUmZJbXQ5UUtzXy1jcldjM1dmZEh5eHFmRWNFd0JPODE3bFRGWm1sTjc2aHY0UjRPckNxMnhRVk9QS0gzZmc2MWhtdWU?oc=5",
+      "source": "Perplexity · via The Decoder",
+      "date": "2026-11-22T14:20:28.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Build a Multilingual React Editor with Chrome’s Built-In AI",
+      "url": "https://dev.to/gde/build-a-multilingual-react-editor-with-chromes-built-in-ai-4863",
+      "source": "dev.to · IA · via Raju Dandigam",
+      "date": "2026-11-22T14:10:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXBXdzVRdkJMZW1ESjJiZkdrVHAxWGlSc2FUUEs3bW1WRUFpajZRS1EzT1VENUxaeUdtdWY0LTRCOE1UQzU2YnVGMUZRaTVta1d0dzVWSk1PSThMZU9RQmVfTGxCSDYxN05UbGJsN0xJTlg4SDNNUGwzQXU1VnluRUtKVldPcWFVX2FxWVFoWHcxa1RCaVlLVjE3SlVyZFJwd3RsLXVHeG9sUE9uRFNYUUtwQ1FWQkc4OHRRSEJ1c2JFR00?oc=5",
+      "source": "Anthropic · via NPR",
+      "date": "2026-11-22T13:12:13.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge AI",
+      "date": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Editorial cartoons for Nov. 22, 2026: Tech meltdown, China summit, measles comeback",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkNtRE9vdExBZThHRi0tWkpTMTU0eEtpRHRleGFINl9rMVVlSk03VC1oRE1hdHVqZ29HNmpzVjQxUy1RcERHd0RWNktMaWgwN3d2MmNFWkFRcHN6TW9KNDJjOS1NSTUyT1B0T0JuR0tZZTBTRWNsajZMbWNGQW5PajhhX2dEUVRSVVhDQ1hyYThGM0JmRmRGajRTaXJnN1UyX2NhY0gyRVFpNEx5T0hNQmNCN1pjWThaSWI1SG9HVXB4NEQt?oc=5",
+      "source": "Google News · Eventos tech · via OregonLive.com",
+      "date": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "date": "2026-11-22T12:07:41.000Z"
+    },
+    {
+      "id": 16,
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "source": "Wired",
+      "date": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Deutsche Telekom Adds Rural 5G Coverage While Scaling Up Munich AI Capacity",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEdlUkVwTk1ud3RrWkRicTlJZ2hmS2owN1hQb1kzeGN1dUliLVAyZ21fNWdxMExGclBCUE9Xc0FhV3hMdlVJQUpQWTRfN253clFMU1JjSHBKcHlCU0x5MjNMTVBmVmpfamRxUjg1WlRwMHhhaFJPbklrc0FmUnBMMW1Mby0yUHktVlhjUktJZFloV2xESmpPbU12VGJHcmRoaFVpSklnRTlTYVpFSGhxOTBqWmc1aXAyc3RXSU1mWjdsQ3hMaDk2T1pSdmZycnZjcG9OcWwzMnJ6X2E3ZG4zSQ?oc=5",
+      "source": "Mistral AI · via ad-hoc-news.de",
+      "date": "2026-11-22T11:30:53.000Z"
+    },
+    {
+      "id": 18,
+      "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+      "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-22T10:11:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+      "url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+      "source": "The Register",
+      "date": "2026-11-22T09:15:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-22T06:00:01.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Microsoft puts OpenAI's GPT-6.2 Sol in Copilot worldwide as MAI models push in",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3lkS2VOWU1vclhfMk44Smk4QlotQUxDaUZxWW9JRkNtS0FIUC1rWnZuSXFqdktMaXROMjVxRWM1UkVMY0Nfbjk5YmhMQTR4LTFrUU5xUEFYdDZPQnU4UGR0YjhERnRVWXd2RGwya05ZSGotdDFPN0RfWDhrZFhzRVN6bWdIdjVrRC1reWlISVUtaGdQanRBTVh3ZlBhVVlLSGd2WlI0SQ?oc=5",
+      "source": "Microsoft AI · via Startup Fortune",
+      "date": "2026-11-22T00:23:53.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "date": "2026-11-21T23:56:28.000Z"
+    },
+    {
+      "id": 23,
       "title": "Even the fastest AI clusters can be held back by their release pipelines",
       "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
       "source": "VentureBeat",
       "date": "2026-11-21T22:30:40.000Z"
     },
     {
-      "id": 4,
-      "title": "Georgia fan somehow crashes Georgia Tech press conference",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblVRSjQtX1dEZXZhTFR0U3Bld2VkQWF3NExuRGN3azFJbnBZUnZrOXNhcDFRdm03eWpIdk5VdUhuaTZteVlzMTVMaWlMcU9UUE5MZnZZNEx6WUdrb0E4TnNsUF9CVTl0TkNmMnMtZVlpbkhLWWxxZEQwVkIwRHlXZklFaTYzSl9kWjMyRjU3YVd1X3FSWXVqeEdGMEtpLW40OVpJ?oc=5",
-      "source": "Google News · Eventos tech · via Awful Announcing",
-      "date": "2026-11-21T22:30:00.000Z"
+      "id": 24,
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "Product Hunt",
+      "date": "2026-11-21T20:02:03.000Z"
     },
     {
-      "id": 5,
-      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHBvcGRNRkJZTDBhSGlMRi1BeXN2Um1nOXVjSjdSR1BSZDY2RnN6SE9McEprQmpyVnUyZldBTlFBd3B3eS0yNEd6Zy16djJRN1ZaODktU0pZaHFsV2hWbWlMTmVncF9pYTVZajA5S3dpWlA2VUFkdVh5eWpjbkRIMnJWeXluaEJkYTY1dDdoWXBndjVSbDNhYlBQSVY5RHNQdVVzTVdpNmZMZXNyUC1GZm1rQmhjdHR4NnNncG5tOENwUDR5c3h3Sw?oc=5",
-      "source": "Google News · IA · via The Guardian",
-      "date": "2026-11-21T22:25:00.000Z"
+      "id": 25,
+      "title": "DHH on Local AI and Keeping the Frontier Labs Honest｜a16z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tOF9qNUJ6SXROZDFhX3Q5bGpHVm9HWUdwdnpPRW5yb1FSTld6aHcxbkpyMHVrNWZsOFhZRVE0TmYzWHdmVDBadTZ1LWk1Z1BGcENEbktobmtCUm9sbDBn?oc=5",
+      "source": "a16z · via finance.biggo.com",
+      "date": "2026-11-21T13:08:40.000Z"
     },
     {
-      "id": 6,
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "source": "Ars Technica",
-      "date": "2026-11-21T22:12:41.000Z"
-    },
-    {
-      "id": 7,
-      "title": "Amazon is taking its accusations that the Council is driving up prices offline and onto your packages. www.theverge.com/tech/1039564...",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2u43j6n5a2q",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-21T22:02:05.167Z"
-    },
-    {
-      "id": 8,
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "source": "The Verge",
-      "date": "2026-11-21T21:59:31.000Z"
-    },
-    {
-      "id": 9,
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T21:37:10.000Z"
-    },
-    {
-      "id": 10,
-      "title": "En la India, una ciudad lleva décadas intentando vivir sin dinero, partidos políticos o religión: la utopía de Auroville",
-      "url": "https://www.xataka.com/magnet/india-ciudad-lleva-decadas-intentando-vivir-dinero-partidos-politicos-religion-utopia-auroville",
-      "source": "Xataka",
-      "date": "2026-11-21T21:00:29.000Z"
-    },
-    {
-      "id": 11,
-      "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
-      "url": "https://www.techmeme.com/261121/p10#a261121p10",
-      "source": "Techmeme",
-      "date": "2026-11-21T20:10:02.000Z"
-    },
-    {
-      "id": 12,
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge AI",
-      "date": "2026-11-21T20:03:37.000Z"
-    },
-    {
-      "id": 13,
-      "title": "Study Reveals Microsoft Copilot Offers Lowest AI Costs for Users",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzBLYWNQTEJKSThqUFZ2R3hMTzM2RXlsaDdxQXRhQ3NZb3dYWnBwYjZsLUFDcUstQ01zMUxHQmRmcHk4N2MyOHVSVWRiZkFMUTg3ZWM4ZU1laEFkeVo3VGdVV04wWW5yenVNMGRMS1EtTHQyUl9aek9WYndPVEw5eXhSWkZGWXg1Q3dBQ2VFQ0VyS0dpZjRj?oc=5",
-      "source": "Microsoft AI · via Small Business Trends",
-      "date": "2026-11-21T19:03:00.000Z"
-    },
-    {
-      "id": 14,
-      "title": "Las películas y libros de la saga ‘Los Juegos del Hambre’, ordenados de peor a mejor",
-      "url": "https://hipertextual.com/cine-television/las-peliculas-y-libros-de-la-saga-los-juegos-del-hambre-ordenados-de-peor-a-mejor/",
-      "source": "Hipertextual",
-      "date": "2026-11-21T19:00:00.000Z"
-    },
-    {
-      "id": 15,
-      "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
-      "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
-      "source": "dev.to · IA · via Earl Grey",
-      "date": "2026-11-21T18:23:38.000Z"
-    },
-    {
-      "id": 16,
-      "title": "AI stocks lose their shine as Anthropic debuts | CNN Business",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3UwVjJjanJYWGIwb3l2UEo4aHo3dFdDeVFyb1BBODlfbF9hU0N2cERseWxxU3QxNlZPRUZBQWFhQ0dJN1V3MEd4LW9XbnFYZTJuMmJvcVFtODM2alVmWXQ2bjBaSVZBWUQ4alpsaTJuOHlGaFROdzh4NTFBQWNUY1BmVnYyeGF5a1Y2cE9NMlBrOWlJUWo4X0dxNzlKSGs0YVhTXw?oc=5",
-      "source": "Anthropic · via CNN",
-      "date": "2026-11-21T17:13:00.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-21T16:57:34.000Z"
-    },
-    {
-      "id": 18,
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-21T14:36:45.000Z"
-    },
-    {
-      "id": 19,
-      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
-      "url": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "source": "The Register",
-      "date": "2026-11-21T14:35:00.000Z"
-    },
-    {
-      "id": 20,
-      "title": "Apple Intelligence, decoded: How to make sense of Apple’s confusing AI lineup",
-      "url": "https://www.fastcompany.com/91640406/apple-intelligence-decoded-how-to-make-sense-of-apples-confusing-ai-lineup?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Tech",
-      "date": "2026-11-21T10:00:00.000Z"
-    },
-    {
-      "id": 21,
+      "id": 26,
       "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
       "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
       "source": "Last Week in AI",
       "date": "2026-11-21T08:41:43.000Z"
     },
     {
-      "id": 22,
-      "title": "Llama 5: Is There Even a Llama 5? Release Date Rumors, Checked",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1JUG1QdFBETkhsVFpTZTdJUE9aQ3p5cjhRLUlGa0J6RW1pelBEa0ZxV2x3VnBhd1JEbGlabDFLeENsQQ?oc=5",
-      "source": "Meta AI · via Fello AI",
-      "date": "2026-11-21T06:08:40.000Z"
-    },
-    {
-      "id": 23,
+      "id": 27,
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
       "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
       "source": "Latent Space",
       "date": "2026-11-21T05:02:13.000Z"
     },
     {
-      "id": 24,
-      "title": "A 24-year-old Korean's Silicon Valley gamble pays off with a16z backing",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVJSQUJSSEc2cTEwZ3JranZyRk5iMnpfMkJTUDNTTTVnRWhJYS1icmw3Vnc5SUlWeHd6Q1NrbHpkcEtreXd2eGw4NlhNYkMyZjZiWmg2azhRcHd4YTc2bHpmT25OZ0VwVU5oZmpJeXZ6R0k3bFFpaUlCT3FEbktoSGVESTFwdWJIMGhlZ3Z2U2pWQnJyaWxtZ3NhdzhkR1ZuR1A2Q19JMDU0Q0FCbjRrQUxLeEhGTFhublBiU3Jxa2xrTTRCN3dYU0RxU2_SAdIBQVVfeXFMTnRfUm9sSDBnSUx0YmN5WWpERW52MklvU1BwaW4yZ1RyTWQwc3J5MUp6ak5FekNwTEhPWDRlVk92RjljR3VDdk1xMUNiTE9oTXhYZFBkbFJnaVlNamIwMUxzUkd3TF95RXd2SWg2b2wxTFU5NkhyZHNaVFZTUWtkQ1UtbzFta3dEZGJmc201ZU43TnNLNXNlWHM4ZlppdGlOeDVRYVZZSDJSMktrMDI3VHZheERyazZhNTJ5WEpib3lxNi1ST1hxU2EzbkJkMVlGZDZ3?oc=5",
-      "source": "a16z · via The Korea Times",
-      "date": "2026-11-21T03:00:08.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Judge Pauses Discovery in Amazon v. Perplexity",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjNPVW1HclB6bHJLYWNndFcxbzFSNFVvVEVzYTBRSnZRVmdoMm5lOGxlZHA5bF9ya1U0UERlRTczTkF2MG9hWnBMVl9jZTNiTzBoekNVOU13Rk44aXUtSG5qNGtId0FpY0dJdDdsQVMyeVh0WmdQYUpsVnhMUDB1WGF2VkVnUl9WNTlxdmRTeHg2dw?oc=5",
-      "source": "Perplexity · via Wisevoter",
-      "date": "2026-11-21T00:43:19.000Z"
-    },
-    {
-      "id": 26,
+      "id": 28,
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
       "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "source": "Google Research",
       "date": "2026-11-20T23:30:30.000Z"
     },
     {
-      "id": 27,
+      "id": 29,
       "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
       "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
       "source": "TechCrunch Startups",
       "date": "2026-11-20T20:58:29.000Z"
     },
     {
-      "id": 28,
+      "id": 30,
       "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
       "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
       "source": "Crunchbase News",
       "date": "2026-11-20T20:15:54.000Z"
-    },
-    {
-      "id": 29,
-      "title": "WaitFeed",
-      "url": "https://www.producthunt.com/products/waitfeed-2",
-      "source": "Product Hunt",
-      "date": "2026-11-20T20:01:06.000Z"
-    },
-    {
-      "id": 30,
-      "title": "Quoting Ravi Vakil",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "source": "Simon Willison",
-      "date": "2026-11-20T19:21:49.000Z"
     },
     {
       "id": 31,
@@ -504,24 +492,10 @@
       "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
       "source": "Sifted",
       "date": "2026-11-20T16:04:11.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Anthropic goes public",
-      "url": "https://www.platformer.news/anthropic-goes-public/",
-      "source": "Platformer",
-      "date": "2026-11-20T01:37:44.000Z"
-    },
-    {
-      "id": 35,
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "source": "TechCrunch Venture",
-      "date": "2026-11-20T00:26:03.000Z"
     }
   ],
   "stats": {
-    "posts": 217,
+    "posts": 196,
     "sourcesOk": 61,
     "sourcesFailed": 2
   },

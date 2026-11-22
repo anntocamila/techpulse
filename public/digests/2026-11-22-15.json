@@ -1,0 +1,503 @@
+{
+  "id": "2026-11-22-15",
+  "generatedAt": "2026-11-22T15:48:48.348Z",
+  "periodStart": "2026-11-20T15:48:48.348Z",
+  "periodEnd": "2026-11-22T15:48:48.348Z",
+  "title": "Titulares del 22 de noviembre",
+  "subtitle": "196 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "thinkingmachines/Inkling-2-Mini",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Nvidia faces US accounting probe amid deepening turmoil",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "The vibe-coding revolution is coming to all the gadgets",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The most misunderstood graph in AI just got a major update",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Deutsche Telekom Adds Rural 5G Coverage While Scaling Up Munich AI Capacity",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Microsoft puts OpenAI's GPT-6.2 Sol in Copilot worldwide as MAI models push in",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "How Google Duplex evolved to also call businesses for you in Gemini",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Muslim Girl founder, an NJ native, sues X and xAI over Grok deepfakes",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "oovi",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "DHH on Local AI and Keeping the Frontier Labs Honest｜a16z",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Can a TV be too large? An investigation",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "De que va ‘Hermanastras’, la nueva película animada de Netflix",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Even the fastest AI clusters can be held back by their release pipelines",
+          "sources": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Editorial cartoons for Nov. 22, 2026: Tech meltdown, China summit, measles comeback",
+          "sources": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The most recognizable spam email type is way older than the internet",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Protesters storm Meta offices in India",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "8 Best Travel Adapters (2026): 20+ Models Tested",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+          "sources": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Members of the youth wing of the Congress party are demanding its leaders’ Instagram accounts be reinstated. www.theverge.com/tech/103973…",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Build a Multilingual React Editor with Chrome’s Built-In AI",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Muru",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "[AINews] Riemann Hypothesis proved...twice independently",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-22T15:48:49.097Z"
+    },
+    {
+      "id": 2,
+      "title": "Nvidia faces US accounting probe amid deepening turmoil",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOck05c0F3QlZCdGM4bjlvV1RPeU0zS0JOZ3VpSU1NQXJ2NmxYUl9pOERCQlYtYWZqRmxIRmpBeGR3ZXl2MUtlX0ZsZ3RwU2FzUlp5cTM4V2U3UVhLNVlLRmhxU1dVMXJMQThObTlQUjJGZmpIMVhzejB1RG1aWlpYeDF0aGVDa21sTGc?oc=5",
+      "source": "Google News · IA · via Tech Xplore",
+      "date": "2026-11-22T15:40:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
+      "url": "https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina",
+      "source": "Xataka",
+      "date": "2026-11-22T15:32:20.000Z"
+    },
+    {
+      "id": 4,
+      "title": "The most recognizable spam email type is way older than the internet",
+      "url": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
+      "source": "Engadget",
+      "date": "2026-11-22T15:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Members of the youth wing of the Congress party are demanding its leaders’ Instagram accounts be reinstated. www.theverge.com/tech/103973…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2vvv4gib42w",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-22T15:16:27.621Z"
+    },
+    {
+      "id": 6,
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge",
+      "date": "2026-11-22T15:15:07.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+      "url": "https://www.techmeme.com/261122/p7#a261122p7",
+      "source": "Techmeme",
+      "date": "2026-11-22T15:00:34.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "source": "TechCrunch",
+      "date": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "title": "De que va ‘Hermanastras’, la nueva película animada de Netflix",
+      "url": "https://hipertextual.com/cine-television/de-que-va-hermanastras-la-nueva-pelicula-animada-de-netflix/",
+      "source": "Hipertextual",
+      "date": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1NEYkR0NzBjZFd2bmR3UG5BYjhwT2hyWjRQSlQybW5faWdhRTI2cVJYMml2Zm9YWnNtZUVRU0dZNmRGR0ZjemRscE12ajRoUEh5LWtkYXljZVJBcVIxcjR2c2owTjZtdHpxZ1NFUUpwUmZJbXQ5UUtzXy1jcldjM1dmZEh5eHFmRWNFd0JPODE3bFRGWm1sTjc2aHY0UjRPckNxMnhRVk9QS0gzZmc2MWhtdWU?oc=5",
+      "source": "Perplexity · via The Decoder",
+      "date": "2026-11-22T14:20:28.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Build a Multilingual React Editor with Chrome’s Built-In AI",
+      "url": "https://dev.to/gde/build-a-multilingual-react-editor-with-chromes-built-in-ai-4863",
+      "source": "dev.to · IA · via Raju Dandigam",
+      "date": "2026-11-22T14:10:00.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXBXdzVRdkJMZW1ESjJiZkdrVHAxWGlSc2FUUEs3bW1WRUFpajZRS1EzT1VENUxaeUdtdWY0LTRCOE1UQzU2YnVGMUZRaTVta1d0dzVWSk1PSThMZU9RQmVfTGxCSDYxN05UbGJsN0xJTlg4SDNNUGwzQXU1VnluRUtKVldPcWFVX2FxWVFoWHcxa1RCaVlLVjE3SlVyZFJwd3RsLXVHeG9sUE9uRFNYUUtwQ1FWQkc4OHRRSEJ1c2JFR00?oc=5",
+      "source": "Anthropic · via NPR",
+      "date": "2026-11-22T13:12:13.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge AI",
+      "date": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Editorial cartoons for Nov. 22, 2026: Tech meltdown, China summit, measles comeback",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkNtRE9vdExBZThHRi0tWkpTMTU0eEtpRHRleGFINl9rMVVlSk03VC1oRE1hdHVqZ29HNmpzVjQxUy1RcERHd0RWNktMaWgwN3d2MmNFWkFRcHN6TW9KNDJjOS1NSTUyT1B0T0JuR0tZZTBTRWNsajZMbWNGQW5PajhhX2dEUVRSVVhDQ1hyYThGM0JmRmRGajRTaXJnN1UyX2NhY0gyRVFpNEx5T0hNQmNCN1pjWThaSWI1SG9HVXB4NEQt?oc=5",
+      "source": "Google News · Eventos tech · via OregonLive.com",
+      "date": "2026-11-22T13:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "date": "2026-11-22T12:07:41.000Z"
+    },
+    {
+      "id": 16,
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "source": "Wired",
+      "date": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Deutsche Telekom Adds Rural 5G Coverage While Scaling Up Munich AI Capacity",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEdlUkVwTk1ud3RrWkRicTlJZ2hmS2owN1hQb1kzeGN1dUliLVAyZ21fNWdxMExGclBCUE9Xc0FhV3hMdlVJQUpQWTRfN253clFMU1JjSHBKcHlCU0x5MjNMTVBmVmpfamRxUjg1WlRwMHhhaFJPbklrc0FmUnBMMW1Mby0yUHktVlhjUktJZFloV2xESmpPbU12VGJHcmRoaFVpSklnRTlTYVpFSGhxOTBqWmc1aXAyc3RXSU1mWjdsQ3hMaDk2T1pSdmZycnZjcG9OcWwzMnJ6X2E3ZG4zSQ?oc=5",
+      "source": "Mistral AI · via ad-hoc-news.de",
+      "date": "2026-11-22T11:30:53.000Z"
+    },
+    {
+      "id": 18,
+      "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+      "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-22T10:11:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+      "url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+      "source": "The Register",
+      "date": "2026-11-22T09:15:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-22T06:00:01.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Microsoft puts OpenAI's GPT-6.2 Sol in Copilot worldwide as MAI models push in",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3lkS2VOWU1vclhfMk44Smk4QlotQUxDaUZxWW9JRkNtS0FIUC1rWnZuSXFqdktMaXROMjVxRWM1UkVMY0Nfbjk5YmhMQTR4LTFrUU5xUEFYdDZPQnU4UGR0YjhERnRVWXd2RGwya05ZSGotdDFPN0RfWDhrZFhzRVN6bWdIdjVrRC1reWlISVUtaGdQanRBTVh3ZlBhVVlLSGd2WlI0SQ?oc=5",
+      "source": "Microsoft AI · via Startup Fortune",
+      "date": "2026-11-22T00:23:53.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "date": "2026-11-21T23:56:28.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Even the fastest AI clusters can be held back by their release pipelines",
+      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
+      "source": "VentureBeat",
+      "date": "2026-11-21T22:30:40.000Z"
+    },
+    {
+      "id": 24,
+      "title": "oovi",
+      "url": "https://www.producthunt.com/products/oovi",
+      "source": "Product Hunt",
+      "date": "2026-11-21T20:02:03.000Z"
+    },
+    {
+      "id": 25,
+      "title": "DHH on Local AI and Keeping the Frontier Labs Honest｜a16z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tOF9qNUJ6SXROZDFhX3Q5bGpHVm9HWUdwdnpPRW5yb1FSTld6aHcxbkpyMHVrNWZsOFhZRVE0TmYzWHdmVDBadTZ1LWk1Z1BGcENEbktobmtCUm9sbDBn?oc=5",
+      "source": "a16z · via finance.biggo.com",
+      "date": "2026-11-21T13:08:40.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+      "source": "Last Week in AI",
+      "date": "2026-11-21T08:41:43.000Z"
+    },
+    {
+      "id": 27,
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "source": "Latent Space",
+      "date": "2026-11-21T05:02:13.000Z"
+    },
+    {
+      "id": 28,
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "source": "Google Research",
+      "date": "2026-11-20T23:30:30.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-20T20:58:29.000Z"
+    },
+    {
+      "id": 30,
+      "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+      "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+      "source": "Crunchbase News",
+      "date": "2026-11-20T20:15:54.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Muslim Girl founder, an NJ native, sues X and xAI over Grok deepfakes",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY251SXZBVHBYalIxZEExU18zdU0zdHRiNTIwTFQ1MldyaV9xUEJkSUxUM3B0TV9lQlRaUG45RllPeWttc2lLek9rekVyUnIzUFdzSWR6OF9pa1ZGcy11ZG5XWlJKVUZhRkZaM3hIT3Z5ZENUcjlsaEJaR3ZjMkE3czJwQ19CeUNwV1ZnU3RQZkNTbmFua1RnMGs1LVQyX19GbTBaWEQ1d0JkaFRJLWZyS1ZTOGpOYU82ZFFLOFZkc096MFNoVnFJd0pURldsdjI0ZndHb0VXZ0pKR0d3LXVKNUZn?oc=5",
+      "source": "xAI · via Bergen Record",
+      "date": "2026-11-20T18:59:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-20T18:15:15.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
+      "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
+      "source": "Sifted",
+      "date": "2026-11-20T16:04:11.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 196,
+    "sourcesOk": 61,
+    "sourcesFailed": 2
+  },
+  "generator": "headlines"
+}

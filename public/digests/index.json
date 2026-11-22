@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-11-22-00",
+    "generatedAt": "2026-11-22T00:00:01.230Z",
+    "title": "Titulares del 22 de noviembre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-11-21-15",
     "generatedAt": "2026-11-21T15:49:56.100Z",
     "title": "Titulares del 21 de noviembre",
@@ -351,12 +357,6 @@
     "id": "2026-10-23-12",
     "generatedAt": "2026-10-23T12:59:10.347Z",
     "title": "Titulares del 23 de octubre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-10-22-22",
-    "generatedAt": "2026-10-22T22:53:40.860Z",
-    "title": "Titulares del 22 de octubre",
     "generator": "headlines"
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "id": "2026-11-23-19",
-  "generatedAt": "2026-11-23T19:41:58.043Z",
-  "periodStart": "2026-11-21T19:41:58.043Z",
-  "periodEnd": "2026-11-23T19:41:58.043Z",
-  "title": "Titulares del 23 de noviembre",
+  "id": "2026-11-24-04",
+  "generatedAt": "2026-11-24T04:31:58.076Z",
+  "periodStart": "2026-11-22T04:31:58.076Z",
+  "periodEnd": "2026-11-24T04:31:58.076Z",
+  "title": "Titulares del 24 de noviembre",
   "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
   "sections": [
     {
@@ -19,33 +19,33 @@
           ]
         },
         {
-          "text": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+          "text": "Opinion | Jensen Huang’s presidential pardon",
           "sources": [
-            11
+            4
           ]
         },
         {
-          "text": "SMX Is Taking AI From Artificial to Industrial",
+          "text": "Trump engineered a risky comeback for Jensen Huang",
           "sources": [
-            13
+            22
           ]
         },
         {
           "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
           "sources": [
-            20
+            30
           ]
         },
         {
           "text": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
           "sources": [
-            30
+            34
           ]
         },
         {
           "text": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
           "sources": [
-            31
+            35
           ]
         }
       ]
@@ -57,39 +57,39 @@
       "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Anthropic Shares Climb With AI Trade Rally on Huang’s Return",
+          "text": "Virginia and Oregon Sue SpaceX Super Intelligence over Grok Image Tool",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Hyundai Bayon’s Perplexity AI Assistant: What It Can and Can’t Do",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
           "sources": [
             9
           ]
         },
         {
-          "text": "Microsoft Stocks Rise 3.9% With a Perfect GF Score as OpenAI Contingency Plans Surface",
+          "text": "Why Canada invested in Cohere",
           "sources": [
-            18
+            15
           ]
         },
         {
-          "text": "Supercharging transformer residual connections",
-          "sources": [
-            23
-          ]
-        },
-        {
-          "text": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "sources": [
-            24
-          ]
-        },
-        {
-          "text": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+          "text": "OpenAI and Cisco introduce Shirudo",
           "sources": [
             25
           ]
         },
         {
-          "text": "Oregon and Virginia AGs sue xAI and X over Grok’s failure to stop CSAM",
+          "text": "Microsoft–ByteDance OpenAI deal: reported talks",
           "sources": [
-            26
+            27
           ]
         }
       ]
@@ -101,31 +101,25 @@
       "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Robot AI Startup Embo Secures $110M Seed Investment Led by A16z",
+          "text": "Figma employee sues, alleging company forced her to confront harassers",
           "sources": [
-            15
+            20
           ]
         },
         {
-          "text": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+          "text": "Welcome to the B2A Economy: How Agents Buy",
           "sources": [
             28
           ]
         },
         {
-          "text": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-          "sources": [
-            29
-          ]
-        },
-        {
-          "text": "Inkling 2 Mini",
+          "text": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
           "sources": [
             32
           ]
         },
         {
-          "text": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "text": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
           "sources": [
             33
           ]
@@ -139,39 +133,39 @@
       "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Amazon to acquire AI startup Decart's chip software, hire founders",
+          "text": "Six key questions raised by Jensen Huang's return to Nvidia",
           "sources": [
-            3
+            7
           ]
         },
         {
-          "text": "&#8216;Outrageous,&#8217; &#8216;reckless,&#8217; &#8216;wow&#8217;: Here&#8217;s what politicians are saying about Jensen Huang&#8217;s return to Nvidia",
-          "sources": [
-            4
-          ]
-        },
-        {
-          "text": "How fast food workers are being ranked and reprimanded with AI",
-          "sources": [
-            10
-          ]
-        },
-        {
-          "text": "Si quieres ver las luces de Navidad en Madrid, hay un mapa interactivo que puedes llevar en tu móvil",
-          "sources": [
-            12
-          ]
-        },
-        {
-          "text": "GTA 6 para PC podría llegar antes de lo esperado por culpa de una filtración",
+          "text": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
           "sources": [
             14
           ]
         },
         {
-          "text": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
+          "text": "Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome",
           "sources": [
-            21
+            17
+          ]
+        },
+        {
+          "text": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Las plataformas de streaming también se apuntan al Black Friday: ofertas y promociones de Apple TV, Disney+, Movistar Plus y más",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "How fast-food workers are being ranked and reprimanded with AI",
+          "sources": [
+            29
           ]
         }
       ]
@@ -183,9 +177,9 @@
       "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+          "text": "Notes and Quotes From James Franklin's Press Conference Ahead Of Saturday's Commonwealth Clash",
           "sources": [
-            19
+            21
           ]
         }
       ]
@@ -197,39 +191,39 @@
       "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+          "text": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
           "sources": [
             2
           ]
         },
         {
-          "text": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+          "text": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
           "sources": [
-            5
+            10
           ]
         },
         {
-          "text": "How to connect your Bluetooth headphones to your Xbox Series X",
+          "text": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
           "sources": [
-            6
+            12
           ]
         },
         {
-          "text": "New magical shows worth watching instead of Harry Potter",
+          "text": "The three DISM commands you should know to fix your Windows system images",
           "sources": [
-            8
+            13
           ]
         },
         {
-          "text": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+          "text": "Google alternative Kagi launches an email service",
           "sources": [
-            16
+            18
           ]
         },
         {
-          "text": "Critical Cisco remote code execution bug under attack",
+          "text": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
           "sources": [
-            17
+            24
           ]
         }
       ]
@@ -241,27 +235,39 @@
       "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
       "items": [
         {
-          "text": "Now’s a great time to get into some of this year’s best streaming fantasy series. www.theverge.com/entertainmen...",
+          "text": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
           "sources": [
-            7
+            3
           ]
         },
         {
-          "text": "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes?",
+          "text": "Crowdwide Day 33: I Tried Building Crowdwide AI... And It Went Wrong 😭",
           "sources": [
-            22
+            5
+          ]
+        },
+        {
+          "text": "Jensen is back",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Kagi Mail is launching in public beta with a 60-day free trial. www.theverge.com/tech/1041000...",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "sources": [
+            19
           ]
         },
         {
           "text": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab&#8217;s AI science benchmark",
           "sources": [
-            27
-          ]
-        },
-        {
-          "text": "Select Styling Specimens",
-          "sources": [
-            34
+            31
           ]
         }
       ]
@@ -273,238 +279,245 @@
       "title": "thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
       "source": "Hugging Face · Modelos",
-      "date": "2026-11-23T19:41:59.177Z"
+      "date": "2026-11-24T04:31:58.894Z"
     },
     {
       "id": 2,
-      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-      "source": "Ars Technica",
-      "date": "2026-11-23T19:38:13.000Z"
+      "title": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
+      "url": "https://www.techmeme.com/261123/p55#a261123p55",
+      "source": "Techmeme",
+      "date": "2026-11-24T04:25:01.000Z"
     },
     {
       "id": 3,
-      "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
-      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-      "source": "CNBC Tech",
-      "date": "2026-11-23T19:34:38.000Z"
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "Latent Space",
+      "date": "2026-11-24T04:14:16.000Z"
     },
     {
       "id": 4,
-      "title": "&#8216;Outrageous,&#8217; &#8216;reckless,&#8217; &#8216;wow&#8217;: Here&#8217;s what politicians are saying about Jensen Huang&#8217;s return to Nvidia",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T19:31:41.000Z"
+      "title": "Opinion | Jensen Huang’s presidential pardon",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlzemtGMjFFd3lZRjZkeDgwWFozODd5eW1OR3NpRThfNDJFLXU1aTZ4ZXluSHJCejl1YVByYmVMb3J3NGlzcGNGTmVrMlhnd0FoTUowbF9WSERNbEVYUVpCbFZQVDgzRjRxUm5VM2theFBBNmk2aHBsUDFsdkNkWm1xcWlHOHdQdWJDby1Ka01mbzZ0TFZCYnZMZzJVdXlTQ3NsNGV3bkNBckVueTdV?oc=5",
+      "source": "Google News · IA · via The Washington Post",
+      "date": "2026-11-24T04:07:58.000Z"
     },
     {
       "id": 5,
-      "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-      "url": "https://www.techmeme.com/261123/p38#a261123p38",
-      "source": "Techmeme",
-      "date": "2026-11-23T19:30:02.000Z"
+      "title": "Crowdwide Day 33: I Tried Building Crowdwide AI... And It Went Wrong 😭",
+      "url": "https://dev.to/puneetkumar2010/crowdwide-day-33-i-tried-building-crowdwide-ai-and-it-went-wrong-5d6i",
+      "source": "dev.to · IA · via Puneet Kumar Mishra",
+      "date": "2026-11-24T03:42:59.000Z"
     },
     {
       "id": 6,
-      "title": "How to connect your Bluetooth headphones to your Xbox Series X",
-      "url": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/",
-      "source": "Engadget",
-      "date": "2026-11-23T19:30:00.000Z"
+      "title": "Virginia and Oregon Sue SpaceX Super Intelligence over Grok Image Tool",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbktPYzQ0YVd5MVRoYzBxMy1wTmxMSWFUQnBfeS00WGMtWWluU1ZqQlAtc2Jkb1dwelVtM3RQS0lGYk55UE5tNklPaWs1Y01CeE5nNXExZXlSWTJPdTE4VC1OUDNKR0FNLUFTc0NieHlTdFhQZkRQOVBXcVhaNUhVWlhKdzRUcU45V2tSOGVFTVc?oc=5",
+      "source": "xAI · via Briefs Finance",
+      "date": "2026-11-24T03:18:28.000Z"
     },
     {
       "id": 7,
-      "title": "Now’s a great time to get into some of this year’s best streaming fantasy series. www.theverge.com/entertainmen...",
-      "url": "https://bsky.app/profile/theverge.com/post/3n2yu4ft5jh2p",
-      "source": "The Verge en Bluesky · via The Verge",
-      "date": "2026-11-23T19:22:43.652Z"
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-24T03:05:49.000Z"
     },
     {
       "id": 8,
-      "title": "New magical shows worth watching instead of Harry Potter",
-      "url": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
-      "source": "The Verge",
-      "date": "2026-11-23T19:17:11.000Z"
+      "title": "Hyundai Bayon’s Perplexity AI Assistant: What It Can and Can’t Do",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2twOU9lbU9vb19mNGVMT042R01Tb2c0azVKc0FmYWwwaFFLMHlwU3gwUkNzQmktd0ptLS13eHpqTGhzbU1PN2dVY3hlalRzZmtjaHpFNTc0MXNDenk2b2h5RlVtZzVLRGZ4N2tMallvdXQwY0JiSXFrSDk5SVpGakhhMEVESm8zdTI4a05hU3JoUDNVbGc?oc=5",
+      "source": "Perplexity · via CarLelo",
+      "date": "2026-11-24T02:45:38.000Z"
     },
     {
       "id": 9,
-      "title": "Anthropic Shares Climb With AI Trade Rally on Huang’s Return",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3FZMk45aHRWV3NIaWg3cWoxX1A3WDYwbnJlelBOZTR5emJTOU1NOFJNbWJFTC1STmNXT1ExMlRnc3BHQWRLRzNIMnJ1eWpSRG1LSWNfanpDY0xDekl4a3NINm9jTzRyVjRzUFpEMDFwc0toMllDYlNaZkwxYXB6djBKT0FyWi1pZmROZzRjaEJGeEhMaWNJWUllWGZBVndiU1FVNnV2RmlkN2ZrTFJ3cHc4WVU?oc=5",
-      "source": "Anthropic · via Bloomberg.com",
-      "date": "2026-11-23T19:16:33.000Z"
+      "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5",
+      "source": "Anthropic · via CBS News",
+      "date": "2026-11-24T02:04:55.000Z"
     },
     {
       "id": 10,
-      "title": "How fast food workers are being ranked and reprimanded with AI",
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "source": "The Register",
+      "date": "2026-11-24T01:46:56.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Jensen is back",
+      "url": "https://www.platformer.news/jensen-huang-returns-nvidia/",
+      "source": "Platformer",
+      "date": "2026-11-24T01:37:29.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "source": "Wired",
+      "date": "2026-11-24T01:35:38.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The three DISM commands you should know to fix your Windows system images",
+      "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+      "source": "Engadget",
+      "date": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "source": "VentureBeat",
+      "date": "2026-11-24T00:34:59.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Why Canada invested in Cohere",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80WTN2YjhXTGljTjE0MHN6ZTFCU1RBeE5KT2dtLW5YUjZmTTBmLVJLMzJ3ZjB3ZVBxTkZsX19EejB1YkxDR0ZiSDNGSEFmaWp5bUJOUHU0dnZBckVUQnRZ?oc=5",
+      "source": "Cohere · via BetaKit",
+      "date": "2026-11-24T00:15:15.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Kagi Mail is launching in public beta with a 60-day free trial. www.theverge.com/tech/1041000...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2zdzbkbif2p",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-24T00:07:18.676Z"
+    },
+    {
+      "id": 17,
+      "title": "Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chrome-permisos-seguridad/",
+      "source": "Hipertextual",
+      "date": "2026-11-24T00:04:24.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
+      "date": "2026-11-24T00:02:52.000Z"
+    },
+    {
+      "id": 19,
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "date": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-23T23:07:49.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Notes and Quotes From James Franklin's Press Conference Ahead Of Saturday's Commonwealth Clash",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONl9DSXlTTk1SNy1ZUGJYS0NwakIwQnRnMExYVE9sQ01JUkRBUTc5ZTM1NlMxZmJfT0w4MDMzM01vRVlPRTVQSHJkUF9mZV9yRkwtTmN3NURzTlI0SWlLQldqOEpuM19qYUpFa25XdHdKYWZYeVNIRWMwRllSSkd5T1RHeVM2Q2kxal9ELTRpemtHSDBxV2dqaHlmRnlib3M0X2pHMmo0NXhGMmt1b0dRWGJraGdta2k5dHlaZThic0x0Vk9zYV8za1NrRF95NmwyY2lSRWYyd2xpYzU5aEotb2dzQ1BCcFR6VTVhTg?oc=5",
+      "source": "Google News · Eventos tech · via Sports Illustrated",
+      "date": "2026-11-23T23:00:01.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "date": "2026-11-23T22:25:12.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T22:05:50.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "source": "Ars Technica",
+      "date": "2026-11-23T21:58:34.000Z"
+    },
+    {
+      "id": 25,
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "date": "2026-11-23T21:20:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Las plataformas de streaming también se apuntan al Black Friday: ofertas y promociones de Apple TV, Disney+, Movistar Plus y más",
+      "url": "https://www.xataka.com/seleccion/plataformas-streaming-tambien-se-apuntan-al-black-friday-ofertas-promociones-apple-tv-disney-movistar-plus",
+      "source": "Xataka",
+      "date": "2026-11-23T21:16:46.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Microsoft–ByteDance OpenAI deal: reported talks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmJidTUtemZnUnBJMUdoU3J0aDI0eVJvd1Y5dno1TFY1SW5jRjN3NVlwSFZkcnZLWlB3aV9ZNVdYdlpxaE81YVloZVl3UEdFckRtQkYwRWhUbllUWUxpMlJUSnJPelFMMmZrSWkydXdjbmpBZGFFTXRlWWhaWTlhVm1FaTdtbUNhcGxaYzd4R3Z5cGdYM0tyWDVLQXBldzl6TTNSYWM1SERILUk?oc=5",
+      "source": "Microsoft AI · via NeoTeo",
+      "date": "2026-11-23T20:50:08.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Welcome to the B2A Economy: How Agents Buy",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qT2owMkRRWmg4YkEyblAzNG5BNjRQcXVMa1JQNEY1bGNBdmdVZ1pMWURGYjdVUHJCWUNMUnFvRmdyMVJ6cWJteE1oNTd3T2hZc2N5V21sckRmN2wxSFh2cGVPR2dUbzdPTkZr?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-23T20:33:19.000Z"
+    },
+    {
+      "id": 29,
+      "title": "How fast-food workers are being ranked and reprimanded with AI",
       "url": "https://www.fastcompany.com/91647652/fast-food-workers-ranked-reprimanded-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Tech",
       "date": "2026-11-23T19:05:02.000Z"
     },
     {
-      "id": 11,
-      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "source": "The Verge AI",
-      "date": "2026-11-23T19:04:52.000Z"
-    },
-    {
-      "id": 12,
-      "title": "Si quieres ver las luces de Navidad en Madrid, hay un mapa interactivo que puedes llevar en tu móvil",
-      "url": "https://www.xataka.com/aplicaciones/quieres-ver-luces-navidad-madrid-hay-mapa-interactivo-que-puedes-llevar-tu-movil",
-      "source": "Xataka",
-      "date": "2026-11-23T19:00:47.000Z"
-    },
-    {
-      "id": 13,
-      "title": "SMX Is Taking AI From Artificial to Industrial",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXp5SjZfZ0tFaGU2dVUzYUV2RFlEOFF1V2VmdXRYQTFTbmpwQi0wZlBQYjdkN1IzaC1ERURRdy1tZXRwVHFTUTV1MWNIZ0luMWhRSklIRGxmbThkU1lGQVd6TjB6YTkzWkVpS0VkQ0NlemFHcFZiWHlXZnlEckpnMDBEY3d3d0NQblotQU9FeEFKNjUtdThXc0RRRHd1MV9M?oc=5",
-      "source": "Google News · IA · via Yahoo Finance",
-      "date": "2026-11-23T19:00:00.000Z"
-    },
-    {
-      "id": 14,
-      "title": "GTA 6 para PC podría llegar antes de lo esperado por culpa de una filtración",
-      "url": "https://hipertextual.com/videojuegos/gta-6-para-pc-recompilacion-filtracion-cyberleek/",
-      "source": "Hipertextual",
-      "date": "2026-11-23T18:59:00.000Z"
-    },
-    {
-      "id": 15,
-      "title": "Robot AI Startup Embo Secures $110M Seed Investment Led by A16z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGpLRW1JY3pWTWNMRHVnQk1lMDFCRG96TWlqNV9XYzdEX3FPMi1mWWFWVEt3dFFJZlNFbWo2MmhFTjcwbHBZMGd6emlia1JSUm1oR0dfeTVzTFViZ3kwXzB1Z1pCTnd3QVJkS2NZbWtJWFFyRFZnVlBOMVlGbHlRemdfTmZGSDY5ZFB0cg?oc=5",
-      "source": "a16z · via Unite.AI",
-      "date": "2026-11-23T18:54:03.000Z"
-    },
-    {
-      "id": 16,
-      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
-      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
-      "source": "Wired",
-      "date": "2026-11-23T18:46:51.000Z"
-    },
-    {
-      "id": 17,
-      "title": "Critical Cisco remote code execution bug under attack",
-      "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
-      "source": "The Register",
-      "date": "2026-11-23T17:56:56.000Z"
-    },
-    {
-      "id": 18,
-      "title": "Microsoft Stocks Rise 3.9% With a Perfect GF Score as OpenAI Contingency Plans Surface",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObFpkbk0xR1lORUU1SDV3TlI1VFBubXNsNl9tNjc2dEI4WDBaUWFqaTU1MDFxNlNqeC1XRXIzTllaMVROZE1OOXhqRXVSQXM4VFcwRExIcXAzem5uaHlrT2hRSDV6NlRianNfSDNKQzY3Rk5jMEhCOWx1YzZvZWUzUzFqa2oyck5zejg4RlFFeHlYRHo5cG1RQzZDWmlsbjhibGl1a0o2YVg3QzJBWFZ0ZkZTSFA3UjU2WlBUeWF1d25CVjFOVmJzaW9Eb19ZeEdyREs0VlFZY2dFUHBRTmc?oc=5",
-      "source": "Microsoft AI · via TradingView",
-      "date": "2026-11-23T17:53:13.000Z"
-    },
-    {
-      "id": 19,
-      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLOUE0WFFXblpadU5iSEdheDJ5MlF1V1JNa2k0YzRVSVFXZ2o4S0FSNmt6LTh6d1dPTmhTTzNOZGMtQWpSNjZudldCLW5tN2dIX0lGYnNQcw?oc=5",
-      "source": "Google News · Eventos tech · via UN News",
-      "date": "2026-11-23T17:36:51.000Z"
-    },
-    {
-      "id": 20,
+      "id": 30,
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
       "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "source": "MIT Technology Review",
       "date": "2026-11-23T17:36:08.000Z"
     },
     {
-      "id": 21,
-      "title": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
-      "url": "https://venturebeat.com/technology/nvidia-brings-back-jensen-huang-as-ceo-just-six-days-after-ruling-out-his-return",
-      "source": "VentureBeat",
-      "date": "2026-11-23T17:23:29.000Z"
-    },
-    {
-      "id": 22,
-      "title": "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes?",
-      "url": "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1",
-      "source": "dev.to · IA · via Emmanuel Mumba",
-      "date": "2026-11-23T17:21:51.000Z"
-    },
-    {
-      "id": 23,
-      "title": "Supercharging transformer residual connections",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Google Research",
-      "date": "2026-11-23T17:21:12.000Z"
-    },
-    {
-      "id": 24,
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
-      "date": "2026-11-23T17:20:37.000Z"
-    },
-    {
-      "id": 25,
-      "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
-      "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-23T17:09:28.000Z"
-    },
-    {
-      "id": 26,
-      "title": "Oregon and Virginia AGs sue xAI and X over Grok’s failure to stop CSAM",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmxWREVqN1NkR3FaWXlYZFdEMkpPQlJ6NVBXSjQ5MVMtclFHZnhXVUkyRW1ZNU5xeVVJT3FqSzRLXzY3Q2RlM1ZCZ2FXaW9STUpNUDAyalU0S2p4bXo3OTMwNW50REtqQTZYNmhhUnkxVzQ2VEwxRDMyMzBrZTlNOHRqRHlYVkhGdFNVZG9qc2lnaG5OUjJHS2pydUZOc2FBLTVidEFn?oc=5",
-      "source": "xAI · via KTVZ",
-      "date": "2026-11-23T17:00:40.000Z"
-    },
-    {
-      "id": 27,
+      "id": 31,
       "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab&#8217;s AI science benchmark",
       "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
       "source": "Import AI",
       "date": "2026-11-23T14:11:17.000Z"
     },
     {
-      "id": 28,
+      "id": 32,
       "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
       "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
       "source": "Sifted",
       "date": "2026-11-23T13:56:34.000Z"
     },
     {
-      "id": 29,
+      "id": 33,
       "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
       "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
       "source": "Crunchbase News",
       "date": "2026-11-23T12:00:19.000Z"
     },
     {
-      "id": 30,
+      "id": 34,
       "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
       "url": "https://arxiv.org/abs/2611.26663",
       "source": "arXiv cs.AI",
       "date": "2026-11-23T05:00:00.000Z"
     },
     {
-      "id": 31,
+      "id": 35,
       "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
       "url": "https://arxiv.org/abs/2611.26747",
       "source": "arXiv cs.CL",
       "date": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "id": 32,
-      "title": "Inkling 2 Mini",
-      "url": "https://www.producthunt.com/products/tinker-2",
-      "source": "Product Hunt",
-      "date": "2026-11-23T03:37:24.000Z"
-    },
-    {
-      "id": 33,
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "source": "TechCrunch Venture",
-      "date": "2026-11-23T01:25:53.000Z"
-    },
-    {
-      "id": 34,
-      "title": "Select Styling Specimens",
-      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
-      "source": "Simon Willison",
-      "date": "2026-11-22T19:45:06.000Z"
     }
   ],
   "stats": {

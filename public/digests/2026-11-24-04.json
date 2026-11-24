@@ -1,0 +1,529 @@
+{
+  "id": "2026-11-24-04",
+  "generatedAt": "2026-11-24T04:31:58.076Z",
+  "periodStart": "2026-11-22T04:31:58.076Z",
+  "periodEnd": "2026-11-24T04:31:58.076Z",
+  "title": "Titulares del 24 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "thinkingmachines/Inkling-2-Mini",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Opinion | Jensen Huang’s presidential pardon",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Trump engineered a risky comeback for Jensen Huang",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Virginia and Oregon Sue SpaceX Super Intelligence over Grok Image Tool",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "Hyundai Bayon’s Perplexity AI Assistant: What It Can and Can’t Do",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Why Canada invested in Cohere",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "OpenAI and Cisco introduce Shirudo",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Microsoft–ByteDance OpenAI deal: reported talks",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Figma employee sues, alleging company forced her to confront harassers",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Welcome to the B2A Economy: How Agents Buy",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Six key questions raised by Jensen Huang's return to Nvidia",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Las plataformas de streaming también se apuntan al Black Friday: ofertas y promociones de Apple TV, Disney+, Movistar Plus y más",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "How fast-food workers are being ranked and reprimanded with AI",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Notes and Quotes From James Franklin's Press Conference Ahead Of Saturday's Commonwealth Clash",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "The three DISM commands you should know to fix your Windows system images",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Google alternative Kagi launches an email service",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Crowdwide Day 33: I Tried Building Crowdwide AI... And It Went Wrong 😭",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Jensen is back",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Kagi Mail is launching in public beta with a 60-day free trial. www.theverge.com/tech/1041000...",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab&#8217;s AI science benchmark",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-24T04:31:58.894Z"
+    },
+    {
+      "id": 2,
+      "title": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
+      "url": "https://www.techmeme.com/261123/p55#a261123p55",
+      "source": "Techmeme",
+      "date": "2026-11-24T04:25:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "Latent Space",
+      "date": "2026-11-24T04:14:16.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Opinion | Jensen Huang’s presidential pardon",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlzemtGMjFFd3lZRjZkeDgwWFozODd5eW1OR3NpRThfNDJFLXU1aTZ4ZXluSHJCejl1YVByYmVMb3J3NGlzcGNGTmVrMlhnd0FoTUowbF9WSERNbEVYUVpCbFZQVDgzRjRxUm5VM2theFBBNmk2aHBsUDFsdkNkWm1xcWlHOHdQdWJDby1Ka01mbzZ0TFZCYnZMZzJVdXlTQ3NsNGV3bkNBckVueTdV?oc=5",
+      "source": "Google News · IA · via The Washington Post",
+      "date": "2026-11-24T04:07:58.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Crowdwide Day 33: I Tried Building Crowdwide AI... And It Went Wrong 😭",
+      "url": "https://dev.to/puneetkumar2010/crowdwide-day-33-i-tried-building-crowdwide-ai-and-it-went-wrong-5d6i",
+      "source": "dev.to · IA · via Puneet Kumar Mishra",
+      "date": "2026-11-24T03:42:59.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Virginia and Oregon Sue SpaceX Super Intelligence over Grok Image Tool",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbktPYzQ0YVd5MVRoYzBxMy1wTmxMSWFUQnBfeS00WGMtWWluU1ZqQlAtc2Jkb1dwelVtM3RQS0lGYk55UE5tNklPaWs1Y01CeE5nNXExZXlSWTJPdTE4VC1OUDNKR0FNLUFTc0NieHlTdFhQZkRQOVBXcVhaNUhVWlhKdzRUcU45V2tSOGVFTVc?oc=5",
+      "source": "xAI · via Briefs Finance",
+      "date": "2026-11-24T03:18:28.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-24T03:05:49.000Z"
+    },
+    {
+      "id": 8,
+      "title": "Hyundai Bayon’s Perplexity AI Assistant: What It Can and Can’t Do",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2twOU9lbU9vb19mNGVMT042R01Tb2c0azVKc0FmYWwwaFFLMHlwU3gwUkNzQmktd0ptLS13eHpqTGhzbU1PN2dVY3hlalRzZmtjaHpFNTc0MXNDenk2b2h5RlVtZzVLRGZ4N2tMallvdXQwY0JiSXFrSDk5SVpGakhhMEVESm8zdTI4a05hU3JoUDNVbGc?oc=5",
+      "source": "Perplexity · via CarLelo",
+      "date": "2026-11-24T02:45:38.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Anthropic is betting AI can help conquer disease and generate big bucks in the bargain",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5",
+      "source": "Anthropic · via CBS News",
+      "date": "2026-11-24T02:04:55.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "source": "The Register",
+      "date": "2026-11-24T01:46:56.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Jensen is back",
+      "url": "https://www.platformer.news/jensen-huang-returns-nvidia/",
+      "source": "Platformer",
+      "date": "2026-11-24T01:37:29.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "source": "Wired",
+      "date": "2026-11-24T01:35:38.000Z"
+    },
+    {
+      "id": 13,
+      "title": "The three DISM commands you should know to fix your Windows system images",
+      "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+      "source": "Engadget",
+      "date": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "source": "VentureBeat",
+      "date": "2026-11-24T00:34:59.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Why Canada invested in Cohere",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80WTN2YjhXTGljTjE0MHN6ZTFCU1RBeE5KT2dtLW5YUjZmTTBmLVJLMzJ3ZjB3ZVBxTkZsX19EejB1YkxDR0ZiSDNGSEFmaWp5bUJOUHU0dnZBckVUQnRZ?oc=5",
+      "source": "Cohere · via BetaKit",
+      "date": "2026-11-24T00:15:15.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Kagi Mail is launching in public beta with a 60-day free trial. www.theverge.com/tech/1041000...",
+      "url": "https://bsky.app/profile/theverge.com/post/3n2zdzbkbif2p",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-24T00:07:18.676Z"
+    },
+    {
+      "id": 17,
+      "title": "Google teme que los agentes de IA se descontrolen y planea restringirlos en Chrome",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-limitara-agentes-ia-chrome-permisos-seguridad/",
+      "source": "Hipertextual",
+      "date": "2026-11-24T00:04:24.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "The Verge",
+      "date": "2026-11-24T00:02:52.000Z"
+    },
+    {
+      "id": 19,
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "date": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-23T23:07:49.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Notes and Quotes From James Franklin's Press Conference Ahead Of Saturday's Commonwealth Clash",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONl9DSXlTTk1SNy1ZUGJYS0NwakIwQnRnMExYVE9sQ01JUkRBUTc5ZTM1NlMxZmJfT0w4MDMzM01vRVlPRTVQSHJkUF9mZV9yRkwtTmN3NURzTlI0SWlLQldqOEpuM19qYUpFa25XdHdKYWZYeVNIRWMwRllSSkd5T1RHeVM2Q2kxal9ELTRpemtHSDBxV2dqaHlmRnlib3M0X2pHMmo0NXhGMmt1b0dRWGJraGdta2k5dHlaZThic0x0Vk9zYV8za1NrRF95NmwyY2lSRWYyd2xpYzU5aEotb2dzQ1BCcFR6VTVhTg?oc=5",
+      "source": "Google News · Eventos tech · via Sports Illustrated",
+      "date": "2026-11-23T23:00:01.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "date": "2026-11-23T22:25:12.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T22:05:50.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "source": "Ars Technica",
+      "date": "2026-11-23T21:58:34.000Z"
+    },
+    {
+      "id": 25,
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "date": "2026-11-23T21:20:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Las plataformas de streaming también se apuntan al Black Friday: ofertas y promociones de Apple TV, Disney+, Movistar Plus y más",
+      "url": "https://www.xataka.com/seleccion/plataformas-streaming-tambien-se-apuntan-al-black-friday-ofertas-promociones-apple-tv-disney-movistar-plus",
+      "source": "Xataka",
+      "date": "2026-11-23T21:16:46.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Microsoft–ByteDance OpenAI deal: reported talks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmJidTUtemZnUnBJMUdoU3J0aDI0eVJvd1Y5dno1TFY1SW5jRjN3NVlwSFZkcnZLWlB3aV9ZNVdYdlpxaE81YVloZVl3UEdFckRtQkYwRWhUbllUWUxpMlJUSnJPelFMMmZrSWkydXdjbmpBZGFFTXRlWWhaWTlhVm1FaTdtbUNhcGxaYzd4R3Z5cGdYM0tyWDVLQXBldzl6TTNSYWM1SERILUk?oc=5",
+      "source": "Microsoft AI · via NeoTeo",
+      "date": "2026-11-23T20:50:08.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Welcome to the B2A Economy: How Agents Buy",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qT2owMkRRWmg4YkEyblAzNG5BNjRQcXVMa1JQNEY1bGNBdmdVZ1pMWURGYjdVUHJCWUNMUnFvRmdyMVJ6cWJteE1oNTd3T2hZc2N5V21sckRmN2wxSFh2cGVPR2dUbzdPTkZr?oc=5",
+      "source": "a16z · via Andreessen Horowitz",
+      "date": "2026-11-23T20:33:19.000Z"
+    },
+    {
+      "id": 29,
+      "title": "How fast-food workers are being ranked and reprimanded with AI",
+      "url": "https://www.fastcompany.com/91647652/fast-food-workers-ranked-reprimanded-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-23T19:05:02.000Z"
+    },
+    {
+      "id": 30,
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-23T17:36:08.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab&#8217;s AI science benchmark",
+      "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "source": "Import AI",
+      "date": "2026-11-23T14:11:17.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+      "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+      "source": "Sifted",
+      "date": "2026-11-23T13:56:34.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
+      "url": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
+      "source": "Crunchbase News",
+      "date": "2026-11-23T12:00:19.000Z"
+    },
+    {
+      "id": 34,
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-23T05:00:00.000Z"
+    },
+    {
+      "id": 35,
+      "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+      "url": "https://arxiv.org/abs/2611.26747",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-23T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

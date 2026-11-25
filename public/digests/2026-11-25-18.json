@@ -1,0 +1,529 @@
+{
+  "id": "2026-11-25-18",
+  "generatedAt": "2026-11-25T18:18:32.059Z",
+  "periodStart": "2026-11-23T18:18:32.059Z",
+  "periodEnd": "2026-11-25T18:18:32.059Z",
+  "title": "Titulares del 25 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "thinkingmachines/Inkling-2-Mini",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Should Musicians Use AI? A Recent Music School Grad Asks Our Columnist",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "How data centers are driving a US natural-gas boom",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Nothing offers a full look at its AI earbuds and charging case",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+          "sources": [
+            32
+          ]
+        },
+        {
+          "text": "Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Verifiable Social Reasoning for LLM Assistants",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Microsoft-Backed OpenAI Faces Another ChatGPT Setback",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Cloudera launches digital sovereignty solution for enterprise data and AI",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Perplexity AI Predicts an Unbelievable XRP Price Target",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "An Indic Voice Agent with CUGA",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "State AGs fight Character AI&#8217;s plan to auction off users&#8217; private chats",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "2.9M Views: DHH, Sweeney and a16z’s Casado Rave About Neon",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The Art of The Terrible Startup Name",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "OpenEight",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+          "sources": [
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Samsung no tira la toalla con el Galaxy Z Trifold: estaría preparando un modelo de segunda generación",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Protégete cuando navegues por internet al mejor precio: Proton VPN cuesta menos de 3 euros al mes gracias al Black Friday",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Digital Duty of Care Act passes in Australia. Opposition say the law is ‘authoritarian’",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Can you give AI agents live data without rebuilding your data stack?",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Suds Digital demonstrates livestream tech at Laundry Summit",
+          "sources": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Ladybird browser&#039;s first downloadable alpha is surprisingly capable",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+          "sources": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "You can replace everything from the cameras to the battery, potentially saving future you hundreds in repair costs. www.theverge.com/gadg…",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Gemma 4 Function Calls on an 8 GB RTX 3050: The Setting Matters More Than the Size",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+          "sources": [
+            34
+          ]
+        },
+        {
+          "text": "Three LLM inflection points in twelve months",
+          "sources": [
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-25T18:18:32.881Z"
+    },
+    {
+      "id": 2,
+      "title": "Samsung no tira la toalla con el Galaxy Z Trifold: estaría preparando un modelo de segunda generación",
+      "url": "https://hipertextual.com/mobile/samsung-posible-galaxy-z-trifold-2/",
+      "source": "Hipertextual",
+      "date": "2026-11-25T18:17:15.000Z"
+    },
+    {
+      "id": 3,
+      "title": "You can replace everything from the cameras to the battery, potentially saving future you hundreds in repair costs. www.theverge.com/gadg…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n35r52z6ja2n",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-25T18:12:43.452Z"
+    },
+    {
+      "id": 4,
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch",
+      "date": "2026-11-25T18:11:46.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit",
+      "url": "https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205",
+      "source": "The Register",
+      "date": "2026-11-25T18:02:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-25T18:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Should Musicians Use AI? A Recent Music School Grad Asks Our Columnist",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1lkYXJNVkNPYmtOY2tPQktDSDYwRkNEUTlSaW1XSkl3eDJnNk9CS1FxeV9TbkxwUkJDM256X2cyeTYyQzM3bTAwZ1VCOEhMbE5uMG5UVHQ1dlpyQ1pZc1MzVFBHNzVFSGR6TXdTb2UxX1lpVG16ZDFYUEFjYjBwUDNfdExYZw?oc=5",
+      "source": "Google News · IA · via Boston Magazine",
+      "date": "2026-11-25T17:55:52.000Z"
+    },
+    {
+      "id": 8,
+      "title": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
+      "url": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+      "source": "Engadget",
+      "date": "2026-11-25T17:54:07.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Gemma 4 Function Calls on an 8 GB RTX 3050: The Setting Matters More Than the Size",
+      "url": "https://dev.to/gde/gemma-4-function-calls-on-an-8-gb-rtx-3050-the-setting-matters-more-than-the-size-53a5",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-25T17:46:32.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Protégete cuando navegues por internet al mejor precio: Proton VPN cuesta menos de 3 euros al mes gracias al Black Friday",
+      "url": "https://www.xataka.com/seleccion/protegete-cuando-navegues-internet-al-mejor-precio-proton-vpn-cuesta-3-euros-al-mes-gracias-al-black-friday",
+      "source": "Xataka",
+      "date": "2026-11-25T17:46:20.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+      "url": "https://www.techmeme.com/261125/p28#a261125p28",
+      "source": "Techmeme",
+      "date": "2026-11-25T17:45:02.000Z"
+    },
+    {
+      "id": 12,
+      "title": "State AGs fight Character AI&#8217;s plan to auction off users&#8217; private chats",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-25T17:35:58.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Ladybird browser&#039;s first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "source": "Ars Technica",
+      "date": "2026-11-25T17:33:30.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Suds Digital demonstrates livestream tech at Laundry Summit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2Z5TDFuLUp0bWJUQk13ZEVESzhTREE1V1RndGZCMEpLa2lpYV9kcEEwemhyYUhGamx5Z0FtS2pJVHVVblRnRGFJdThvc1A3UnFsMS1CSDJzN3kzcjRKTkVKdXNXTU1UZjlOd0xJZXYtVWdOc05VOS1sOUVkODNJWnJJQ3NBbFNHWC1vZk1yRQ?oc=5",
+      "source": "Google News · Eventos tech · via IT Brief Asia",
+      "date": "2026-11-25T17:30:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-25T17:28:24.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Digital Duty of Care Act passes in Australia. Opposition say the law is ‘authoritarian’",
+      "url": "https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-25T17:15:03.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "source": "Google Research",
+      "date": "2026-11-25T17:10:27.000Z"
+    },
+    {
+      "id": 18,
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-25T17:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+      "source": "Anthropic · via Reuters",
+      "date": "2026-11-25T16:29:43.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge AI",
+      "date": "2026-11-25T16:00:59.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Microsoft-Backed OpenAI Faces Another ChatGPT Setback",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU92Q3FXQ2xGSUEwNUVTUVdIWm5SdWdtUURVSzVBb0F4REVDbV9va2lrMHRyMDJ3bW9XdEZaMktsYy03NWt3cTQzQTZRalhNVUswaVlQcnJpelVMUjNtNDRjdWhJZjRnMXlXWm1kSk5HU1FpZ1hfUFU0WmJWMlg0X1ZsQlR0UFB2M0lldVZIMUt6UE1jZEk4TDVfWGstSXRma21hVnhnVnBIbm16ZGtFT3BZYw?oc=5",
+      "source": "Microsoft AI · via TradingView",
+      "date": "2026-11-25T15:57:58.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+      "source": "Wired",
+      "date": "2026-11-25T15:03:16.000Z"
+    },
+    {
+      "id": 23,
+      "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+      "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+      "source": "Sifted",
+      "date": "2026-11-25T15:00:17.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Can you give AI agents live data without rebuilding your data stack?",
+      "url": "https://venturebeat.com/data/can-you-give-ai-agents-live-data-without-rebuilding-your-data-stack",
+      "source": "VentureBeat",
+      "date": "2026-11-25T15:00:00.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Cloudera launches digital sovereignty solution for enterprise data and AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTno1d1RjWlV6V3ExRng3d0pKZUgxU3h1d25vYzhsNHlyTmFmd0U4d1hrUm1YdGxucU5vR1lOeXM0T0l5ZzdGUnEyQW9kLUlBWDZmVkFUOThLcVZUV2dkOGlHb3RmQUdCSjFRNm1fbklpSGtYcC1nZHdYTDBUckhyMGk2cHg2enQ4eU9TUTV2b1VteHkyc3dudm04QzNIajNKdTlpcFN3?oc=5",
+      "source": "Mistral AI · via varindia",
+      "date": "2026-11-25T14:35:55.000Z"
+    },
+    {
+      "id": 26,
+      "title": "2.9M Views: DHH, Sweeney and a16z’s Casado Rave About Neon",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUFpOGlMRWpHOTY4bnVtZlBRQ1NKNG9Xc1M4cnlTQ0d0ZUVadFl6UE52TWlRcWZHaXI0TTVwc2Y4aVlMOXJaWTJEbk95QW8zMHUzVkFCTTZoVFpOSUs2NDZ6MjBoVHBVUExIbTdDQWpHWmt4TjN3Z1ZKelZlTHRHMm03aDhuQzZaTU5V?oc=5",
+      "source": "a16z · via FourWeekMBA",
+      "date": "2026-11-25T14:26:24.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Perplexity AI Predicts an Unbelievable XRP Price Target",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEJWREJPdzdjYWhfYVJwSFFjSmUzajdFRlBvTHI4RTFtM053ZVJSQjFWbFh1ZGp5MVR0WjNYeWg0UzV4Y2dZc1VHcGdhS0o3Nkp3YlBLdENxUzBCdVZ1YzNDOVNhQXQwbUE0SkZUMGpDN1ZBLUFzOXZlTERReVBNRTRRVF9oSlZj?oc=5",
+      "source": "Perplexity · via Cryptonews",
+      "date": "2026-11-25T12:35:07.000Z"
+    },
+    {
+      "id": 28,
+      "title": "The Art of The Terrible Startup Name",
+      "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+      "source": "Crunchbase News",
+      "date": "2026-11-25T12:00:49.000Z"
+    },
+    {
+      "id": 29,
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-25T10:22:09.000Z"
+    },
+    {
+      "id": 30,
+      "title": "OpenEight",
+      "url": "https://www.producthunt.com/products/openeight",
+      "source": "Product Hunt",
+      "date": "2026-11-25T06:58:59.000Z"
+    },
+    {
+      "id": 31,
+      "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+      "url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer/",
+      "source": "Y Combinator Blog",
+      "date": "2026-11-25T06:21:58.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-25T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study",
+      "url": "https://arxiv.org/abs/2611.31251",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-25T05:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "Latent Space",
+      "date": "2026-11-25T04:29:07.000Z"
+    },
+    {
+      "id": 35,
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "source": "Simon Willison",
+      "date": "2026-11-24T23:02:07.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

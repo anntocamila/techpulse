@@ -1,0 +1,490 @@
+{
+  "id": "2026-11-27-17",
+  "generatedAt": "2026-11-27T17:44:53.928Z",
+  "periodStart": "2026-11-25T17:44:53.928Z",
+  "periodEnd": "2026-11-27T17:44:53.928Z",
+  "title": "Titulares del 27 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Lightricks/LTX-2.5",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "You don’t need to grasp Riemann hypothesis to see what it means for future",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Android’s DIY widgets are a bit of vibe-coding fun",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Context Scaling: A New Frontier of AI Scaling",
+          "sources": [
+            28
+          ]
+        },
+        {
+          "text": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+          "sources": [
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Mistral Large 4 Tops GPT-6 Astra On Visual Grounding Benchmark",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "A Hunger Strike Against Self-Improving AI Is Happening Outside of Anthropic's San Francisco Headquarters",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "The German government will purchase a \"golden share\" in a Canadian AI company for a symbolic €1",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Microsoft’s Copilot revamp is turning AI PCs into agent PCs",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Perplexity Launches Time Machine to Train AI Models to Predict Future Events",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "a16z FDE Fellowship 2027 – Applications Open for the Eight-Week Forward Deployed Engineer Fellowship",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "Welcome to venture feudalism",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Woomool",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "MediaMarkt está liquidando esta tele LG de 65 pulgadas con nano definición: cuesta menos de 400 euros",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Consiguen ejecutar GTA 6 en Mac, pero hay un detalle que cambia todo",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "‘It was the talk of the playground’: Google’s AI features blocked by L.A. school officials",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Medhionine gana el segundo premio Startup Inteligente en Salud 2026",
+          "sources": [
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "College football: Louisiana Tech looks to complete conference play undefeated, earn host spot in championship game",
+          "sources": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Here are the best Black Friday deals you can grab for $30 or less",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "Best CurrentBody Black Friday Deals Worth Shopping (2026)",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "The best Black Friday deals Ars could find",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Hackers reportedly infiltrated the Air Force's cloud systems",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Smartphone shipments face another bleak year before modest 2028 comeback",
+          "sources": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "From smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget. www.theverge.com/gadgets/10…",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "Quoting Jack Despain Zhou",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-27T17:44:54.555Z"
+    },
+    {
+      "id": 2,
+      "title": "College football: Louisiana Tech looks to complete conference play undefeated, earn host spot in championship game",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREFSbDlpVGRIeVJ0MVV2eE8yMmk4bmtva0Zjaml2bW1QWW5vYmdud055dGE5VEtaaDlsNTRKa3g0VVhmRWtPZWlCMlFWU1lwWHFvNk9iQjVmVzgyN3JyZGtRakRUTFBDSzFGRnItb2hJOUxpeDJieVRxYmdTNXpYenZvZm5VbVdHeDBtb3d6UHE1MzROQ0F1TjNNUXByN0pDYTJHc19KbkxTd0FhNy1fd0dEOWN2cEt6YzFZRlk3bFlMYW5EMGhLRlRUQ3YxR3k2eHhleQ?oc=5",
+      "source": "Google News · Eventos tech · via Bossier Press-Tribune",
+      "date": "2026-11-27T17:36:23.000Z"
+    },
+    {
+      "id": 3,
+      "title": "From smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget. www.theverge.com/gadgets/10…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n3cps4pijo2z",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-27T17:32:01.181Z"
+    },
+    {
+      "id": 4,
+      "title": "MediaMarkt está liquidando esta tele LG de 65 pulgadas con nano definición: cuesta menos de 400 euros",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-esta-tele-lg-65-pulgadas-nano-definicion-cuesta-400-euros",
+      "source": "Xataka",
+      "date": "2026-11-27T17:30:27.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Here are the best Black Friday deals you can grab for $30 or less",
+      "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+      "source": "The Verge",
+      "date": "2026-11-27T17:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Consiguen ejecutar GTA 6 en Mac, pero hay un detalle que cambia todo",
+      "url": "https://hipertextual.com/apple/gta-6-funciona-mac-apple-silicon/",
+      "source": "Hipertextual",
+      "date": "2026-11-27T17:23:38.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Best CurrentBody Black Friday Deals Worth Shopping (2026)",
+      "url": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
+      "source": "Wired",
+      "date": "2026-11-27T17:14:52.000Z"
+    },
+    {
+      "id": 8,
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "Ars Technica",
+      "date": "2026-11-27T17:05:37.000Z"
+    },
+    {
+      "id": 9,
+      "title": "You don’t need to grasp Riemann hypothesis to see what it means for future",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1JmVlh2N2JHMWlhalJrTTBmV0VHTGhiVHI2TjhkQlhOSGY1SlAxMnhZUFNVMzdoWldhNmFDOW1VdXh4eXZjV0k0NEY2eDdjWlJmSmNvZldjTk05UFkxSnV6ajV6TzdpVFRsZ2pvbVF2TWFHM3lpYloxX2VNZ19PcnZLMFBucVBBRDdNUnZpb3hKWE1CbkJ3WGpGN0h2MWxKZWxrX1Y0WQ?oc=5",
+      "source": "Google News · IA · via The Times",
+      "date": "2026-11-27T17:04:00.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+      "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+      "source": "Engadget",
+      "date": "2026-11-27T16:55:43.000Z"
+    },
+    {
+      "id": 11,
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-27T16:43:14.000Z"
+    },
+    {
+      "id": 12,
+      "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+      "url": "https://www.techmeme.com/261127/p9#a261127p9",
+      "source": "Techmeme",
+      "date": "2026-11-27T16:35:08.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "url": "https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857",
+      "source": "dev.to · IA · via Randal L. Schwartz",
+      "date": "2026-11-27T16:31:24.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Mistral Large 4 Tops GPT-6 Astra On Visual Grounding Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDFoV190NWFXWXJmX3R4cjlDdjlqZ05wM3l5ckNnekZfUXFnV2dVNEt5OERfeG5TejdhUXNNbVBsdDNnZXYxMDVDUVFSelE3OXJTUGFOXy1OX05Mc3ZvaDUzdVFwUF90Qm1zdUNzR0pGWjczUGI5ZG8tR1EwcmQ4c1lESEx4UFlnZjZFSjIzVG4?oc=5",
+      "source": "Mistral AI · via Dataconomy",
+      "date": "2026-11-27T16:26:35.000Z"
+    },
+    {
+      "id": 15,
+      "title": "A Hunger Strike Against Self-Improving AI Is Happening Outside of Anthropic's San Francisco Headquarters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHRGWTZDZUJjMlRmZWRWYjVyTGNhNThQeWV0Y3c2ZHBwMFVoTUt1NXdvQU5kVjBlM3Y3aWNFdGdERUJqNHBmdmExb0FsT3l1WEh5TUJ2eEdpR0FuNzY0bXg3ck1jMWZWZ0tTemI0UUU0QXRiRFJfYWx2T0JRZFZ5aXJubVN5SU5WZElzbDB2Rm5UNktZRU5ic05zZExaenVFWWc1VFJLZk9YZElYdzZjM1RfM2hYR0lqQTFKWkgzZS1EUGtMY1BJbVN1RkhRaG8?oc=5",
+      "source": "Anthropic · via Gizmodo",
+      "date": "2026-11-27T16:08:49.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Smartphone shipments face another bleak year before modest 2028 comeback",
+      "url": "https://www.theregister.com/personal-tech/2026/11/27/smartphone-shipments-face-another-bleak-year-before-modest-2028-comeback/5312580",
+      "source": "The Register",
+      "date": "2026-11-27T15:33:00.000Z"
+    },
+    {
+      "id": 17,
+      "title": "‘It was the talk of the playground’: Google’s AI features blocked by L.A. school officials",
+      "url": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-27T15:31:06.000Z"
+    },
+    {
+      "id": 18,
+      "title": "The German government will purchase a \"golden share\" in a Canadian AI company for a symbolic €1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVGc3NDT2ViRWM0SjhXSnY2cWpFaFF2NGN4OTlubWJham9WZk5hNUFVcmdNdW81aUo2bjJKXzJ5MDlPOVdkUHRfRXo2VGNBNl9Oc2UyMnNpQzVSUnVrTVFpT3pXZkROTUoxUDR3bHQ0eHJiVHB3SUNCTnJQazQ4X0NzbTRibWZEb1NjRVRSZGFJYmJXcE5QX2xSTEw0TXppY24xZnNQVFRCZFl3ZEdwVVFLekJNNzZTZjZBd29kb3U3d9IBxwFBVV95cUxOM0ItdERfZ3ZjX1k4bE1iTmpKMDgyWjRPSlBEUU9wdjVodnZYbG9WZWY0QlhzV3BjLUczWW1IblloWkg4NXpvM3M1QWlWUW9acGE5c1czNEpWalBGMEtQNDkzLWYzdHhrd1dkZnpqRWExb25Fa0FMZ1o2ZlhHWDNweTNuVktBeUJwc1d5N3o4aEZraXJxY1E1OVNkZUl4ay11MGxnbjdudnBmNFlSZE40dkl5NjNJUUlWZkhiWjdjR181aGphTmFJ?oc=5",
+      "source": "Cohere · via LIGA.net",
+      "date": "2026-11-27T14:55:28.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Microsoft’s Copilot revamp is turning AI PCs into agent PCs",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZNGNMSmtSd2gwb0c5aE5WUDNjU3FiYlJtWXBhXy1RYmpwdktCRXJPQ2ctQXoxSmR2ck8wa1VHWVdqYVdtMngySTd5bFYyZFN4YnAwT3p1c1ZSczB1VTVaQm5adkRPZ1BvNkFpc21VWQ?oc=5",
+      "source": "Microsoft AI · via Crypto Briefing",
+      "date": "2026-11-27T14:08:00.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "date": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+      "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-27T13:26:32.000Z"
+    },
+    {
+      "id": 22,
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "id": 23,
+      "title": "a16z FDE Fellowship 2027 – Applications Open for the Eight-Week Forward Deployed Engineer Fellowship",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GWWNDak81YXMyaU5xeE5oaURCYmNrWVZaOGxUQnhuU0FwbWd5M2U4XzlvRGozekJsd084eVJVbnM3U185VEdTeWV3a2JEU3kxOWVXQWYzTkctVTBmcjAxSGhjbjZtZ28?oc=5",
+      "source": "a16z · via Global South Opportunities",
+      "date": "2026-11-27T12:12:51.000Z"
+    },
+    {
+      "id": 24,
+      "title": "Perplexity Launches Time Machine to Train AI Models to Predict Future Events",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFazg1YUNkc3RnYWE1Z2VmRjFnUDhaWTZvWC02VFVpQ2J3ZXFLOC1mMTdUQ0pwTFZOcjFGMDhEN1R0LW5RQVh5VXlmS0tRYjZ0VVY3OGlDSkFKYS1Gc2JnTXIwSkNSWHVIY0Rzdi1fWGU0UQ?oc=5",
+      "source": "Perplexity · via The420",
+      "date": "2026-11-27T11:49:50.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Welcome to venture feudalism",
+      "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+      "source": "Sifted",
+      "date": "2026-11-27T10:58:25.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Medhionine gana el segundo premio Startup Inteligente en Salud 2026",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlJqdXhHOHZITF90MjBPaU0zemxOM3RrQ0V4RTAwTERCUE14VktZX0tkdk5qd0VjZy1ZYjlvREJ6RmNHeGNvNXAwbXBNcTR6ZTJPWF9fUklZYVdxRUJwRkMwU3pQdjF1N0JLQ1d6LUdpMGdkQWpENERHMkpKOTVPLS10V1RETmhmV0NrREdOaTk2a0toLU1wREtjSjE?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Pueblo de Ceuta",
+      "date": "2026-11-27T09:49:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "source": "Product Hunt",
+      "date": "2026-11-27T05:09:46.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "id": 29,
+      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+      "url": "https://arxiv.org/abs/2611.33173",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-27T00:00:00.000Z"
+    },
+    {
+      "id": 31,
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "Latent Space",
+      "date": "2026-11-26T23:02:48.000Z"
+    },
+    {
+      "id": 32,
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison",
+      "date": "2026-11-26T15:09:31.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-11-27-02",
+    "generatedAt": "2026-11-27T02:34:20.820Z",
+    "title": "Titulares del 27 de noviembre",
+    "generator": "headlines"
+  },
+  {
     "id": "2026-11-26-17",
     "generatedAt": "2026-11-26T17:59:55.420Z",
     "title": "Titulares del 26 de noviembre",
@@ -351,12 +357,6 @@
     "id": "2026-10-28-14",
     "generatedAt": "2026-10-28T14:43:46.880Z",
     "title": "Titulares del 28 de octubre",
-    "generator": "headlines"
-  },
-  {
-    "id": "2026-10-27-23",
-    "generatedAt": "2026-10-27T23:23:53.439Z",
-    "title": "Titulares del 27 de octubre",
     "generator": "headlines"
   }
 ]

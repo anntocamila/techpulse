@@ -1,0 +1,503 @@
+{
+  "id": "2026-11-27-02",
+  "generatedAt": "2026-11-27T02:34:20.820Z",
+  "periodStart": "2026-11-25T02:34:20.820Z",
+  "periodEnd": "2026-11-27T02:34:20.820Z",
+  "title": "Titulares del 27 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "thinkingmachines/Inkling-2-Mini",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "The Download: Better bionic hands and AI’s natural-gas boom",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Context Scaling: A New Frontier of AI Scaling",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic expands Claude Code’s review tools with automated fixes and approvals",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Germany investing symbolic €1 stake in Canadian AI firm Cohere",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Mistral Large 4 finds a red car in an aerial photo with two zooms",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Come for the Games, Stay for the Community With GeForce NOW",
+          "sources": [
+            23
+          ]
+        },
+        {
+          "text": "From wasp nests to unsafe poles: How AI is helping BT Group’s Openreach engineers in the field",
+          "sources": [
+            24
+          ]
+        },
+        {
+          "text": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "sources": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "First Person Labs Raises $10M Seed Led by a16z for Second, a Portable Model of You",
+          "sources": [
+            12
+          ]
+        },
+        {
+          "text": "Introducing the Skinner-Shah Award for Journalism",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "Superframes",
+          "sources": [
+            30
+          ]
+        },
+        {
+          "text": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "sources": [
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "El desafío humano de la IA: 64% no encuentra talento",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Países Bajos se planta ante EEUU por las restricciones a las máquinas de ASML",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "¿Cómo logró &#8216;GTA 6&#8217; mantener a salvo su secreto más importante? Rockstar responde",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "WhatsApp ya permite programar mensajes: “Algunos es mejor enviarlos más tarde”",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Green Tech Hackathon Kenya: 267 Applications, 12 Teams",
+          "sources": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "The token factory never sleeps",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "AI made self-hosting fun again",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Backloggd urges users to change their passwords after a breach",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "Netflix’s coziest show has made a very quiet return",
+          "sources": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "the americans are gone so i wrote about midnight diner www.theverge.com/entertainmen...",
+          "sources": [
+            13
+          ]
+        },
+        {
+          "text": "Benchmarking Gemma 4 E2B with Long Contexts",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "Quoting Jack Despain Zhou",
+          "sources": [
+            21
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-27T02:34:21.535Z"
+    },
+    {
+      "id": 2,
+      "title": "Green Tech Hackathon Kenya: 267 Applications, 12 Teams",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXJJaWtRb0hlcFZWUlVXZWVKQmt2ZC02SjNrczZVUEFXRHVJc0NCMkRBemFMU2t6NjZzV3JfdnJpTDNSN2xzYTM4Zkc3R0N5T1RjbWYzN2xhMXFyU3pPV1RGVGhHTWdaNXJ5eW9oTV9YOVMxS2o5UFZodnVPc2VzbkJqMGUtOFgtRGtNRTd0VDNmRnAtYlZpd3VRbFloSndWQ1RZcFdR?oc=5",
+      "source": "Google News · Eventos tech · via shattered.io",
+      "date": "2026-11-27T01:04:59.000Z"
+    },
+    {
+      "id": 3,
+      "title": "The token factory never sleeps",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612",
+      "source": "The Register",
+      "date": "2026-11-27T01:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "source": "Wired",
+      "date": "2026-11-27T00:56:52.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+      "url": "https://www.techmeme.com/261126/p26#a261126p26",
+      "source": "Techmeme",
+      "date": "2026-11-27T00:30:01.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+      "source": "Google News · IA · via BBC",
+      "date": "2026-11-26T23:08:12.000Z"
+    },
+    {
+      "id": 7,
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "Latent Space",
+      "date": "2026-11-26T23:02:48.000Z"
+    },
+    {
+      "id": 8,
+      "title": "El desafío humano de la IA: 64% no encuentra talento",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZF9hN3U5YjNianlkSENaWXlBaTdLZTR3V2dEazJqWmVLdGh6VkhmR1V2ZlNjNHZuR1hPS3JHazAtMmNWOTJ3VENyWnI4c3dOZmNlV2JnX2pXOWJELVpLUHNxWHVYVzBTVllNN0dKM2N1ZHBCUXAxRnpuRnVPUEJFRlllSnp3NGRD?oc=5",
+      "source": "Google News · Tecnología (ES) · via El Ecosistema Startup",
+      "date": "2026-11-26T22:36:37.000Z"
+    },
+    {
+      "id": 9,
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "date": "2026-11-26T21:47:45.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Países Bajos se planta ante EEUU por las restricciones a las máquinas de ASML",
+      "url": "https://www.xataka.com/empresas-y-economia/paises-bajos-se-planta-eeuu-restricciones-a-maquinas-asml",
+      "source": "Xataka",
+      "date": "2026-11-26T21:30:26.000Z"
+    },
+    {
+      "id": 11,
+      "title": "Backloggd urges users to change their passwords after a breach",
+      "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+      "source": "Engadget",
+      "date": "2026-11-26T21:26:47.000Z"
+    },
+    {
+      "id": 12,
+      "title": "First Person Labs Raises $10M Seed Led by a16z for Second, a Portable Model of You",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51LVViWWZLaGdZVlplUzV3bm1aRHVRcTV2QnRXenVhRTZ1LTc3c0k4RHJiRmFoQWdGTmtidXNBNDBpWmtpdk5MNmRxYy11QWh0SWJB?oc=5",
+      "source": "a16z · via Wowtale",
+      "date": "2026-11-26T21:25:44.000Z"
+    },
+    {
+      "id": 13,
+      "title": "the americans are gone so i wrote about midnight diner www.theverge.com/entertainmen...",
+      "url": "https://bsky.app/profile/andrewrweb.bsky.social/post/3n3alequ6kc2m",
+      "source": "The Verge en Bluesky · via andrew webster",
+      "date": "2026-11-26T21:07:39.668Z"
+    },
+    {
+      "id": 14,
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "date": "2026-11-26T21:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "title": "Anthropic expands Claude Code’s review tools with automated fixes and approvals",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtuRGp4cDNhNVQxdnlfbjlNajlKb2NnZnpiSmF6Z2hCX1E1YnJvZlRLUnVWNzIwakpKVUMwVlJBSmgwZDRJZTgyM0dUNVBIdjYxNnR2UWhlb0laVkJtODB1cjVEQ3NZaGxZbFB3bFpoNTFGUTQ4Y3c0blVpMDdqYW5QVHVDclh5ZmVfVkZBbEFMMXg4UlozNw?oc=5",
+      "source": "Anthropic · via Yahoo Tech",
+      "date": "2026-11-26T20:51:12.000Z"
+    },
+    {
+      "id": 16,
+      "title": "¿Cómo logró &#8216;GTA 6&#8217; mantener a salvo su secreto más importante? Rockstar responde",
+      "url": "https://hipertextual.com/videojuegos/gta-6-rob-nelson-mayor-secreto-a-salvo-rockstar/",
+      "source": "Hipertextual",
+      "date": "2026-11-26T20:33:21.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "date": "2026-11-26T20:03:54.000Z"
+    },
+    {
+      "id": 18,
+      "title": "Benchmarking Gemma 4 E2B with Long Contexts",
+      "url": "https://dev.to/gde/benchmarking-gemma-4-e2b-with-long-contexts-1jb9",
+      "source": "dev.to · IA · via xbill",
+      "date": "2026-11-26T18:18:41.000Z"
+    },
+    {
+      "id": 19,
+      "title": "Germany investing symbolic €1 stake in Canadian AI firm Cohere",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazMwd0lNdDhmMUlwTGRzZGRlMXFaZzZSdjg0N0pRYVhSNWdiZjMyUEU5RDhSMzZPUW1ERlJSR3ZHai1TZGpic2ktbU96UnpRZlNDZ1NXUVhOaGIwcmhmRWowODZIVFVMOU8ybXRqYzl6dHhsTFdfSVMtY2V6cHJxcTJxMV9teS1TRnhZaVcyWDRsWjlUV19PZVIwQU04bWM?oc=5",
+      "source": "Cohere · via Yahoo Finance",
+      "date": "2026-11-26T17:33:35.000Z"
+    },
+    {
+      "id": 20,
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-26T17:04:54.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison",
+      "date": "2026-11-26T15:09:31.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Mistral Large 4 finds a red car in an aerial photo with two zooms",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOW92alY3ZVVTVmhVZ1ZOVDhQVGRBcjhIdzhiQWhQMFB0U2tFblJzRzZqaHJSR1JLbFdaNTlwSFlQOVR2TmxqT3dJS2wzTEczN204Tm0tY0EtQnllNF9ZcGgyVTdQWENfWDBsbm9ZaWNvVERVZC1zRWhtY3lQR2xZRVRjeE4wN1RI?oc=5",
+      "source": "Mistral AI · via Pasquale Pillitteri",
+      "date": "2026-11-26T14:45:21.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "source": "NVIDIA",
+      "date": "2026-11-26T14:00:22.000Z"
+    },
+    {
+      "id": 24,
+      "title": "From wasp nests to unsafe poles: How AI is helping BT Group’s Openreach engineers in the field",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXNhSlQxTEFRNWZ4UWpXaDltYi0zcEVKZV9rQVVlOC1JZUlwblZqZTJSYUdzLTZzRUItME10OFNnQ1RHRU1jRnpQU2wxZVJOd3l0aFBhLXhkdDJZNnl2blFGTjBCeU5vb1l2M1BYWHBYcGFDcVpmZVpPd0YxWjVfWjJEUUVRbTV4WXlBSlZTa2x0Rnl0djNQTDFXeUVWRVN0TDZF?oc=5",
+      "source": "Microsoft AI · via Microsoft UK Stories",
+      "date": "2026-11-26T13:47:30.000Z"
+    },
+    {
+      "id": 25,
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-26T13:10:00.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Introducing the Skinner-Shah Award for Journalism",
+      "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+      "source": "Sifted",
+      "date": "2026-11-26T12:00:10.000Z"
+    },
+    {
+      "id": 27,
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "date": "2026-11-26T11:37:17.000Z"
+    },
+    {
+      "id": 28,
+      "title": "WhatsApp ya permite programar mensajes: “Algunos es mejor enviarlos más tarde”",
+      "url": "https://elpais.com/tecnologia/2026-11-26/whatsapp-ya-permite-programar-mensajes-algunos-es-mejor-enviarlos-mas-tarde.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-26T11:20:32.000Z"
+    },
+    {
+      "id": 29,
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "date": "2026-11-26T09:54:40.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Superframes",
+      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "source": "Product Hunt",
+      "date": "2026-11-26T05:09:09.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-26T05:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+      "url": "https://arxiv.org/abs/2611.33173",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-26T05:00:00.000Z"
+    },
+    {
+      "id": 33,
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch Startups",
+      "date": "2026-11-25T17:35:58.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}

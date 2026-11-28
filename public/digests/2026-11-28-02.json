@@ -1,0 +1,490 @@
+{
+  "id": "2026-11-28-02",
+  "generatedAt": "2026-11-28T02:24:44.853Z",
+  "periodStart": "2026-11-26T02:24:44.853Z",
+  "periodEnd": "2026-11-28T02:24:44.853Z",
+  "title": "Titulares del 28 de noviembre",
+  "subtitle": "220 titulares de las últimas 48 horas, agrupados por categoría y sin resumen editorial.",
+  "sections": [
+    {
+      "topic": "IA",
+      "emoji": "🤖",
+      "category": "ai",
+      "summary": "Titulares recientes de ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "thinkingmachines/Inkling-2-Mini",
+          "sources": [
+            1
+          ]
+        },
+        {
+          "text": "Exploring an AI reboot and the ethics that surround it",
+          "sources": [
+            9
+          ]
+        },
+        {
+          "text": "Android’s DIY widgets are a bit of vibe-coding fun",
+          "sources": [
+            26
+          ]
+        },
+        {
+          "text": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+          "sources": [
+            27
+          ]
+        },
+        {
+          "text": "Context Scaling: A New Frontier of AI Scaling",
+          "sources": [
+            31
+          ]
+        },
+        {
+          "text": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+          "sources": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Labs IA",
+      "emoji": "🧪",
+      "category": "labs",
+      "summary": "Titulares recientes de labs ia. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Anthropic Finishes First Full Week Above IPO Price",
+          "sources": [
+            3
+          ]
+        },
+        {
+          "text": "Grok Spicy Mode in 2026: Still Live? How to Enable It",
+          "sources": [
+            10
+          ]
+        },
+        {
+          "text": "Microsoft CEO Satya Nadella Offers Companies $7,500 in Credits to Put Copilot to Work",
+          "sources": [
+            17
+          ]
+        },
+        {
+          "text": "An ‘urgent’ power crisis emerged after Cohere joined this Ontario data centre. Now electricity bills are rising",
+          "sources": [
+            19
+          ]
+        },
+        {
+          "text": "Mistral Large 4 Tops GPT-6 Astra On Visual Grounding Benchmark",
+          "sources": [
+            25
+          ]
+        },
+        {
+          "text": "Perplexity Launches Time Machine to Train AI Models to Predict Future Events",
+          "sources": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Startups",
+      "emoji": "🚀",
+      "category": "startups",
+      "summary": "Titulares recientes de startups. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Andreessen Horowitz (a16z) leads AI agent startup Linq’s $90 mn Series B at $1 bn valuation",
+          "sources": [
+            22
+          ]
+        },
+        {
+          "text": "Welcome to venture feudalism",
+          "sources": [
+            29
+          ]
+        },
+        {
+          "text": "Woomool",
+          "sources": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Negocios",
+      "emoji": "💼",
+      "category": "business",
+      "summary": "Titulares recientes de negocios. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+          "sources": [
+            14
+          ]
+        },
+        {
+          "text": "El padre de PlayStation confiesa cómo ayudó a crear Xbox",
+          "sources": [
+            15
+          ]
+        },
+        {
+          "text": "Hay un iPhone que se ha colado en las ofertas de última hora del Black Friday. Nunca lo hemos visto más barato",
+          "sources": [
+            16
+          ]
+        },
+        {
+          "text": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+          "sources": [
+            20
+          ]
+        },
+        {
+          "text": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+          "sources": [
+            21
+          ]
+        },
+        {
+          "text": "Aibo, Sony’s robot dog, now has a second life in hospitals",
+          "sources": [
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Eventos",
+      "emoji": "📅",
+      "category": "events",
+      "summary": "Titulares recientes de eventos. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "Texas Tech billionaire booster Cody Campbell turns heads with postgame press conference appearance",
+          "sources": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Tech",
+      "emoji": "💻",
+      "category": "tech",
+      "summary": "Titulares recientes de tech. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+          "sources": [
+            2
+          ]
+        },
+        {
+          "text": "We found 60-odd Black Friday deals we love for $100 or less",
+          "sources": [
+            5
+          ]
+        },
+        {
+          "text": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+          "sources": [
+            7
+          ]
+        },
+        {
+          "text": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+          "sources": [
+            11
+          ]
+        },
+        {
+          "text": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "sources": [
+            18
+          ]
+        },
+        {
+          "text": "The best Black Friday deals Ars could find",
+          "sources": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Comunidad",
+      "emoji": "💬",
+      "category": "community",
+      "summary": "Titulares recientes de comunidad. Esta edición no tiene resumen editorial: falta configurar ANTHROPIC_API_KEY en el repositorio.",
+      "items": [
+        {
+          "text": "There are still great deals on everything from noise-canceling earbuds and e-readers to the latest smart mugs. www.theverge.com/gadgets/1…",
+          "sources": [
+            4
+          ]
+        },
+        {
+          "text": "Two Sisters Tinctures, Now in Motion: An AI Ad Made with Migoo",
+          "sources": [
+            6
+          ]
+        },
+        {
+          "text": "datasette-charts 0.4a0",
+          "sources": [
+            8
+          ]
+        },
+        {
+          "text": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+          "sources": [
+            12
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "source": "Hugging Face · Modelos",
+      "date": "2026-11-28T02:24:45.519Z"
+    },
+    {
+      "id": 2,
+      "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+      "url": "https://www.techmeme.com/261127/p16#a261127p16",
+      "source": "Techmeme",
+      "date": "2026-11-28T02:00:01.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Anthropic Finishes First Full Week Above IPO Price",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVhwM1d4VGtCX3pRUlBUcWljb2JSOENMbHhNcW9WRDFCNnBrd2I5MzdkLVdOSkViVWFXeHNPQ1lwN0Rwd1kwR19XdGs0Ykd2NzBlNUVoaUMyVW5GRHFWYTl5MHlPQ0dibURnUkc5al8xczVnMmluV1ptWUhDVkQtNm9VYl9RWU1VWnVtQll3a0ZMQjFERHQ0T3F4ek80MjE4bWZWcHE0MF9Eb1ZZSzVuZk9EVHNSUQ?oc=5",
+      "source": "Anthropic · via Bloomberg.com",
+      "date": "2026-11-28T01:43:47.000Z"
+    },
+    {
+      "id": 4,
+      "title": "There are still great deals on everything from noise-canceling earbuds and e-readers to the latest smart mugs. www.theverge.com/gadgets/1…",
+      "url": "https://bsky.app/profile/theverge.com/post/3n3dko7zgxy2n",
+      "source": "The Verge en Bluesky · via The Verge",
+      "date": "2026-11-28T01:33:00.931Z"
+    },
+    {
+      "id": 5,
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "source": "The Verge",
+      "date": "2026-11-28T01:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Two Sisters Tinctures, Now in Motion: An AI Ad Made with Migoo",
+      "url": "https://dev.to/earlgreyhot1701d/two-sisters-tinctures-now-in-motion-an-ai-ad-made-with-migoo-3lo7",
+      "source": "dev.to · IA · via Earl Grey",
+      "date": "2026-11-28T00:23:15.000Z"
+    },
+    {
+      "id": 7,
+      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+      "source": "Wired",
+      "date": "2026-11-28T00:14:33.000Z"
+    },
+    {
+      "id": 8,
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "source": "Simon Willison",
+      "date": "2026-11-27T23:57:17.000Z"
+    },
+    {
+      "id": 9,
+      "title": "Exploring an AI reboot and the ethics that surround it",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzUyQkxTczhwaDhBYmhYaFhuNHhLUktJTGNRMS1XTDdGLXR0aWl5Z0RxTHRKcUJ0NURTSXJCZXNIMXhwSDB1NHhJeEEzR1pIMUxUR1VseXRwVlhxekhBNHB2bmRTa0ZGWGZtYWUyQ1pJLVpFLUxaNzJHaHg0UnBWWW9zeXFUMDVCRkFEbDJfY3NjQQ?oc=5",
+      "source": "Google News · IA · via PBS",
+      "date": "2026-11-27T23:35:30.000Z"
+    },
+    {
+      "id": 10,
+      "title": "Grok Spicy Mode in 2026: Still Live? How to Enable It",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhamhyd3FhYnJiREJ4OHlXSnBoVjFKeGNfNTlnaGZCQ1N1dEtoTWtFM1V0N1ZlMVJlOFVUbXE3NUpEc0FJRkNVX3lYbk5kZmU4cU0tTW94VQ?oc=5",
+      "source": "xAI · via Fello AI",
+      "date": "2026-11-27T23:29:24.000Z"
+    },
+    {
+      "id": 11,
+      "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+      "url": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+      "source": "Engadget",
+      "date": "2026-11-27T22:46:29.000Z"
+    },
+    {
+      "id": 12,
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "source": "Latent Space",
+      "date": "2026-11-27T22:19:18.000Z"
+    },
+    {
+      "id": 13,
+      "title": "Texas Tech billionaire booster Cody Campbell turns heads with postgame press conference appearance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQUQzeHM0eUNzTjNZWnhuN0J0NFNVX1FfS0NMSWZEbEtzY3h0c24yeXUxQzhjZWotUlhuZi1WZkJEbWV0RzRUNWRoZ05TSDM0M0FZcUlsWFY5VmVZUlRlUmJVZTQ2OEhXWm55NHFVZ2J5Tnhhb1c0by1vN3BCcFF1WkhaYnNvQTg0YmFXeUN5VC1KN1lURDRoSkVaOWVfc2RFeklz?oc=5",
+      "source": "Google News · Eventos tech · via Yahoo Sports",
+      "date": "2026-11-27T22:17:32.000Z"
+    },
+    {
+      "id": 14,
+      "title": "Rebelión científica tras el anuncio de un colaborador de OpenAI que asegura haber resuelto el gran problema de la física",
+      "url": "https://elpais.com/ciencia/2026-11-27/rebelion-cientifica-tras-el-anuncio-de-un-colaborador-de-openai-que-asegura-haber-resuelto-el-gran-problema-de-la-fisica.html",
+      "source": "El País Tecnología",
+      "date": "2026-11-27T21:13:06.000Z"
+    },
+    {
+      "id": 15,
+      "title": "El padre de PlayStation confiesa cómo ayudó a crear Xbox",
+      "url": "https://hipertextual.com/videojuegos/padre-playstation-ayudo-crear-xbox-ken-kutaragi/",
+      "source": "Hipertextual",
+      "date": "2026-11-27T21:04:00.000Z"
+    },
+    {
+      "id": 16,
+      "title": "Hay un iPhone que se ha colado en las ofertas de última hora del Black Friday. Nunca lo hemos visto más barato",
+      "url": "https://www.xataka.com/seleccion/hay-iphone-que-se-ha-colado-ofertas-ultima-hora-black-friday-nunca-hemos-visto-barato",
+      "source": "Xataka",
+      "date": "2026-11-27T21:00:25.000Z"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft CEO Satya Nadella Offers Companies $7,500 in Credits to Put Copilot to Work",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTF6ZEZOb3RieDktaTh0WE42Qy1TSl9aQUljeERsS0hwRnp5RjVpcmdEOFd1MGlOY19kVlVZZ2FhT1Q3TzZRamFqbDlqOGN5RUtXczVxNzZDQTR4clhNODhqVnJydHhJNnBjVUt4ckY2WHA5ajE2WGlHR29qT0QwY0JtU1VObVU?oc=5",
+      "source": "Microsoft AI · via Observer",
+      "date": "2026-11-27T20:58:35.000Z"
+    },
+    {
+      "id": 18,
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "Hacker News",
+      "date": "2026-11-27T19:42:25.000Z"
+    },
+    {
+      "id": 19,
+      "title": "An ‘urgent’ power crisis emerged after Cohere joined this Ontario data centre. Now electricity bills are rising",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb25pOGdvTEE0NjdFNUtWMEZmUG50RlpheHlKNTRPYjlYSUJCV3ZnSlJmc3ZfZ1lUb2xNQ0RKNjBPNE5oTVhWWVZGRGw3Nm82WFBrRTdHU1U4ZnlnMk1iV3RONzlpd1R2Y0VIVTdHZ2ZSTmhKLXc4OFQwSGFTS243N2pvYU9ocTAxLWh0WFVyMHdVcWNWbmE4MXZYTnEwYi1YMlIyN2xFTW9aRXkySVUyZnVTWjVzLWVZX1R3VE95bFZpLU5Sd0s1UFVST3lqbW5MV1hRa1Jkb08yU04xTTRmbGpycllaQmRDYlJUWW5OMFMxdUJX?oc=5",
+      "source": "Cohere · via Toronto Star",
+      "date": "2026-11-27T19:36:02.000Z"
+    },
+    {
+      "id": 20,
+      "title": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+      "url": "https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-into-days-is-the-singularity-upon-us",
+      "source": "VentureBeat",
+      "date": "2026-11-27T19:16:10.000Z"
+    },
+    {
+      "id": 21,
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "source": "CNBC Tech",
+      "date": "2026-11-27T18:46:20.000Z"
+    },
+    {
+      "id": 22,
+      "title": "Andreessen Horowitz (a16z) leads AI agent startup Linq’s $90 mn Series B at $1 bn valuation",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeG9YS2tYY3llc01ZWTc5MXRIbUZkTHhOZmZpR08yVmtsckZhLVJJTFBOWFRwekVrV1dOWTY5ZnVxQVB3VFVBVl9CZTZaY0FYMEtfamtPaGwxcXNUZTVRekNydG9fbTlLSmp2RmFBVHRSWXNPWWhrMkpBSmN0QnBvNkVnanl6UWs?oc=5",
+      "source": "a16z · via Beinsure",
+      "date": "2026-11-27T18:04:20.000Z"
+    },
+    {
+      "id": 23,
+      "title": "Aibo, Sony’s robot dog, now has a second life in hospitals",
+      "url": "https://www.fastcompany.com/91649467/how-sony-giving-dog-robot-aibo-second-life-hospitals?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Tech",
+      "date": "2026-11-27T17:30:41.000Z"
+    },
+    {
+      "id": 24,
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "Ars Technica",
+      "date": "2026-11-27T17:05:37.000Z"
+    },
+    {
+      "id": 25,
+      "title": "Mistral Large 4 Tops GPT-6 Astra On Visual Grounding Benchmark",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDFoV190NWFXWXJmX3R4cjlDdjlqZ05wM3l5ckNnekZfUXFnV2dVNEt5OERfeG5TejdhUXNNbVBsdDNnZXYxMDVDUVFSelE3OXJTUGFOXy1OX05Mc3ZvaDUzdVFwUF90Qm1zdUNzR0pGWjczUGI5ZG8tR1EwcmQ4c1lESEx4UFlnZjZFSjIzVG4?oc=5",
+      "source": "Mistral AI · via Dataconomy",
+      "date": "2026-11-27T16:26:35.000Z"
+    },
+    {
+      "id": 26,
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "date": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "id": 27,
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "id": 28,
+      "title": "Perplexity Launches Time Machine to Train AI Models to Predict Future Events",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFazg1YUNkc3RnYWE1Z2VmRjFnUDhaWTZvWC02VFVpQ2J3ZXFLOC1mMTdUQ0pwTFZOcjFGMDhEN1R0LW5RQVh5VXlmS0tRYjZ0VVY3OGlDSkFKYS1Gc2JnTXIwSkNSWHVIY0Rzdi1fWGU0UQ?oc=5",
+      "source": "Perplexity · via The420",
+      "date": "2026-11-27T11:49:50.000Z"
+    },
+    {
+      "id": 29,
+      "title": "Welcome to venture feudalism",
+      "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+      "source": "Sifted",
+      "date": "2026-11-27T10:58:25.000Z"
+    },
+    {
+      "id": 30,
+      "title": "Woomool",
+      "url": "https://www.producthunt.com/products/woomool",
+      "source": "Product Hunt",
+      "date": "2026-11-27T05:09:46.000Z"
+    },
+    {
+      "id": 31,
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "arXiv cs.AI",
+      "date": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "id": 32,
+      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+      "url": "https://arxiv.org/abs/2611.33173",
+      "source": "arXiv cs.CL",
+      "date": "2026-11-27T05:00:00.000Z"
+    }
+  ],
+  "stats": {
+    "posts": 220,
+    "sourcesOk": 63,
+    "sourcesFailed": 0
+  },
+  "generator": "headlines"
+}
